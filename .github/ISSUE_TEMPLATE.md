@@ -42,22 +42,3 @@ labels: documentation
 | **[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](http://arxiv.org/abs/2404.16130v2)** | 2025-02-19 |  |
 | **[HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks](http://arxiv.org/abs/2502.13465v1)** | 2025-02-19 | 13 pages |
 
-## Robustness
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Robust Confinement State Classification with Uncertainty Quantification through Ensembled Data-Driven Methods](http://arxiv.org/abs/2502.17397v1)** | 2025-02-24 |  |
-| **[Robust Federated Learning in Unreliable Wireless Networks: A Client Selection Approach](http://arxiv.org/abs/2502.17260v1)** | 2025-02-24 |  |
-| **[CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping](http://arxiv.org/abs/2502.17249v1)** | 2025-02-24 |  |
-| **[Motion-Robust T2* Quantification from Gradient Echo MRI with Physics-Informed Deep Learning](http://arxiv.org/abs/2502.17209v1)** | 2025-02-24 | Under Review |
-| **[Gentle Local Robustness implies Generalization](http://arxiv.org/abs/2412.06381v2)** | 2025-02-24 | <details><summary>To ap...</summary><p>To appear in Machine Learning journal</p></details> |
-| **[Improved Diffusion-based Generative Model with Better Adversarial Robustness](http://arxiv.org/abs/2502.17099v1)** | 2025-02-24 | ICLR 2025 |
-| **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](http://arxiv.org/abs/2411.00836v2)** | 2025-02-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Distributionally Robust Active Learning for Gaussian Process Regression](http://arxiv.org/abs/2502.16870v1)** | 2025-02-24 | 25 pages, 3 figures |
-| **[LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting](http://arxiv.org/abs/2410.17159v3)** | 2025-02-24 | Under Review |
-| **[Uncovering simultaneous breakthroughs with a robust measure of disruptiveness](http://arxiv.org/abs/2502.16845v1)** | 2025-02-24 |  |
-| **[Minimum Copula Divergence for Robust Estimation](http://arxiv.org/abs/2502.16831v1)** | 2025-02-24 |  |
-| **[Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning](http://arxiv.org/abs/2502.16816v1)** | 2025-02-24 |  |
-| **[MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts](http://arxiv.org/abs/2502.16781v1)** | 2025-02-24 |  |
-| **[The Robustness of Structural Features in Species Interaction Networks](http://arxiv.org/abs/2502.16778v1)** | 2025-02-24 |  |
-| **[Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning](http://arxiv.org/abs/2502.16737v1)** | 2025-02-23 | <details><summary>Proce...</summary><p>Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, Mai Khao, Thailand. PMLR: Volume 258</p></details> |
-
