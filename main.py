@@ -23,7 +23,7 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 # keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
-keywords = ["Large Language Model", "RAG", "Robustness"]
+keywords = ["Large Language Model", "RAG"]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
