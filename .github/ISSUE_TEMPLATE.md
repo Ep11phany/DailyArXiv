@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2025
+title: Latest 15 Papers - February 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,7 +12,7 @@ labels: documentation
 | **[MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](http://arxiv.org/abs/2502.17422v1)** | 2025-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code at: https://github.com/saccharomycetes/mllms_know</p></details> |
 | **[LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification](http://arxiv.org/abs/2502.17421v1)** | 2025-02-24 |  |
 | **[The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence](http://arxiv.org/abs/2502.17420v1)** | 2025-02-24 |  |
-| **[From System 1 to System 2: A Survey of Reasoning Large Language Models](http://arxiv.org/abs/2502.17419v1)** | 2025-02-24 | <details><summary>Slow-...</summary><p>Slow-thinking, Large Language Models, Human-like Reasoning, Decision Making in AI, AGI</p></details> |
+| **[From System 1 to System 2: A Survey of Reasoning Large Language Models](http://arxiv.org/abs/2502.17419v2)** | 2025-02-25 | <details><summary>Slow-...</summary><p>Slow-thinking, Large Language Models, Human-like Reasoning, Decision Making in AI, AGI</p></details> |
 | **[Reasoning with Latent Thoughts: On the Power of Looped Transformers](http://arxiv.org/abs/2502.17416v1)** | 2025-02-24 | ICLR 2025 |
 | **[COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs](http://arxiv.org/abs/2502.17410v1)** | 2025-02-24 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 6 tables</p></details> |
 | **[Comparing Large Language Model AI and Human-Generated Coaching Messages for Behavioral Weight Loss](http://arxiv.org/abs/2312.04059v2)** | 2025-02-24 | 12 pages, 5 figures |
