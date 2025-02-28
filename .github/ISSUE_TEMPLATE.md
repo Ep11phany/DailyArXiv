@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2025
+title: Latest 15 Papers - February 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](http://arxiv.org/abs/2502.18460v1)** | 2025-02-25 |  |
-| **[Domain-Specific Translation with Open-Source Large Language Models: Resource-Oriented Analysis](http://arxiv.org/abs/2412.05862v2)** | 2025-02-25 |  |
-| **[LLM-Based Design Pattern Detection](http://arxiv.org/abs/2502.18458v1)** | 2025-02-25 | <details><summary>Submi...</summary><p>Submitted Version, that was accepted at PATTERNS 2025</p></details> |
-| **[FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response](http://arxiv.org/abs/2502.18452v1)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 5 tables</p></details> |
-| **[SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](http://arxiv.org/abs/2502.18449v1)** | 2025-02-25 |  |
-| **[MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](http://arxiv.org/abs/2502.18439v1)** | 2025-02-25 |  |
-| **[Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution](http://arxiv.org/abs/2501.11709v3)** | 2025-02-25 |  |
-| **[QuantMoE-Bench: Examining Post-Training Quantization for Mixture-of-Experts](http://arxiv.org/abs/2406.08155v2)** | 2025-02-25 | <details><summary>Our c...</summary><p>Our code for reproducing all our experiments is provided at https://github.com/UNITES-Lab/moe-quantization</p></details> |
-| **[TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning](http://arxiv.org/abs/2502.18431v1)** | 2025-02-25 |  |
-| **[Accelerating Unbiased LLM Evaluation via Synthetic Feedback](http://arxiv.org/abs/2502.10563v2)** | 2025-02-25 |  |
-| **[OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](http://arxiv.org/abs/2502.18411v1)** | 2025-02-25 |  |
-| **[Utility-inspired Reward Transformations Improve Reinforcement Learning Training of Language Models](http://arxiv.org/abs/2501.06248v2)** | 2025-02-25 |  |
-| **[Queue management for slo-oriented large language model serving](http://arxiv.org/abs/2407.00047v2)** | 2025-02-25 |  |
-| **[Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods](http://arxiv.org/abs/2502.18389v1)** | 2025-02-25 |  |
-| **[How Does Code Pretraining Affect Language Model Task Performance?](http://arxiv.org/abs/2409.04556v2)** | 2025-02-25 |  |
+| **[Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing](http://arxiv.org/abs/2502.19416v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at KnowFM @ AAAI 2025. arXiv admin note: text overlap with arXiv:2502.01636</p></details> |
+| **[Privacy-Preserving Retrieval-Augmented Generation with Differential Privacy](http://arxiv.org/abs/2412.04697v2)** | 2025-02-26 |  |
+| **[Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](http://arxiv.org/abs/2502.19411v1)** | 2025-02-26 | <details><summary>Proje...</summary><p>Project Repo: https://github.com/dayuyang1999/Awesome-Code-Reasoning</p></details> |
+| **[Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices](http://arxiv.org/abs/2502.19410v1)** | 2025-02-26 |  |
+| **[ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2502.19409v1)** | 2025-02-26 | <details><summary>Code,...</summary><p>Code, dataset, and checkpoints are publicly available at https://github.com/danaesavi/ImageChain</p></details> |
+| **[Learning Code-Edit Embedding to Model Student Debugging Behavior](http://arxiv.org/abs/2502.19407v1)** | 2025-02-26 |  |
+| **[General Reasoning Requires Learning to Reason from the Get-go](http://arxiv.org/abs/2502.19402v1)** | 2025-02-26 | 11 pages |
+| **[TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](http://arxiv.org/abs/2502.19400v1)** | 2025-02-26 |  |
+| **[Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems](http://arxiv.org/abs/2307.08423v4)** | 2025-02-26 |  |
+| **[Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](http://arxiv.org/abs/2410.11261v2)** | 2025-02-26 | ICLR 2025 |
+| **[ARCON: Advancing Auto-Regressive Continuation for Driving Videos](http://arxiv.org/abs/2412.03758v3)** | 2025-02-26 |  |
+| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v2)** | 2025-02-26 | 24 pages, 7 figures |
+| **[Stronger Models are NOT Stronger Teachers for Instruction Tuning](http://arxiv.org/abs/2411.07133v3)** | 2025-02-26 | <details><summary>This ...</summary><p>This is paper is accepted at NAACL 2025</p></details> |
+| **[Learning to Generate Unit Tests for Automated Debugging](http://arxiv.org/abs/2502.01619v2)** | 2025-02-26 | <details><summary>First...</summary><p>First two authors contributed equally. Dataset and Code: https://github.com/archiki/UTGenDebug</p></details> |
+| **[DataMan: Data Manager for Pre-training Large Language Models](http://arxiv.org/abs/2502.19363v1)** | 2025-02-26 | ICLR2025 paper |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2502.18992v1)** | 2025-02-26 | <details><summary>This ...</summary><p>This paper has been accepted as a workshop paper for KEIR@ECIR 2025</p></details> |
+| **[Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](http://arxiv.org/abs/2502.18635v1)** | 2025-02-25 |  |
 | **[Ward: Provable RAG Dataset Inference via LLM Watermarks](http://arxiv.org/abs/2410.03537v2)** | 2025-02-25 | ICLR 2025 |
 | **[MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks](http://arxiv.org/abs/2502.17832v1)** | 2025-02-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HyeonjeongHa/MM-PoisonRAG</p></details> |
 | **[Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation](http://arxiv.org/abs/2409.11598v3)** | 2025-02-25 | <details><summary>Top 5...</summary><p>Top 5 Spotlight at AFME Workshop at NeurIPS 2024</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Chain-of-Rank: Enhancing Large Language Models for Domain-Specific RAG in Edge Device](http://arxiv.org/abs/2502.15134v1)** | 2025-02-21 | <details><summary>NAACL...</summary><p>NAACL 2025 (Findings)</p></details> |
 | **[Is Relevance Propagated from Retriever to Generator in RAG?](http://arxiv.org/abs/2502.15025v1)** | 2025-02-20 | <details><summary>18 pa...</summary><p>18 pages (including reference), 5 figures, 1 table, 48 references; this paper has been accepted by ECIR'25 as a full paper</p></details> |
 | **[A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems](http://arxiv.org/abs/2502.15005v1)** | 2025-02-20 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, AAAI 2025 Workshop on A Translational Institute for Knowledge Axiomatization</p></details> |
-| **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](http://arxiv.org/abs/2502.14802v1)** | 2025-02-20 | <details><summary>Code ...</summary><p>Code and data to be released at: https://github.com/OSU-NLP-Group/HippoRAG</p></details> |
-| **[RAG-Optimized Tibetan Tourism LLMs: Enhancing Accuracy and Personalization](http://arxiv.org/abs/2408.12003v2)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted by AIPR 2024</p></details> |
 
