@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2025
+title: Latest 15 Papers - March 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](http://arxiv.org/abs/2502.20395v1)** | 2025-02-27 |  |
-| **[Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis](http://arxiv.org/abs/2502.20383v1)** | 2025-02-27 | <details><summary>Proje...</summary><p>Project website: http://vulnerable-ai-agents.github.io</p></details> |
-| **[Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers](http://arxiv.org/abs/2502.20379v1)** | 2025-02-27 |  |
-| **[PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation](http://arxiv.org/abs/2502.20377v1)** | 2025-02-27 |  |
-| **[Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization](http://arxiv.org/abs/2502.20364v1)** | 2025-02-27 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 5 tables</p></details> |
-| **[Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs](http://arxiv.org/abs/2502.20356v1)** | 2025-02-27 |  |
-| **[KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model](http://arxiv.org/abs/2502.20350v1)** | 2025-02-27 |  |
-| **[Sparse Auto-Encoder Interprets Linguistic Features in Large Language Models](http://arxiv.org/abs/2502.20344v1)** | 2025-02-27 |  |
-| **[Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](http://arxiv.org/abs/2502.20339v1)** | 2025-02-27 |  |
-| **[Expertise Is What We Want](http://arxiv.org/abs/2502.20335v1)** | 2025-02-27 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 5 tables</p></details> |
-| **[Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models](http://arxiv.org/abs/2502.20332v1)** | 2025-02-27 |  |
-| **[Long-Context Inference with Retrieval-Augmented Speculative Decoding](http://arxiv.org/abs/2502.20330v1)** | 2025-02-27 |  |
+| **[LLM Post-Training: A Deep Dive into Reasoning Large Language Models](http://arxiv.org/abs/2502.21321v1)** | 2025-02-28 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 3 tables, 375 references</p></details> |
+| **[Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback](http://arxiv.org/abs/2404.10776v2)** | 2025-02-28 | <details><summary>44pag...</summary><p>44pages, 2 figures, 1 table</p></details> |
+| **[The GUS Framework: Benchmarking Social Bias Classification with Discriminative (Encoder-Only) and Generative (Decoder-Only) Language Models](http://arxiv.org/abs/2410.08388v4)** | 2025-02-28 |  |
+| **[FANformer: Improving Large Language Models Through Effective Periodicity Modeling](http://arxiv.org/abs/2502.21309v1)** | 2025-02-28 |  |
+| **[Can Large Language Models Predict the Outcome of Judicial Decisions?](http://arxiv.org/abs/2501.09768v3)** | 2025-02-28 |  |
+| **[Contextualizing biological perturbation experiments through language](http://arxiv.org/abs/2502.21290v1)** | 2025-02-28 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations (2025)</p></details> |
+| **[Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models](http://arxiv.org/abs/2501.19392v4)** | 2025-02-28 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
 | **[Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference](http://arxiv.org/abs/2407.00075v5)** | 2025-02-28 |  |
-| **[EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants](http://arxiv.org/abs/2502.20309v1)** | 2025-02-27 | 33 pages, 18 figures |
-| **[M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](http://arxiv.org/abs/2502.20301v1)** | 2025-02-27 | 38 pages, 7 figures |
+| **[Adaptive Keyframe Sampling for Long Video Understanding](http://arxiv.org/abs/2502.21271v1)** | 2025-02-28 | CVPR2025 |
+| **[RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](http://arxiv.org/abs/2502.21257v1)** | 2025-02-28 |  |
+| **[Dual Thinking and Logical Processing -- Are Multi-modal Large Language Models Closing the Gap with Human Vision ?](http://arxiv.org/abs/2406.06967v3)** | 2025-02-28 |  |
+| **[AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation](http://arxiv.org/abs/2502.16680v2)** | 2025-02-28 |  |
+| **[Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs](http://arxiv.org/abs/2502.21239v1)** | 2025-02-28 |  |
+| **[Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication](http://arxiv.org/abs/2502.21236v1)** | 2025-02-28 | <details><summary>GenAI...</summary><p>GenAI4Health at AAAI-25</p></details> |
+| **[Logical Consistency of Large Language Models in Fact-checking](http://arxiv.org/abs/2412.16100v2)** | 2025-02-28 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems](http://arxiv.org/abs/2502.20995v1)** | 2025-02-28 |  |
+| **[Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](http://arxiv.org/abs/2407.08223v2)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2502.18992v1)** | 2025-02-26 | <details><summary>This ...</summary><p>This paper has been accepted as a workshop paper for KEIR@ECIR 2025</p></details> |
 | **[Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](http://arxiv.org/abs/2502.18635v1)** | 2025-02-25 |  |
 | **[Ward: Provable RAG Dataset Inference via LLM Watermarks](http://arxiv.org/abs/2410.03537v2)** | 2025-02-25 | ICLR 2025 |
@@ -39,6 +41,4 @@ labels: documentation
 | **[RAG-Enhanced Collaborative LLM Agents for Drug Discovery](http://arxiv.org/abs/2502.17506v1)** | 2025-02-22 | <details><summary>Machi...</summary><p>Machine Learning, Drug Discovery</p></details> |
 | **[From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants](http://arxiv.org/abs/2502.15237v1)** | 2025-02-21 |  |
 | **[Chain-of-Rank: Enhancing Large Language Models for Domain-Specific RAG in Edge Device](http://arxiv.org/abs/2502.15134v1)** | 2025-02-21 | <details><summary>NAACL...</summary><p>NAACL 2025 (Findings)</p></details> |
-| **[Is Relevance Propagated from Retriever to Generator in RAG?](http://arxiv.org/abs/2502.15025v1)** | 2025-02-20 | <details><summary>18 pa...</summary><p>18 pages (including reference), 5 figures, 1 table, 48 references; this paper has been accepted by ECIR'25 as a full paper</p></details> |
-| **[A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems](http://arxiv.org/abs/2502.15005v1)** | 2025-02-20 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, AAAI 2025 Workshop on A Translational Institute for Knowledge Axiomatization</p></details> |
 
