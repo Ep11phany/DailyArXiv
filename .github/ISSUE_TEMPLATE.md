@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2025
+title: Latest 15 Papers - March 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs](http://arxiv.org/abs/2503.08688v1)** | 2025-03-11 |  |
-| **[Self-Taught Self-Correction for Small Language Models](http://arxiv.org/abs/2503.08681v1)** | 2025-03-11 | <details><summary>Code ...</summary><p>Code is available at https://github.com/VityaVitalich/STASC</p></details> |
-| **[Exploring the Word Sense Disambiguation Capabilities of Large Language Models](http://arxiv.org/abs/2503.08662v1)** | 2025-03-11 |  |
-| **[TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On](http://arxiv.org/abs/2411.17017v3)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://github.com/ZhenchenWan/TED-VITON</p></details> |
-| **[Rationalization Models for Text-to-SQL](http://arxiv.org/abs/2502.06759v3)** | 2025-03-11 | <details><summary>Publi...</summary><p>Published at ICLR 2025 Workshop on Reasoning and Planning for LLMs</p></details> |
-| **[MastermindEval: A Simple But Scalable Reasoning Benchmark](http://arxiv.org/abs/2503.05891v3)** | 2025-03-12 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables. In: ICLR 2025 Workshop on Reasoning and Planning for Large Language Models</p></details> |
-| **[Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility](http://arxiv.org/abs/2502.17591v2)** | 2025-03-11 | <details><summary>ICLR'...</summary><p>ICLR'25 Poster. Project page and code is available at https://ppa-iclr2025.my.canva.site/</p></details> |
-| **[IRepair: An Intent-Aware Approach to Repair Data-Driven Errors in Large Language Models](http://arxiv.org/abs/2502.07072v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted as full research paper at FSE'2025</p></details> |
-| **[LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization](http://arxiv.org/abs/2503.08619v1)** | 2025-03-11 | <details><summary>Code:...</summary><p>Code: https://github.com/XianfengWu01/LightGen</p></details> |
-| **[EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments](http://arxiv.org/abs/2503.08604v1)** | 2025-03-11 |  |
-| **[Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums](http://arxiv.org/abs/2404.11681v2)** | 2025-03-11 |  |
-| **[ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](http://arxiv.org/abs/2412.20504v3)** | 2025-03-11 | <details><summary>Rewri...</summary><p>Rewrite the methods section. Add more ablation studies and results in LongVideoBench</p></details> |
-| **[NSF-SciFy: Mining the NSF Awards Database for Scientific Claims](http://arxiv.org/abs/2503.08600v1)** | 2025-03-11 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 6 tables</p></details> |
-| **[HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding](http://arxiv.org/abs/2503.08585v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
-| **[RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding](http://arxiv.org/abs/2503.08576v1)** | 2025-03-11 | 37 pages, 36 figures |
+| **[MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System](http://arxiv.org/abs/2503.09600v1)** | 2025-03-12 |  |
+| **[How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation](http://arxiv.org/abs/2503.09598v1)** | 2025-03-12 |  |
+| **[SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](http://arxiv.org/abs/2503.09594v1)** | 2025-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. 1st Place @ CARLA Challenge 2024. Challenge tech report (preliminary version of SimLingo): arXiv:2406.10165</p></details> |
+| **[HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](http://arxiv.org/abs/2501.14729v2)** | 2025-03-12 | <details><summary>The c...</summary><p>The code will be available at https://github.com/LMD0311/HERMES</p></details> |
+| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Cost-Optimal Grouped-Query Attention for Long-Context LLMs](http://arxiv.org/abs/2503.09579v1)** | 2025-03-12 | 16 pages, 17 figures |
+| **[Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](http://arxiv.org/abs/2503.09572v1)** | 2025-03-12 |  |
+| **[Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](http://arxiv.org/abs/2503.09567v2)** | 2025-03-13 | <details><summary>Paper...</summary><p>Paper are available at https://long-cot.github.io/</p></details> |
+| **[Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages](http://arxiv.org/abs/2411.04025v2)** | 2025-03-12 | <details><summary>Updat...</summary><p>Updated and Final Version</p></details> |
+| **[Large Language Models for Multi-Facility Location Mechanism Design](http://arxiv.org/abs/2503.09533v2)** | 2025-03-13 | Under Review |
+| **[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](http://arxiv.org/abs/2503.09516v1)** | 2025-03-12 | 16 pages |
+| **[ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2503.09501v1)** | 2025-03-12 |  |
+| **[Finite State Automata Inside Transformers with Chain-of-Thought: A Mechanistic Study on State Tracking](http://arxiv.org/abs/2502.20129v2)** | 2025-03-12 |  |
+| **[BAMBI: Developing Baby Language Models for Italian](http://arxiv.org/abs/2503.09481v1)** | 2025-03-12 | 20 pages, 2 figures |
+| **[MastermindEval: A Simple But Scalable Reasoning Benchmark](http://arxiv.org/abs/2503.05891v4)** | 2025-03-13 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables. In: ICLR 2025 Workshop on Reasoning and Planning for Large Language Models</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Balancing Content Size in RAG-Text2SQL System](http://arxiv.org/abs/2502.15723v2)** | 2025-03-12 |  |
 | **[RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding](http://arxiv.org/abs/2503.08576v1)** | 2025-03-11 | 37 pages, 36 figures |
 | **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v3)** | 2025-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
 | **[OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](http://arxiv.org/abs/2503.08398v1)** | 2025-03-11 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[More Documents, Same Length: Isolating the Challenge of Multiple Documents in RAG](http://arxiv.org/abs/2503.04388v1)** | 2025-03-06 | Preprint |
 | **[In-depth Analysis of Graph-based RAG in a Unified Framework](http://arxiv.org/abs/2503.04338v1)** | 2025-03-06 |  |
 | **[LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](http://arxiv.org/abs/2502.09977v2)** | 2025-03-05 | 22 pages |
-| **[Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](http://arxiv.org/abs/2409.11242v3)** | 2025-03-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025 (Oral)</p></details> |
 
