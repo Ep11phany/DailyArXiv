@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,7 +18,7 @@ labels: documentation
 | **[Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests](http://arxiv.org/abs/2503.17302v1)** | 2025-03-21 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, accepted at IEEE Conference on Artificial Intelligence (CAI) 2025</p></details> |
 | **[Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1](http://arxiv.org/abs/2503.16304v2)** | 2025-03-21 | 52 pages, 19 figures |
 | **[CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement](http://arxiv.org/abs/2503.17279v1)** | 2025-03-21 |  |
-| **[Toward a method for LLM-enabled Indoor Navigation](http://arxiv.org/abs/2503.11702v2)** | 2025-03-21 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 5 tables</p></details> |
+| **[Toward a method for LLM-enabled Indoor Navigation](http://arxiv.org/abs/2503.11702v3)** | 2025-03-24 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 5 tables</p></details> |
 | **[TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention](http://arxiv.org/abs/2503.10602v2)** | 2025-03-21 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, the first two authors contributed equally</p></details> |
 | **[AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](http://arxiv.org/abs/2411.15102v3)** | 2025-03-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, ICLR 2025</p></details> |
 | **[SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging](http://arxiv.org/abs/2503.17239v1)** | 2025-03-21 |  |
@@ -36,4 +36,9 @@ labels: documentation
 | **[RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration](http://arxiv.org/abs/2503.13514v1)** | 2025-03-14 |  |
 | **[Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification](http://arxiv.org/abs/2503.10886v1)** | 2025-03-13 | 12 pages, 3 figures |
 | **[ClaimTrust: Propagation Trust Scoring for RAG Systems](http://arxiv.org/abs/2503.10702v1)** | 2025-03-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table</p></details> |
+| **[Balancing Content Size in RAG-Text2SQL System](http://arxiv.org/abs/2502.15723v3)** | 2025-03-23 |  |
+| **[RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding](http://arxiv.org/abs/2503.08576v1)** | 2025-03-11 | 37 pages, 36 figures |
+| **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v3)** | 2025-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
+| **[OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](http://arxiv.org/abs/2503.08398v1)** | 2025-03-11 |  |
+| **[OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](http://arxiv.org/abs/2412.02592v2)** | 2025-03-11 | Work in progress |
 
