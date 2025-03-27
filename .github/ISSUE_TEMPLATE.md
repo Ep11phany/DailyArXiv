@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2025
+title: Latest 15 Papers - March 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](http://arxiv.org/abs/2503.18943v1)** | 2025-03-24 | Technical report |
-| **[Video-T1: Test-Time Scaling for Video Generation](http://arxiv.org/abs/2503.18942v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/Video-T1</p></details> |
-| **[Exploring Training and Inference Scaling Laws in Generative Retrieval](http://arxiv.org/abs/2503.18941v1)** | 2025-03-24 |  |
-| **[Large Language Models Empowered Personalized Web Agents](http://arxiv.org/abs/2410.17236v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to WWW 2025. The code and data are available on the project website https://hongrucai.github.io/PersonalWAB/</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](http://arxiv.org/abs/2503.18929v1)** | 2025-03-24 |  |
-| **[FFN Fusion: Rethinking Sequential Computation in Large Language Models](http://arxiv.org/abs/2503.18908v1)** | 2025-03-24 |  |
-| **[xKV: Cross-Layer SVD for KV-Cache Compression](http://arxiv.org/abs/2503.18893v1)** | 2025-03-24 |  |
-| **[AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration](http://arxiv.org/abs/2503.18891v1)** | 2025-03-24 |  |
-| **[Toward building next-generation Geocoding systems: a systematic review](http://arxiv.org/abs/2503.18888v1)** | 2025-03-24 |  |
-| **[I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2503.18878v1)** | 2025-03-24 |  |
-| **[Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design](http://arxiv.org/abs/2503.18869v1)** | 2025-03-24 | 9 pages, 11 figures |
-| **[Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations](http://arxiv.org/abs/2503.18865v2)** | 2025-03-25 |  |
-| **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v2)** | 2025-03-24 |  |
-| **[Defeating Prompt Injections by Design](http://arxiv.org/abs/2503.18813v1)** | 2025-03-24 |  |
-| **[Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code](http://arxiv.org/abs/2503.18809v1)** | 2025-03-24 |  |
+| **[Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark](http://arxiv.org/abs/2503.20786v1)** | 2025-03-26 | <details><summary>An or...</summary><p>An order-invariant and mobile-centric benchmark. Code and data are available at: https://github.com/VILA-Lab/Mobile-MMLU</p></details> |
+| **[Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks](http://arxiv.org/abs/2503.16974v2)** | 2025-03-26 | <details><summary>97 pa...</summary><p>97 pages, 20 tables, 15 figures</p></details> |
+| **[MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](http://arxiv.org/abs/2408.11049v4)** | 2025-03-26 |  |
+| **[MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams](http://arxiv.org/abs/2503.20745v1)** | 2025-03-26 |  |
+| **[Dynamic Motion Blending for Versatile Motion Editing](http://arxiv.org/abs/2503.20724v1)** | 2025-03-26 |  |
+| **[DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](http://arxiv.org/abs/2411.18562v5)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Camera ready version. Previous DexDiffuser. Project page: https://dexdiffuser.github.io/</p></details> |
+| **[From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models](http://arxiv.org/abs/2503.20715v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to NAACL SRW 2025</p></details> |
+| **[Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](http://arxiv.org/abs/2405.14132v2)** | 2025-03-26 | Preprint |
+| **[Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy](http://arxiv.org/abs/2503.20673v1)** | 2025-03-26 |  |
+| **[Lexical Manifold Reconfiguration in Large Language Models: A Novel Architectural Approach for Contextual Modulation](http://arxiv.org/abs/2502.08818v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews](http://arxiv.org/abs/2503.20666v1)** | 2025-03-26 | <details><summary>Submi...</summary><p>Submitted to the American Medical Informatics Association (AMIA) 2025 Annual Symposium, 10 pages</p></details> |
+| **[Context-Aware Semantic Recomposition Mechanism for Large Language Models](http://arxiv.org/abs/2501.17386v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Probabilistic Lexical Manifold Construction in Large Language Models via Hierarchical Vector Field Interpolation](http://arxiv.org/abs/2502.10013v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Contextual Subspace Manifold Projection for Structural Refinement of Large Language Model Representations](http://arxiv.org/abs/2502.08026v3)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Latent Convergence Modulation in Large Language Models: A Novel Approach to Iterative Contextual Realignment](http://arxiv.org/abs/2502.06302v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
