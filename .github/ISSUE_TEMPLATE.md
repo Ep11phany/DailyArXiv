@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2025
+title: Latest 15 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Multimodal Large Language Models See Like Humans?](http://arxiv.org/abs/2412.09603v2)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project page: https://jiaying.link/HVSBench/</p></details> |
-| **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/Video-R1</p></details> |
-| **[GenoTEX: A Benchmark for Automated Gene Expression Data Analysis in Alignment with Bioinformaticians](http://arxiv.org/abs/2406.15341v2)** | 2025-03-27 | 29 pages, 3 figures |
-| **[MemInsight: Autonomous Memory Augmentation for LLM Agents](http://arxiv.org/abs/2503.21760v1)** | 2025-03-27 |  |
-| **[GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics](http://arxiv.org/abs/2503.21735v1)** | 2025-03-27 |  |
-| **[Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design](http://arxiv.org/abs/2503.18869v2)** | 2025-03-27 | 9 pages, 11 figures |
-| **[Effective Skill Unlearning through Intervention and Abstention](http://arxiv.org/abs/2503.21730v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
-| **[Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography](http://arxiv.org/abs/2409.18119v2)** | 2025-03-27 | <details><summary>This ...</summary><p>This paper is accepted by IPMI 2025 for Oral Presentation</p></details> |
-| **[Collab: Controlled Decoding using Mixture of Agents for LLM Alignment](http://arxiv.org/abs/2503.21720v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](http://arxiv.org/abs/2503.18943v2)** | 2025-03-27 | Technical report |
-| **[Understanding the Logic of Direct Preference Alignment through Logic](http://arxiv.org/abs/2412.17696v2)** | 2025-03-27 |  |
-| **[Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs](http://arxiv.org/abs/2503.21710v1)** | 2025-03-27 |  |
-| **[LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning](http://arxiv.org/abs/2503.21683v1)** | 2025-03-27 |  |
-| **[JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](http://arxiv.org/abs/2503.21679v1)** | 2025-03-27 | 20 pages, 1 figures |
-| **[How do language models learn facts? Dynamics, curricula and hallucinations](http://arxiv.org/abs/2503.21676v1)** | 2025-03-27 |  |
+| **[Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](http://arxiv.org/abs/2503.22679v1)** | 2025-03-28 | Technical report |
+| **[QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?](http://arxiv.org/abs/2503.22674v1)** | 2025-03-28 | <details><summary>Code ...</summary><p>Code and dataset are available at \url{https://github.com/google-deepmind/questbench}</p></details> |
+| **[Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers](http://arxiv.org/abs/2503.22672v1)** | 2025-03-28 | <details><summary>7 pag...</summary><p>7 pages. To be published as short paper in the Proceedings of the European Conference on Information Retrieval (ECIR) 2025</p></details> |
+| **[Unicorn: Text-Only Data Synthesis for Vision Language Model Training](http://arxiv.org/abs/2503.22655v1)** | 2025-03-28 |  |
+| **[RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models](http://arxiv.org/abs/2410.13360v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Code: https://github.com/Hoar012/RAP-MLLM</p></details> |
+| **[Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering](http://arxiv.org/abs/2503.18172v2)** | 2025-03-28 | <details><summary>31 pa...</summary><p>31 pages in total. Under Review For ARR</p></details> |
+| **[Can Language Models Follow Multiple Turns of Entangled Instructions?](http://arxiv.org/abs/2503.13222v2)** | 2025-03-28 | 8 pages |
+| **[A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation](http://arxiv.org/abs/2402.07877v3)** | 2025-03-28 |  |
+| **[Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](http://arxiv.org/abs/2503.22610v1)** | 2025-03-28 |  |
+| **[On the Alignment of Post-Publication Reviews & Bibliometric and Altmetric Impact -- A Case Study on Expert Statements from the Science Media Center Germany](http://arxiv.org/abs/2503.22594v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted at The First Workshop on Scholarly Information Access (SCOLIA)</p></details> |
+| **[LLM-enabled Instance Model Generation](http://arxiv.org/abs/2503.22587v1)** | 2025-03-28 |  |
+| **[Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century Spanish](http://arxiv.org/abs/2503.22585v1)** | 2025-03-28 |  |
+| **[Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation](http://arxiv.org/abs/2503.22582v1)** | 2025-03-28 |  |
+| **[Niyama : Breaking the Silos of LLM Inference Serving](http://arxiv.org/abs/2503.22562v1)** | 2025-03-28 |  |
+| **[Do LLMs estimate uncertainty well in instruction-following?](http://arxiv.org/abs/2410.14582v4)** | 2025-03-28 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation](http://arxiv.org/abs/2402.07877v3)** | 2025-03-28 |  |
 | **[Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG](http://arxiv.org/abs/2502.08356v3)** | 2025-03-27 | <details><summary>22 pa...</summary><p>22 pages, 14 tables, to be published in NAACL 2025</p></details> |
 | **[Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?](http://arxiv.org/abs/2503.21157v1)** | 2025-03-27 | 11 pages, 8 figures |
 | **[Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems](http://arxiv.org/abs/2409.19804v2)** | 2025-03-27 | <details><summary>Publi...</summary><p>Published at COLING 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration](http://arxiv.org/abs/2503.13514v1)** | 2025-03-14 |  |
 | **[Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification](http://arxiv.org/abs/2503.10886v1)** | 2025-03-13 | 12 pages, 3 figures |
 | **[ClaimTrust: Propagation Trust Scoring for RAG Systems](http://arxiv.org/abs/2503.10702v1)** | 2025-03-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table</p></details> |
-| **[RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding](http://arxiv.org/abs/2503.08576v1)** | 2025-03-11 | 37 pages, 36 figures |
 
