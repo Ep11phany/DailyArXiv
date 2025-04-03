@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2025
+title: Latest 15 Papers - April 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](http://arxiv.org/abs/2503.24379v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project Page: https://sqwu.top/Any2Cap/</p></details> |
-| **[Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.24377v1)** | 2025-03-31 | <details><summary>In Pr...</summary><p>In Progress; Paper list Repo: https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers</p></details> |
-| **[EQ-Negotiator: An Emotion-Reasoning LLM Agent in Credit Dialogues](http://arxiv.org/abs/2503.21080v3)** | 2025-03-31 |  |
-| **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)** | 2025-03-31 | <details><summary>Techn...</summary><p>Technical Report (In Progress); Code released at: https://github.com/TencentARC/SEED-Bench-R1</p></details> |
-| **[Effectively Controlling Reasoning Models through Thinking Intervention](http://arxiv.org/abs/2503.24370v1)** | 2025-03-31 |  |
-| **[ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion](http://arxiv.org/abs/2503.24354v1)** | 2025-03-31 |  |
-| **[BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models](http://arxiv.org/abs/2503.24310v1)** | 2025-03-31 | <details><summary>32 pa...</summary><p>32 pages, 33 figures, preprint version</p></details> |
-| **[A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG](http://arxiv.org/abs/2503.24307v1)** | 2025-03-31 |  |
-| **[Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning](http://arxiv.org/abs/2503.24289v1)** | 2025-03-31 |  |
-| **[How Does A Text Preprocessing Pipeline Affect Ontology Syntactic Matching?](http://arxiv.org/abs/2411.03962v5)** | 2025-03-31 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, 4 tables</p></details> |
-| **[PharmAgents: Building a Virtual Pharma with Large Language Model Agents](http://arxiv.org/abs/2503.22164v2)** | 2025-03-31 |  |
-| **[Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality](http://arxiv.org/abs/2503.24277v1)** | 2025-03-31 |  |
-| **[CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection](http://arxiv.org/abs/2503.09433v2)** | 2025-03-31 |  |
-| **[Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation](http://arxiv.org/abs/2503.24245v1)** | 2025-03-31 | <details><summary>This ...</summary><p>This work has been accepted to ICC 2025 IEEE International Conference on Communications. copyright 2025 IEEE</p></details> |
-| **[What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](http://arxiv.org/abs/2503.24235v1)** | 2025-03-31 |  |
+| **[Leveraging LLMS for Top-Down Sector Allocation In Automated Trading](http://arxiv.org/abs/2503.09647v3)** | 2025-04-01 |  |
+| **[NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals](http://arxiv.org/abs/2407.14561v4)** | 2025-04-01 | <details><summary>Code ...</summary><p>Code at https://nnsight.net</p></details> |
+| **[Large Language Models are In-Context Molecule Learners](http://arxiv.org/abs/2403.04197v3)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted by IEEE TKDE</p></details> |
+| **[Krutrim LLM: A Novel Tokenization Strategy for Multilingual Indic Languages with Petabyte-Scale Data Processing](http://arxiv.org/abs/2407.12481v2)** | 2025-04-01 |  |
+| **[LLMs Lost in Translation: M-ALERT uncovers Cross-Linguistic Safety Gaps](http://arxiv.org/abs/2412.15035v2)** | 2025-04-01 |  |
+| **[Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains](http://arxiv.org/abs/2503.23829v2)** | 2025-04-01 |  |
+| **[BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v2)** | 2025-04-01 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
+| **[DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models](http://arxiv.org/abs/2404.03275v3)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted at ICRA 2025</p></details> |
+| **[Knowledge-Aware Iterative Retrieval for Multi-Agent Systems](http://arxiv.org/abs/2503.13275v2)** | 2025-04-01 |  |
+| **[TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection](http://arxiv.org/abs/2503.24115v3)** | 2025-04-02 |  |
+| **[Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](http://arxiv.org/abs/2408.06621v4)** | 2025-04-01 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera-ready version</p></details> |
+| **[Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL](http://arxiv.org/abs/2503.23157v2)** | 2025-04-01 | <details><summary>Moham...</summary><p>Mohammadreza Pourreza and Shayan Talaei contributed equally to this work</p></details> |
+| **[Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](http://arxiv.org/abs/2412.09078v5)** | 2025-04-01 | Preprint |
+| **[PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection](http://arxiv.org/abs/2412.11923v2)** | 2025-04-01 | <details><summary>In Pr...</summary><p>In Proceedings of NAACL2025</p></details> |
+| **[A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction](http://arxiv.org/abs/2311.16137v2)** | 2025-04-01 | <details><summary>Submi...</summary><p>Submitted to Dialogue & Discourse 2023</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TOBUGraph: Knowledge Graph-Based Retrieval for Enhanced LLM Performance Beyond RAG](http://arxiv.org/abs/2412.05447v2)** | 2025-04-01 |  |
 | **[A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG](http://arxiv.org/abs/2503.24307v1)** | 2025-03-31 |  |
 | **[A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation](http://arxiv.org/abs/2402.07877v3)** | 2025-03-28 |  |
 | **[Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG](http://arxiv.org/abs/2502.08356v3)** | 2025-03-27 | <details><summary>22 pa...</summary><p>22 pages, 14 tables, to be published in NAACL 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](http://arxiv.org/abs/2503.13563v1)** | 2025-03-17 | NAACL 2025 |
 | **[Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval](http://arxiv.org/abs/2503.15548v1)** | 2025-03-17 |  |
 | **[RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration](http://arxiv.org/abs/2503.13514v1)** | 2025-03-14 |  |
-| **[Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification](http://arxiv.org/abs/2503.10886v1)** | 2025-03-13 | 12 pages, 3 figures |
 
