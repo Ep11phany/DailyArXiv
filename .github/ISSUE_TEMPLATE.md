@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2025
+title: Latest 15 Papers - April 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization](http://arxiv.org/abs/2504.06265v1)** | 2025-04-08 |  |
+| **[Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](http://arxiv.org/abs/2504.07097v1)** | 2025-04-09 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 6 tables</p></details> |
+| **[KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs](http://arxiv.org/abs/2504.07087v1)** | 2025-04-09 | <details><summary>To be...</summary><p>To be presented at NAACL-HLT, KnowledgeNLP Workshop (2025)</p></details> |
 | **[Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v2)** | 2025-04-09 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](http://arxiv.org/abs/2504.06260v1)** | 2025-04-08 | <details><summary>39 pa...</summary><p>39 pages. Accepted at the NeurIPS 2024 Workshops on Mathematical Reasoning and AI and Open-World Agents</p></details> |
-| **[Predicting Drug-Gene Relations via Analogy Tasks with Word Embeddings](http://arxiv.org/abs/2406.00984v4)** | 2025-04-08 |  |
-| **[Modeling Challenging Patient Interactions: LLMs for Medical Communication Training](http://arxiv.org/abs/2503.22250v2)** | 2025-04-08 |  |
-| **[Position: LLM Unlearning Benchmarks are Weak Measures of Progress](http://arxiv.org/abs/2410.02879v2)** | 2025-04-08 | <details><summary>Appea...</summary><p>Appears in IEEE Secure and Trustworthy Machine Learning (SaTML) '25</p></details> |
-| **[LExT: Towards Evaluating Trustworthiness of Natural Language Explanations](http://arxiv.org/abs/2504.06227v1)** | 2025-04-08 |  |
-| **[Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation](http://arxiv.org/abs/2504.06225v1)** | 2025-04-08 |  |
-| **[Retrieval-Based Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios](http://arxiv.org/abs/2501.04671v2)** | 2025-04-08 | <details><summary>Proje...</summary><p>Project page: https://vita-epfl.github.io/DrivingVQA</p></details> |
-| **[GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](http://arxiv.org/abs/2406.15341v3)** | 2025-04-08 | 31 pages, 4 figures |
-| **[Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs](http://arxiv.org/abs/2504.06219v1)** | 2025-04-08 |  |
-| **[From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models](http://arxiv.org/abs/2504.06214v1)** | 2025-04-08 |  |
-| **[TxGemma: Efficient and Agentic LLMs for Therapeutics](http://arxiv.org/abs/2504.06196v1)** | 2025-04-08 |  |
-| **[Assessing how hyperparameters impact Large Language Models' sarcasm detection performance](http://arxiv.org/abs/2504.06166v1)** | 2025-04-08 |  |
-| **[Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups](http://arxiv.org/abs/2504.06160v2)** | 2025-04-09 |  |
+| **[DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning](http://arxiv.org/abs/2504.07080v1)** | 2025-04-09 |  |
+| **[A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models](http://arxiv.org/abs/2504.07070v1)** | 2025-04-09 |  |
+| **[HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification](http://arxiv.org/abs/2504.07069v1)** | 2025-04-09 |  |
+| **[LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning](http://arxiv.org/abs/2407.02511v2)** | 2025-04-09 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2024</p></details> |
+| **[TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling](http://arxiv.org/abs/2504.07053v1)** | 2025-04-09 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning](http://arxiv.org/abs/2504.07052v1)** | 2025-04-09 |  |
+| **[Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods](http://arxiv.org/abs/2502.18389v2)** | 2025-04-09 |  |
+| **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](http://arxiv.org/abs/2504.07022v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 3 Figures, 3 tables</p></details> |
+| **[LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware](http://arxiv.org/abs/2504.07015v1)** | 2025-04-09 | <details><summary>This ...</summary><p>This paper is presented at IEEE VLSI Test Symposium (VTS) 2025</p></details> |
+| **[AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](http://arxiv.org/abs/2410.11283v2)** | 2025-04-09 | <details><summary>Publi...</summary><p>Published at the Neurips Safe Generative AI Workshop 2024</p></details> |
+| **[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs](http://arxiv.org/abs/2410.01999v4)** | 2025-04-09 |  |
+| **[Towards LLMs Robustness to Changes in Prompt Format Styles](http://arxiv.org/abs/2504.06969v1)** | 2025-04-09 | <details><summary>NAACL...</summary><p>NAACL Student Research Workshop (SRW) 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
