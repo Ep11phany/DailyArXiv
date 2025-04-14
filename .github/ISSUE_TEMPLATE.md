@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 11, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](http://arxiv.org/abs/2504.07097v1)** | 2025-04-09 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 6 tables</p></details> |
-| **[KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs](http://arxiv.org/abs/2504.07087v1)** | 2025-04-09 | <details><summary>To be...</summary><p>To be presented at NAACL-HLT, KnowledgeNLP Workshop (2025)</p></details> |
-| **[Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v2)** | 2025-04-09 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning](http://arxiv.org/abs/2504.07080v1)** | 2025-04-09 |  |
-| **[A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models](http://arxiv.org/abs/2504.07070v1)** | 2025-04-09 |  |
-| **[HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification](http://arxiv.org/abs/2504.07069v1)** | 2025-04-09 |  |
-| **[LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning](http://arxiv.org/abs/2407.02511v2)** | 2025-04-09 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2024</p></details> |
-| **[TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling](http://arxiv.org/abs/2504.07053v1)** | 2025-04-09 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
-| **[To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning](http://arxiv.org/abs/2504.07052v1)** | 2025-04-09 |  |
-| **[Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods](http://arxiv.org/abs/2502.18389v2)** | 2025-04-09 |  |
-| **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](http://arxiv.org/abs/2504.07022v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 3 Figures, 3 tables</p></details> |
-| **[LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware](http://arxiv.org/abs/2504.07015v1)** | 2025-04-09 | <details><summary>This ...</summary><p>This paper is presented at IEEE VLSI Test Symposium (VTS) 2025</p></details> |
-| **[AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](http://arxiv.org/abs/2410.11283v2)** | 2025-04-09 | <details><summary>Publi...</summary><p>Published at the Neurips Safe Generative AI Workshop 2024</p></details> |
-| **[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs](http://arxiv.org/abs/2410.01999v4)** | 2025-04-09 |  |
-| **[Towards LLMs Robustness to Changes in Prompt Format Styles](http://arxiv.org/abs/2504.06969v1)** | 2025-04-09 | <details><summary>NAACL...</summary><p>NAACL Student Research Workshop (SRW) 2025</p></details> |
+| **[C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing](http://arxiv.org/abs/2504.07964v1)** | 2025-04-10 |  |
+| **[GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation](http://arxiv.org/abs/2504.07962v1)** | 2025-04-10 | CVPR 2025 |
+| **[MM-IFEngine: Towards Multimodal Instruction Following](http://arxiv.org/abs/2504.07957v1)** | 2025-04-10 |  |
+| **[VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning](http://arxiv.org/abs/2504.07956v1)** | 2025-04-10 |  |
+| **[Porting an LLM based Application from ChatGPT to an On-Premise Environment](http://arxiv.org/abs/2504.07907v1)** | 2025-04-10 | <details><summary>Actua...</summary><p>Actual article is a part of the proceedings of the International Conference on Software Reuse (ICSR) 2025</p></details> |
+| **[VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](http://arxiv.org/abs/2504.06958v2)** | 2025-04-10 |  |
+| **[Redefining Machine Translation on Social Network Services with Large Language Models](http://arxiv.org/abs/2504.07901v1)** | 2025-04-10 |  |
+| **[How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective](http://arxiv.org/abs/2504.07898v1)** | 2025-04-10 |  |
+| **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](http://arxiv.org/abs/2504.07887v1)** | 2025-04-10 |  |
+| **[Token Level Routing Inference System for Edge Devices](http://arxiv.org/abs/2504.07878v1)** | 2025-04-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, under review of ACL system demo</p></details> |
+| **[Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](http://arxiv.org/abs/2504.07866v2)** | 2025-04-11 | <details><summary>fix c...</summary><p>fix conflicts of latex pacakges</p></details> |
+| **[Robust Hallucination Detection in LLMs via Adaptive Token Selection](http://arxiv.org/abs/2504.07863v1)** | 2025-04-10 |  |
+| **[2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference Optimization](http://arxiv.org/abs/2504.07856v1)** | 2025-04-10 | 12 pages, 4 figures |
+| **[The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models](http://arxiv.org/abs/2504.07854v1)** | 2025-04-10 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 9 table</p></details> |
+| **[Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines](http://arxiv.org/abs/2504.07840v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted for AIED 2025, the 26th International Conference on Artificial Intelligence in Education, July 22 - 26, 2025, Palermo, Italy</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A System for Comprehensive Assessment of RAG Frameworks](http://arxiv.org/abs/2504.07803v1)** | 2025-04-10 | <details><summary>Techn...</summary><p>Technical Report, 7 pages, 2 figures, 1 table</p></details> |
+| **[PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](http://arxiv.org/abs/2504.07717v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
+| **[CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections](http://arxiv.org/abs/2504.07643v1)** | 2025-04-10 |  |
 | **[Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG](http://arxiv.org/abs/2504.05220v2)** | 2025-04-08 | 12 pages, 4 figures |
 | **[Diversity Enhances an LLM's Performance in RAG and Long-context Task](http://arxiv.org/abs/2502.09017v2)** | 2025-04-07 |  |
 | **[Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?](http://arxiv.org/abs/2503.21157v3)** | 2025-04-07 | 11 pages, 8 figures |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](http://arxiv.org/abs/2504.01157v1)** | 2025-04-01 |  |
 | **[Self-Routing RAG: Binding Selective Retrieval with Knowledge Verbalization](http://arxiv.org/abs/2504.01018v1)** | 2025-04-01 | Work in Progress |
 | **[TOBUGraph: Knowledge Graph-Based Retrieval for Enhanced LLM Performance Beyond RAG](http://arxiv.org/abs/2412.05447v2)** | 2025-04-01 |  |
-| **[Contradiction Detection in RAG Systems: Evaluating LLMs as Context Validators for Improved Information Consistency](http://arxiv.org/abs/2504.00180v1)** | 2025-03-31 |  |
-| **[A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG](http://arxiv.org/abs/2503.24307v1)** | 2025-03-31 |  |
-| **[A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation](http://arxiv.org/abs/2402.07877v3)** | 2025-03-28 |  |
 
