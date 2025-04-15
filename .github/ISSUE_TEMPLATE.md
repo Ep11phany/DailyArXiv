@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing](http://arxiv.org/abs/2504.07964v1)** | 2025-04-10 |  |
-| **[GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation](http://arxiv.org/abs/2504.07962v1)** | 2025-04-10 | CVPR 2025 |
-| **[MM-IFEngine: Towards Multimodal Instruction Following](http://arxiv.org/abs/2504.07957v1)** | 2025-04-10 |  |
-| **[VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning](http://arxiv.org/abs/2504.07956v1)** | 2025-04-10 |  |
-| **[Porting an LLM based Application from ChatGPT to an On-Premise Environment](http://arxiv.org/abs/2504.07907v1)** | 2025-04-10 | <details><summary>Actua...</summary><p>Actual article is a part of the proceedings of the International Conference on Software Reuse (ICSR) 2025</p></details> |
-| **[VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](http://arxiv.org/abs/2504.06958v2)** | 2025-04-10 |  |
-| **[Redefining Machine Translation on Social Network Services with Large Language Models](http://arxiv.org/abs/2504.07901v1)** | 2025-04-10 |  |
-| **[How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective](http://arxiv.org/abs/2504.07898v1)** | 2025-04-10 |  |
-| **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](http://arxiv.org/abs/2504.07887v1)** | 2025-04-10 |  |
-| **[Token Level Routing Inference System for Edge Devices](http://arxiv.org/abs/2504.07878v1)** | 2025-04-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, under review of ACL system demo</p></details> |
-| **[Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](http://arxiv.org/abs/2504.07866v2)** | 2025-04-11 | <details><summary>fix c...</summary><p>fix conflicts of latex pacakges</p></details> |
-| **[Robust Hallucination Detection in LLMs via Adaptive Token Selection](http://arxiv.org/abs/2504.07863v1)** | 2025-04-10 |  |
-| **[2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference Optimization](http://arxiv.org/abs/2504.07856v1)** | 2025-04-10 | 12 pages, 4 figures |
-| **[The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models](http://arxiv.org/abs/2504.07854v1)** | 2025-04-10 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 9 table</p></details> |
-| **[Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines](http://arxiv.org/abs/2504.07840v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted for AIED 2025, the 26th International Conference on Artificial Intelligence in Education, July 22 - 26, 2025, Palermo, Italy</p></details> |
+| **[Quantum Large Language Model Fine-Tuning](http://arxiv.org/abs/2504.08732v1)** | 2025-04-11 | <details><summary>11 pa...</summary><p>11 pages, 11 figures, 15 tables</p></details> |
+| **[DocAgent: A Multi-Agent System for Automated Code Documentation Generation](http://arxiv.org/abs/2504.08725v1)** | 2025-04-11 |  |
+| **[SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents](http://arxiv.org/abs/2504.08703v1)** | 2025-04-11 | 20 pages, 6 figures |
+| **[Large Language Models as Span Annotators](http://arxiv.org/abs/2504.08697v1)** | 2025-04-11 |  |
+| **[Not All Data Are Unlearned Equally](http://arxiv.org/abs/2504.05058v3)** | 2025-04-11 |  |
+| **[TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning](http://arxiv.org/abs/2504.08694v1)** | 2025-04-11 |  |
+| **[MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits](http://arxiv.org/abs/2504.03767v2)** | 2025-04-11 | <details><summary>27 pa...</summary><p>27 pages, 21 figures, and 2 Tables. Cleans up the TeX source</p></details> |
+| **[Fast-Slow-Thinking: Complex Task Solving with Large Language Models](http://arxiv.org/abs/2504.08690v1)** | 2025-04-11 | 37 pages, 7 figures |
+| **[Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing](http://arxiv.org/abs/2504.08687v1)** | 2025-04-11 | <details><summary>5 pag...</summary><p>5 pages; Accepted to Fourth Workshop on Intelligent and Interactive Writing Assistants (In2Writing 2025) at NAACL 2025</p></details> |
+| **[A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval](http://arxiv.org/abs/2503.05659v2)** | 2025-04-11 |  |
+| **[Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis](http://arxiv.org/abs/2504.08666v1)** | 2025-04-11 | <details><summary>20th ...</summary><p>20th International Conference on Evaluation of Novel Approaches to Software Engineering April 4-6, 2025, in Porto, Portugal</p></details> |
+| **[Fine-Grained Retrieval-Augmented Generation for Visual Question Answering](http://arxiv.org/abs/2502.20964v2)** | 2025-04-11 |  |
+| **[Quality evaluation of Tabby coding assistant using real source code snippets](http://arxiv.org/abs/2504.08650v1)** | 2025-04-11 | 10 pages, 4 figures |
+| **[Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents](http://arxiv.org/abs/2504.08640v1)** | 2025-04-11 |  |
+| **[Analyzing 16,193 LLM Papers for Fun and Profits](http://arxiv.org/abs/2504.08619v2)** | 2025-04-14 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Out of Style: RAG's Fragility to Linguistic Variation](http://arxiv.org/abs/2504.08231v1)** | 2025-04-11 |  |
 | **[A System for Comprehensive Assessment of RAG Frameworks](http://arxiv.org/abs/2504.07803v1)** | 2025-04-10 | <details><summary>Techn...</summary><p>Technical Report, 7 pages, 2 figures, 1 table</p></details> |
 | **[PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](http://arxiv.org/abs/2504.07717v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 | **[CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections](http://arxiv.org/abs/2504.07643v1)** | 2025-04-10 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[GTR: Graph-Table-RAG for Cross-Table Question Answering](http://arxiv.org/abs/2504.01346v2)** | 2025-04-03 | 20 pages, 7 figures |
 | **[Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](http://arxiv.org/abs/2504.01157v1)** | 2025-04-01 |  |
 | **[Self-Routing RAG: Binding Selective Retrieval with Knowledge Verbalization](http://arxiv.org/abs/2504.01018v1)** | 2025-04-01 | Work in Progress |
-| **[TOBUGraph: Knowledge Graph-Based Retrieval for Enhanced LLM Performance Beyond RAG](http://arxiv.org/abs/2412.05447v2)** | 2025-04-01 |  |
 
