@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TextArena](http://arxiv.org/abs/2504.11442v1)** | 2025-04-15 | <details><summary>work ...</summary><p>work in progress; 5 pages, 3 figures</p></details> |
 | **[InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](http://arxiv.org/abs/2504.10479v2)** | 2025-04-15 | Technical Report |
-| **[MIEB: Massive Image Embedding Benchmark](http://arxiv.org/abs/2504.10471v1)** | 2025-04-14 |  |
-| **[Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding](http://arxiv.org/abs/2504.10465v1)** | 2025-04-14 |  |
-| **[The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer](http://arxiv.org/abs/2504.10462v1)** | 2025-04-14 |  |
-| **[MDIT: A Model-free Data Interpolation Method for Diverse Instruction Tuning](http://arxiv.org/abs/2504.07288v2)** | 2025-04-14 |  |
-| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v2)** | 2025-04-15 |  |
-| **[Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods](http://arxiv.org/abs/2406.15583v2)** | 2025-04-14 |  |
-| **[M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](http://arxiv.org/abs/2504.10449v1)** | 2025-04-14 | <details><summary>Code ...</summary><p>Code is available https://github.com/jxiw/M1</p></details> |
-| **[Learning Free Token Reduction for Multi-Modal Large Language Models](http://arxiv.org/abs/2501.17391v2)** | 2025-04-14 |  |
-| **[Multimodal Long Video Modeling Based on Temporal Dynamic Context](http://arxiv.org/abs/2504.10443v1)** | 2025-04-14 |  |
-| **[LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models](http://arxiv.org/abs/2504.10430v1)** | 2025-04-14 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 4 tables</p></details> |
-| **[Can We Edit LLMs for Long-Tail Biomedical Knowledge?](http://arxiv.org/abs/2504.10421v1)** | 2025-04-14 |  |
-| **[Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA](http://arxiv.org/abs/2504.10419v2)** | 2025-04-15 |  |
-| **[CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation](http://arxiv.org/abs/2504.10418v1)** | 2025-04-14 |  |
-| **[LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models](http://arxiv.org/abs/2504.10415v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project page: https://github.com/deep-symbolic-mathematics/llm-srbench , Benchmark page: https://huggingface.co/datasets/nnheui/llm-srbench</p></details> |
+| **[Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models](http://arxiv.org/abs/2504.11431v1)** | 2025-04-15 | <details><summary>To ap...</summary><p>To appear in ICWSM 2025</p></details> |
+| **[A Dual-Space Framework for General Knowledge Distillation of Large Language Models](http://arxiv.org/abs/2504.11426v1)** | 2025-04-15 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 11 tables, under review. Code is available at: https://github.com/songmzhang/DSKDv2. arXiv admin note: text overlap with arXiv:2406.17328</p></details> |
+| **[Graph Linearization Methods for Reasoning on Graphs with Large Language Models](http://arxiv.org/abs/2410.19494v2)** | 2025-04-15 |  |
+| **[Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts](http://arxiv.org/abs/2504.11420v1)** | 2025-04-15 | 19 pages, 8 figures |
+| **[DataDecide: How to Predict Best Pretraining Data with Small Experiments](http://arxiv.org/abs/2504.11393v1)** | 2025-04-15 |  |
+| **[RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models](http://arxiv.org/abs/2504.11381v1)** | 2025-04-15 |  |
+| **[Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions](http://arxiv.org/abs/2504.11373v1)** | 2025-04-15 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Automated Safety Requirements Derivation Using Agent-based RAG](http://arxiv.org/abs/2504.11243v1)** | 2025-04-15 | 9 pages, 3 figures |
+| **[Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs](http://arxiv.org/abs/2504.10982v2)** | 2025-04-16 | 10 pages |
 | **[SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model](http://arxiv.org/abs/2504.10320v1)** | 2025-04-14 |  |
 | **[A Survey of Personalization: From RAG to Agent](http://arxiv.org/abs/2504.10147v1)** | 2025-04-14 | 18 pages, 5 figures |
 | **[ControlNET: A Firewall for RAG-based LLM System](http://arxiv.org/abs/2504.09593v1)** | 2025-04-13 |  |
@@ -39,6 +35,4 @@ labels: documentation
 | **[Diversity Enhances an LLM's Performance in RAG and Long-context Task](http://arxiv.org/abs/2502.09017v2)** | 2025-04-07 |  |
 | **[Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?](http://arxiv.org/abs/2503.21157v3)** | 2025-04-07 | 11 pages, 8 figures |
 | **[Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](http://arxiv.org/abs/2504.04578v1)** | 2025-04-06 |  |
-| **[Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications](http://arxiv.org/abs/2504.04419v1)** | 2025-04-06 |  |
-| **[From Code Generation to Software Testing: AI Copilot with Context-Based RAG](http://arxiv.org/abs/2504.01866v2)** | 2025-04-05 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Software (DOI: 10.1109/MS.2025.3549628)</p></details> |
 
