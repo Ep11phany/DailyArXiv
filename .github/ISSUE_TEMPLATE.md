@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -16,12 +16,12 @@ labels: documentation
 | **[Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach](http://arxiv.org/abs/2504.16057v1)** | 2025-04-22 |  |
 | **[Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability](http://arxiv.org/abs/2504.16056v1)** | 2025-04-22 |  |
 | **[LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision](http://arxiv.org/abs/2304.07647v5)** | 2025-04-22 |  |
-| **[Certified Mitigation of Worst-Case LLM Copyright Infringement](http://arxiv.org/abs/2504.16046v1)** | 2025-04-22 |  |
+| **[Certified Mitigation of Worst-Case LLM Copyright Infringement](http://arxiv.org/abs/2504.16046v2)** | 2025-04-23 |  |
 | **[LLMs meet Federated Learning for Scalable and Secure IoT Management](http://arxiv.org/abs/2504.16032v1)** | 2025-04-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE Global Communications Conference (GLOBECOM) 2025 for possible publication</p></details> |
 | **[LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale](http://arxiv.org/abs/2504.16030v1)** | 2025-04-22 | <details><summary>CVPR ...</summary><p>CVPR 2025. If any references are missing, please contact joyachen@u.nus.edu</p></details> |
 | **[Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3](http://arxiv.org/abs/2504.16027v1)** | 2025-04-22 |  |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
-| **[CAPO: Cost-Aware Prompt Optimization](http://arxiv.org/abs/2504.16005v1)** | 2025-04-22 | <details><summary>Submi...</summary><p>Submitted to AutoML 2025</p></details> |
+| **[CAPO: Cost-Aware Prompt Optimization](http://arxiv.org/abs/2504.16005v2)** | 2025-04-23 | <details><summary>Submi...</summary><p>Submitted to AutoML 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
@@ -38,7 +38,7 @@ labels: documentation
 | **[Secure Multifaceted-RAG for Enterprise: Hybrid Knowledge Retrieval with Security Filtering](http://arxiv.org/abs/2504.13425v1)** | 2025-04-18 |  |
 | **[RAGDoll: Efficient Offloading-based Online RAG System on a Single GPU](http://arxiv.org/abs/2504.15302v1)** | 2025-04-17 |  |
 | **[ControlNET: A Firewall for RAG-based LLM System](http://arxiv.org/abs/2504.09593v2)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project Page: https://ai.zjuicsr.cn/firewall</p></details> |
-| **[Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs](http://arxiv.org/abs/2504.10982v3)** | 2025-04-17 | 10 pages |
+| **[Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs](http://arxiv.org/abs/2504.10982v4)** | 2025-04-23 | 10 pages |
 | **[PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](http://arxiv.org/abs/2504.07717v2)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 | **[ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges](http://arxiv.org/abs/2504.12143v1)** | 2025-04-16 |  |
 
