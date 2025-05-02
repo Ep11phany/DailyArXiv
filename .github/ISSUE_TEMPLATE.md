@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,31 +7,33 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems](http://arxiv.org/abs/2405.20774v3)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025, 31 pages, including main paper, references, and appendix</p></details> |
-| **[TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments](http://arxiv.org/abs/2504.21851v1)** | 2025-04-30 | 5 figures, 4 tables |
-| **[COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning](http://arxiv.org/abs/2504.21850v1)** | 2025-04-30 | 17 pages, 13 figures |
-| **[ObjectFinder: An Open-Vocabulary Assistive System for Interactive Object Search by Blind People](http://arxiv.org/abs/2412.03118v2)** | 2025-04-30 |  |
-| **[Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals](http://arxiv.org/abs/2405.20152v2)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main track (oral)</p></details> |
-| **[An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding](http://arxiv.org/abs/2504.21803v1)** | 2025-04-30 | 38 pages, 9 figures |
-| **[DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](http://arxiv.org/abs/2504.21801v1)** | 2025-04-30 |  |
-| **[Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers](http://arxiv.org/abs/2504.19254v2)** | 2025-04-30 | <details><summary>UQLM ...</summary><p>UQLM repository: https://github.com/cvs-health/uqlm</p></details> |
-| **[MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](http://arxiv.org/abs/2504.21773v1)** | 2025-04-30 |  |
-| **[LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs](http://arxiv.org/abs/2504.21770v1)** | 2025-04-30 |  |
-| **[LLM-based Interactive Imitation Learning for Robotic Manipulation](http://arxiv.org/abs/2504.21769v1)** | 2025-04-30 | <details><summary>To be...</summary><p>To be published in IJCNN 2025 proceedings</p></details> |
-| **[Investigating Literary Motifs in Ancient and Medieval Novels with Large Language Models](http://arxiv.org/abs/2504.21742v1)** | 2025-04-30 |  |
-| **[Extracting and Transferring Abilities For Building Multi-lingual Ability-enhanced Large Language Models](http://arxiv.org/abs/2410.07825v2)** | 2025-04-30 | <details><summary>17 Pa...</summary><p>17 Pages. Working in progress</p></details> |
-| **[TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training](http://arxiv.org/abs/2504.21735v1)** | 2025-04-30 | 8 Pages |
-| **[Lossless data compression by large models](http://arxiv.org/abs/2407.07723v3)** | 2025-04-30 | <details><summary>Publi...</summary><p>Published by Nature Machine Intelligence at https://www.nature.com/articles/s42256-025-01033-7</p></details> |
+| **[T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](http://arxiv.org/abs/2505.00703v1)** | 2025-05-01 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/T2I-R1</p></details> |
+| **[Steering Large Language Models with Register Analysis for Arbitrary Style Transfer](http://arxiv.org/abs/2505.00679v1)** | 2025-05-01 |  |
+| **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](http://arxiv.org/abs/2505.00675v1)** | 2025-05-01 |  |
+| **[DeepCritic: Deliberate Critique with Large Language Models](http://arxiv.org/abs/2505.00662v1)** | 2025-05-01 | <details><summary>Work ...</summary><p>Work in progress. Data and models are available at https://github.com/RUCBM/DeepCritic</p></details> |
+| **[On the generalization of language models from in-context learning and finetuning: a controlled study](http://arxiv.org/abs/2505.00661v1)** | 2025-05-01 |  |
+| **[Large Language Models Understanding: an Inherent Ambiguity Barrier](http://arxiv.org/abs/2505.00654v1)** | 2025-05-01 | <details><summary>submi...</summary><p>submitted to NEURAL COMPUTATION</p></details> |
+| **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v1)** | 2025-05-01 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
+| **[Investigating Task Arithmetic for Zero-Shot Information Retrieval](http://arxiv.org/abs/2505.00649v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted in SIGIR '25</p></details> |
+| **[Automated Review Generation Method Based on Large Language Models](http://arxiv.org/abs/2407.20906v5)** | 2025-05-01 | <details><summary>Code:...</summary><p>Code: https://github.com/TJU-ECAT-AI/AutomaticReviewGeneration Data: https://github.com/TJU-ECAT-AI/AutomaticReviewGenerationData This research has been invited for a Short Oral presentation at the 18th ICC - International Congress on Catalysis, taking place in Lyon, France from July 14-19, 2024 Published at https://doi.org/10.1093/nsr/nwaf169 for newer edition</p></details> |
+| **[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](http://arxiv.org/abs/2410.08067v4)** | 2025-05-01 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
+| **[The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)](http://arxiv.org/abs/2505.00626v1)** | 2025-05-01 |  |
+| **[FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation](http://arxiv.org/abs/2505.00624v1)** | 2025-05-01 |  |
+| **[Combining LLMs with Logic-Based Framework to Explain MCTS](http://arxiv.org/abs/2505.00610v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by AAMAS-25 as an extended abstract</p></details> |
+| **[Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4](http://arxiv.org/abs/2505.00603v1)** | 2025-05-01 |  |
+| **[GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](http://arxiv.org/abs/2504.02546v3)** | 2025-05-01 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets](http://arxiv.org/abs/2504.20119v2)** | 2025-05-01 | <details><summary>8 Pag...</summary><p>8 Pages. This paper has been accepted for presentation at the IEEE Swiss Conference on Data Science (SDS25)</p></details> |
+| **[EnronQA: Towards Personalized RAG over Private Documents](http://arxiv.org/abs/2505.00263v1)** | 2025-05-01 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 6 tables</p></details> |
 | **[SAGE: A Framework of Precise Retrieval for RAG](http://arxiv.org/abs/2503.01713v2)** | 2025-04-30 |  |
 | **[Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA](http://arxiv.org/abs/2504.21252v1)** | 2025-04-30 |  |
 | **[FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](http://arxiv.org/abs/2504.14493v2)** | 2025-04-29 |  |
+| **[Graph RAG for Legal Norms: A Hierarchical and Temporal Approach](http://arxiv.org/abs/2505.00039v1)** | 2025-04-29 |  |
 | **[CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](http://arxiv.org/abs/2504.20898v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted in the 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2025)</p></details> |
 | **[SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering](http://arxiv.org/abs/2412.06832v2)** | 2025-04-28 |  |
-| **[Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets](http://arxiv.org/abs/2504.20119v1)** | 2025-04-28 | <details><summary>8 Pag...</summary><p>8 Pages. This paper has been accepted for presentation at the IEEE Swiss Conference on Data Science (SDS25)</p></details> |
 | **[Context-Guided Dynamic Retrieval for Improving Generation Quality in RAG Models](http://arxiv.org/abs/2504.19436v1)** | 2025-04-28 |  |
 | **[Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs](http://arxiv.org/abs/2504.10982v5)** | 2025-04-26 | 10 pages |
 | **[W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering](http://arxiv.org/abs/2408.08444v2)** | 2025-04-25 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models](http://arxiv.org/abs/2504.18041v1)** | 2025-04-25 | NAACL 2025 |
 | **[SMARTFinRAG: Interactive Modularized Financial RAG Benchmark](http://arxiv.org/abs/2504.18024v1)** | 2025-04-25 | <details><summary>For o...</summary><p>For open source github repo, see https://github.com/JonathanZha47/SMARTFinRAG</p></details> |
 | **[Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](http://arxiv.org/abs/2409.11242v4)** | 2025-04-24 | <details><summary>Publi...</summary><p>Published at ICLR 2025 (Oral)</p></details> |
-| **[Synergizing RAG and Reasoning: A Systematic Review](http://arxiv.org/abs/2504.15909v2)** | 2025-04-24 |  |
-| **[A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation](http://arxiv.org/abs/2504.17200v1)** | 2025-04-24 |  |
 
