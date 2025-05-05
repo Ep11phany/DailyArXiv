@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](http://arxiv.org/abs/2505.00703v1)** | 2025-05-01 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/T2I-R1</p></details> |
-| **[Steering Large Language Models with Register Analysis for Arbitrary Style Transfer](http://arxiv.org/abs/2505.00679v1)** | 2025-05-01 |  |
-| **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](http://arxiv.org/abs/2505.00675v1)** | 2025-05-01 |  |
-| **[DeepCritic: Deliberate Critique with Large Language Models](http://arxiv.org/abs/2505.00662v1)** | 2025-05-01 | <details><summary>Work ...</summary><p>Work in progress. Data and models are available at https://github.com/RUCBM/DeepCritic</p></details> |
-| **[On the generalization of language models from in-context learning and finetuning: a controlled study](http://arxiv.org/abs/2505.00661v1)** | 2025-05-01 |  |
-| **[Large Language Models Understanding: an Inherent Ambiguity Barrier](http://arxiv.org/abs/2505.00654v1)** | 2025-05-01 | <details><summary>submi...</summary><p>submitted to NEURAL COMPUTATION</p></details> |
-| **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v1)** | 2025-05-01 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
-| **[Investigating Task Arithmetic for Zero-Shot Information Retrieval](http://arxiv.org/abs/2505.00649v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted in SIGIR '25</p></details> |
-| **[Automated Review Generation Method Based on Large Language Models](http://arxiv.org/abs/2407.20906v5)** | 2025-05-01 | <details><summary>Code:...</summary><p>Code: https://github.com/TJU-ECAT-AI/AutomaticReviewGeneration Data: https://github.com/TJU-ECAT-AI/AutomaticReviewGenerationData This research has been invited for a Short Oral presentation at the 18th ICC - International Congress on Catalysis, taking place in Lyon, France from July 14-19, 2024 Published at https://doi.org/10.1093/nsr/nwaf169 for newer edition</p></details> |
-| **[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](http://arxiv.org/abs/2410.08067v4)** | 2025-05-01 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
-| **[The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)](http://arxiv.org/abs/2505.00626v1)** | 2025-05-01 |  |
-| **[FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation](http://arxiv.org/abs/2505.00624v1)** | 2025-05-01 |  |
-| **[Combining LLMs with Logic-Based Framework to Explain MCTS](http://arxiv.org/abs/2505.00610v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by AAMAS-25 as an extended abstract</p></details> |
-| **[Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4](http://arxiv.org/abs/2505.00603v1)** | 2025-05-01 |  |
-| **[GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](http://arxiv.org/abs/2504.02546v3)** | 2025-05-01 |  |
+| **[Wiki-TabNER: Integrating Named Entity Recognition into Wikipedia Tables](http://arxiv.org/abs/2403.04577v2)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025 conference</p></details> |
+| **[An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks](http://arxiv.org/abs/2411.06360v3)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks](http://arxiv.org/abs/2505.00234v2)** | 2025-05-02 |  |
+| **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](http://arxiv.org/abs/2411.14432v2)** | 2025-05-02 |  |
+| **[FlexLLM: A System for Co-Serving Large Language Model Inference and Parameter-Efficient Finetuning](http://arxiv.org/abs/2402.18789v2)** | 2025-05-02 |  |
+| **[MoDeGPT: Modular Decomposition for Large Language Model Compression](http://arxiv.org/abs/2408.09632v5)** | 2025-05-02 | ICLR 2025 Oral |
+| **[Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System](http://arxiv.org/abs/2505.01315v1)** | 2025-05-02 |  |
+| **[Enhancing SPARQL Query Rewriting for Complex Ontology Alignments](http://arxiv.org/abs/2505.01309v1)** | 2025-05-02 |  |
+| **[Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments](http://arxiv.org/abs/2505.01307v1)** | 2025-05-02 |  |
+| **[FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing](http://arxiv.org/abs/2505.01263v1)** | 2025-05-02 |  |
+| **[CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning](http://arxiv.org/abs/2505.01199v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted at AHLI CHIL 2025</p></details> |
+| **[Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning](http://arxiv.org/abs/2505.00016v2)** | 2025-05-02 |  |
+| **[Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning](http://arxiv.org/abs/2311.09830v4)** | 2025-05-02 | <details><summary>Exten...</summary><p>Extended version of the paper from the ICAPS'25 proceedings (same main part + additional appendix)</p></details> |
+| **[LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures](http://arxiv.org/abs/2505.01177v1)** | 2025-05-02 |  |
+| **[Reward Guidance for Reinforcement Learning Tasks Based on Large Language Models: The LMGT Framework](http://arxiv.org/abs/2409.04744v2)** | 2025-05-02 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CaGR-RAG: Context-aware Query Grouping for Disk-based Vector Search in RAG Systems](http://arxiv.org/abs/2505.01164v1)** | 2025-05-02 |  |
+| **[InspectorRAGet: An Introspection Platform for RAG Evaluation](http://arxiv.org/abs/2404.17347v2)** | 2025-05-01 | <details><summary>Publi...</summary><p>Published at NAACL2025 Demonstration Track</p></details> |
 | **[Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets](http://arxiv.org/abs/2504.20119v2)** | 2025-05-01 | <details><summary>8 Pag...</summary><p>8 Pages. This paper has been accepted for presentation at the IEEE Swiss Conference on Data Science (SDS25)</p></details> |
 | **[EnronQA: Towards Personalized RAG over Private Documents](http://arxiv.org/abs/2505.00263v1)** | 2025-05-01 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 6 tables</p></details> |
 | **[SAGE: A Framework of Precise Retrieval for RAG](http://arxiv.org/abs/2503.01713v2)** | 2025-04-30 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering](http://arxiv.org/abs/2408.08444v2)** | 2025-04-25 |  |
 | **[Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family](http://arxiv.org/abs/2504.18225v1)** | 2025-04-25 |  |
 | **[RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models](http://arxiv.org/abs/2504.18041v1)** | 2025-04-25 | NAACL 2025 |
-| **[SMARTFinRAG: Interactive Modularized Financial RAG Benchmark](http://arxiv.org/abs/2504.18024v1)** | 2025-04-25 | <details><summary>For o...</summary><p>For open source github repo, see https://github.com/JonathanZha47/SMARTFinRAG</p></details> |
-| **[Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](http://arxiv.org/abs/2409.11242v4)** | 2025-04-24 | <details><summary>Publi...</summary><p>Published at ICLR 2025 (Oral)</p></details> |
 
