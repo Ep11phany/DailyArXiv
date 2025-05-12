@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 09, 2025
+title: Latest 15 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generating Physically Stable and Buildable LEGO Designs from Text](http://arxiv.org/abs/2505.05469v1)** | 2025-05-08 | <details><summary>Proje...</summary><p>Project page: https://avalovelace1.github.io/LegoGPT/</p></details> |
-| **[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v1)** | 2025-05-08 |  |
-| **[ComPO: Preference Alignment via Comparison Oracles](http://arxiv.org/abs/2505.05465v1)** | 2025-05-08 | 25 pages |
-| **[Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](http://arxiv.org/abs/2505.05464v1)** | 2025-05-08 | <details><summary>ICML ...</summary><p>ICML 2025. Our code is publicly available at https://github.com/shiqichen17/VLM_Merging</p></details> |
-| **[UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections](http://arxiv.org/abs/2505.05459v1)** | 2025-05-08 | <details><summary>This ...</summary><p>This work was accepted at the International AAAI Conference on Web and Social Media (ICWSM 2025)</p></details> |
-| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
-| **[clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](http://arxiv.org/abs/2505.05445v1)** | 2025-05-08 | 30 pages |
-| **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v2)** | 2025-05-08 |  |
-| **[GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality](http://arxiv.org/abs/2505.05441v1)** | 2025-05-08 |  |
-| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v1)** | 2025-05-08 |  |
-| **[Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data](http://arxiv.org/abs/2505.05427v1)** | 2025-05-08 | <details><summary>The d...</summary><p>The datasets are available on https://huggingface.co/datasets/openbmb/UltraFineWeb</p></details> |
-| **[TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v1)** | 2025-05-08 | WIP |
-| **[Correctness Coverage Evaluation for Medical Multiple-Choice Question Answering Based on the Enhanced Conformal Prediction Framework](http://arxiv.org/abs/2503.05505v2)** | 2025-05-08 | <details><summary>Publi...</summary><p>Published by Mathematics</p></details> |
-| **[Crosslingual Reasoning through Test-Time Scaling](http://arxiv.org/abs/2505.05408v1)** | 2025-05-08 |  |
-| **[Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?](http://arxiv.org/abs/2505.05406v1)** | 2025-05-08 |  |
+| **[CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation](http://arxiv.org/abs/2407.06188v2)** | 2025-05-09 | <details><summary>Proje...</summary><p>Project page: https://yukangcao.github.io/CrowdMoGen</p></details> |
+| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
+| **[The Order Effect: Investigating Prompt Sensitivity to Input Order in LLMs](http://arxiv.org/abs/2502.04134v2)** | 2025-05-09 | <details><summary>The f...</summary><p>The first 3 authors have contributed equally</p></details> |
+| **[From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling](http://arxiv.org/abs/2505.06184v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at MisD @ AAAI ICWSM 2025</p></details> |
+| **[A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows](http://arxiv.org/abs/2505.06178v1)** | 2025-05-09 |  |
+| **[MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills](http://arxiv.org/abs/2505.06176v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2025 [ACM Transactions on Graphics]; Project website: https://monetgpt.github.io</p></details> |
+| **[Turbo-ICL: In-Context Learning-Based Turbo Equalization](http://arxiv.org/abs/2505.06175v1)** | 2025-05-09 |  |
+| **[A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets](http://arxiv.org/abs/2505.06150v1)** | 2025-05-09 |  |
+| **[Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study](http://arxiv.org/abs/2505.06149v1)** | 2025-05-09 |  |
+| **[Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning](http://arxiv.org/abs/2503.24289v2)** | 2025-05-09 |  |
+| **[Can open source large language models be used for tumor documentation in Germany? -- An evaluation on urological doctors' notes](http://arxiv.org/abs/2501.12106v3)** | 2025-05-09 | 53 pages, 5 figures |
+| **["Set It Up!": Functional Object Arrangement with Compositional Generative Models](http://arxiv.org/abs/2405.11928v3)** | 2025-05-09 | <details><summary>10 pa...</summary><p>10 pages main paper, 21 pages appendix, RSS 2024</p></details> |
+| **[The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support](http://arxiv.org/abs/2401.14362v3)** | 2025-05-09 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; typos corrected and post-review revisions incorporated</p></details> |
+| **[LLMs Get Lost In Multi-Turn Conversation](http://arxiv.org/abs/2505.06120v1)** | 2025-05-09 |  |
+| **[Large Language Models Are Struggle to Cope with Unreasonability in Math Problems](http://arxiv.org/abs/2403.19346v5)** | 2025-05-09 | 32 pages, 8 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models](http://arxiv.org/abs/2505.05635v1)** | 2025-05-08 | 7 figures |
 | **[Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems](http://arxiv.org/abs/2502.18635v2)** | 2025-05-08 |  |
 | **[Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards](http://arxiv.org/abs/2505.04847v1)** | 2025-05-07 |  |
 | **[LLM-Independent Adaptive RAG: Let the Question Speak for Itself](http://arxiv.org/abs/2505.04253v1)** | 2025-05-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 2 tables</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](http://arxiv.org/abs/2504.14493v2)** | 2025-04-29 |  |
 | **[Graph RAG for Legal Norms: A Hierarchical and Temporal Approach](http://arxiv.org/abs/2505.00039v1)** | 2025-04-29 |  |
 | **[SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering](http://arxiv.org/abs/2412.06832v2)** | 2025-04-28 |  |
-| **[Context-Guided Dynamic Retrieval for Improving Generation Quality in RAG Models](http://arxiv.org/abs/2504.19436v1)** | 2025-04-28 |  |
 
