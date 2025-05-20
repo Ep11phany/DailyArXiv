@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2025
+title: Latest 15 Papers - May 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,31 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](http://arxiv.org/abs/2505.11483v1)** | 2025-05-16 |  |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[Parallel Market Environments for FinRL Contests](http://arxiv.org/abs/2504.02281v3)** | 2025-05-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2501.10709</p></details> |
-| **[HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages](http://arxiv.org/abs/2505.11475v1)** | 2025-05-16 | 38 pages, 2 figures |
-| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
-| **[ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks](http://arxiv.org/abs/2505.11459v1)** | 2025-05-16 |  |
-| **[LLMs unlock new paths to monetizing exploits](http://arxiv.org/abs/2505.11449v1)** | 2025-05-16 |  |
-| **[COBIAS: Assessing the Contextual Reliability of Bias Benchmarks for Language Models](http://arxiv.org/abs/2402.14889v4)** | 2025-05-16 |  |
-| **[Is Compression Really Linear with Code Intelligence?](http://arxiv.org/abs/2505.11441v1)** | 2025-05-16 | work in progress |
-| **[VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](http://arxiv.org/abs/2505.01481v2)** | 2025-05-16 |  |
-| **[GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art](http://arxiv.org/abs/2505.11436v1)** | 2025-05-16 | <details><summary>69 pa...</summary><p>69 pages, 66 figures, accepted by ACL 2025</p></details> |
-| **[MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production](http://arxiv.org/abs/2505.11432v1)** | 2025-05-16 |  |
-| **[Evaluating Vision-Language Models as Evaluators in Path Planning](http://arxiv.org/abs/2411.18711v4)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</p></details> |
-| **[When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs](http://arxiv.org/abs/2505.11423v1)** | 2025-05-16 |  |
-| **[EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions](http://arxiv.org/abs/2505.11417v1)** | 2025-05-16 |  |
+| **[Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2505.13445v1)** | 2025-05-19 | <details><summary>code ...</summary><p>code available at https://github.com/xyliu-cs/RISE</p></details> |
+| **[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](http://arxiv.org/abs/2503.15558v3)** | 2025-05-19 |  |
+| **[Option-ID Based Elimination For Multiple Choice Questions](http://arxiv.org/abs/2501.15175v3)** | 2025-05-19 |  |
+| **[Optimizing Anytime Reasoning via Budget Relative Policy Optimization](http://arxiv.org/abs/2505.13438v1)** | 2025-05-19 |  |
+| **[SMOTExT: SMOTE meets Large Language Models](http://arxiv.org/abs/2505.13434v1)** | 2025-05-19 |  |
+| **[Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge Retrieval](http://arxiv.org/abs/2503.14234v3)** | 2025-05-19 | 15 pages, 3 figures |
+| **[Fine-tuning Quantized Neural Networks with Zeroth-order Optimization](http://arxiv.org/abs/2505.13430v1)** | 2025-05-19 |  |
+| **[MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision](http://arxiv.org/abs/2505.13427v1)** | 2025-05-19 |  |
+| **[Learnware of Language Models: Specialized Small Language Models Can Do Big](http://arxiv.org/abs/2505.13425v1)** | 2025-05-19 |  |
+| **[Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard](http://arxiv.org/abs/2505.13421v1)** | 2025-05-19 |  |
+| **[FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning](http://arxiv.org/abs/2505.13419v1)** | 2025-05-19 | 10 pages, 7 figures |
+| **[SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache](http://arxiv.org/abs/2505.10951v2)** | 2025-05-19 |  |
+| **[CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process](http://arxiv.org/abs/2505.13408v1)** | 2025-05-19 |  |
+| **[AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database](http://arxiv.org/abs/2505.13406v1)** | 2025-05-19 |  |
+| **[MR. Judge: Multimodal Reasoner as a Judge](http://arxiv.org/abs/2505.13403v1)** | 2025-05-19 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache](http://arxiv.org/abs/2505.10951v2)** | 2025-05-19 |  |
+| **[Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability](http://arxiv.org/abs/2505.13258v1)** | 2025-05-19 |  |
+| **[Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain](http://arxiv.org/abs/2505.13006v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 industry track</p></details> |
+| **[Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering](http://arxiv.org/abs/2505.12662v1)** | 2025-05-19 |  |
+| **[THELMA: Task Based Holistic Evaluation of Large Language Model Applications-RAG Question Answering](http://arxiv.org/abs/2505.11626v1)** | 2025-05-16 |  |
 | **[RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization](http://arxiv.org/abs/2505.10989v1)** | 2025-05-16 |  |
-| **[SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache](http://arxiv.org/abs/2505.10951v1)** | 2025-05-16 |  |
 | **[Investigating Language Preference of Multilingual RAG Systems](http://arxiv.org/abs/2502.11175v2)** | 2025-05-16 | ACL 2025 Findings |
 | **[Towards Automated Situation Awareness: A RAG-Based Framework for Peacebuilding Reports](http://arxiv.org/abs/2505.10586v1)** | 2025-05-14 |  |
 | **[RAG-Enabled Intent Reasoning for Application-Network Interaction](http://arxiv.org/abs/2505.09339v1)** | 2025-05-14 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models](http://arxiv.org/abs/2505.08590v1)** | 2025-05-13 |  |
 | **[KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation](http://arxiv.org/abs/2505.07618v1)** | 2025-05-12 |  |
 | **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
-| **[Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis](http://arxiv.org/abs/2505.07459v1)** | 2025-05-12 |  |
-| **[The Distracting Effect: Understanding Irrelevant Passages in RAG](http://arxiv.org/abs/2505.06914v1)** | 2025-05-11 |  |
-| **[MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context RAG](http://arxiv.org/abs/2505.06569v1)** | 2025-05-10 |  |
-| **[VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models](http://arxiv.org/abs/2505.05635v1)** | 2025-05-08 | 7 figures |
 
