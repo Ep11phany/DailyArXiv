@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 06, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language-Image Alignment with Fixed Text Encoders](http://arxiv.org/abs/2506.04209v1)** | 2025-06-04 |  |
-| **[Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](http://arxiv.org/abs/2506.04207v1)** | 2025-06-04 | 19 pages, 6 figures |
-| **[EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation](http://arxiv.org/abs/2506.04205v1)** | 2025-06-04 |  |
-| **[Cascadia: A Cascade Serving System for Large Language Models](http://arxiv.org/abs/2506.04203v1)** | 2025-06-04 |  |
-| **[TracLLM: A Generic Framework for Attributing Long Context LLMs](http://arxiv.org/abs/2506.04202v1)** | 2025-06-04 | <details><summary>To ap...</summary><p>To appear in USENIX Security Symposium 2025. The code and data are at: https://github.com/Wang-Yanting/TracLLM</p></details> |
-| **[R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](http://arxiv.org/abs/2506.04185v1)** | 2025-06-04 | 16 pages, 3 figures |
-| **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v2)** | 2025-06-04 |  |
-| **[SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models](http://arxiv.org/abs/2506.04180v1)** | 2025-06-04 |  |
-| **[Coreset Selection via LLM-based Concept Bottlenecks](http://arxiv.org/abs/2502.16733v2)** | 2025-06-04 |  |
-| **[SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling](http://arxiv.org/abs/2506.04179v1)** | 2025-06-04 |  |
-| **[Biased by Design: Leveraging Inherent AI Biases to Enhance Critical Thinking of News Readers](http://arxiv.org/abs/2504.14522v3)** | 2025-06-05 | <details><summary>Europ...</summary><p>European Conference on Information Systems (ECIS)</p></details> |
-| **[Does Prompt Design Impact Quality of Data Imputation by LLMs?](http://arxiv.org/abs/2506.04172v1)** | 2025-06-04 | 7 pages |
-| **[Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions](http://arxiv.org/abs/2501.16748v2)** | 2025-06-04 |  |
-| **[VISCA: Inferring Component Abstractions for Automated End-to-End Testing](http://arxiv.org/abs/2506.04161v1)** | 2025-06-04 |  |
-| **[A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization](http://arxiv.org/abs/2506.04156v1)** | 2025-06-04 |  |
+| **[Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias](http://arxiv.org/abs/2506.06280v1)** | 2025-06-06 | <details><summary>30 pa...</summary><p>30 pages, 14 figures, published to ICML 2025</p></details> |
+| **[CoMemo: LVLMs Need Image Context with Image Memory](http://arxiv.org/abs/2506.06279v1)** | 2025-06-06 | ICML 2025 |
+| **[AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization](http://arxiv.org/abs/2506.06273v1)** | 2025-06-06 |  |
+| **[Do Large Language Models Reason Causally Like Us? Even Better?](http://arxiv.org/abs/2502.10215v2)** | 2025-06-06 |  |
+| **[Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks](http://arxiv.org/abs/2410.01744v3)** | 2025-06-06 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/tencent-ailab/Leopard</p></details> |
+| **[Cartridges: Lightweight and general-purpose long context representations via self-study](http://arxiv.org/abs/2506.06266v1)** | 2025-06-06 |  |
+| **[MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](http://arxiv.org/abs/2502.16671v2)** | 2025-06-06 |  |
+| **[A semantic embedding space based on large language models for modelling human beliefs](http://arxiv.org/abs/2408.07237v3)** | 2025-06-06 | <details><summary>5 fig...</summary><p>5 figures, 2 tables (SI: 25 figures, 7 tables). Published in Nature Human Behaviour (2025)</p></details> |
+| **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](http://arxiv.org/abs/2506.06254v1)** | 2025-06-06 |  |
+| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
+| **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](http://arxiv.org/abs/2504.02821v2)** | 2025-06-06 | Preprint |
+| **[Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models](http://arxiv.org/abs/2506.06242v1)** | 2025-06-06 |  |
+| **[Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge](http://arxiv.org/abs/2506.06240v1)** | 2025-06-06 |  |
+| **[Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams](http://arxiv.org/abs/2506.05265v2)** | 2025-06-06 | <details><summary>5 pag...</summary><p>5 pages, UMAP 25, June 16_19, 2025, New York City, NY, USA</p></details> |
+| **[CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports](http://arxiv.org/abs/2506.06227v1)** | 2025-06-06 | C3PO at ISC HPC 2025 |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](http://arxiv.org/abs/2505.24226v4)** | 2025-06-06 | 16 pages |
+| **[Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG](http://arxiv.org/abs/2506.05925v1)** | 2025-06-06 |  |
+| **[ECoRAG: Evidentiality-guided Compression for Long Context RAG](http://arxiv.org/abs/2506.05167v2)** | 2025-06-06 |  |
+| **[SAGE: A Framework of Precise Retrieval for RAG](http://arxiv.org/abs/2503.01713v3)** | 2025-06-06 |  |
+| **[FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](http://arxiv.org/abs/2504.14493v3)** | 2025-06-06 |  |
+| **[When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](http://arxiv.org/abs/2506.05690v1)** | 2025-06-06 |  |
+| **[Multi-Head RAG: Solving Multi-Aspect Problems with LLMs](http://arxiv.org/abs/2406.05085v3)** | 2025-06-05 |  |
+| **[Mathematical Reasoning for Unmanned Aerial Vehicles: A RAG-Based Approach for Complex Arithmetic Reasoning](http://arxiv.org/abs/2506.04998v1)** | 2025-06-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 4 appendix subsections</p></details> |
 | **[Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems](http://arxiv.org/abs/2506.03901v2)** | 2025-06-05 |  |
+| **[MetaGen Blended RAG: Unlocking Zero-Shot Precision for Specialized Domain Question-Answering](http://arxiv.org/abs/2505.18247v2)** | 2025-06-04 | <details><summary>Prepr...</summary><p>Preprint. Paper Submitted for NeurIPS 2025- The Thirty-Ninth Annual Conference on Neural Information Processing Systems</p></details> |
+| **[Through the Stealth Lens: Rethinking Attacks and Defenses in RAG](http://arxiv.org/abs/2506.04390v1)** | 2025-06-04 |  |
 | **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
 | **[THELMA: Task Based Holistic Evaluation of Large Language Model Applications-RAG Question Answering](http://arxiv.org/abs/2505.11626v2)** | 2025-06-03 | Added author |
 | **[IndicRAGSuite: Large-Scale Datasets and a Benchmark for Indian Language RAG Systems](http://arxiv.org/abs/2506.01615v2)** | 2025-06-03 | WIP |
 | **[KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG](http://arxiv.org/abs/2502.09304v2)** | 2025-06-03 |  |
-| **[RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance](http://arxiv.org/abs/2410.15805v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2024 Industry Track</p></details> |
-| **[KARE-RAG: Knowledge-Aware Refinement and Enhancement for RAG](http://arxiv.org/abs/2506.02503v1)** | 2025-06-03 |  |
-| **[VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](http://arxiv.org/abs/2505.22019v2)** | 2025-06-03 |  |
-| **[Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](http://arxiv.org/abs/2505.16014v3)** | 2025-06-03 |  |
-| **[DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation](http://arxiv.org/abs/2506.01954v1)** | 2025-06-02 | <details><summary>ACL 2...</summary><p>ACL 2025 Main. Code is available at https://github.com/VILA-Lab/DRAG</p></details> |
-| **[E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](http://arxiv.org/abs/2505.24226v3)** | 2025-06-05 | 16 pages |
-| **[KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?](http://arxiv.org/abs/2412.08985v2)** | 2025-06-02 | ACL 2025 Main |
-| **[AI4Contracts: LLM & RAG-Powered Encoding of Financial Derivative Contracts](http://arxiv.org/abs/2506.01063v1)** | 2025-06-01 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables</p></details> |
-| **[An Integrated Platform for LEED Certification Automation Using Computer Vision and LLM-RAG](http://arxiv.org/abs/2506.00888v1)** | 2025-06-01 |  |
-| **[Investigating Language Preference of Multilingual RAG Systems](http://arxiv.org/abs/2502.11175v4)** | 2025-06-01 | ACL 2025 Findings |
 
