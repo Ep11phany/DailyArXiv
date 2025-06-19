@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Variational Framework for Improving Naturalness in Generative Spoken Language Models](http://arxiv.org/abs/2506.14767v1)** | 2025-06-17 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM](http://arxiv.org/abs/2506.14766v1)** | 2025-06-17 | 15 pages, 7 figures |
-| **[Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets](http://arxiv.org/abs/2407.05674v3)** | 2025-06-17 | Accepted at ACL 2025 |
-| **[Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework](http://arxiv.org/abs/2410.18653v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at the $GEM^2$ Workshop (co-located with ACL 2025)</p></details> |
-| **[LBAP: Improved Uncertainty Alignment of LLM Planners using Bayesian Inference](http://arxiv.org/abs/2403.13198v3)** | 2025-06-17 |  |
-| **[Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs](http://arxiv.org/abs/2506.14731v1)** | 2025-06-17 | Technical Report |
-| **[AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes](http://arxiv.org/abs/2506.14728v1)** | 2025-06-17 | 10 pages, 5 figures |
-| **[Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora](http://arxiv.org/abs/2406.13677v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted for presentation at the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP) at ACL 2025</p></details> |
-| **[OrgAccess: A Benchmark for Role Based Access Control in Organization Scale LLMs](http://arxiv.org/abs/2505.19165v3)** | 2025-06-17 | 56 Pages |
-| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v2)** | 2025-06-17 | 30 pages, 3 figures |
-| **[Reparameterized LLM Training via Orthogonal Equivalence Transformation](http://arxiv.org/abs/2506.08001v3)** | 2025-06-17 | <details><summary>Techn...</summary><p>Technical report v3 (38 pages, 26 figures, project page: https://spherelab.ai/poet/, v3: added singular spectrum and energy analyses in Section 4)</p></details> |
-| **[Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v2)** | 2025-06-17 |  |
-| **[The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs](http://arxiv.org/abs/2501.10970v3)** | 2025-06-17 |  |
-| **[Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](http://arxiv.org/abs/2501.05478v2)** | 2025-06-17 | <details><summary>This ...</summary><p>This work has been accepted for presentation at LM4Plan@AAAI'25. For more details, please check: https://llmforplanning.github.io/</p></details> |
-| **[Unified Software Engineering agent as AI Software Engineer](http://arxiv.org/abs/2506.14683v1)** | 2025-06-17 | <details><summary>Leonh...</summary><p>Leonhard Applis and Yuntong Zhang contributed equally to this work</p></details> |
+| **[PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning](http://arxiv.org/abs/2506.15683v1)** | 2025-06-18 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 6 tables</p></details> |
+| **[GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](http://arxiv.org/abs/2506.15681v1)** | 2025-06-18 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/GenRecal-page/</p></details> |
+| **[SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence](http://arxiv.org/abs/2506.15672v1)** | 2025-06-18 | 41 pages |
+| **[CC-LEARN: Cohort-based Consistency Learning](http://arxiv.org/abs/2506.15662v1)** | 2025-06-18 |  |
+| **[PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection](http://arxiv.org/abs/2506.15656v1)** | 2025-06-18 |  |
+| **[deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses](http://arxiv.org/abs/2506.15648v1)** | 2025-06-18 |  |
+| **[Demystifying the Visual Quality Paradox in Multimodal Large Language Models](http://arxiv.org/abs/2506.15645v1)** | 2025-06-18 | 18 pages |
+| **[Aug2Search: Enhancing Facebook Marketplace Search with LLM-Generated Synthetic Data Augmentation](http://arxiv.org/abs/2505.16065v2)** | 2025-06-18 |  |
+| **[Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability](http://arxiv.org/abs/2506.15629v1)** | 2025-06-18 | ACL 2025 Main |
+| **[J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization](http://arxiv.org/abs/2505.13346v3)** | 2025-06-18 | <details><summary>25 pa...</summary><p>25 pages, 4 figures, 6 tables. Updated with code and benchmark</p></details> |
+| **[The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games](http://arxiv.org/abs/2506.15624v1)** | 2025-06-18 | 27 pages, 20 figures |
+| **[The Compositional Architecture of Regret in Large Language Models](http://arxiv.org/abs/2506.15617v1)** | 2025-06-18 | 23 pages |
+| **[Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning](http://arxiv.org/abs/2506.09033v2)** | 2025-06-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ulab-uiuc/Router-R1. Models and Datasets are available at https://huggingface.co/collections/ulab-ai/router-r1-6851bbe099c7a56914b5db03</p></details> |
+| **[LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](http://arxiv.org/abs/2506.15606v1)** | 2025-06-18 |  |
+| **[VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](http://arxiv.org/abs/2505.01481v3)** | 2025-06-18 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
