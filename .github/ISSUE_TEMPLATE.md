@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://tar.csuhan.com</p></details> |
-| **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
-| **[Universal Video Temporal Grounding with Generative Multi-modal Large Language Models](http://arxiv.org/abs/2506.18883v1)** | 2025-06-23 |  |
-| **[CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879v1)** | 2025-06-23 | ICML 2025 poster |
-| **[Talking to GDELT Through Knowledge Graphs](http://arxiv.org/abs/2503.07584v2)** | 2025-06-23 |  |
-| **[TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting](http://arxiv.org/abs/2506.18862v1)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted to the 33rd ACM International Conference on Multimedia. Our dataset can be found at https://huggingface.co/datasets/IceInPot/TAMMs</p></details> |
-| **[LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](http://arxiv.org/abs/2506.18841v1)** | 2025-06-23 |  |
-| **[EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions](http://arxiv.org/abs/2505.16576v2)** | 2025-06-23 | <details><summary>FEVER...</summary><p>FEVER 2025 (co-located with ACL 2025)</p></details> |
-| **[LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](http://arxiv.org/abs/2503.13794v4)** | 2025-06-23 |  |
-| **[STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning](http://arxiv.org/abs/2506.18831v1)** | 2025-06-23 |  |
-| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v1)** | 2025-06-23 |  |
-| **[A Survey on Data Selection for LLM Instruction Tuning](http://arxiv.org/abs/2402.05123v2)** | 2025-06-23 | Accepted by JAIR |
-| **[RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies](http://arxiv.org/abs/2506.18819v1)** | 2025-06-23 | 24 pages, 2 figures |
-| **[Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models](http://arxiv.org/abs/2408.14470v3)** | 2025-06-23 | <details><summary>15 pa...</summary><p>15 pages, 7 tables, 9 figures</p></details> |
-| **[Context-Aware CodeLLM Eviction for AI-assisted Coding](http://arxiv.org/abs/2506.18796v1)** | 2025-06-23 | 12 pages, 6 figures |
+| **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
+| **[MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](http://arxiv.org/abs/2506.19835v1)** | 2025-06-24 | ACL 2025 Findings |
+| **[Curating art exhibitions using machine learning](http://arxiv.org/abs/2506.19813v1)** | 2025-06-24 |  |
+| **[KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](http://arxiv.org/abs/2506.19807v1)** | 2025-06-24 | Work in progress |
+| **[LLM-Based Social Simulations Require a Boundary](http://arxiv.org/abs/2506.19806v1)** | 2025-06-24 |  |
+| **[KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs](http://arxiv.org/abs/2506.19802v1)** | 2025-06-24 |  |
+| **[Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study](http://arxiv.org/abs/2506.19794v1)** | 2025-06-24 | Work in progress |
+| **[A Foundational individual Mobility Prediction Model based on Open-Source Large Language Models](http://arxiv.org/abs/2503.16553v2)** | 2025-06-24 |  |
+| **[SAGE: Strategy-Adaptive Generation Engine for Query Rewriting](http://arxiv.org/abs/2506.19783v1)** | 2025-06-24 |  |
+| **[Large language models for automated scholarly paper review: A survey](http://arxiv.org/abs/2501.10326v2)** | 2025-06-24 | <details><summary>Pleas...</summary><p>Please cite the version of Information Fusion</p></details> |
+| **[SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning](http://arxiv.org/abs/2506.19767v1)** | 2025-06-24 |  |
+| **[Sensitive Content Classification in Social Media: A Holistic Resource and Evaluation](http://arxiv.org/abs/2411.19832v3)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at the 9th Workshop on Online Abuse and Harms (WOAH)</p></details> |
+| **[Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis](http://arxiv.org/abs/2506.19753v1)** | 2025-06-24 |  |
+| **[DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization](http://arxiv.org/abs/2412.20185v2)** | 2025-06-24 | OSDI 2025 |
+| **[Breaking Barriers: Do Reinforcement Post Training Gains Transfer To Unseen Domains?](http://arxiv.org/abs/2506.19733v1)** | 2025-06-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
