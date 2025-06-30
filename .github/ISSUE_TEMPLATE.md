@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 27, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale](http://arxiv.org/abs/2506.21550v1)** | 2025-06-26 |  |
-| **[Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](http://arxiv.org/abs/2506.21551v1)** | 2025-06-26 |  |
-| **[PsyLite Technical Report](http://arxiv.org/abs/2506.21536v1)** | 2025-06-26 |  |
-| **[Exploring the Design Space of 3D MLLMs for CT Report Generation](http://arxiv.org/abs/2506.21535v1)** | 2025-06-26 |  |
-| **["What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets](http://arxiv.org/abs/2506.21532v1)** | 2025-06-26 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 4 tables, corresponds to initial HealthChat-11K dataset release</p></details> |
-| **[OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50+ Languages](http://arxiv.org/abs/2412.09587v2)** | 2025-06-26 | Under review |
-| **[Potemkin Understanding in Large Language Models](http://arxiv.org/abs/2506.21521v1)** | 2025-06-26 |  |
-| **[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](http://arxiv.org/abs/2506.21506v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Homepage: https://osu-nlp-group.github.io/Mind2Web2/</p></details> |
-| **[Bridging Offline and Online Reinforcement Learning for LLMs](http://arxiv.org/abs/2506.21495v1)** | 2025-06-26 |  |
-| **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](http://arxiv.org/abs/2506.18959v2)** | 2025-06-26 |  |
-| **[Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces](http://arxiv.org/abs/2506.21467v1)** | 2025-06-26 |  |
-| **[Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities](http://arxiv.org/abs/2506.18019v2)** | 2025-06-26 | 20 pages, 7 figures |
-| **[PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries](http://arxiv.org/abs/2506.18728v2)** | 2025-06-26 | <details><summary>In Ad...</summary><p>In Adaptive Foundation Models: Evolving AI for Personalized and Efficient Learning</p></details> |
-| **[ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing](http://arxiv.org/abs/2506.21448v1)** | 2025-06-26 |  |
-| **[Text2Cypher Across Languages: Evaluating Foundational Models Beyond English](http://arxiv.org/abs/2506.21445v1)** | 2025-06-26 |  |
+| **[The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements](http://arxiv.org/abs/2506.22419v1)** | 2025-06-27 |  |
+| **[L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](http://arxiv.org/abs/2310.02003v6)** | 2025-06-27 | <details><summary>Publi...</summary><p>Published in The Twelfth International Conference on Learning Representations (ICLR), 2024. Copyright 2023 by the author(s)</p></details> |
+| **[HyperCLOVA X THINK Technical Report](http://arxiv.org/abs/2506.22403v1)** | 2025-06-27 | 49 pages, 13 figures |
+| **[Refining Czech GEC: Insights from a Multi-Experiment Approach](http://arxiv.org/abs/2506.22402v1)** | 2025-06-27 | Accepted to TSD 2025 |
+| **[QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization](http://arxiv.org/abs/2506.22396v1)** | 2025-06-27 | <details><summary>Prepr...</summary><p>Preprint. Under submission</p></details> |
+| **[What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub](http://arxiv.org/abs/2506.22390v1)** | 2025-06-27 |  |
+| **[Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment](http://arxiv.org/abs/2506.22385v1)** | 2025-06-27 |  |
+| **[FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization](http://arxiv.org/abs/2506.14968v2)** | 2025-06-27 | <details><summary>RSS 2...</summary><p>RSS 2025 - Best Paper Award</p></details> |
+| **[Probabilistic Optimality for Inference-time Scaling](http://arxiv.org/abs/2506.22376v1)** | 2025-06-27 |  |
+| **[Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement](http://arxiv.org/abs/2506.22372v1)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2025)</p></details> |
+| **[Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny](http://arxiv.org/abs/2506.22370v1)** | 2025-06-27 |  |
+| **[Robust Detection of Watermarks for Large Language Models Under Human Edits](http://arxiv.org/abs/2411.13868v2)** | 2025-06-27 |  |
+| **[Concept-Level AI for Telecom: Moving Beyond Large Language Models](http://arxiv.org/abs/2506.22359v1)** | 2025-06-27 |  |
+| **[Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts](http://arxiv.org/abs/2506.22343v1)** | 2025-06-27 |  |
+| **[Evaluating Scoring Bias in LLM-as-a-Judge](http://arxiv.org/abs/2506.22316v1)** | 2025-06-27 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
