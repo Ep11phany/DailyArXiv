@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives](http://arxiv.org/abs/2506.24124v1)** | 2025-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/Ironieser/TimesCLIP</p></details> |
-| **[Calligrapher: Freestyle Text Image Customization](http://arxiv.org/abs/2506.24123v1)** | 2025-06-30 | <details><summary>Proje...</summary><p>Project page: https://calligrapher2025.github.io/Calligrapher Code: https://github.com/Calligrapher2025/Calligrapher</p></details> |
-| **[Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](http://arxiv.org/abs/2506.24120v1)** | 2025-06-30 |  |
-| **[DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World](http://arxiv.org/abs/2506.24102v1)** | 2025-06-30 | <details><summary>Datas...</summary><p>Datasets and Models: https://github.com/lxtGH/DenseWorld-1M</p></details> |
-| **[Trust & Safety of LLMs and LLMs in Trust & Safety](http://arxiv.org/abs/2412.02113v2)** | 2025-06-30 | 11 pages |
-| **[INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models](http://arxiv.org/abs/2504.17677v2)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted author version for the D-SAIL Workshop - Transformative Curriculum Design: Digitalisation, Sustainability, and AI Literacy for 21st Century Learning, July 22, 2025, Palermo, Italy</p></details> |
-| **[Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models](http://arxiv.org/abs/2506.24056v1)** | 2025-06-30 |  |
-| **[KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy](http://arxiv.org/abs/2502.05651v2)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 Main Conference</p></details> |
-| **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](http://arxiv.org/abs/2506.24045v1)** | 2025-06-30 |  |
-| **[A Survey on Vision-Language-Action Models for Autonomous Driving](http://arxiv.org/abs/2506.24044v1)** | 2025-06-30 |  |
-| **[Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation](http://arxiv.org/abs/2502.00306v2)** | 2025-06-30 | <details><summary>This ...</summary><p>This is the full version (27 pages) of the paper 'Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation' published at CCS 2025</p></details> |
-| **[LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries](http://arxiv.org/abs/2505.08842v2)** | 2025-06-30 | <details><summary>ACL 2...</summary><p>ACL 2025 Student Research Workshop and ICML 2025 TAIG Workshop</p></details> |
-| **[EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations](http://arxiv.org/abs/2506.24016v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings</p></details> |
-| **[Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective](http://arxiv.org/abs/2506.24006v1)** | 2025-06-30 |  |
-| **[A Robot-Led Intervention for Emotion Regulation: From Expression to Reappraisal](http://arxiv.org/abs/2503.18243v2)** | 2025-06-30 |  |
+| **[Capturing Visualization Design Rationale](http://arxiv.org/abs/2506.16571v2)** | 2025-07-01 | <details><summary>To be...</summary><p>To be presented at IEEE VIS 2025</p></details> |
+| **[Defensive Adversarial CAPTCHA: A Semantics-Driven Framework for Natural Adversarial Example Generation](http://arxiv.org/abs/2506.10685v3)** | 2025-07-01 | 13 pages, 6 figures |
+| **[Large Language Model Confidence Estimation via Black-Box Access](http://arxiv.org/abs/2406.04370v4)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted to TMLR 2025</p></details> |
+| **[Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](http://arxiv.org/abs/2506.17336v2)** | 2025-07-01 | 29 pages |
+| **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v2)** | 2025-07-01 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](http://arxiv.org/abs/2505.24625v2)** | 2025-07-01 |  |
+| **[Benchmarking the Pedagogical Knowledge of Large Language Models](http://arxiv.org/abs/2506.18710v3)** | 2025-07-01 |  |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](http://arxiv.org/abs/2505.12514v2)** | 2025-07-01 | 26 pages, 7 figures |
+| **[Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report](http://arxiv.org/abs/2506.22698v2)** | 2025-07-01 |  |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](http://arxiv.org/abs/2505.16459v3)** | 2025-07-01 | <details><summary>39 pa...</summary><p>39 pages, 28 figures, 4 tables</p></details> |
+| **[Program of Equations Thoughts to Solve Algebra Word Problems](http://arxiv.org/abs/2505.20170v2)** | 2025-07-01 | <details><summary>Withd...</summary><p>Withdrawn pending institutional authorization and core revisions to address methodological inconsistencies in Sections 3-4</p></details> |
+| **[LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](http://arxiv.org/abs/2503.08271v2)** | 2025-07-01 |  |
+| **[EvoPress: Accurate Dynamic Model Compression via Evolutionary Search](http://arxiv.org/abs/2410.14649v2)** | 2025-07-01 | ICML camera-ready |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
