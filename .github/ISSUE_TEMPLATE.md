@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2025
+title: Latest 15 Papers - July 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kwai Keye-VL Technical Report](http://arxiv.org/abs/2507.01949v1)** | 2025-07-02 | <details><summary>Techn...</summary><p>Technical Report: https://github.com/Kwai-Keye/Keye</p></details> |
-| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](http://arxiv.org/abs/2507.01939v1)** | 2025-07-02 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 5 tables. To be submitted to AAS Journals. Comments welcome</p></details> |
-| **[The Thin Line Between Comprehension and Persuasion in LLMs](http://arxiv.org/abs/2507.01936v1)** | 2025-07-02 |  |
-| **[Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations](http://arxiv.org/abs/2507.01930v1)** | 2025-07-02 | 10 pages |
-| **[Decision-oriented Text Evaluation](http://arxiv.org/abs/2507.01923v1)** | 2025-07-02 |  |
-| **[Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models](http://arxiv.org/abs/2507.01915v1)** | 2025-07-02 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. Accepted by ACL 2025 (main)</p></details> |
-| **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1)** | 2025-07-02 |  |
-| **[AI4Research: A Survey of Artificial Intelligence for Scientific Research](http://arxiv.org/abs/2507.01903v1)** | 2025-07-02 | Preprint |
-| **[High-Layer Attention Pruning with Rescaling](http://arxiv.org/abs/2507.01900v1)** | 2025-07-02 |  |
-| **[Recursive Training Loops in LLMs: How training data properties modulate distribution shift in generated data?](http://arxiv.org/abs/2504.03814v3)** | 2025-07-02 |  |
-| **[MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants](http://arxiv.org/abs/2507.01887v1)** | 2025-07-02 | Work in progress |
-| **[Automated Synthesis of Formally Verified Multi-Abstraction Function Summaries](http://arxiv.org/abs/2506.09550v2)** | 2025-07-02 |  |
-| **[Towards Universal Semantics With Large Language Models](http://arxiv.org/abs/2505.11764v2)** | 2025-07-02 |  |
-| **[DIY-MKG: An LLM-Based Polyglot Language Learning System](http://arxiv.org/abs/2507.01872v1)** | 2025-07-02 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2025 System Demonstration</p></details> |
-| **[Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents](http://arxiv.org/abs/2507.01862v1)** | 2025-07-02 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, pre-print of poster accepted for HCI International 2025 (HCII 2025), CCIS vol 2529</p></details> |
+| **[Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](http://arxiv.org/abs/2507.02859v1)** | 2025-07-03 | Accepted by ICCV2025 |
+| **[Requirements Elicitation Follow-Up Question Generation](http://arxiv.org/abs/2507.02858v1)** | 2025-07-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, accepted at the 33rd IEEE International Requirements Engineering 2025</p></details> |
+| **[MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs](http://arxiv.org/abs/2507.02851v1)** | 2025-07-03 |  |
+| **[Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](http://arxiv.org/abs/2507.02844v1)** | 2025-07-03 | 16 pages |
+| **[LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](http://arxiv.org/abs/2507.02843v1)** | 2025-07-03 |  |
+| **[Improved Unbiased Watermark for Large Language Models](http://arxiv.org/abs/2502.11268v2)** | 2025-07-03 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference</p></details> |
+| **[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](http://arxiv.org/abs/2507.02841v1)** | 2025-07-03 |  |
+| **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](http://arxiv.org/abs/2506.18959v3)** | 2025-07-03 |  |
+| **[ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning](http://arxiv.org/abs/2507.02834v1)** | 2025-07-03 |  |
+| **[Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations](http://arxiv.org/abs/2507.01930v2)** | 2025-07-03 | 9 pages, 7 figures |
+| **[SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model](http://arxiv.org/abs/2507.02822v1)** | 2025-07-03 |  |
+| **[Multimodal Mathematical Reasoning with Diverse Solving Perspective](http://arxiv.org/abs/2507.02804v1)** | 2025-07-03 | 8 pages |
+| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
+| **[From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding](http://arxiv.org/abs/2507.02790v1)** | 2025-07-03 |  |
+| **[GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling](http://arxiv.org/abs/2506.22049v2)** | 2025-07-03 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CyberRAG: An agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v1)** | 2025-07-03 |  |
 | **[Towards Efficient Educational Chatbots: Benchmarking RAG Frameworks](http://arxiv.org/abs/2503.00781v2)** | 2025-07-02 | <details><summary>One o...</summary><p>One of the co-authors is having conflict in the submission to arXiv due to many edits (we have to make changes in evaluation strategies, i.e. section 5); in the paper there are still formatting issues</p></details> |
 | **[MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG](http://arxiv.org/abs/2507.01079v1)** | 2025-07-01 | 14 pages |
 | **[Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing](http://arxiv.org/abs/2505.02811v2)** | 2025-06-30 | <details><summary>Proce...</summary><p>Proceedings of the 48th International ACM SIGIR 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[CCRS: A Zero-Shot LLM-as-a-Judge Framework for Comprehensive RAG Evaluation](http://arxiv.org/abs/2506.20128v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at LLM4Eval @ SIGIR 2025</p></details> |
 | **[Controlled Retrieval-augmented Context Evaluation for Long-form RAG](http://arxiv.org/abs/2506.20051v1)** | 2025-06-24 |  |
 | **[T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent](http://arxiv.org/abs/2506.18559v1)** | 2025-06-23 |  |
-| **[Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance](http://arxiv.org/abs/2506.18511v1)** | 2025-06-23 |  |
 
