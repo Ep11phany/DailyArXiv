@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2025
+title: Latest 15 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers](http://arxiv.org/abs/2507.06223v1)** | 2025-07-08 | under review |
-| **[Instruction Following by Boosting Attention of Large Language Models](http://arxiv.org/abs/2506.13734v2)** | 2025-07-08 |  |
-| **[EEG2TEXT-CN: An Exploratory Study of Open-Vocabulary Chinese Text-EEG Alignment via Large Language Model and Contrastive Learning on ChineseEEG](http://arxiv.org/abs/2506.00854v3)** | 2025-07-08 |  |
-| **[A Survey on Latent Reasoning](http://arxiv.org/abs/2507.06203v1)** | 2025-07-08 |  |
-| **[Bias, Accuracy, and Trust: Gender-Diverse Perspectives on Large Language Models](http://arxiv.org/abs/2506.21898v2)** | 2025-07-08 |  |
-| **[UQLM: A Python Package for Uncertainty Quantification in Large Language Models](http://arxiv.org/abs/2507.06196v1)** | 2025-07-08 | <details><summary>Submi...</summary><p>Submitted to Journal of Machine Learning Research (MLOSS); UQLM Repository: https://github.com/cvs-health/uqlm</p></details> |
-| **[SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads](http://arxiv.org/abs/2507.06192v1)** | 2025-07-08 |  |
-| **[Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making](http://arxiv.org/abs/2507.03711v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted paper at MAPR 2025</p></details> |
-| **[Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review](http://arxiv.org/abs/2507.06185v1)** | 2025-07-08 |  |
-| **[Data-Semantics-Aware Recommendation of Diverse Pivot Tables](http://arxiv.org/abs/2507.06171v1)** | 2025-07-08 |  |
-| **[LAKEGEN: A LLM-based Tabular Corpus Generator for Evaluating Dataset Discovery in Data Lakes](http://arxiv.org/abs/2507.04687v2)** | 2025-07-08 | 13 pages |
-| **[Skywork-R1V3 Technical Report](http://arxiv.org/abs/2507.06167v1)** | 2025-07-08 |  |
-| **[Evaluation of Habitat Robotics using Large Language Models](http://arxiv.org/abs/2507.06157v1)** | 2025-07-08 | <details><summary>6 pag...</summary><p>6 pages, IEEE HPEC submission</p></details> |
-| **[Transformers Simulate MLE for Sequence Generation in Bayesian Networks](http://arxiv.org/abs/2501.02547v2)** | 2025-07-08 | <details><summary>51 pa...</summary><p>51 pages, 17 figures, 5 tables</p></details> |
-| **[Large Language Models Predict Human Well-being -- But Not Equally Everywhere](http://arxiv.org/abs/2507.06141v1)** | 2025-07-08 |  |
+| **[Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor](http://arxiv.org/abs/2507.07106v1)** | 2025-07-09 | <details><summary>Websi...</summary><p>Website: see https://vatsalag99.github.io/mustafar/</p></details> |
+| **[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](http://arxiv.org/abs/2507.07104v1)** | 2025-07-09 |  |
+| **[XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs](http://arxiv.org/abs/2506.23325v2)** | 2025-07-09 |  |
+| **[Less can be more for predicting properties with large language models](http://arxiv.org/abs/2406.17295v3)** | 2025-07-09 |  |
+| **[TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems](http://arxiv.org/abs/2506.04133v3)** | 2025-07-09 |  |
+| **[Multi-Attribute Steering of Language Models via Targeted Intervention](http://arxiv.org/abs/2502.12446v2)** | 2025-07-09 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready, code link: https://github.com/duykhuongnguyen/MAT-Steer</p></details> |
+| **[LCFO: Long Context and Long Form Output Dataset and Benchmarking](http://arxiv.org/abs/2412.08268v3)** | 2025-07-09 |  |
+| **[LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits](http://arxiv.org/abs/2410.01735v2)** | 2025-07-09 | <details><summary>28 pa...</summary><p>28 pages; First two authors contributed equally. Code: https://github.com/duykhuongnguyen/LASeR-MAB</p></details> |
+| **[5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage](http://arxiv.org/abs/2507.07045v1)** | 2025-07-09 | <details><summary>5 pag...</summary><p>5 pages, 5 tables. Includes comparative experimental results across OpenAI, Anthropic, DeepSeek, and Gemini LLMs</p></details> |
+| **[UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations](http://arxiv.org/abs/2507.07030v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 (main)</p></details> |
+| **[First Return, Entropy-Eliciting Explore](http://arxiv.org/abs/2507.07017v1)** | 2025-07-09 |  |
+| **[TokenShapley: Token Level Context Attribution with Shapley Value](http://arxiv.org/abs/2507.05261v2)** | 2025-07-09 |  |
+| **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
+| **[Skewed Score: A statistical framework to assess autograders](http://arxiv.org/abs/2507.03772v2)** | 2025-07-09 |  |
+| **[Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs](http://arxiv.org/abs/2507.06999v1)** | 2025-07-09 | Work in progress |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPEAR: Subset-sampled Performance Evaluation via Automated Ground Truth Generation for RAG](http://arxiv.org/abs/2507.06554v1)** | 2025-07-09 |  |
+| **[Ragged Blocks: Rendering Structured Text with Style](http://arxiv.org/abs/2507.06460v1)** | 2025-07-09 |  |
 | **[DRAGON: Dynamic RAG Benchmark On News](http://arxiv.org/abs/2507.05713v1)** | 2025-07-08 |  |
 | **[RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](http://arxiv.org/abs/2507.02962v2)** | 2025-07-08 |  |
 | **[Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis](http://arxiv.org/abs/2507.05520v1)** | 2025-07-07 | <details><summary>2025 ...</summary><p>2025 ImageCLEF MEDIQA-MAGIC Challenge</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems](http://arxiv.org/abs/2507.03226v1)** | 2025-07-04 |  |
 | **[CyberRAG: An agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v1)** | 2025-07-03 |  |
 | **[Towards Efficient Educational Chatbots: Benchmarking RAG Frameworks](http://arxiv.org/abs/2503.00781v2)** | 2025-07-02 | <details><summary>One o...</summary><p>One of the co-authors is having conflict in the submission to arXiv due to many edits (we have to make changes in evaluation strategies, i.e. section 5); in the paper there are still formatting issues</p></details> |
-| **[MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG](http://arxiv.org/abs/2507.01079v1)** | 2025-07-01 | 14 pages |
-| **[Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing](http://arxiv.org/abs/2505.02811v2)** | 2025-06-30 | <details><summary>Proce...</summary><p>Proceedings of the 48th International ACM SIGIR 2025</p></details> |
 
