@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning](http://arxiv.org/abs/2502.03304v2)** | 2025-07-18 |  |
-| **[CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning](http://arxiv.org/abs/2507.14111v1)** | 2025-07-18 | Preprint Version |
-| **[Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment](http://arxiv.org/abs/2507.14107v1)** | 2025-07-18 |  |
-| **[Generative AI-Driven High-Fidelity Human Motion Simulation](http://arxiv.org/abs/2507.14097v1)** | 2025-07-18 |  |
-| **[Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track](http://arxiv.org/abs/2507.14096v1)** | 2025-07-18 |  |
-| **[Learning to Reason at the Frontier of Learnability](http://arxiv.org/abs/2502.12272v5)** | 2025-07-18 |  |
-| **[DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration](http://arxiv.org/abs/2507.14088v1)** | 2025-07-18 |  |
-| **[Sparse Rewards Can Self-Train Dialogue Agents](http://arxiv.org/abs/2409.04617v3)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
-| **[DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits](http://arxiv.org/abs/2507.14079v1)** | 2025-07-18 |  |
-| **[On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding](http://arxiv.org/abs/2505.12723v2)** | 2025-07-18 |  |
-| **[Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks](http://arxiv.org/abs/2507.14045v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at Canadian AI 2025</p></details> |
-| **[Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors](http://arxiv.org/abs/2507.14034v1)** | 2025-07-18 |  |
-| **[KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models](http://arxiv.org/abs/2507.14032v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to the 24th International Semantic Web Conference Research Track (ISWC 2025)</p></details> |
-| **[Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](http://arxiv.org/abs/2503.09567v5)** | 2025-07-18 | <details><summary>Paper...</summary><p>Paper list and Github tutorial are available at https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning. Update 250+ New Reference</p></details> |
-| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v1)** | 2025-07-21 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](http://arxiv.org/abs/2507.15855v1)** | 2025-07-21 |  |
+| **[The Other Mind: How Language Models Exhibit Human Temporal Cognition](http://arxiv.org/abs/2507.15851v1)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 4 tables</p></details> |
+| **[3LM: Bridging Arabic, STEM, and Code through Benchmarking](http://arxiv.org/abs/2507.15850v1)** | 2025-07-21 |  |
+| **[The Impact of Language Mixing on Bilingual LLM Reasoning](http://arxiv.org/abs/2507.15849v1)** | 2025-07-21 |  |
+| **[FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs](http://arxiv.org/abs/2507.15839v1)** | 2025-07-21 |  |
+| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v2)** | 2025-07-21 | <details><summary>ongoi...</summary><p>ongoing work; 166 pages, 1411 citations</p></details> |
+| **[Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation](http://arxiv.org/abs/2507.15826v1)** | 2025-07-21 |  |
+| **[ACS: An interactive framework for conformal selection](http://arxiv.org/abs/2507.15825v1)** | 2025-07-21 |  |
+| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v1)** | 2025-07-21 |  |
+| **[LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra](http://arxiv.org/abs/2507.15815v1)** | 2025-07-21 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, Code: https://github.com/sethkarten/LLM-Economist</p></details> |
+| **[True Multimodal In-Context Learning Needs Attention to the Visual Context](http://arxiv.org/abs/2507.15807v1)** | 2025-07-21 | <details><summary>accep...</summary><p>accepted to COLM 2025</p></details> |
+| **[Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning](http://arxiv.org/abs/2507.15788v1)** | 2025-07-21 |  |
+| **[DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs](http://arxiv.org/abs/2506.11558v3)** | 2025-07-21 |  |
+| **[Reservoir Computing as a Language Model](http://arxiv.org/abs/2507.15779v1)** | 2025-07-21 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?](http://arxiv.org/abs/2412.08985v4)** | 2025-07-21 | ACL 2025 Main |
+| **[Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning](http://arxiv.org/abs/2507.10571v2)** | 2025-07-18 |  |
 | **[RAG-based Architectures for Drug Side Effect Retrieval in LLMs](http://arxiv.org/abs/2507.13822v1)** | 2025-07-18 |  |
 | **[ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems](http://arxiv.org/abs/2501.08208v2)** | 2025-07-18 | 29 pages |
 | **[Secure Multifaceted-RAG for Enterprise: Hybrid Knowledge Retrieval with Security Filtering](http://arxiv.org/abs/2504.13425v2)** | 2025-07-17 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG](http://arxiv.org/abs/2507.10411v1)** | 2025-07-14 |  |
 | **[Beyond classical and contemporary models: a transformative AI framework for student dropout prediction in distance learning using RAG, Prompt engineering, and Cross-modal fusion](http://arxiv.org/abs/2507.05285v2)** | 2025-07-14 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 Algorithms, 17th International Conference on Education and New Learning Technologies,: 30 June-2 July, 2025 Location: Palma, Spain</p></details> |
 | **[Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis](http://arxiv.org/abs/2507.10382v1)** | 2025-07-14 |  |
-| **[Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding](http://arxiv.org/abs/2506.16035v2)** | 2025-07-13 | <details><summary>11 pa...</summary><p>11 pages, 1 Figure, 1 Table</p></details> |
-| **[KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?](http://arxiv.org/abs/2412.08985v3)** | 2025-07-13 | ACL 2025 Main |
 
