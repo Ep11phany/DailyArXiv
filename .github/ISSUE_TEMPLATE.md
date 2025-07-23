@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v1)** | 2025-07-21 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](http://arxiv.org/abs/2507.15855v1)** | 2025-07-21 |  |
-| **[The Other Mind: How Language Models Exhibit Human Temporal Cognition](http://arxiv.org/abs/2507.15851v1)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 4 tables</p></details> |
-| **[3LM: Bridging Arabic, STEM, and Code through Benchmarking](http://arxiv.org/abs/2507.15850v1)** | 2025-07-21 |  |
-| **[The Impact of Language Mixing on Bilingual LLM Reasoning](http://arxiv.org/abs/2507.15849v1)** | 2025-07-21 |  |
-| **[FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs](http://arxiv.org/abs/2507.15839v1)** | 2025-07-21 |  |
-| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v2)** | 2025-07-21 | <details><summary>ongoi...</summary><p>ongoing work; 166 pages, 1411 citations</p></details> |
-| **[Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation](http://arxiv.org/abs/2507.15826v1)** | 2025-07-21 |  |
-| **[ACS: An interactive framework for conformal selection](http://arxiv.org/abs/2507.15825v1)** | 2025-07-21 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v1)** | 2025-07-21 |  |
-| **[LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra](http://arxiv.org/abs/2507.15815v1)** | 2025-07-21 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, Code: https://github.com/sethkarten/LLM-Economist</p></details> |
-| **[True Multimodal In-Context Learning Needs Attention to the Visual Context](http://arxiv.org/abs/2507.15807v1)** | 2025-07-21 | <details><summary>accep...</summary><p>accepted to COLM 2025</p></details> |
-| **[Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning](http://arxiv.org/abs/2507.15788v1)** | 2025-07-21 |  |
-| **[DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs](http://arxiv.org/abs/2506.11558v3)** | 2025-07-21 |  |
-| **[Reservoir Computing as a Language Model](http://arxiv.org/abs/2507.15779v1)** | 2025-07-21 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
+| **[LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs](http://arxiv.org/abs/2507.16809v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 17 figures, 10 tables</p></details> |
+| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
+| **[Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning](http://arxiv.org/abs/2507.16802v1)** | 2025-07-22 |  |
+| **[Gemini 2.5 Pro Capable of Winning Gold at IMO 2025](http://arxiv.org/abs/2507.15855v2)** | 2025-07-22 |  |
+| **[Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent](http://arxiv.org/abs/2507.16799v1)** | 2025-07-22 |  |
+| **[Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning](http://arxiv.org/abs/2507.16795v1)** | 2025-07-22 |  |
+| **[ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation](http://arxiv.org/abs/2507.16792v1)** | 2025-07-22 |  |
+| **[Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](http://arxiv.org/abs/2507.16784v1)** | 2025-07-22 | Research preview |
+| **[Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems](http://arxiv.org/abs/2507.16781v1)** | 2025-07-22 | 11 pages |
+| **[When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs](http://arxiv.org/abs/2507.16773v1)** | 2025-07-22 |  |
+| **[RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment](http://arxiv.org/abs/2501.07525v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
+| **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v2)** | 2025-07-22 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
+| **[WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding](http://arxiv.org/abs/2507.16768v1)** | 2025-07-22 |  |
+| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
+| **[Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges](http://arxiv.org/abs/2507.16731v1)** | 2025-07-22 | 35 pages, 9 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance](http://arxiv.org/abs/2507.16711v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted and published at BigData 2024, 3 pages, 3 tables, 2 figures</p></details> |
+| **[Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications](http://arxiv.org/abs/2507.16507v1)** | 2025-07-22 | <details><summary>ECAI ...</summary><p>ECAI 2025 demo track, 4 pages</p></details> |
 | **[KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?](http://arxiv.org/abs/2412.08985v4)** | 2025-07-21 | ACL 2025 Main |
 | **[Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning](http://arxiv.org/abs/2507.10571v2)** | 2025-07-18 |  |
 | **[RAG-based Architectures for Drug Side Effect Retrieval in LLMs](http://arxiv.org/abs/2507.13822v1)** | 2025-07-18 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](http://arxiv.org/abs/2507.02962v3)** | 2025-07-15 |  |
 | **[DRAGON: Dynamic RAG Benchmark On News](http://arxiv.org/abs/2507.05713v2)** | 2025-07-15 |  |
 | **[Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG](http://arxiv.org/abs/2507.10411v1)** | 2025-07-14 |  |
-| **[Beyond classical and contemporary models: a transformative AI framework for student dropout prediction in distance learning using RAG, Prompt engineering, and Cross-modal fusion](http://arxiv.org/abs/2507.05285v2)** | 2025-07-14 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 Algorithms, 17th International Conference on Education and New Learning Technologies,: 30 June-2 July, 2025 Location: Palma, Spain</p></details> |
-| **[Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis](http://arxiv.org/abs/2507.10382v1)** | 2025-07-14 |  |
 
