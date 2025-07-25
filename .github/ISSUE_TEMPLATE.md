@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2025
+title: Latest 15 Papers - July 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](http://arxiv.org/abs/2507.01939v2)** | 2025-07-23 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 5 tables. Updated with minor corrections to flux normalization, and to related tables and figures. Submitted to AAS Journals. Comments welcome</p></details> |
-| **[Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning](http://arxiv.org/abs/2507.16802v2)** | 2025-07-23 |  |
-| **[BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems](http://arxiv.org/abs/2507.17722v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted in The IEEE International Conference on Intelligent Transportation Systems (ITSC)2025</p></details> |
-| **[AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer](http://arxiv.org/abs/2507.17718v1)** | 2025-07-23 |  |
-| **[Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](http://arxiv.org/abs/2505.18079v3)** | 2025-07-23 | <details><summary>V3 dr...</summary><p>V3 draft. Under review</p></details> |
-| **[HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging](http://arxiv.org/abs/2507.17706v1)** | 2025-07-23 |  |
-| **[Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models](http://arxiv.org/abs/2507.17702v1)** | 2025-07-23 |  |
-| **[Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations](http://arxiv.org/abs/2507.17699v1)** | 2025-07-23 |  |
-| **[A Mathematical Theory of Discursive Networks](http://arxiv.org/abs/2507.06565v5)** | 2025-07-23 | <details><summary>42 pa...</summary><p>42 pages, 4 figures, 4 tables, 3 algorithm, 61 references</p></details> |
-| **[Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks](http://arxiv.org/abs/2507.17695v1)** | 2025-07-23 | <details><summary>Submi...</summary><p>Submitted to Computer Networks AI for 6G</p></details> |
-| **[LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](http://arxiv.org/abs/2506.15606v2)** | 2025-07-23 |  |
-| **[Simulating multiple human perspectives in socio-ecological systems using large language models](http://arxiv.org/abs/2507.17680v1)** | 2025-07-23 |  |
-| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
-| **[See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering](http://arxiv.org/abs/2507.17659v1)** | 2025-07-23 |  |
-| **[Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries](http://arxiv.org/abs/2507.17636v1)** | 2025-07-23 |  |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v2)** | 2025-07-24 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[TRPrompt: Bootstrapping Query-Aware Prompt Optimization from Textual Rewards](http://arxiv.org/abs/2507.18618v1)** | 2025-07-24 |  |
+| **[Explainable Mapper: Charting LLM Embedding Spaces Using Perturbation-Based Explanation and Verification Agents](http://arxiv.org/abs/2507.18607v1)** | 2025-07-24 |  |
+| **[Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs](http://arxiv.org/abs/2503.16870v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted as Oral paper at ACL 2025. Source code is available at https://github.com/akhilkedia/RandomSamplingKD . Anshumann, Mohd Abbas Zaidi and Akhil Kedia have Equal Contribution</p></details> |
+| **[Linear Memory SE(2) Invariant Attention](http://arxiv.org/abs/2507.18597v1)** | 2025-07-24 | <details><summary>Best ...</summary><p>Best paper award, Equivariant Systems Workshop at RSS</p></details> |
+| **[AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs](http://arxiv.org/abs/2507.18584v1)** | 2025-07-24 | 32 pages, 4 figures |
+| **[DR.EHR: Dense Retrieval for Electronic Health Record with Knowledge Injection and Synthetic Data](http://arxiv.org/abs/2507.18583v1)** | 2025-07-24 | <details><summary>Model...</summary><p>Model and code released upon acceptance</p></details> |
+| **[P-React: Synthesizing Topic-Adaptive Reactions of Personality Traits via Mixture of Specialized LoRA Experts](http://arxiv.org/abs/2406.12548v3)** | 2025-07-24 |  |
+| **[Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](http://arxiv.org/abs/2507.18578v1)** | 2025-07-24 |  |
+| **[LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs](http://arxiv.org/abs/2507.16809v2)** | 2025-07-24 | <details><summary>42p, ...</summary><p>42p, 17f, 10t. Revisions: Merged paragraphs in Intro to emphasize contributions. Clarified benchmark design (Sec 3.5.1). Added single-agent, OpenAI-guided & 6-round experiments (Sec 5.2). Note: we only ran each experiment once; statistical tests are needed for strong claims. Revised Sec 6. Added acknowledgements, 2 new co-authors, and corrected typos/grammar</p></details> |
+| **[Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning](http://arxiv.org/abs/2507.16802v3)** | 2025-07-24 |  |
+| **[HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven Sentiment Integration for Financial Portfolio Optimization](http://arxiv.org/abs/2507.18560v1)** | 2025-07-24 |  |
+| **[Omni-Thinker: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards](http://arxiv.org/abs/2507.14783v2)** | 2025-07-24 |  |
+| **[LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important](http://arxiv.org/abs/2504.04704v2)** | 2025-07-24 |  |
+| **[The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm](http://arxiv.org/abs/2507.18553v1)** | 2025-07-24 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection](http://arxiv.org/abs/2507.18202v1)** | 2025-07-24 | <details><summary>18 pa...</summary><p>18 pages, accepted to ACL Findings 2025</p></details> |
 | **[TAI Scan Tool: A RAG-Based Tool With Minimalistic Input for Trustworthy AI Self-Assessment](http://arxiv.org/abs/2507.17514v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 4 tables</p></details> |
 | **[Each to Their Own: Exploring the Optimal Embedding in RAG](http://arxiv.org/abs/2507.17442v1)** | 2025-07-23 |  |
 | **[Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis](http://arxiv.org/abs/2507.10382v2)** | 2025-07-23 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](http://arxiv.org/abs/2507.09477v2)** | 2025-07-16 | submitted to ARR May |
 | **[RAGGED: Towards Informed Design of Scalable and Stable RAG Systems](http://arxiv.org/abs/2403.09040v3)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://github.com/neulab/ragged</p></details> |
 | **[METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](http://arxiv.org/abs/2412.10543v2)** | 2025-07-16 | 17 pages, 18 figures |
-| **[An Empirical Study of Multi-Agent RAG for Real-World University Admissions Counseling](http://arxiv.org/abs/2507.11272v1)** | 2025-07-15 |  |
 
