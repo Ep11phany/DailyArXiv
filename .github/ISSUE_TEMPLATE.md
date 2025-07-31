@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MetaCLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v1)** | 2025-07-29 | 10 pages |
-| **[DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router](http://arxiv.org/abs/2507.22050v1)** | 2025-07-29 | <details><summary>22 pa...</summary><p>22 pages, work in progress</p></details> |
-| **[Validating Generative Agent-Based Models of Social Norm Enforcement: From Replication to Novel Predictions](http://arxiv.org/abs/2507.22049v1)** | 2025-07-29 |  |
-| **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
-| **[UserBench: An Interactive Gym Environment for User-Centric Agents](http://arxiv.org/abs/2507.22034v1)** | 2025-07-29 | <details><summary>25 Pa...</summary><p>25 Pages, 17 Figures, 6 Tables</p></details> |
-| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
-| **[FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression](http://arxiv.org/abs/2505.23966v3)** | 2025-07-29 |  |
-| **[SAND-Math: Using LLMs to Generate Novel, Difficult and Useful Mathematics Questions and Answers](http://arxiv.org/abs/2507.20527v2)** | 2025-07-29 |  |
-| **[From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition](http://arxiv.org/abs/2507.14686v2)** | 2025-07-29 |  |
-| **[ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](http://arxiv.org/abs/2507.21990v1)** | 2025-07-29 | 13 figures, 4 tables |
-| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](http://arxiv.org/abs/2507.21983v1)** | 2025-07-29 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
-| **[Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with Large Language Models](http://arxiv.org/abs/2507.21980v1)** | 2025-07-29 |  |
-| **[The Effect of Compression Techniques on Large Multimodal Language Models in the Medical Domain](http://arxiv.org/abs/2507.21976v1)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. tcolorbox dependencies were removed for arXiv compatibility. All references are included via a precompiled .bbl file</p></details> |
-| **[LIMO: Less is More for Reasoning](http://arxiv.org/abs/2502.03387v3)** | 2025-07-29 | COLM 2025 |
-| **[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](http://arxiv.org/abs/2507.21974v1)** | 2025-07-29 |  |
+| **[Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning](http://arxiv.org/abs/2507.22887v1)** | 2025-07-30 |  |
+| **[A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](http://arxiv.org/abs/2507.21046v2)** | 2025-07-30 | 51 pages, 9 figures |
+| **[RecGPT Technical Report](http://arxiv.org/abs/2507.22879v1)** | 2025-07-30 |  |
+| **[Automatically discovering heuristics in a complex SAT solver with large language models](http://arxiv.org/abs/2507.22876v1)** | 2025-07-30 |  |
+| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
+| **[FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models](http://arxiv.org/abs/2507.20930v2)** | 2025-07-30 |  |
+| **[Past Meets Present: Creating Historical Analogy with Large Language Models](http://arxiv.org/abs/2409.14820v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Outstanding Paper Award)</p></details> |
+| **[Examining Human-AI Collaboration for Co-Writing Constructive Comments Online](http://arxiv.org/abs/2411.03295v5)** | 2025-07-30 |  |
+| **[MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models](http://arxiv.org/abs/2505.19959v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ACL'25 main track</p></details> |
+| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v3)** | 2025-07-30 |  |
+| **[ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](http://arxiv.org/abs/2507.22827v1)** | 2025-07-30 |  |
+| **[The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation for Healthcare QA](http://arxiv.org/abs/2407.18044v2)** | 2025-07-30 | 27 pages |
+| **[MoCHA: Advanced Vision-Language Reasoning with MoE Connector and Hierarchical Group Attention](http://arxiv.org/abs/2507.22805v1)** | 2025-07-30 |  |
+| **[IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation](http://arxiv.org/abs/2505.08450v2)** | 2025-07-30 |  |
+| **[Neutral Residues: Revisiting Adapters for Model Extension](http://arxiv.org/abs/2410.02744v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection](http://arxiv.org/abs/2507.19856v2)** | 2025-07-30 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, conference</p></details> |
 | **[Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation](http://arxiv.org/abs/2507.21934v1)** | 2025-07-29 |  |
 | **[FB-RAG: Improving RAG with Forward and Backward Lookup](http://arxiv.org/abs/2505.17206v2)** | 2025-07-29 |  |
 | **[Towards a rigorous evaluation of RAG systems: the challenge of due diligence](http://arxiv.org/abs/2507.21753v1)** | 2025-07-29 | <details><summary>in Fr...</summary><p>in French language. EvalLLM2025: Workshop on Evaluation Generative Models (LLM) and Challenges, AMIAD, 2025, Marseille, France</p></details> |
@@ -34,7 +35,6 @@ labels: documentation
 | **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](http://arxiv.org/abs/2507.20136v1)** | 2025-07-27 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge</p></details> |
 | **[RAG in the Wild: On the (In)effectiveness of LLMs with Mixture-of-Knowledge Retrieval Augmentation](http://arxiv.org/abs/2507.20059v1)** | 2025-07-26 | <details><summary>Work ...</summary><p>Work in Progress. Code will be published at: https://github.com/ritaranx/RAG_in_the_Wild</p></details> |
 | **[Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](http://arxiv.org/abs/2412.16708v2)** | 2025-07-26 |  |
-| **[RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection](http://arxiv.org/abs/2507.19856v1)** | 2025-07-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, conference</p></details> |
 | **[A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions](http://arxiv.org/abs/2507.18910v1)** | 2025-07-25 | 33 pages, 2 figures |
 | **[PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning](http://arxiv.org/abs/2507.18857v1)** | 2025-07-25 |  |
 | **[Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection](http://arxiv.org/abs/2507.18202v1)** | 2025-07-24 | <details><summary>18 pa...</summary><p>18 pages, accepted to ACL Findings 2025</p></details> |
