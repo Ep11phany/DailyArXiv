@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model](http://arxiv.org/abs/2507.23773v1)** | 2025-07-31 |  |
-| **[SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting](http://arxiv.org/abs/2507.23772v1)** | 2025-07-31 |  |
-| **[Perception-Aware Policy Optimization for Multimodal Reasoning](http://arxiv.org/abs/2507.06448v3)** | 2025-07-31 |  |
-| **[Rule2Text: Natural Language Explanation of Logical Rules in Knowledge Graphs](http://arxiv.org/abs/2507.23740v1)** | 2025-07-31 |  |
-| **[How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment](http://arxiv.org/abs/2401.13481v3)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at ACM Collective Intelligence 2025. Originally posted 2024</p></details> |
-| **[DICOM De-Identification via Hybrid AI and Rule-Based Framework for Scalable, Uncertainty-Aware Redaction](http://arxiv.org/abs/2507.23736v1)** | 2025-07-31 | 15 pages, 6 figures, |
-| **[Distributed AI Agents for Cognitive Underwater Robot Autonomy](http://arxiv.org/abs/2507.23735v1)** | 2025-07-31 |  |
-| **[RecGPT Technical Report](http://arxiv.org/abs/2507.22879v2)** | 2025-07-31 |  |
-| **[Unable to Forget: Proactive Interference Reveals Working Memory Limits in LLMs Beyond Context Length](http://arxiv.org/abs/2506.08184v3)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 Workshop on Long Context Foundation Models (ICFM). Code: https://github.com/zhuangziGiantfish/Unable-to-Forget</p></details> |
-| **[A survey of multi-agent geosimulation methodologies: from ABM to LLM](http://arxiv.org/abs/2507.23694v1)** | 2025-07-31 | 20 pages, 1 table |
-| **[DepMicroDiff: Diffusion-Based Dependency-Aware Multimodal Imputation for Microbiome Data](http://arxiv.org/abs/2507.23676v1)** | 2025-07-31 |  |
-| **[TweakLLM: A Routing Architecture for Dynamic Tailoring of Cached Responses](http://arxiv.org/abs/2507.23674v1)** | 2025-07-31 | 13 pages, 9 figures |
-| **[White-Basilisk: A Hybrid Model for Code Vulnerability Detection](http://arxiv.org/abs/2507.08540v2)** | 2025-07-31 |  |
-| **[Who's important? -- SUnSET: Synergistic Understanding of Stakeholder, Events and Time for Timeline Generation](http://arxiv.org/abs/2507.21903v2)** | 2025-07-31 |  |
-| **[How Can I Publish My LLM Benchmark Without Giving the True Answers Away?](http://arxiv.org/abs/2505.18102v2)** | 2025-07-31 | <details><summary>Exten...</summary><p>Extended version of the paper presented as an Oral at the ICML 2025 Workshop on the Impact of Memorization on Trustworthy Foundation Models</p></details> |
+| **[Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v1)** | 2025-08-01 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
+| **[Adacc: Adaptive Compression and Activation Checkpointing for LLM Memory Management](http://arxiv.org/abs/2508.00806v1)** | 2025-08-01 | 8 pages |
+| **[A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](http://arxiv.org/abs/2507.21046v3)** | 2025-08-01 | 51 pages, 9 figures |
+| **[Do They Understand Them? An Updated Evaluation on Nonbinary Pronoun Handling in Large Language Models](http://arxiv.org/abs/2508.00788v1)** | 2025-08-01 |  |
+| **[An Investigation into Value Misalignment in LLM-Generated Texts for Cultural Heritage](http://arxiv.org/abs/2501.02039v3)** | 2025-08-01 |  |
+| **[ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation](http://arxiv.org/abs/2508.00762v1)** | 2025-08-01 |  |
+| **[Mitigating Gender Bias via Fostering Exploratory Thinking in LLMs](http://arxiv.org/abs/2505.17217v2)** | 2025-08-01 |  |
+| **[MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations](http://arxiv.org/abs/2508.00760v1)** | 2025-08-01 |  |
+| **[GLiDRE: Generalist Lightweight model for Document-level Relation Extraction](http://arxiv.org/abs/2508.00757v1)** | 2025-08-01 | <details><summary>Submi...</summary><p>Submitted to ARR July</p></details> |
+| **[Sound and Complete Neurosymbolic Reasoning with LLM-Grounded Interpretations](http://arxiv.org/abs/2507.09751v2)** | 2025-08-01 | <details><summary>29 pa...</summary><p>29 pages, 9 tables, 3 figures. Accepted to the 19th Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)</p></details> |
+| **[Agentic large language models improve retrieval-based radiology question answering](http://arxiv.org/abs/2508.00743v1)** | 2025-08-01 |  |
+| **[Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents](http://arxiv.org/abs/2508.00742v1)** | 2025-08-01 | 26 pages, 14 figures |
+| **[Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data](http://arxiv.org/abs/2508.00741v1)** | 2025-08-01 |  |
+| **[How LLMs are Shaping the Future of Virtual Reality](http://arxiv.org/abs/2508.00737v1)** | 2025-08-01 | Pre-print |
+| **[MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2508.00726v1)** | 2025-08-01 | <details><summary>ACM M...</summary><p>ACM MM25 has accepted this paper</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System](http://arxiv.org/abs/2508.00709v1)** | 2025-08-01 |  |
+| **[GETALP@AutoMin 2025: Leveraging RAG to Answer Questions based on Meeting Transcripts](http://arxiv.org/abs/2508.00476v1)** | 2025-08-01 |  |
+| **[RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](http://arxiv.org/abs/2507.02962v4)** | 2025-08-01 |  |
+| **[Credible Plan-Driven RAG Method for Multi-Hop Question Answering](http://arxiv.org/abs/2504.16787v2)** | 2025-08-01 | 17 pages, 5 figures |
 | **[DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search](http://arxiv.org/abs/2507.07426v3)** | 2025-07-31 |  |
 | **[KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities](http://arxiv.org/abs/2507.07695v2)** | 2025-07-31 | 21 pages, 14 figures |
 | **[Ragged Blocks: Rendering Structured Text with Style](http://arxiv.org/abs/2507.06460v2)** | 2025-07-31 | <details><summary>UIST ...</summary><p>UIST 2025 Paper + Appendices</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Efficacy of AI RAG Tools for Complex Information Extraction and Data Annotation Tasks: A Case Study Using Banks Public Disclosures](http://arxiv.org/abs/2507.21360v1)** | 2025-07-28 |  |
 | **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](http://arxiv.org/abs/2507.20136v1)** | 2025-07-27 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge</p></details> |
 | **[RAG in the Wild: On the (In)effectiveness of LLMs with Mixture-of-Knowledge Retrieval Augmentation](http://arxiv.org/abs/2507.20059v1)** | 2025-07-26 | <details><summary>Work ...</summary><p>Work in Progress. Code will be published at: https://github.com/ritaranx/RAG_in_the_Wild</p></details> |
-| **[Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](http://arxiv.org/abs/2412.16708v2)** | 2025-07-26 |  |
-| **[A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions](http://arxiv.org/abs/2507.18910v1)** | 2025-07-25 | 33 pages, 2 figures |
-| **[PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning](http://arxiv.org/abs/2507.18857v1)** | 2025-07-25 |  |
-| **[Enhancing RAG Efficiency with Adaptive Context Compression](http://arxiv.org/abs/2507.22931v1)** | 2025-07-24 |  |
 
