@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2025
+title: Latest 15 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effective Training Data Synthesis for Improving MLLM Chart Understanding](http://arxiv.org/abs/2508.06492v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (poster). 26 pages, 17 figures</p></details> |
-| **[Non-programmers Assessing AI-Generated Code: A Case Study of Business Users Analyzing Data](http://arxiv.org/abs/2508.06484v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by VL/HCC 2025</p></details> |
-| **[AI-Assisted Conversational Interviewing: Effects on Data Quality and User Experience](http://arxiv.org/abs/2504.13908v2)** | 2025-08-08 |  |
-| **[The Problem of Atypicality in LLM-Powered Psychiatry](http://arxiv.org/abs/2508.06479v1)** | 2025-08-08 | <details><summary>Prepr...</summary><p>Preprint of 8/8/2025 -- please cite published version. This article has been published in the Journal of Medical Ethics (2025) following peer review and can also be viewed on the journal's website at 10.1136/jme-2025-110972</p></details> |
-| **[HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning](http://arxiv.org/abs/2508.06475v1)** | 2025-08-08 |  |
-| **[GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](http://arxiv.org/abs/2508.06471v1)** | 2025-08-08 |  |
-| **[LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](http://arxiv.org/abs/2508.06467v1)** | 2025-08-08 | <details><summary>14 Pa...</summary><p>14 Pages, 3 Figures, 11 Tables</p></details> |
-| **[ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls](http://arxiv.org/abs/2508.06457v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at CAMLIS 25: Conference on Applied Machine Learning for Information Security. 10 pages, 3 figures</p></details> |
-| **[Text Embedded Swin-UMamba for DeepLesion Segmentation](http://arxiv.org/abs/2508.06453v1)** | 2025-08-08 |  |
-| **[CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation](http://arxiv.org/abs/2504.15254v2)** | 2025-08-08 | <details><summary>To be...</summary><p>To be published at COLM, 2025</p></details> |
-| **[SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning](http://arxiv.org/abs/2508.06447v1)** | 2025-08-08 |  |
-| **[Exploring the Evidence-Based SE Beliefs of Generative AI Tools](http://arxiv.org/abs/2407.13900v4)** | 2025-08-08 |  |
-| **[Learning the Topic, Not the Language: How LLMs Classify Online Immigration Discourse Across Languages](http://arxiv.org/abs/2508.06435v1)** | 2025-08-08 |  |
-| **[Memp: Exploring Agent Procedural Memory](http://arxiv.org/abs/2508.06433v1)** | 2025-08-08 | Work in progress |
-| **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](http://arxiv.org/abs/2501.01872v3)** | 2025-08-08 | <details><summary>Our c...</summary><p>Our code is publicly available at https://github.com/UKPLab/arxiv2025-poate-attack</p></details> |
+| **[Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](http://arxiv.org/abs/2508.09138v1)** | 2025-08-12 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/dLLM-MidTruth</p></details> |
+| **[BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair](http://arxiv.org/abs/2508.09129v1)** | 2025-08-12 |  |
+| **[Complex Logical Instruction Generation](http://arxiv.org/abs/2508.09125v1)** | 2025-08-12 |  |
+| **[Retrieval-Augmented Generation with Conflicting Evidence](http://arxiv.org/abs/2504.13079v2)** | 2025-08-12 | <details><summary>COLM ...</summary><p>COLM 2025, Data and Code: https://github.com/HanNight/RAMDocs</p></details> |
+| **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](http://arxiv.org/abs/2508.09124v1)** | 2025-08-12 |  |
+| **[SinLlama - A Large Language Model for Sinhala](http://arxiv.org/abs/2508.09115v1)** | 2025-08-12 |  |
+| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](http://arxiv.org/abs/2508.04349v2)** | 2025-08-12 |  |
+| **[ViStoryBench: Comprehensive Benchmark Suite for Story Visualization](http://arxiv.org/abs/2505.24862v3)** | 2025-08-12 | <details><summary>33 Pa...</summary><p>33 Pages, Project Page: https://vistorybench.github.io/, Code: https://github.com/vistorybench/vistorybench</p></details> |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v1)** | 2025-08-12 |  |
+| **[AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators](http://arxiv.org/abs/2508.09101v1)** | 2025-08-12 | <details><summary>Homep...</summary><p>Homepage: https://autocodebench.github.io/</p></details> |
+| **[LLMEval-3: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models](http://arxiv.org/abs/2508.05452v2)** | 2025-08-12 |  |
+| **[Scaling Up Active Testing to Large Language Models](http://arxiv.org/abs/2508.09093v1)** | 2025-08-12 |  |
+| **[Utilizing Multilingual Encoders to Improve Large Language Models for Low-Resource Languages](http://arxiv.org/abs/2508.09091v1)** | 2025-08-12 |  |
+| **[Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?](http://arxiv.org/abs/2506.14805v2)** | 2025-08-12 |  |
+| **[Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring](http://arxiv.org/abs/2508.09085v1)** | 2025-08-12 | 14 pages, 10 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v1)** | 2025-08-12 |  |
+| **[RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](http://arxiv.org/abs/2506.14412v2)** | 2025-08-12 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Report for SIGIR 2025 LiveRAG Challenge</p></details> |
+| **[Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review](http://arxiv.org/abs/2508.08610v1)** | 2025-08-12 | <details><summary>27 pa...</summary><p>27 pages, 1 figure, 8 tables</p></details> |
+| **[Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning](http://arxiv.org/abs/2508.07956v1)** | 2025-08-11 |  |
+| **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v1)** | 2025-08-11 |  |
+| **[Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory](http://arxiv.org/abs/2508.07664v1)** | 2025-08-11 |  |
+| **[PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization](http://arxiv.org/abs/2508.07342v1)** | 2025-08-10 |  |
 | **[Classification is a RAG problem: A case study on hate speech detection](http://arxiv.org/abs/2508.06204v1)** | 2025-08-08 |  |
 | **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](http://arxiv.org/abs/2508.06165v1)** | 2025-08-08 |  |
 | **[You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](http://arxiv.org/abs/2508.06105v1)** | 2025-08-08 |  |
@@ -34,11 +41,4 @@ labels: documentation
 | **[mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering](http://arxiv.org/abs/2508.05318v1)** | 2025-08-07 |  |
 | **[QA-Dragon: Query-Aware Dynamic RAG System for Knowledge-Intensive Visual Question Answering](http://arxiv.org/abs/2508.05197v1)** | 2025-08-07 | <details><summary>The s...</summary><p>The source code for our system is released in https://github.com/jzzzzh/QA-Dragon</p></details> |
 | **[PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG](http://arxiv.org/abs/2508.04057v1)** | 2025-08-06 |  |
-| **[MetaGen Blended RAG: Unlocking Zero-Shot Precision for Specialized Domain Question-Answering](http://arxiv.org/abs/2505.18247v3)** | 2025-08-05 |  |
-| **[AIC CTU@FEVER 8: On-premise fact checking through long context RAG](http://arxiv.org/abs/2508.04390v1)** | 2025-08-05 |  |
-| **[Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation](http://arxiv.org/abs/2508.03110v1)** | 2025-08-05 |  |
-| **[The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning](http://arxiv.org/abs/2504.07724v2)** | 2025-08-05 |  |
-| **[Highlight & Summarize: RAG without the jailbreaks](http://arxiv.org/abs/2508.02872v1)** | 2025-08-04 |  |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Simple Methods Defend RAG Systems Well Against Real-World Attacks](http://arxiv.org/abs/2508.02296v1)** | 2025-08-04 |  |
 
