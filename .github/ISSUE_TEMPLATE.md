@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2025
+title: Latest 15 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,10 +12,10 @@ labels: documentation
 | **[Complex Logical Instruction Generation](http://arxiv.org/abs/2508.09125v1)** | 2025-08-12 |  |
 | **[Retrieval-Augmented Generation with Conflicting Evidence](http://arxiv.org/abs/2504.13079v2)** | 2025-08-12 | <details><summary>COLM ...</summary><p>COLM 2025, Data and Code: https://github.com/HanNight/RAMDocs</p></details> |
 | **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](http://arxiv.org/abs/2508.09124v1)** | 2025-08-12 |  |
-| **[SinLlama - A Large Language Model for Sinhala](http://arxiv.org/abs/2508.09115v1)** | 2025-08-12 |  |
-| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](http://arxiv.org/abs/2508.04349v2)** | 2025-08-12 |  |
+| **[SinLlama -- A Large Language Model for Sinhala](http://arxiv.org/abs/2508.09115v1)** | 2025-08-12 |  |
+| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](http://arxiv.org/abs/2508.04349v3)** | 2025-08-13 |  |
 | **[ViStoryBench: Comprehensive Benchmark Suite for Story Visualization](http://arxiv.org/abs/2505.24862v3)** | 2025-08-12 | <details><summary>33 Pa...</summary><p>33 Pages, Project Page: https://vistorybench.github.io/, Code: https://github.com/vistorybench/vistorybench</p></details> |
-| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v1)** | 2025-08-12 |  |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators](http://arxiv.org/abs/2508.09101v1)** | 2025-08-12 | <details><summary>Homep...</summary><p>Homepage: https://autocodebench.github.io/</p></details> |
 | **[LLMEval-3: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models](http://arxiv.org/abs/2508.05452v2)** | 2025-08-12 |  |
 | **[Scaling Up Active Testing to Large Language Models](http://arxiv.org/abs/2508.09093v1)** | 2025-08-12 |  |
@@ -26,7 +26,7 @@ labels: documentation
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v1)** | 2025-08-12 |  |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](http://arxiv.org/abs/2506.14412v2)** | 2025-08-12 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Report for SIGIR 2025 LiveRAG Challenge</p></details> |
 | **[Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review](http://arxiv.org/abs/2508.08610v1)** | 2025-08-12 | <details><summary>27 pa...</summary><p>27 pages, 1 figure, 8 tables</p></details> |
 | **[Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning](http://arxiv.org/abs/2508.07956v1)** | 2025-08-11 |  |
