@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 15, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training](http://arxiv.org/abs/2411.07837v3)** | 2025-08-14 |  |
-| **[CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](http://arxiv.org/abs/2507.10535v2)** | 2025-08-14 | <details><summary>Datas...</summary><p>Dataset is available at https://huggingface.co/datasets/mattymchen/codejudgebench</p></details> |
-| **[BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them](http://arxiv.org/abs/2508.08855v2)** | 2025-08-14 | Under review |
-| **[Leveraging large language models for SQL behavior-based database intrusion detection](http://arxiv.org/abs/2508.05690v2)** | 2025-08-14 |  |
-| **[SSRL: Self-Search Reinforcement Learning](http://arxiv.org/abs/2508.10874v1)** | 2025-08-14 |  |
-| **[TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning](http://arxiv.org/abs/2508.08098v2)** | 2025-08-14 |  |
-| **[Performance of GPT-5 in Brain Tumor MRI Reasoning](http://arxiv.org/abs/2508.10865v1)** | 2025-08-14 |  |
-| **[Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning](http://arxiv.org/abs/2508.10848v1)** | 2025-08-14 |  |
-| **[Reinforced Language Models for Sequential Decision Making](http://arxiv.org/abs/2508.10839v1)** | 2025-08-14 |  |
-| **[UI-Venus Technical Report: Building High-performance UI Agents with RFT](http://arxiv.org/abs/2508.10833v1)** | 2025-08-14 |  |
-| **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](http://arxiv.org/abs/2505.13109v2)** | 2025-08-14 |  |
-| **[The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference](http://arxiv.org/abs/2508.10777v1)** | 2025-08-14 | 19 pages |
-| **[FROGENT: An End-to-End Full-process Drug Design Agent](http://arxiv.org/abs/2508.10760v1)** | 2025-08-14 | 9 pages, 5 figures |
-| **[BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache](http://arxiv.org/abs/2503.18773v2)** | 2025-08-14 |  |
-| **[Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](http://arxiv.org/abs/2508.10736v1)** | 2025-08-14 |  |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v6)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[Is ChatGPT-5 Ready for Mammogram VQA?](http://arxiv.org/abs/2508.11628v1)** | 2025-08-15 |  |
+| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
+| **[TinyTim: A Family of Language Models for Divergent Generation](http://arxiv.org/abs/2508.11607v1)** | 2025-08-15 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, submitted to NeurIPS Creative AI track, code and model available at https://hf.co/npc-worldwide/TinyTimV1</p></details> |
+| **[CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection](http://arxiv.org/abs/2508.11599v1)** | 2025-08-15 |  |
+| **[Pr$εε$mpt: Sanitizing Sensitive Prompts for LLMs](http://arxiv.org/abs/2504.05147v2)** | 2025-08-15 |  |
+| **[Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models](http://arxiv.org/abs/2508.11582v1)** | 2025-08-15 | Preprint |
+| **[ADMIRE-BayesOpt: Accelerated Data MIxture RE-weighting for Language Models with Bayesian Optimization](http://arxiv.org/abs/2508.11551v1)** | 2025-08-15 |  |
+| **[Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends](http://arxiv.org/abs/2508.11548v1)** | 2025-08-15 |  |
+| **[Speciesism in AI: Evaluating Discrimination Against Animals in Large Language Models](http://arxiv.org/abs/2508.11534v1)** | 2025-08-15 |  |
+| **[A Comprehensive Perspective on Explainable AI across the Machine Learning Workflow](http://arxiv.org/abs/2508.11529v1)** | 2025-08-15 | <details><summary>Prepr...</summary><p>Preprint. Currently under review at "Artificial Intelligence Review" journal</p></details> |
+| **[Inspire or Predict? Exploring New Paradigms in Assisting Classical Planners with Large Language Models](http://arxiv.org/abs/2508.11524v1)** | 2025-08-15 |  |
+| **[UI-Venus Technical Report: Building High-performance UI Agents with RFT](http://arxiv.org/abs/2508.10833v2)** | 2025-08-15 |  |
+| **[Image-to-Text for Medical Reports Using Adaptive Co-Attention and Triple-LSTM Module](http://arxiv.org/abs/2503.18297v3)** | 2025-08-15 |  |
+| **[From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems](http://arxiv.org/abs/2507.04996v3)** | 2025-08-15 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAG for Geoscience: What We Expect, Gaps and Opportunities](http://arxiv.org/abs/2508.11246v1)** | 2025-08-15 |  |
 | **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](http://arxiv.org/abs/2508.10419v1)** | 2025-08-14 |  |
 | **[FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](http://arxiv.org/abs/2504.14493v4)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on Information and Knowledge Management (CIKM2025)</p></details> |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](http://arxiv.org/abs/2508.06165v1)** | 2025-08-08 |  |
 | **[You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](http://arxiv.org/abs/2508.06105v1)** | 2025-08-08 |  |
 | **[Efficient Knowledge Graph Construction and Retrieval from Unstructured Text for Large-Scale RAG Systems](http://arxiv.org/abs/2507.03226v2)** | 2025-08-07 |  |
-| **[RankArena: A Unified Platform for Evaluating Retrieval, Reranking and RAG with Human and LLM Feedback](http://arxiv.org/abs/2508.05512v1)** | 2025-08-07 | Accept at CIKM 2025 |
 
