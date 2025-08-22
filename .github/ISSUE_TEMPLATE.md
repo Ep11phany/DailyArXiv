@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](http://arxiv.org/abs/2508.14896v1)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report, Work in Progress</p></details> |
-| **[RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation](http://arxiv.org/abs/2508.13968v2)** | 2025-08-20 | <details><summary>20 pa...</summary><p>20 pages. Code and data: https://github.com/tianyiniu/RotBench</p></details> |
-| **[MedReseacher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](http://arxiv.org/abs/2508.14880v1)** | 2025-08-20 | 13 pages, 5 figures |
-| **[MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](http://arxiv.org/abs/2508.14879v1)** | 2025-08-20 |  |
-| **[The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models](http://arxiv.org/abs/2508.14869v1)** | 2025-08-20 |  |
-| **[SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](http://arxiv.org/abs/2508.02085v4)** | 2025-08-20 |  |
-| **[Security Concerns for Large Language Models: A Survey](http://arxiv.org/abs/2505.18889v4)** | 2025-08-20 |  |
-| **[Universal and Transferable Adversarial Attack on Large Language Models Using Exponentiated Gradient Descent](http://arxiv.org/abs/2508.14853v1)** | 2025-08-20 |  |
-| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
-| **[Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](http://arxiv.org/abs/2409.08239v2)** | 2025-08-20 |  |
-| **[Long Chain-of-Thought Reasoning Across Languages](http://arxiv.org/abs/2508.14828v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to SCALR @ COLM 2025</p></details> |
-| **[Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs](http://arxiv.org/abs/2508.14817v1)** | 2025-08-20 |  |
-| **[JudgeLRM: Large Reasoning Models as a Judge](http://arxiv.org/abs/2504.00050v2)** | 2025-08-20 | Preprint |
-| **[G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](http://arxiv.org/abs/2312.11370v2)** | 2025-08-20 | 10 pages |
-| **[Coupling without Communication and Drafter-Invariant Speculative Decoding](http://arxiv.org/abs/2408.07978v4)** | 2025-08-20 | 18 pages |
+| **[Large Language Models Encode Semantics in Low-Dimensional Linear Subspaces](http://arxiv.org/abs/2507.09709v2)** | 2025-08-21 |  |
+| **[Language-Guided Tuning: Enhancing Numeric Optimization with Textual Feedback](http://arxiv.org/abs/2508.15757v1)** | 2025-08-21 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
+| **[Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis](http://arxiv.org/abs/2508.15754v1)** | 2025-08-21 | <details><summary>Prepr...</summary><p>Preprint, working in progress</p></details> |
+| **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
+| **[Knowledge-Guided Prompt Learning for Request Quality Assurance in Public Code Review](http://arxiv.org/abs/2410.21673v3)** | 2025-08-21 | <details><summary>27 pa...</summary><p>27 pages, 5 images, 12 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Empirical Evidence for Alignment Faking in a Small LLM and Prompt-Based Mitigation Techniques](http://arxiv.org/abs/2506.21584v2)** | 2025-08-21 |  |
+| **[EcomMMMU: Strategic Utilization of Visuals for Robust Multimodal E-Commerce Models](http://arxiv.org/abs/2508.15721v1)** | 2025-08-21 |  |
+| **[Tutorial on the Probabilistic Unification of Estimation Theory, Machine Learning, and Generative AI](http://arxiv.org/abs/2508.15719v1)** | 2025-08-21 |  |
+| **[StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding](http://arxiv.org/abs/2508.15717v1)** | 2025-08-21 | 15 pages, 3 figures |
+| **[Communication Efficient LLM Pre-training with SparseLoCo](http://arxiv.org/abs/2508.15706v1)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 2 figures</p></details> |
+| **[RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation](http://arxiv.org/abs/2502.09183v2)** | 2025-08-21 |  |
+| **[AURA: A Fine-Grained Benchmark and Decomposed Metric for Audio-Visual Reasoning](http://arxiv.org/abs/2508.07470v2)** | 2025-08-21 |  |
+| **[SycEval: Evaluating LLM Sycophancy](http://arxiv.org/abs/2502.08177v3)** | 2025-08-21 | AIES 2025 |
+| **[SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite State Machines in Systems-on-Chip](http://arxiv.org/abs/2508.12910v2)** | 2025-08-21 |  |
+| **[Learning to Generate Unit Tests for Automated Debugging](http://arxiv.org/abs/2502.01619v3)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to COLM 2025. Dataset and Code: https://github.com/archiki/UTGenDebug</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
+| **[Test-time Corpus Feedback: From Retrieval to RAG](http://arxiv.org/abs/2508.15437v1)** | 2025-08-21 | 18 pages, 1 figure |
+| **[First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection](http://arxiv.org/abs/2508.15313v1)** | 2025-08-21 |  |
 | **[Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)](http://arxiv.org/abs/2507.03608v2)** | 2025-08-20 |  |
 | **[Each to Their Own: Exploring the Optimal Embedding in RAG](http://arxiv.org/abs/2507.17442v2)** | 2025-08-20 |  |
 | **[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration](http://arxiv.org/abs/2508.13828v1)** | 2025-08-19 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](http://arxiv.org/abs/2508.10419v1)** | 2025-08-14 |  |
 | **[FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](http://arxiv.org/abs/2504.14493v4)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on Information and Knowledge Management (CIKM2025)</p></details> |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
-| **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](http://arxiv.org/abs/2408.04125v4)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted by TOSEM; 26 pages, 6 figures, 8 tables, 3 prompt templates, 1 algorithm</p></details> |
-| **[RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](http://arxiv.org/abs/2506.14412v2)** | 2025-08-12 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Report for SIGIR 2025 LiveRAG Challenge</p></details> |
-| **[Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review](http://arxiv.org/abs/2508.08610v1)** | 2025-08-12 | <details><summary>27 pa...</summary><p>27 pages, 1 figure, 8 tables</p></details> |
 
