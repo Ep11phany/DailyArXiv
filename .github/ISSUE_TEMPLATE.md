@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2025
+title: Latest 15 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cohort-Aware Agents for Individualized Lung Cancer Risk Prediction Using a Retrieval-Augmented Model Selection Framework](http://arxiv.org/abs/2508.14940v2)** | 2025-08-26 |  |
-| **[Generative Interfaces for Language Models](http://arxiv.org/abs/2508.19227v1)** | 2025-08-26 | Preprint |
-| **[From Intents to Conversations: Generating Intent-Driven Dialogues with Contrastive Learning for Multi-Turn Classification](http://arxiv.org/abs/2411.14252v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to Proceedings of CIKM 2025</p></details> |
-| **[OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation](http://arxiv.org/abs/2508.19209v1)** | 2025-08-26 | <details><summary>Homep...</summary><p>Homepage: https://omnihuman-lab.github.io/v1_5/</p></details> |
-| **[Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications](http://arxiv.org/abs/2502.13358v3)** | 2025-08-26 |  |
-| **[Understanding Tool-Integrated Reasoning](http://arxiv.org/abs/2508.19201v1)** | 2025-08-26 |  |
-| **[TL-Training: A Task-Feature-Based Framework for Training Large Language Models in Tool Use](http://arxiv.org/abs/2412.15495v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection](http://arxiv.org/abs/2505.04594v5)** | 2025-08-26 | <details><summary>I pla...</summary><p>I plan to re-format and re-write this paper</p></details> |
-| **[MATRIX: Multi-Agent simulaTion fRamework for safe Interactions and conteXtual clinical conversational evaluation](http://arxiv.org/abs/2508.19163v1)** | 2025-08-26 | 36 pages, 16 figures |
-| **[GeNet: A Multimodal LLM-Based Co-Pilot for Network Topology and Configuration](http://arxiv.org/abs/2407.08249v2)** | 2025-08-26 |  |
-| **[ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments](http://arxiv.org/abs/2508.19131v1)** | 2025-08-26 |  |
-| **[A Survey on Data Selection for LLM Instruction Tuning](http://arxiv.org/abs/2402.05123v3)** | 2025-08-26 | <details><summary>Publi...</summary><p>Published in JAIR (Vol. 83, Article 32, 2025)</p></details> |
-| **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v4)** | 2025-08-26 | Accepted TMLR 2025 |
-| **[Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception in LVLMs](http://arxiv.org/abs/2508.19111v1)** | 2025-08-26 | EMNLP2025 Findings |
-| **[Label Set Optimization via Activation Distribution Kurtosis for Zero-shot Classification with Generative Models](http://arxiv.org/abs/2410.19195v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
+| **[LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning](http://arxiv.org/abs/2406.05881v6)** | 2025-08-27 |  |
+| **[AudioStory: Generating Long-Form Narrative Audio with Large Language Models](http://arxiv.org/abs/2508.20088v1)** | 2025-08-27 |  |
+| **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
+| **[Refining Czech GEC: Insights from a Multi-Experiment Approach](http://arxiv.org/abs/2506.22402v2)** | 2025-08-27 | Accepted to TSD 2025 |
+| **[11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis](http://arxiv.org/abs/2508.20068v1)** | 2025-08-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures (22 pages, 7 figures, 7 tables including references and appendices)</p></details> |
+| **[Scaling Decentralized Learning with FLock](http://arxiv.org/abs/2507.15349v2)** | 2025-08-27 |  |
+| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v1)** | 2025-08-27 | EMNLP 2025 findings |
+| **[Step-Audio 2 Technical Report](http://arxiv.org/abs/2507.16632v3)** | 2025-08-27 | <details><summary>v3: A...</summary><p>v3: Added introduction and evaluation results of Step-Audio 2 mini</p></details> |
+| **[Large Language Models (LLMs) for Electronic Design Automation (EDA)](http://arxiv.org/abs/2508.20030v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by IEEE International System-on-Chip Conference</p></details> |
+| **[SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems](http://arxiv.org/abs/2412.08516v2)** | 2025-08-27 | Accepted to CIKM'25 |
+| **[Using item recommendations and LLMs in marketing email titles](http://arxiv.org/abs/2508.20024v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to The Second Workshop on Generative AI for E-commerce (GenAIECommerce '25), held September 22, 2025, in Prague, Czech Republic. 3 figures</p></details> |
+| **[Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence](http://arxiv.org/abs/2508.20019v1)** | 2025-08-27 |  |
+| **[GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](http://arxiv.org/abs/2410.05229v2)** | 2025-08-27 | <details><summary>ICLR ...</summary><p>ICLR camera ready + additional discussion in the appendix</p></details> |
+| **[CataractSurg-80K: Knowledge-Driven Benchmarking for Structured Reasoning in Ophthalmic Surgery Planning](http://arxiv.org/abs/2508.20014v1)** | 2025-08-27 | 18 pages, 9 figures |
+| **[AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios](http://arxiv.org/abs/2508.19988v1)** | 2025-08-27 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
@@ -36,7 +36,7 @@ labels: documentation
 | **[How to make Medical AI Systems safer? Simulating Vulnerabilities, and Threats in Multimodal Medical RAG System](http://arxiv.org/abs/2508.17215v1)** | 2025-08-24 | <details><summary>Sumbi...</summary><p>Sumbitted to 2025 AAAI main track</p></details> |
 | **[Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants](http://arxiv.org/abs/2506.07042v3)** | 2025-08-23 |  |
 | **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](http://arxiv.org/abs/2508.16994v1)** | 2025-08-23 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
-| **[Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG](http://arxiv.org/abs/2504.05220v3)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted by the EMNLP25 main conference</p></details> |
+| **[RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits](http://arxiv.org/abs/2508.19272v1)** | 2025-08-22 |  |
 | **[Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain](http://arxiv.org/abs/2508.16172v1)** | 2025-08-22 |  |
 | **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
 | **[First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection](http://arxiv.org/abs/2508.15313v1)** | 2025-08-21 |  |
