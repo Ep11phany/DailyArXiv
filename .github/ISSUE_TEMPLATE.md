@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 29, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bitune: Leveraging Bidirectional Attention to Improve Decoder-Only LLMs](http://arxiv.org/abs/2405.14862v2)** | 2025-08-28 |  |
-| **[OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models](http://arxiv.org/abs/2508.21061v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to UIST 2025. 18 pages, 9 figures, 2 tables. For a demo video, see https://youtu.be/uobhmxo6EIE</p></details> |
-| **[Enabling Equitable Access to Trustworthy Financial Reasoning](http://arxiv.org/abs/2508.21051v1)** | 2025-08-28 |  |
-| **[Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning](http://arxiv.org/abs/2508.21048v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project: https://github.com/EricTan7/Veritas</p></details> |
-| **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
-| **[An Agile Method for Implementing Retrieval Augmented Generation Tools in Industrial SMEs](http://arxiv.org/abs/2508.21024v1)** | 2025-08-28 | 20 pages, 3 figures |
-| **[Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance](http://arxiv.org/abs/2508.21016v1)** | 2025-08-28 |  |
-| **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
-| **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
-| **[ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery](http://arxiv.org/abs/2508.20996v1)** | 2025-08-28 |  |
-| **[Dynamic Context Compression for Efficient RAG](http://arxiv.org/abs/2507.22931v2)** | 2025-08-28 |  |
-| **[Program Semantic Inequivalence Game with Large Language Models](http://arxiv.org/abs/2505.03818v2)** | 2025-08-28 |  |
-| **[Efficient Neuro-Symbolic Learning of Constraints and Objective](http://arxiv.org/abs/2508.20978v1)** | 2025-08-28 |  |
-| **[ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents](http://arxiv.org/abs/2508.20973v1)** | 2025-08-28 | 21 pages, 6 Figures |
-| **[DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes](http://arxiv.org/abs/2508.20965v1)** | 2025-08-28 |  |
+| **[DriveQA: Passing the Driving Knowledge Test](http://arxiv.org/abs/2508.21824v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://driveqaiccv.github.io/</p></details> |
+| **[SAGA: A Security Architecture for Governing AI Agentic Systems](http://arxiv.org/abs/2504.21034v2)** | 2025-08-29 |  |
+| **[ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](http://arxiv.org/abs/2412.00631v2)** | 2025-08-29 | EMNLP 2025 Findings |
+| **[QR-LoRA: QR-Based Low-Rank Adaptation for Efficient Fine-Tuning of Large Language Models](http://arxiv.org/abs/2508.21810v1)** | 2025-08-29 |  |
+| **[Active Domain Knowledge Acquisition with 100-Dollar Budget: Enhancing LLMs via Cost-Efficient, Expert-Involved Interaction in Sensitive Domains](http://arxiv.org/abs/2508.17202v2)** | 2025-08-29 | EMNLP 2025 Findings |
+| **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to The 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)(Poster Paper)</p></details> |
+| **[DocR1: Evidence Page-Guided GRPO for Multi-Page Document Understanding](http://arxiv.org/abs/2508.07313v2)** | 2025-08-29 |  |
+| **[Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models](http://arxiv.org/abs/2412.06748v2)** | 2025-08-29 | 20 pages |
+| **[Going over Fine Web with a Fine-Tooth Comb: Technical Report of Indexing Fine Web for Problematic Content Search and Retrieval](http://arxiv.org/abs/2508.21788v1)** | 2025-08-29 |  |
+| **[PiCSAR: Probabilistic Confidence Selection And Ranking](http://arxiv.org/abs/2508.21787v1)** | 2025-08-29 |  |
+| **[Benchmarking GPT-5 in Radiation Oncology: Measurable Gains, but Persistent Need for Expert Oversight](http://arxiv.org/abs/2508.21777v1)** | 2025-08-29 | <details><summary>Under...</summary><p>Under review in Frontiers in Artificial Intelligence</p></details> |
+| **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v2)** | 2025-08-29 |  |
+| **[Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](http://arxiv.org/abs/2504.05163v2)** | 2025-08-29 | IRISAI'25 |
+| **[Reasoning-Intensive Regression](http://arxiv.org/abs/2508.21762v1)** | 2025-08-29 |  |
+| **[Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective](http://arxiv.org/abs/2506.19028v4)** | 2025-08-29 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 15 tables</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v2)** | 2025-08-29 |  |
 | **[Dynamic Context Compression for Efficient RAG](http://arxiv.org/abs/2507.22931v2)** | 2025-08-28 |  |
 | **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](http://arxiv.org/abs/2508.20324v1)** | 2025-08-27 |  |
 | **[An Ontology-Driven Graph RAG for Legal Norms: A Hierarchical, Temporal, and Deterministic Approach](http://arxiv.org/abs/2505.00039v4)** | 2025-08-26 | <details><summary>This ...</summary><p>This is a major revision that significantly expands and deepens the original manuscript. While the core ontological model remains the same, this version provides a substantially more rigorous and detailed account of how the framework is applied in practice, particularly within a Retrieval-Augmented Generation (RAG) context</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](http://arxiv.org/abs/2508.16994v1)** | 2025-08-23 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
 | **[RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits](http://arxiv.org/abs/2508.19272v1)** | 2025-08-22 |  |
 | **[Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain](http://arxiv.org/abs/2508.16172v1)** | 2025-08-22 |  |
-| **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
 
