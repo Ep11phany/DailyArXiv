@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DriveQA: Passing the Driving Knowledge Test](http://arxiv.org/abs/2508.21824v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://driveqaiccv.github.io/</p></details> |
-| **[SAGA: A Security Architecture for Governing AI Agentic Systems](http://arxiv.org/abs/2504.21034v2)** | 2025-08-29 |  |
-| **[ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](http://arxiv.org/abs/2412.00631v2)** | 2025-08-29 | EMNLP 2025 Findings |
-| **[QR-LoRA: QR-Based Low-Rank Adaptation for Efficient Fine-Tuning of Large Language Models](http://arxiv.org/abs/2508.21810v1)** | 2025-08-29 |  |
-| **[Active Domain Knowledge Acquisition with 100-Dollar Budget: Enhancing LLMs via Cost-Efficient, Expert-Involved Interaction in Sensitive Domains](http://arxiv.org/abs/2508.17202v2)** | 2025-08-29 | EMNLP 2025 Findings |
-| **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to The 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)(Poster Paper)</p></details> |
-| **[DocR1: Evidence Page-Guided GRPO for Multi-Page Document Understanding](http://arxiv.org/abs/2508.07313v2)** | 2025-08-29 |  |
-| **[Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models](http://arxiv.org/abs/2412.06748v2)** | 2025-08-29 | 20 pages |
-| **[Going over Fine Web with a Fine-Tooth Comb: Technical Report of Indexing Fine Web for Problematic Content Search and Retrieval](http://arxiv.org/abs/2508.21788v1)** | 2025-08-29 |  |
-| **[PiCSAR: Probabilistic Confidence Selection And Ranking](http://arxiv.org/abs/2508.21787v1)** | 2025-08-29 |  |
-| **[Benchmarking GPT-5 in Radiation Oncology: Measurable Gains, but Persistent Need for Expert Oversight](http://arxiv.org/abs/2508.21777v1)** | 2025-08-29 | <details><summary>Under...</summary><p>Under review in Frontiers in Artificial Intelligence</p></details> |
-| **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v2)** | 2025-08-29 |  |
-| **[Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](http://arxiv.org/abs/2504.05163v2)** | 2025-08-29 | IRISAI'25 |
-| **[Reasoning-Intensive Regression](http://arxiv.org/abs/2508.21762v1)** | 2025-08-29 |  |
-| **[Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective](http://arxiv.org/abs/2506.19028v4)** | 2025-08-29 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 15 tables</p></details> |
+| **[SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](http://arxiv.org/abs/2508.15212v2)** | 2025-09-02 |  |
+| **[MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation](http://arxiv.org/abs/2508.14146v2)** | 2025-09-02 | Work in progress |
+| **[Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA](http://arxiv.org/abs/2502.12122v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
+| **[Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps](http://arxiv.org/abs/2508.11452v2)** | 2025-09-02 | <details><summary>Our p...</summary><p>Our platform is publicly accessible at https://www.tbox.cn/about/model-ranking</p></details> |
+| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v2)** | 2025-09-02 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
+| **[Bias Analysis and Mitigation through Protected Attribute Detection and Regard Classification](http://arxiv.org/abs/2504.14212v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
+| **[Federated Retrieval-Augmented Generation: A Systematic Mapping Study](http://arxiv.org/abs/2505.18906v2)** | 2025-09-02 |  |
+| **[VIKSER: Visual Knowledge-Driven Self-Reinforcing Reasoning Framework](http://arxiv.org/abs/2502.00711v2)** | 2025-09-02 | 14 pages,17 figures |
+| **[NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving](http://arxiv.org/abs/2506.14589v2)** | 2025-09-02 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Distilling Large Language Models for Network Active Queue Management](http://arxiv.org/abs/2501.16734v3)** | 2025-09-02 |  |
+| **[Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner](http://arxiv.org/abs/2508.15044v2)** | 2025-09-02 |  |
+| **[Visual Evolutionary Optimization on Graph-Structured Combinatorial Problems with MLLMs: A Case Study of Influence Maximization](http://arxiv.org/abs/2505.06850v3)** | 2025-09-02 |  |
+| **[A Vision-Language Agent System for Compositional Reasoning with VLM-assisted Script and Executable Generation](http://arxiv.org/abs/2506.07778v2)** | 2025-09-02 |  |
+| **[When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs](http://arxiv.org/abs/2505.11423v3)** | 2025-09-02 |  |
+| **[ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](http://arxiv.org/abs/2508.18190v3)** | 2025-09-02 | <details><summary>Exten...</summary><p>Extension of our SIGMOD 2026 paper. Please refer to source code available at: https://github.com/weAIDB/ST-Raptor</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FinS-Pilot: A Benchmark for Online Financial RAG System](http://arxiv.org/abs/2506.02037v2)** | 2025-09-01 |  |
+| **[OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](http://arxiv.org/abs/2412.02592v4)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v2)** | 2025-08-29 |  |
 | **[Dynamic Context Compression for Efficient RAG](http://arxiv.org/abs/2507.22931v2)** | 2025-08-28 |  |
 | **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](http://arxiv.org/abs/2508.20324v1)** | 2025-08-27 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[How to make Medical AI Systems safer? Simulating Vulnerabilities, and Threats in Multimodal Medical RAG System](http://arxiv.org/abs/2508.17215v1)** | 2025-08-24 | <details><summary>Sumbi...</summary><p>Sumbitted to 2025 AAAI main track</p></details> |
 | **[Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants](http://arxiv.org/abs/2506.07042v3)** | 2025-08-23 |  |
 | **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](http://arxiv.org/abs/2508.16994v1)** | 2025-08-23 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
-| **[RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits](http://arxiv.org/abs/2508.19272v1)** | 2025-08-22 |  |
-| **[Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain](http://arxiv.org/abs/2508.16172v1)** | 2025-08-22 |  |
 
