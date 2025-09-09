@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,23 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining](http://arxiv.org/abs/2509.05291v1)** | 2025-09-05 |  |
-| **[Simple Yet Effective: An Information-Theoretic Approach to Multi-LLM Uncertainty Quantification](http://arxiv.org/abs/2507.07236v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
-| **[Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment](http://arxiv.org/abs/2507.05528v2)** | 2025-09-05 | <details><summary>14 pa...</summary><p>14 pages, accepted by EMNLP 2025</p></details> |
-| **[Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following](http://arxiv.org/abs/2504.06460v2)** | 2025-09-05 |  |
-| **[RAVEN: Query-Guided Representation Alignment for Question Answering over Audio, Video, Embedded Sensors, and Natural Language](http://arxiv.org/abs/2505.17114v3)** | 2025-09-05 |  |
-| **[SpikingBrain Technical Report: Spiking Brain-inspired Large Models](http://arxiv.org/abs/2509.05276v1)** | 2025-09-05 |  |
-| **[LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation](http://arxiv.org/abs/2509.05263v1)** | 2025-09-05 |  |
-| **[Scaling Performance of Large Language Model Pretraining](http://arxiv.org/abs/2509.05258v1)** | 2025-09-05 |  |
-| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](http://arxiv.org/abs/2508.01249v2)** | 2025-09-05 |  |
-| **[HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models](http://arxiv.org/abs/2509.05218v1)** | 2025-09-05 | <details><summary>This ...</summary><p>This paper proposes Hyperbolic Rotary Positional Encoding (HoPE), a geometric reformulation of positional encoding inspired by Lorentz transformations. HoPE addresses limitations of existing methods like RoPE by enabling stable long-distance dependency modeling. Code and data will be made available upon publication</p></details> |
-| **[ParEval-Repo: A Benchmark Suite for Evaluating LLMs with Repository-level HPC Translation Tasks](http://arxiv.org/abs/2506.20938v2)** | 2025-09-05 | 10 pages, 5 figures |
-| **[Symbolic Graphics Programming with Large Language Models](http://arxiv.org/abs/2509.05208v1)** | 2025-09-05 | <details><summary>Techn...</summary><p>Technical report (32 pages, 12 figures, project page: https://spherelab.ai/SGP-Gen/)</p></details> |
-| **[ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding](http://arxiv.org/abs/2505.06020v2)** | 2025-09-05 |  |
-| **[Triadic Fusion of Cognitive, Functional, and Causal Dimensions for Explainable LLMs: The TAXAL Framework](http://arxiv.org/abs/2509.05199v1)** | 2025-09-05 | <details><summary>27 pa...</summary><p>27 pages, 9 tables and 2 figures</p></details> |
-| **[AI Agents for Web Testing: A Case Study in the Wild](http://arxiv.org/abs/2509.05197v1)** | 2025-09-05 |  |
+| **[Transforming Wearable Data into Personal Health Insights using Large Language Model Agents](http://arxiv.org/abs/2406.06464v4)** | 2025-09-08 | <details><summary>53 pa...</summary><p>53 pages, 7 main figures, 2 main tables, accepted to Nature Communications</p></details> |
+| **[Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](http://arxiv.org/abs/2509.06949v1)** | 2025-09-08 | <details><summary>Code ...</summary><p>Code and Models: https://github.com/Gen-Verse/dLLM-RL</p></details> |
+| **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](http://arxiv.org/abs/2509.06948v1)** | 2025-09-08 |  |
+| **[Outcome-based Exploration for LLM Reasoning](http://arxiv.org/abs/2509.06941v1)** | 2025-09-08 | 26 pages, 11 figures |
+| **[Staying in the Sweet Spot: Responsive Reasoning Evolution via Capability-Adaptive Hint Scaffolding](http://arxiv.org/abs/2509.06923v1)** | 2025-09-08 | Work in progress |
+| **[An Ethically Grounded LLM-Based Approach to Insider Threat Synthesis and Detection](http://arxiv.org/abs/2509.06920v1)** | 2025-09-08 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 5 tables</p></details> |
+| **[Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing](http://arxiv.org/abs/2509.03377v2)** | 2025-09-08 |  |
+| **[Proof-Carrying Numbers (PCN): A Protocol for Trustworthy Numeric Answers from LLMs via Claim Verification](http://arxiv.org/abs/2509.06902v1)** | 2025-09-08 |  |
+| **[LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation](http://arxiv.org/abs/2509.05263v2)** | 2025-09-08 |  |
+| **[Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models](http://arxiv.org/abs/2507.18504v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Domain-Aware RAG: MoL-Enhanced RL for Efficient Training and Scalable Retrieval](http://arxiv.org/abs/2509.06650v1)** | 2025-09-08 |  |
+| **[RADIANT: Retrieval AugmenteD entIty-context AligNmenT -- Introducing RAG-ability and Entity-Context Divergence](http://arxiv.org/abs/2507.02949v2)** | 2025-09-06 |  |
+| **[Biomedical Literature Q&A System Using Retrieval-Augmented Generation (RAG)](http://arxiv.org/abs/2509.05505v1)** | 2025-09-05 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables</p></details> |
 | **[Graph RAG as Human Choice Model: Building a Data-Driven Mobility Agent with Preference Chain](http://arxiv.org/abs/2508.16172v2)** | 2025-09-05 |  |
 | **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](http://arxiv.org/abs/2508.20324v2)** | 2025-09-04 |  |
 | **[Enhancing Technical Documents Retrieval for RAG](http://arxiv.org/abs/2509.04139v1)** | 2025-09-04 |  |
@@ -38,7 +36,4 @@ labels: documentation
 | **[REFRAG: Rethinking RAG based Decoding](http://arxiv.org/abs/2509.01092v1)** | 2025-09-01 |  |
 | **[Speaking at the Right Level: Literacy-Controlled Counterspeech Generation with RAG-RL](http://arxiv.org/abs/2509.01058v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2025</p></details> |
 | **[EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](http://arxiv.org/abs/2509.00877v1)** | 2025-08-31 |  |
-| **[OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](http://arxiv.org/abs/2412.02592v4)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](http://arxiv.org/abs/2508.08344v2)** | 2025-08-29 |  |
-| **[Dynamic Context Compression for Efficient RAG](http://arxiv.org/abs/2507.22931v2)** | 2025-08-28 |  |
 
