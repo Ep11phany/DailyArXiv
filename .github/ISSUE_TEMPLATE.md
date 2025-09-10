@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,11 @@ labels: documentation
 | **[Proof-Carrying Numbers (PCN): A Protocol for Trustworthy Numeric Answers from LLMs via Claim Verification](http://arxiv.org/abs/2509.06902v1)** | 2025-09-08 |  |
 | **[LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation](http://arxiv.org/abs/2509.05263v2)** | 2025-09-08 |  |
 | **[Not All Features Deserve Attention: Graph-Guided Dependency Learning for Tabular Data Generation with Language Models](http://arxiv.org/abs/2507.18504v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
+| **[Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting](http://arxiv.org/abs/2505.20521v2)** | 2025-09-08 | <details><summary>28 pa...</summary><p>28 pages, 5 figures. Submitted for review to Information Fusion</p></details> |
+| **[The Majority is not always right: RL training for solution aggregation](http://arxiv.org/abs/2509.06870v1)** | 2025-09-08 |  |
+| **[Disentangling Interaction and Bias Effects in Opinion Dynamics of Large Language Models](http://arxiv.org/abs/2509.06858v1)** | 2025-09-08 |  |
+| **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](http://arxiv.org/abs/2506.02019v2)** | 2025-09-08 | 19 pages, 8 figures |
+| **[EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models](http://arxiv.org/abs/2509.06838v1)** | 2025-09-08 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
