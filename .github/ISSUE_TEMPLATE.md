@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing Medical Artificial Intelligence Using a Century of Cases](http://arxiv.org/abs/2509.12194v1)** | 2025-09-15 |  |
-| **[Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm](http://arxiv.org/abs/2509.12190v1)** | 2025-09-15 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Safety Pretraining: Toward the Next Generation of Safe AI](http://arxiv.org/abs/2504.16980v2)** | 2025-09-15 |  |
-| **[Preservation of Language Understanding Capabilities in Speech-aware Large Language Models](http://arxiv.org/abs/2509.12171v1)** | 2025-09-15 | 5 pages, 1 figure |
-| **[RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing](http://arxiv.org/abs/2509.12168v1)** | 2025-09-15 |  |
-| **[Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation](http://arxiv.org/abs/2412.14642v3)** | 2025-09-15 | <details><summary>Our c...</summary><p>Our codes and datasets are available through https://github.com/phenixace/TOMG-Bench</p></details> |
-| **[Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation](http://arxiv.org/abs/2505.23657v3)** | 2025-09-15 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, EMNLP 2025</p></details> |
-| **[EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression](http://arxiv.org/abs/2509.12159v1)** | 2025-09-15 |  |
-| **[Beyond PII: How Users Attempt to Estimate and Mitigate Implicit LLM Inference](http://arxiv.org/abs/2509.12152v1)** | 2025-09-15 |  |
-| **[A learning-driven automatic planning framework for proton PBS treatments of H&N cancers](http://arxiv.org/abs/2508.11085v2)** | 2025-09-15 | 27 pages, 4 figures |
-| **[QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](http://arxiv.org/abs/2509.09995v2)** | 2025-09-15 |  |
-| **[UniPar: A Unified LLM-Based Framework for Parallel and Accelerated Code Translation in HPC](http://arxiv.org/abs/2509.12136v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted to IEEE HPEC conference 2025. 9 pages, incl references</p></details> |
-| **[XplaiNLP at CheckThat! 2025: Multilingual Subjectivity Detection with Finetuned Transformers and Prompt-Based Inference with Large Language Models](http://arxiv.org/abs/2509.12130v1)** | 2025-09-15 |  |
-| **[CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](http://arxiv.org/abs/2509.12112v1)** | 2025-09-15 |  |
-| **[When marine radar target detection meets pretrained large language models](http://arxiv.org/abs/2509.12110v1)** | 2025-09-15 |  |
+| **[Apertus: Democratizing Open and Compliant LLMs for Global Language Environments](http://arxiv.org/abs/2509.14233v1)** | 2025-09-17 |  |
+| **[NIRVANA: Structured pruning reimagined for large language models compression](http://arxiv.org/abs/2509.14230v1)** | 2025-09-17 |  |
+| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
+| **[Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies](http://arxiv.org/abs/2505.23804v2)** | 2025-09-17 | <details><summary>EMNLP...</summary><p>EMNLP 2025 main conference</p></details> |
+| **[Dense Video Understanding with Gated Residual Tokenization](http://arxiv.org/abs/2509.14199v1)** | 2025-09-17 |  |
+| **[AI and the Future of Academic Peer Review](http://arxiv.org/abs/2509.14189v1)** | 2025-09-17 | 34 pages |
+| **[KBM: Delineating Knowledge Boundary for Adaptive Retrieval in Large Language Models](http://arxiv.org/abs/2411.06207v2)** | 2025-09-17 |  |
+| **[Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations](http://arxiv.org/abs/2504.01153v4)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to Computers in Human Behavior</p></details> |
+| **[Using LLMs in Generating Design Rationale for Software Architecture Decisions](http://arxiv.org/abs/2504.20781v2)** | 2025-09-17 | <details><summary>38 pa...</summary><p>38 pages, 5 images, 9 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning](http://arxiv.org/abs/2509.14172v1)** | 2025-09-17 |  |
+| **[AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity](http://arxiv.org/abs/2509.14171v1)** | 2025-09-17 |  |
+| **[TopoSizing: An LLM-aided Framework of Topology-based Understanding and Sizing for AMS Circuits](http://arxiv.org/abs/2509.14169v1)** | 2025-09-17 |  |
+| **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v3)** | 2025-09-17 |  |
+| **[Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision](http://arxiv.org/abs/2508.05606v2)** | 2025-09-17 | <details><summary>Proje...</summary><p>Project Page: https://sais-fuxi.github.io/projects/uni-cot/</p></details> |
+| **[MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](http://arxiv.org/abs/2509.14142v1)** | 2025-09-17 | <details><summary>ICCV ...</summary><p>ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TAI Scan Tool: A RAG-Based Tool With Minimalistic Input for Trustworthy AI Self-Assessment](http://arxiv.org/abs/2507.17514v2)** | 2025-09-17 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 4 tables</p></details> |
+| **[Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval](http://arxiv.org/abs/2507.08445v3)** | 2025-09-16 |  |
 | **[RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing](http://arxiv.org/abs/2509.12168v1)** | 2025-09-15 |  |
 | **[A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students](http://arxiv.org/abs/2509.11947v1)** | 2025-09-15 | 9 pages |
 | **[MMORE: Massive Multimodal Open RAG & Extraction](http://arxiv.org/abs/2509.11937v1)** | 2025-09-15 | <details><summary>This ...</summary><p>This paper was originally submitted to the CODEML workshop for ICML 2025. 9 pages (including references and appendices)</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Speaking at the Right Level: Literacy-Controlled Counterspeech Generation with RAG-RL](http://arxiv.org/abs/2509.01058v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2025</p></details> |
 | **[LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge](http://arxiv.org/abs/2509.08596v1)** | 2025-09-10 | CEUR-WS, CLEF2025 |
 | **[All for law and law for all: Adaptive RAG Pipeline for Legal Research](http://arxiv.org/abs/2508.13107v2)** | 2025-09-10 | <details><summary>submi...</summary><p>submitted to NLLP 2025 Workshop</p></details> |
-| **[TextlessRAG: End-to-End Visual Document RAG by Speech Without Text](http://arxiv.org/abs/2509.07538v2)** | 2025-09-10 | 5 pages, 4 figures, |
-| **[CyberRAG: An Agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v2)** | 2025-09-10 |  |
 
