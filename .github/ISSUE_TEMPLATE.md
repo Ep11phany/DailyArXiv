@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -14,11 +14,11 @@ labels: documentation
 | **[Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates](http://arxiv.org/abs/2509.18076v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
 | **[Serendipitous Recommendation with Multimodal LLM](http://arxiv.org/abs/2506.08283v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by 2025 Recsys EARL Workshop</p></details> |
 | **[ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](http://arxiv.org/abs/2509.18063v1)** | 2025-09-22 | Work in Progess |
-| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLM](http://arxiv.org/abs/2509.18058v1)** | 2025-09-22 |  |
+| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
 | **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem](http://arxiv.org/abs/2509.18054v1)** | 2025-09-22 | 10 pages, 5 figures |
 | **[The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies](http://arxiv.org/abs/2509.18052v1)** | 2025-09-22 | Preprint |
-| **[V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts](http://arxiv.org/abs/2509.18053v1)** | 2025-09-22 |  |
+| **[V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts](http://arxiv.org/abs/2509.18053v2)** | 2025-09-23 | <details><summary>Our p...</summary><p>Our project website: https://eddyhkchiu.github.io/v2vgot.github.io/</p></details> |
 | **[Rationale-Guided Retrieval Augmented Generation for Medical Question Answering](http://arxiv.org/abs/2411.00300v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 (Oral)</p></details> |
 | **[Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III](http://arxiv.org/abs/2507.02954v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at FinLLM @ IJCAI 2025</p></details> |
 | **[Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](http://arxiv.org/abs/2506.11474v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Oral)</p></details> |
