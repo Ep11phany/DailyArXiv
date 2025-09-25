@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values Understanding](http://arxiv.org/abs/2508.13804v2)** | 2025-09-22 | <details><summary>Appea...</summary><p>Appears in UncertaiNLP@EMNLP 2025</p></details> |
-| **[SEQR: Secure and Efficient QR-based LoRA Routing](http://arxiv.org/abs/2509.18093v1)** | 2025-09-22 |  |
-| **[OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](http://arxiv.org/abs/2509.18091v1)** | 2025-09-22 | <details><summary>OnePi...</summary><p>OnePiece Technical Report; Applied in Shopee</p></details> |
-| **[Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning](http://arxiv.org/abs/2509.18083v1)** | 2025-09-22 |  |
-| **[Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates](http://arxiv.org/abs/2509.18076v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
-| **[Serendipitous Recommendation with Multimodal LLM](http://arxiv.org/abs/2506.08283v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by 2025 Recsys EARL Workshop</p></details> |
-| **[ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](http://arxiv.org/abs/2509.18063v1)** | 2025-09-22 | Work in Progess |
-| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
-| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem](http://arxiv.org/abs/2509.18054v1)** | 2025-09-22 | 10 pages, 5 figures |
-| **[The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies](http://arxiv.org/abs/2509.18052v1)** | 2025-09-22 | Preprint |
-| **[V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts](http://arxiv.org/abs/2509.18053v2)** | 2025-09-23 | <details><summary>Our p...</summary><p>Our project website: https://eddyhkchiu.github.io/v2vgot.github.io/</p></details> |
-| **[Rationale-Guided Retrieval Augmented Generation for Medical Question Answering](http://arxiv.org/abs/2411.00300v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 (Oral)</p></details> |
-| **[Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III](http://arxiv.org/abs/2507.02954v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at FinLLM @ IJCAI 2025</p></details> |
-| **[Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](http://arxiv.org/abs/2506.11474v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Oral)</p></details> |
+| **[DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data](http://arxiv.org/abs/2505.15074v3)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
+| **[Multimodal Reference Visual Grounding](http://arxiv.org/abs/2504.02876v2)** | 2025-09-24 | <details><summary>Proje...</summary><p>Project page with our code and dataset: https://irvlutd.github.io/MultiGrounding</p></details> |
+| **[Video models are zero-shot learners and reasoners](http://arxiv.org/abs/2509.20328v1)** | 2025-09-24 | <details><summary>Proje...</summary><p>Project page: https://video-zero-shot.github.io/</p></details> |
+| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](http://arxiv.org/abs/2509.20324v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at the 5th ICDM Workshop on September 20, 2025</p></details> |
+| **[Enhancing Targeted Adversarial Attacks on Large Vision-Language Models via Intermediate Projector](http://arxiv.org/abs/2508.13739v2)** | 2025-09-24 |  |
+| **[SIM-CoT: Supervised Implicit Chain-of-Thought](http://arxiv.org/abs/2509.20317v1)** | 2025-09-24 |  |
+| **[A GEN AI Framework for Medical Note Generation](http://arxiv.org/abs/2410.01841v2)** | 2025-09-24 | <details><summary>8 Fig...</summary><p>8 Figures, 7 page, IEEE standard research paper</p></details> |
+| **[Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation](http://arxiv.org/abs/2409.09324v3)** | 2025-09-24 | <details><summary>4 pag...</summary><p>4 pages, 3 Figures, 3 Tables. The final version will be published in the proceedings of the IEEE conference</p></details> |
+| **[UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective](http://arxiv.org/abs/2410.03090v2)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main Conference)</p></details> |
+| **[White-Basilisk: A Hybrid Model for Code Vulnerability Detection](http://arxiv.org/abs/2507.08540v3)** | 2025-09-24 |  |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v2)** | 2025-09-24 | <details><summary>33pag...</summary><p>33pages, 6figures(Accepted by Neurips 2026 Oral)</p></details> |
+| **[Enhancing RAG Efficiency with Adaptive Context Compression](http://arxiv.org/abs/2507.22931v3)** | 2025-09-24 |  |
+| **[LLM-Powered AI Tutors with Personas for d/Deaf and Hard-of-Hearing Online Learners](http://arxiv.org/abs/2411.09873v2)** | 2025-09-24 |  |
+| **[Instruction Boundary: Quantifying Biases in LLM Reasoning under Various Coverage](http://arxiv.org/abs/2509.20278v1)** | 2025-09-24 |  |
+| **[Investigating Security Implications of Automatically Generated Code on the Software Supply Chain](http://arxiv.org/abs/2509.20277v1)** | 2025-09-24 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](http://arxiv.org/abs/2509.20324v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at the 5th ICDM Workshop on September 20, 2025</p></details> |
+| **[Enhancing RAG Efficiency with Adaptive Context Compression](http://arxiv.org/abs/2507.22931v3)** | 2025-09-24 |  |
+| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v3)** | 2025-09-24 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
+| **[HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks](http://arxiv.org/abs/2502.13465v2)** | 2025-09-24 | <details><summary>Neuri...</summary><p>Neurips 25 DB Track, Spotlight</p></details> |
+| **[On The Reproducibility Limitations of RAG Systems](http://arxiv.org/abs/2509.18869v1)** | 2025-09-23 |  |
 | **[Speaking at the Right Level: Literacy-Controlled Counterspeech Generation with RAG-RL](http://arxiv.org/abs/2509.01058v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2025</p></details> |
 | **[Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications](http://arxiv.org/abs/2509.17671v1)** | 2025-09-22 |  |
 | **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](http://arxiv.org/abs/2508.06165v3)** | 2025-09-21 |  |
 | **[EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](http://arxiv.org/abs/2509.00877v2)** | 2025-09-21 |  |
 | **[Agentic AI with Orchestrator-Agent Trust: A Modular Visual Classification Framework with Trust-Aware Orchestration and RAG-Based Reasoning](http://arxiv.org/abs/2507.10571v3)** | 2025-09-21 |  |
 | **[Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on Math Textbook](http://arxiv.org/abs/2509.16780v1)** | 2025-09-20 |  |
+| **[Solving Freshness in RAG: A Simple Recency Prior and the Limits of Heuristic Trend Detection](http://arxiv.org/abs/2509.19376v1)** | 2025-09-20 |  |
 | **[Enhancing Financial RAG with Agentic AI and Multi-HyDE: A Novel Approach to Knowledge Retrieval and Hallucination Reduction](http://arxiv.org/abs/2509.16369v1)** | 2025-09-19 | <details><summary>14 Pa...</summary><p>14 Pages, 8 Tables, 2 Figures. Accepted and to be published in the proceedings of FinNLP, Empirical Methods in Natural Language Processing 2025</p></details> |
 | **[SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques](http://arxiv.org/abs/2410.16322v2)** | 2025-09-19 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 8 tables</p></details> |
 | **[ConfReady: A RAG based Assistant and Dataset for Conference Checklist Responses](http://arxiv.org/abs/2408.04675v2)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Demo</p></details> |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG](http://arxiv.org/abs/2509.14435v1)** | 2025-09-17 |  |
-| **[TAI Scan Tool: A RAG-Based Tool With Minimalistic Input for Trustworthy AI Self-Assessment](http://arxiv.org/abs/2507.17514v2)** | 2025-09-17 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 4 tables</p></details> |
-| **[Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval](http://arxiv.org/abs/2507.08445v3)** | 2025-09-16 |  |
-| **[RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing](http://arxiv.org/abs/2509.12168v1)** | 2025-09-15 |  |
-| **[A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students](http://arxiv.org/abs/2509.11947v1)** | 2025-09-15 | 9 pages |
 
