@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -9,7 +9,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v4)** | 2025-10-01 |  |
 | **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)](http://arxiv.org/abs/2509.25477v2)** | 2025-10-01 |  |
+| **[The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)](http://arxiv.org/abs/2509.25477v3)** | 2025-10-02 |  |
 | **[CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](http://arxiv.org/abs/2506.08584v2)** | 2025-10-01 |  |
 | **[REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering](http://arxiv.org/abs/2506.08359v2)** | 2025-10-01 | Preprint |
 | **[Explaining multimodal LLMs via intra-modal token interactions](http://arxiv.org/abs/2509.22415v2)** | 2025-10-01 |  |
