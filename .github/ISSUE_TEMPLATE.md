@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
-| **[h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](http://arxiv.org/abs/2510.07312v1)** | 2025-10-08 | <details><summary>Prepr...</summary><p>Preprint, 31 pages, 8 figures</p></details> |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](http://arxiv.org/abs/2508.12726v3)** | 2025-10-08 |  |
-| **[Valid Inference with Imperfect Synthetic Data](http://arxiv.org/abs/2508.06635v2)** | 2025-10-08 | NeurIPS 2025 |
-| **[LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models](http://arxiv.org/abs/2501.05468v2)** | 2025-10-08 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, 5 tables</p></details> |
-| **[Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents](http://arxiv.org/abs/2506.00320v2)** | 2025-10-08 |  |
-| **[BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](http://arxiv.org/abs/2510.06048v2)** | 2025-10-08 |  |
-| **[On the Convergence of Moral Self-Correction in Large Language Models](http://arxiv.org/abs/2510.07290v1)** | 2025-10-08 | 19pages, 7 figures |
-| **[ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects](http://arxiv.org/abs/2508.16185v2)** | 2025-10-08 |  |
-| **[LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning](http://arxiv.org/abs/2306.10354v2)** | 2025-10-08 | <details><summary>Winne...</summary><p>Winner solution to Generic Event Boundary Captioning task in LOVEU Challenge (CVPR 2023 workshop)</p></details> |
-| **[V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](http://arxiv.org/abs/2404.12353v3)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding](http://arxiv.org/abs/2403.16276v3)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion](http://arxiv.org/abs/2408.12009v2)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[Is My Data in Your AI? Membership Inference Test (MINT) applied to Face Biometrics](http://arxiv.org/abs/2402.09225v4)** | 2025-10-08 | <details><summary>11 pa...</summary><p>11 pages main text + 2 pages references and 1 pages appendix</p></details> |
-| **[VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](http://arxiv.org/abs/2411.10979v4)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[ArenaBencher: Automatic Benchmark Evolution via Multi-Model Competitive Evaluation](http://arxiv.org/abs/2510.08569v1)** | 2025-10-09 | Preprint |
+| **[NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints](http://arxiv.org/abs/2510.08565v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. 22 pages, link: https://github.com/OpenGVLab/NaViL</p></details> |
+| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v4)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
+| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](http://arxiv.org/abs/2510.08554v1)** | 2025-10-09 |  |
+| **[BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving](http://arxiv.org/abs/2502.03438v3)** | 2025-10-09 |  |
+| **[Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints](http://arxiv.org/abs/2510.08549v1)** | 2025-10-09 |  |
+| **[SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference](http://arxiv.org/abs/2510.08544v1)** | 2025-10-09 |  |
+| **[VideoNorms: Benchmarking Cultural Awareness of Video Language Models](http://arxiv.org/abs/2510.08543v1)** | 2025-10-09 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, under review</p></details> |
+| **[MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization](http://arxiv.org/abs/2510.08540v1)** | 2025-10-09 |  |
+| **[On the optimization dynamics of RLVR: Gradient gap and step size thresholds](http://arxiv.org/abs/2510.08539v1)** | 2025-10-09 |  |
+| **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](http://arxiv.org/abs/2510.08529v1)** | 2025-10-09 |  |
+| **[Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](http://arxiv.org/abs/2510.08525v1)** | 2025-10-09 |  |
+| **[LDI: Localized Data Imputation for Text-Rich Tables](http://arxiv.org/abs/2506.16616v2)** | 2025-10-09 |  |
+| **[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](http://arxiv.org/abs/2509.06493v2)** | 2025-10-09 |  |
+| **[AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents](http://arxiv.org/abs/2510.08511v1)** | 2025-10-09 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](http://arxiv.org/abs/2510.03663v2)** | 2025-10-09 |  |
+| **[Who Stole Your Data? A Method for Detecting Unauthorized RAG Theft](http://arxiv.org/abs/2510.07728v1)** | 2025-10-09 |  |
+| **[SUBQRAG: sub-question driven dynamic graph rag](http://arxiv.org/abs/2510.07718v1)** | 2025-10-09 | 5 pages, 1 figure |
+| **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](http://arxiv.org/abs/2509.26383v3)** | 2025-10-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to ICLR 2026</p></details> |
 | **[LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding](http://arxiv.org/abs/2510.07233v1)** | 2025-10-08 |  |
 | **[Towards Reliable Retrieval in RAG Systems for Large Legal Datasets](http://arxiv.org/abs/2510.06999v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted for the 7th Natural Legal Language Processing Workshop (NLLP 2025), co-located with EMNLP 2025</p></details> |
 | **[Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)](http://arxiv.org/abs/2510.06719v1)** | 2025-10-08 | Under review |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking](http://arxiv.org/abs/2505.23495v3)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
 | **[RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts](http://arxiv.org/abs/2510.05310v1)** | 2025-10-06 |  |
 | **[ModernBERT + ColBERT: Enhancing biomedical RAG through an advanced re-ranking retriever](http://arxiv.org/abs/2510.04757v1)** | 2025-10-06 |  |
-| **[3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG](http://arxiv.org/abs/2510.04536v1)** | 2025-10-06 |  |
-| **[Less LLM, More Documents: Searching for Improved RAG](http://arxiv.org/abs/2510.02657v2)** | 2025-10-06 |  |
-| **[Automating construction safety inspections using a multi-modal vision-language RAG framework](http://arxiv.org/abs/2510.04145v1)** | 2025-10-05 | <details><summary>33 pa...</summary><p>33 pages, 11 figures, 7 tables</p></details> |
-| **[RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking](http://arxiv.org/abs/2504.01346v4)** | 2025-10-05 | <details><summary>Proje...</summary><p>Project Link: https://github.com/jiaruzouu/T-RAG</p></details> |
 
