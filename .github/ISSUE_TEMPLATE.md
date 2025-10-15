@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](http://arxiv.org/abs/2510.11718v1)** | 2025-10-13 |  |
-| **[QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs](http://arxiv.org/abs/2510.11696v1)** | 2025-10-13 | <details><summary>Code ...</summary><p>Code is available at https://github.com/NVlabs/QeRL</p></details> |
-| **[When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents](http://arxiv.org/abs/2510.11695v1)** | 2025-10-13 |  |
-| **[Scaling Language-Centric Omnimodal Representation Learning](http://arxiv.org/abs/2510.11693v1)** | 2025-10-13 | NeurIPS 2025 |
-| **[PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities](http://arxiv.org/abs/2510.11688v1)** | 2025-10-13 | <details><summary>Proje...</summary><p>Project webpage available at https://pacebench.github.io/</p></details> |
-| **[Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](http://arxiv.org/abs/2510.11683v1)** | 2025-10-13 |  |
-| **[Chronologically Consistent Generative AI](http://arxiv.org/abs/2510.11677v1)** | 2025-10-13 |  |
-| **[SR-Scientist: Scientific Equation Discovery With Agentic AI](http://arxiv.org/abs/2510.11661v1)** | 2025-10-13 |  |
-| **[Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](http://arxiv.org/abs/2505.13563v3)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems](http://arxiv.org/abs/2510.11652v1)** | 2025-10-13 |  |
-| **[IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment](http://arxiv.org/abs/2510.11647v1)** | 2025-10-13 | <details><summary>Equal...</summary><p>Equal contributions from first two authors. Project page: https://ryanchenyn.github.io/projects/IVEBench Code: https://github.com/RyanChenYN/IVEBench Dataset: https://huggingface.co/datasets/Coraxor/IVEBench</p></details> |
-| **[BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis](http://arxiv.org/abs/2510.11646v1)** | 2025-10-13 |  |
-| **[Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark](http://arxiv.org/abs/2510.02356v2)** | 2025-10-13 |  |
-| **[OneRec-Think: In-Text Reasoning for Generative Recommendation](http://arxiv.org/abs/2510.11639v1)** | 2025-10-13 |  |
-| **[EvoCAD: Evolutionary CAD Code Generation with Vision Language Models](http://arxiv.org/abs/2510.11631v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2025</p></details> |
+| **[DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](http://arxiv.org/abs/2510.12801v1)** | 2025-10-14 |  |
+| **[ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution](http://arxiv.org/abs/2510.12793v1)** | 2025-10-14 |  |
+| **[Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics](http://arxiv.org/abs/2510.12787v1)** | 2025-10-14 |  |
+| **[Dr.LLM: Dynamic Layer Routing in LLMs](http://arxiv.org/abs/2510.12773v1)** | 2025-10-14 | <details><summary>17 pa...</summary><p>17 pages, Under submission</p></details> |
+| **[VQArt-Bench: A semantically rich VQA Benchmark for Art and Cultural Heritage](http://arxiv.org/abs/2510.12750v1)** | 2025-10-14 |  |
+| **[CTRL-Rec: Controlling Recommender Systems With Natural Language](http://arxiv.org/abs/2510.12742v1)** | 2025-10-14 |  |
+| **[Data-Model Co-Evolution: Growing Test Sets to Refine LLM Behavior](http://arxiv.org/abs/2510.12728v1)** | 2025-10-14 |  |
+| **[CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression](http://arxiv.org/abs/2510.12721v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at EMNLP Findings 2025</p></details> |
+| **[Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning](http://arxiv.org/abs/2510.12712v1)** | 2025-10-14 |  |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[Multi-Agent Debate for LLM Judges with Adaptive Stability Detection](http://arxiv.org/abs/2510.12697v1)** | 2025-10-14 |  |
+| **[From Delegates to Trustees: How Optimizing for Long-Term Interests Shapes Bias and Alignment in LLM](http://arxiv.org/abs/2510.12689v1)** | 2025-10-14 |  |
+| **[Keep Calm and Avoid Harmful Content: Concept Alignment and Latent Manipulation Towards Safer Answers](http://arxiv.org/abs/2510.12672v1)** | 2025-10-14 |  |
+| **[The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented Generation](http://arxiv.org/abs/2510.12668v1)** | 2025-10-14 |  |
+| **[Limited Preference Data? Learning Better Reward Model with Latent Space Synthesis](http://arxiv.org/abs/2509.26074v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAG-Anything: All-in-One RAG Framework](http://arxiv.org/abs/2510.12323v1)** | 2025-10-14 |  |
+| **[Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation](http://arxiv.org/abs/2510.12316v1)** | 2025-10-14 |  |
+| **[LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](http://arxiv.org/abs/2509.21875v2)** | 2025-10-14 |  |
+| **[A Longitudinal Study on Different Annotator Feedback Loops in Complex RAG Tasks](http://arxiv.org/abs/2510.11897v1)** | 2025-10-13 | 26 pages |
 | **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](http://arxiv.org/abs/2510.11654v1)** | 2025-10-13 |  |
 | **[Domain-Specific Data Generation Framework for RAG Adaptation](http://arxiv.org/abs/2510.11217v1)** | 2025-10-13 |  |
 | **[RAG-Pull: Imperceptible Attacks on RAG Systems for Code Generation](http://arxiv.org/abs/2510.11195v1)** | 2025-10-13 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Review of Inference-Time Scaling Strategies: Reasoning, Search and RAG](http://arxiv.org/abs/2510.10787v1)** | 2025-10-12 |  |
 | **[REFRAG: Rethinking RAG based Decoding](http://arxiv.org/abs/2509.01092v2)** | 2025-10-12 | <details><summary>fix t...</summary><p>fix typo perplexity->log perplexity; added recent papers</p></details> |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
-| **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](http://arxiv.org/abs/2508.20324v3)** | 2025-10-11 |  |
-| **[CacheClip: Accelerating RAG with Effective KV Cache Reuse](http://arxiv.org/abs/2510.10129v1)** | 2025-10-11 |  |
-| **[Transparent and Robust RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability](http://arxiv.org/abs/2505.13258v2)** | 2025-10-11 |  |
-| **[Retrieval is Not Enough: Enhancing RAG Reasoning through Test-Time Critique and Optimization](http://arxiv.org/abs/2504.14858v4)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
