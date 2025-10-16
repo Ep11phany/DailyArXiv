@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression](http://arxiv.org/abs/2510.12721v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at EMNLP Findings 2025</p></details> |
 | **[Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning](http://arxiv.org/abs/2510.12712v1)** | 2025-10-14 |  |
 | **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
-| **[Multi-Agent Debate for LLM Judges with Adaptive Stability Detection](http://arxiv.org/abs/2510.12697v1)** | 2025-10-14 |  |
-| **[From Delegates to Trustees: How Optimizing for Long-Term Interests Shapes Bias and Alignment in LLM](http://arxiv.org/abs/2510.12689v1)** | 2025-10-14 |  |
-| **[Keep Calm and Avoid Harmful Content: Concept Alignment and Latent Manipulation Towards Safer Answers](http://arxiv.org/abs/2510.12672v1)** | 2025-10-14 |  |
-| **[The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented Generation](http://arxiv.org/abs/2510.12668v1)** | 2025-10-14 |  |
-| **[Limited Preference Data? Learning Better Reward Model with Latent Space Synthesis](http://arxiv.org/abs/2509.26074v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
