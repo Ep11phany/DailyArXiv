@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,20 +7,32 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](http://arxiv.org/abs/2510.12801v1)** | 2025-10-14 |  |
-| **[ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution](http://arxiv.org/abs/2510.12793v1)** | 2025-10-14 |  |
-| **[Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics](http://arxiv.org/abs/2510.12787v1)** | 2025-10-14 |  |
-| **[Dr.LLM: Dynamic Layer Routing in LLMs](http://arxiv.org/abs/2510.12773v1)** | 2025-10-14 | <details><summary>17 pa...</summary><p>17 pages, Under submission</p></details> |
-| **[VQArt-Bench: A semantically rich VQA Benchmark for Art and Cultural Heritage](http://arxiv.org/abs/2510.12750v1)** | 2025-10-14 |  |
-| **[CTRL-Rec: Controlling Recommender Systems With Natural Language](http://arxiv.org/abs/2510.12742v1)** | 2025-10-14 |  |
-| **[Data-Model Co-Evolution: Growing Test Sets to Refine LLM Behavior](http://arxiv.org/abs/2510.12728v1)** | 2025-10-14 |  |
-| **[CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression](http://arxiv.org/abs/2510.12721v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at EMNLP Findings 2025</p></details> |
-| **[Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning](http://arxiv.org/abs/2510.12712v1)** | 2025-10-14 |  |
-| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[Agentic Design of Compositional Machines](http://arxiv.org/abs/2510.14980v1)** | 2025-10-16 | <details><summary>75 pa...</summary><p>75 pages, 31 figures, Project Page: https://besiegefield.github.io</p></details> |
+| **[Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v1)** | 2025-10-16 | <details><summary>https...</summary><p>https://vila-lab.github.io/elastic-cache-webpage/</p></details> |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](http://arxiv.org/abs/2510.14967v1)** | 2025-10-16 |  |
+| **[Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores](http://arxiv.org/abs/2510.14966v1)** | 2025-10-16 | 9 pages, 2 figures |
+| **[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning](http://arxiv.org/abs/2510.14958v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project Page: https://mathcanvas.github.io/</p></details> |
+| **[MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics](http://arxiv.org/abs/2510.14944v1)** | 2025-10-16 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 4 tables</p></details> |
+| **[LaSeR: Reinforcement Learning with Last-Token Self-Rewarding](http://arxiv.org/abs/2510.14943v1)** | 2025-10-16 | <details><summary>Work ...</summary><p>Work in progress. Github repo: https://github.com/RUCBM/LaSeR</p></details> |
+| **[GroundedPRM: Tree-Guided and Fidelity-Aware Process Reward Modeling for Step-Level Reasoning](http://arxiv.org/abs/2510.14942v1)** | 2025-10-16 | 25 pages |
+| **[VALID-Mol: a Systematic Framework for Validated LLM-Assisted Molecular Design](http://arxiv.org/abs/2506.23339v2)** | 2025-10-16 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 1 algorithm, 5 tables, to be published in ISPACS 2025, unabridged version exists as arXiv:2506.23339v1</p></details> |
+| **[Stable but Miscalibrated: A Kantian View on Overconfidence from Filters to Large Language Models](http://arxiv.org/abs/2510.14925v1)** | 2025-10-16 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, preliminary version</p></details> |
+| **[Unmasking Hiring Bias: Platform Data Analysis and Controlled Experiments on Bias in Online Freelance Marketplaces via RAG-LLM Generated Contents](http://arxiv.org/abs/2510.13091v2)** | 2025-10-16 |  |
+| **[Predicting Task Performance with Context-aware Scaling Laws](http://arxiv.org/abs/2510.14919v1)** | 2025-10-16 |  |
+| **[Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](http://arxiv.org/abs/2510.14915v1)** | 2025-10-16 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Industry track</p></details> |
+| **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](http://arxiv.org/abs/2509.06948v2)** | 2025-10-16 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unmasking Hiring Bias: Platform Data Analysis and Controlled Experiments on Bias in Online Freelance Marketplaces via RAG-LLM Generated Contents](http://arxiv.org/abs/2510.13091v2)** | 2025-10-16 |  |
+| **[EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](http://arxiv.org/abs/2509.00877v3)** | 2025-10-16 |  |
+| **[Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval](http://arxiv.org/abs/2510.14592v1)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, submitted for review</p></details> |
+| **[ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG](http://arxiv.org/abs/2510.13193v2)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Stop-RAG: Value-Based Retrieval Control for Iterative RAG](http://arxiv.org/abs/2510.14337v1)** | 2025-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 MTI-LLM Workshop</p></details> |
+| **[RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge](http://arxiv.org/abs/2510.13590v1)** | 2025-10-15 |  |
+| **[SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG](http://arxiv.org/abs/2510.09710v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[RAG-Anything: All-in-One RAG Framework](http://arxiv.org/abs/2510.12323v1)** | 2025-10-14 |  |
 | **[Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation](http://arxiv.org/abs/2510.12316v1)** | 2025-10-14 |  |
 | **[LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](http://arxiv.org/abs/2509.21875v2)** | 2025-10-14 |  |
@@ -29,11 +41,4 @@ labels: documentation
 | **[Domain-Specific Data Generation Framework for RAG Adaptation](http://arxiv.org/abs/2510.11217v1)** | 2025-10-13 |  |
 | **[RAG-Pull: Imperceptible Attacks on RAG Systems for Code Generation](http://arxiv.org/abs/2510.11195v1)** | 2025-10-13 |  |
 | **[Chronological Passage Assembling in RAG framework for Temporal Question Answering](http://arxiv.org/abs/2508.18748v2)** | 2025-10-13 | 15 pages, 4 figures |
-| **[When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](http://arxiv.org/abs/2410.15267v2)** | 2025-10-13 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables. To appear in IEEE Transactions on Dependable and Secure Computing (TDSC), 2025</p></details> |
-| **[VeritasFi: An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering](http://arxiv.org/abs/2510.10828v1)** | 2025-10-12 |  |
-| **[Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration](http://arxiv.org/abs/2510.10824v1)** | 2025-10-12 |  |
-| **[Is Implicit Knowledge Enough for LLMs? A RAG Approach for Tree-based Structures](http://arxiv.org/abs/2510.10806v1)** | 2025-10-12 | <details><summary>Waiti...</summary><p>Waiting for Conference Response</p></details> |
-| **[Review of Inference-Time Scaling Strategies: Reasoning, Search and RAG](http://arxiv.org/abs/2510.10787v1)** | 2025-10-12 |  |
-| **[REFRAG: Rethinking RAG based Decoding](http://arxiv.org/abs/2509.01092v2)** | 2025-10-12 | <details><summary>fix t...</summary><p>fix typo perplexity->log perplexity; added recent papers</p></details> |
-| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
 
