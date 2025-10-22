@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2025
+title: Latest 15 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,33 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unbiased Gradient Low-Rank Projection](http://arxiv.org/abs/2510.17802v1)** | 2025-10-20 |  |
-| **[Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain](http://arxiv.org/abs/2510.17801v1)** | 2025-10-20 |  |
-| **[Glyph: Scaling Context Windows via Visual-Text Compression](http://arxiv.org/abs/2510.17800v1)** | 2025-10-20 |  |
-| **[Executable Knowledge Graphs for Replicating AI Research](http://arxiv.org/abs/2510.17795v1)** | 2025-10-20 | Work in progress |
-| **[DRIFT: Decompose, Retrieve, Illustrate, then Formalize Theorems](http://arxiv.org/abs/2510.10815v3)** | 2025-10-20 |  |
-| **[Inference-Time Compute Scaling For Flow Matching](http://arxiv.org/abs/2510.17786v1)** | 2025-10-20 |  |
-| **[Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](http://arxiv.org/abs/2510.17764v1)** | 2025-10-20 |  |
-| **[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](http://arxiv.org/abs/2510.17759v1)** | 2025-10-20 | 18 pages, 7 Figures, |
-| **[This is Going to Sound Crazy, But What If We Used Large Language Models to Boost Automatic Database Tuning Algorithms By Leveraging Prior History? We Will Find Better Configurations More Quickly Than Retraining From Scratch!](http://arxiv.org/abs/2510.17748v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted to SIGMOD2026</p></details> |
-| **[Enabling Fine-Grained Operating Points for Black-Box LLMs](http://arxiv.org/abs/2510.17727v1)** | 2025-10-20 | 35 pages |
-| **[Rethinking Search: A Study of University Students' Perspectives on Using LLMs and Traditional Search Engines in Academic Problem Solving](http://arxiv.org/abs/2510.17726v1)** | 2025-10-20 | <details><summary>Accte...</summary><p>Acctepted at the EMNLP 2025 HCI+NLP Workshop</p></details> |
-| **[AcademicEval: Live Long-Context LLM Benchmark](http://arxiv.org/abs/2510.17725v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by TMLR. Code is available at https://github.com/ulab-uiuc/AcademicEval</p></details> |
-| **[MT-Video-Bench: A Holistic Video Understanding Benchmark for Evaluating Multimodal LLMs in Multi-Turn Dialogues](http://arxiv.org/abs/2510.17722v1)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project Website: https://github.com/NJU-LINK/MT-Video-Bench</p></details> |
-| **[Evolving LLMs' Self-Refinement Capability via Iterative Preference Optimization](http://arxiv.org/abs/2502.05605v5)** | 2025-10-20 |  |
-| **[QueST: Incentivizing LLMs to Generate Difficult Problems](http://arxiv.org/abs/2510.17715v1)** | 2025-10-20 | 20 pages, 7 figures |
+| **[Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs](http://arxiv.org/abs/2510.18876v1)** | 2025-10-21 |  |
+| **[Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](http://arxiv.org/abs/2510.13795v2)** | 2025-10-21 | <details><summary>homep...</summary><p>homepage: https://open-bee.github.io/</p></details> |
+| **[How Do LLMs Use Their Depth?](http://arxiv.org/abs/2510.18871v1)** | 2025-10-21 |  |
+| **[LightMem: Lightweight and Efficient Memory-Augmented Generation](http://arxiv.org/abs/2510.18866v1)** | 2025-10-21 | Work in progress |
+| **[EffiReasonTrans: RL-Optimized Reasoning for Code Translation](http://arxiv.org/abs/2510.18863v1)** | 2025-10-21 |  |
+| **[Streamlining Acceptance Test Generation for Mobile Applications Through Large Language Models: An Industrial Case Study](http://arxiv.org/abs/2510.18861v1)** | 2025-10-21 |  |
+| **[Correct-Detect: Balancing Performance and Ambiguity Through the Lens of Coreference Resolution in LLMs](http://arxiv.org/abs/2509.14456v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (main)</p></details> |
+| **[NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks](http://arxiv.org/abs/2510.03417v2)** | 2025-10-21 | <details><summary>This ...</summary><p>This paper has been accepted in the main conference proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). Javad Rafiei Asl and Sidhant Narula are co-first authors</p></details> |
+| **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
+| **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](http://arxiv.org/abs/2510.18849v1)** | 2025-10-21 | work in progress |
+| **[High-Fidelity And Complex Test Data Generation For Google SQL Code Generation Services](http://arxiv.org/abs/2504.17203v3)** | 2025-10-21 |  |
+| **[See the Text: From Tokenization to Visual Reading](http://arxiv.org/abs/2510.18840v1)** | 2025-10-21 |  |
+| **[AstroMMBench: A Benchmark for Evaluating Multimodal Large Language Models Capabilities in Astronomy](http://arxiv.org/abs/2510.00063v2)** | 2025-10-21 |  |
+| **[MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training](http://arxiv.org/abs/2510.18830v1)** | 2025-10-21 |  |
+| **[FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](http://arxiv.org/abs/2502.01472v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 with minor revisions</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Implicit Knowledge Enough for LLMs? A RAG Approach for Tree-based Structures](http://arxiv.org/abs/2510.10806v2)** | 2025-10-21 | <details><summary>Waiti...</summary><p>Waiting for Conference Response</p></details> |
+| **[Query Decomposition for RAG: Balancing Exploration-Exploitation](http://arxiv.org/abs/2510.18633v1)** | 2025-10-21 |  |
+| **[Can we Evaluate RAGs with Synthetic Data?](http://arxiv.org/abs/2508.11758v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted for the SynDAiTE workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025), September 15, 2025 - Porto, Portugal</p></details> |
+| **[ChronoPlay: A Framework for Modeling Dual Dynamics and Authenticity in Game RAG Benchmarks](http://arxiv.org/abs/2510.18455v1)** | 2025-10-21 |  |
 | **[KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs](http://arxiv.org/abs/2506.09542v2)** | 2025-10-18 |  |
 | **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](http://arxiv.org/abs/2502.11371v2)** | 2025-10-17 |  |
 | **[Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs](http://arxiv.org/abs/2510.15418v1)** | 2025-10-17 |  |
+| **[Repairing Tool Calls Using Post-tool Execution Reflection and RAG](http://arxiv.org/abs/2510.17874v1)** | 2025-10-17 |  |
 | **[METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation](http://arxiv.org/abs/2412.10543v3)** | 2025-10-16 | 17 pages, 18 figures |
 | **[Unmasking Hiring Bias: Platform Data Analysis and Controlled Experiments on Bias in Online Freelance Marketplaces via RAG-LLM Generated Contents](http://arxiv.org/abs/2510.13091v2)** | 2025-10-16 |  |
 | **[EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](http://arxiv.org/abs/2509.00877v3)** | 2025-10-16 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG](http://arxiv.org/abs/2510.13193v2)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Stop-RAG: Value-Based Retrieval Control for Iterative RAG](http://arxiv.org/abs/2510.14337v1)** | 2025-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 MTI-LLM Workshop</p></details> |
 | **[RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge](http://arxiv.org/abs/2510.13590v1)** | 2025-10-15 |  |
-| **[SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG](http://arxiv.org/abs/2510.09710v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[RAG-Anything: All-in-One RAG Framework](http://arxiv.org/abs/2510.12323v1)** | 2025-10-14 |  |
-| **[Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation](http://arxiv.org/abs/2510.12316v1)** | 2025-10-14 |  |
-| **[LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](http://arxiv.org/abs/2509.21875v2)** | 2025-10-14 |  |
-| **[A Longitudinal Study on Different Annotator Feedback Loops in Complex RAG Tasks](http://arxiv.org/abs/2510.11897v1)** | 2025-10-13 | 26 pages |
 
