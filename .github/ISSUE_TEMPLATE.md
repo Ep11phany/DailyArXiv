@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs](http://arxiv.org/abs/2510.18876v1)** | 2025-10-21 |  |
+| **[Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs](http://arxiv.org/abs/2510.18876v2)** | 2025-10-22 |  |
 | **[Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](http://arxiv.org/abs/2510.13795v2)** | 2025-10-21 | <details><summary>homep...</summary><p>homepage: https://open-bee.github.io/</p></details> |
 | **[How Do LLMs Use Their Depth?](http://arxiv.org/abs/2510.18871v1)** | 2025-10-21 |  |
 | **[LightMem: Lightweight and Efficient Memory-Augmented Generation](http://arxiv.org/abs/2510.18866v1)** | 2025-10-21 | Work in progress |
