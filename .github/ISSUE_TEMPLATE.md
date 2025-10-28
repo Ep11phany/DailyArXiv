@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Data-Centric Approach to Multilingual E-Commerce Product Search: Case Study on Query-Category and Query-Item Relevance](http://arxiv.org/abs/2510.21671v1)** | 2025-10-24 |  |
-| **[RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback](http://arxiv.org/abs/2510.06186v2)** | 2025-10-24 | <details><summary>Code ...</summary><p>Code and dataset are available at github.com/ChunyuMiao98/RECODE</p></details> |
-| **[BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](http://arxiv.org/abs/2505.23579v2)** | 2025-10-24 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 4 tables</p></details> |
-| **[Electronic Circuit Principles of Large Language Models](http://arxiv.org/abs/2502.03325v2)** | 2025-10-24 | Manuscript |
-| **[Scaling Neuro-symbolic Problem Solving: Solver-Free Learning of Constraints and Objectives](http://arxiv.org/abs/2508.20978v2)** | 2025-10-24 |  |
-| **[The Universal Landscape of Human Reasoning](http://arxiv.org/abs/2510.21623v1)** | 2025-10-24 | Preprint |
-| **[Combinatorial Creativity: A New Frontier in Generalization Abilities](http://arxiv.org/abs/2509.21043v3)** | 2025-10-24 | <details><summary>Prepr...</summary><p>Preprint. The first two authors contributed equally</p></details> |
-| **[Retention analysis of edited knowledge after fine-tuning](http://arxiv.org/abs/2507.14198v2)** | 2025-10-24 |  |
-| **[The Narrow Gate: Localized Image-Text Communication in Native Multimodal Models](http://arxiv.org/abs/2412.06646v3)** | 2025-10-24 |  |
-| **[Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine](http://arxiv.org/abs/2510.21614v1)** | 2025-10-24 |  |
-| **[Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning](http://arxiv.org/abs/2507.06485v2)** | 2025-10-24 | <details><summary>EMNLP...</summary><p>EMNLP 2025. The first two authors contributed equally. Project page: https://sites.google.com/cs.unc.edu/videorts2025/</p></details> |
-| **[RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models](http://arxiv.org/abs/2510.21604v1)** | 2025-10-24 |  |
-| **[R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning](http://arxiv.org/abs/2505.23794v2)** | 2025-10-24 |  |
-| **[Robust LLM Alignment via Distributionally Robust Direct Preference Optimization](http://arxiv.org/abs/2502.01930v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[From Polyester Girlfriends to Blind Mice: Creating the First Pragmatics Understanding Benchmarks for Slovene](http://arxiv.org/abs/2510.21575v1)** | 2025-10-24 |  |
+| **[PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](http://arxiv.org/abs/2510.23603v1)** | 2025-10-27 | 22 pages, 13 figures |
+| **[Alita-G: Self-Evolving Generative Agent for Agent Generation](http://arxiv.org/abs/2510.23601v1)** | 2025-10-27 | 15 pages, 3 figures |
+| **[Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](http://arxiv.org/abs/2506.05314v2)** | 2025-10-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems</p></details> |
+| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](http://arxiv.org/abs/2510.23596v1)** | 2025-10-27 |  |
+| **[Multi-Agent Evolve: LLM Self-Improve through Co-evolution](http://arxiv.org/abs/2510.23595v1)** | 2025-10-27 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, submitted to ICLR 2026</p></details> |
+| **[Lightweight Robust Direct Preference Optimization](http://arxiv.org/abs/2510.23590v1)** | 2025-10-27 |  |
+| **[FARMER: Flow AutoRegressive Transformer over Pixels](http://arxiv.org/abs/2510.23588v1)** | 2025-10-27 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
+| **[A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](http://arxiv.org/abs/2510.23587v1)** | 2025-10-27 | <details><summary>Pleas...</summary><p>Please refer to our paper list and companion materials at: https://github.com/HKUSTDial/awesome-data-agents</p></details> |
+| **[ESCA: Contextualizing Embodied Agents via Scene-Graph Generation](http://arxiv.org/abs/2510.15963v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as a Spotlight Paper at NeurIPS 2025</p></details> |
+| **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
+| **[SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging](http://arxiv.org/abs/2503.17239v2)** | 2025-10-27 |  |
+| **[EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](http://arxiv.org/abs/2510.23569v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[ReCode: Unify Plan and Action for Universal Granularity Control](http://arxiv.org/abs/2510.23564v1)** | 2025-10-27 |  |
+| **[SafeCOMM: A Study on Safety Degradation in Fine-Tuned Telecom Large Language Models](http://arxiv.org/abs/2506.00062v2)** | 2025-10-27 |  |
+| **[ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models](http://arxiv.org/abs/2510.23558v1)** | 2025-10-27 | <details><summary>submi...</summary><p>submitted to icassp 2026</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora](http://arxiv.org/abs/2507.07543v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to ArabicNLP 2025</p></details> |
+| **[Quality-Aware Translation Tagging in Multilingual RAG system](http://arxiv.org/abs/2510.23070v1)** | 2025-10-27 | <details><summary>EMNLP...</summary><p>EMNLP 2025 MRL Workshop</p></details> |
+| **[Rethinking and Exploring String-Based Malware Family Classification in the Era of LLMs and RAG](http://arxiv.org/abs/2507.04055v2)** | 2025-10-26 | <details><summary>This ...</summary><p>This is a technical report from Lingnan University, Hong Kong. Code is available at https://github.com/AIS2Lab/MalwareGPT</p></details> |
+| **[Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](http://arxiv.org/abs/2502.16101v3)** | 2025-10-26 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[SBASH: a Framework for Designing and Evaluating RAG vs. Prompt-Tuned LLM Honeypots](http://arxiv.org/abs/2510.21459v1)** | 2025-10-24 | <details><summary>to be...</summary><p>to be published in: The 3rd International Conference on Foundation and Large Language Models (FLLM2025), IEEE, 2025</p></details> |
 | **[SUBQRAG: Sub-Question Driven Dynamic Graph RAG](http://arxiv.org/abs/2510.07718v2)** | 2025-10-24 | 5 pages, 1 figure |
 | **[Bridging Language Gaps with Adaptive RAG: Improving Indonesian Language Question Answering](http://arxiv.org/abs/2510.21068v1)** | 2025-10-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Automating Iconclass: LLMs and RAG for Large-Scale Classification of Religious Woodcuts](http://arxiv.org/abs/2510.19986v1)** | 2025-10-22 | <details><summary>29 pa...</summary><p>29 pages, 7 figures. First presented at the "Digital Humanities and Artificial Intelligence" conference at the University of Reading on 17 June 2024</p></details> |
 | **[Policy-Governed RAG - Research Design Study](http://arxiv.org/abs/2510.19877v1)** | 2025-10-22 | 51 pages, 8 figures |
 | **[Think Straight, Stop Smart: Structured Reasoning for Efficient Multi-Hop RAG](http://arxiv.org/abs/2510.19171v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop</p></details> |
-| **[Is Implicit Knowledge Enough for LLMs? A RAG Approach for Tree-based Structures](http://arxiv.org/abs/2510.10806v2)** | 2025-10-21 | <details><summary>Waiti...</summary><p>Waiting for Conference Response</p></details> |
-| **[Query Decomposition for RAG: Balancing Exploration-Exploitation](http://arxiv.org/abs/2510.18633v1)** | 2025-10-21 |  |
-| **[Can we Evaluate RAGs with Synthetic Data?](http://arxiv.org/abs/2508.11758v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted for the SynDAiTE workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025), September 15, 2025 - Porto, Portugal</p></details> |
-| **[ChronoPlay: A Framework for Modeling Dual Dynamics and Authenticity in Game RAG Benchmarks](http://arxiv.org/abs/2510.18455v1)** | 2025-10-21 |  |
 
