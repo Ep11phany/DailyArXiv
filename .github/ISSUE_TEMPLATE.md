@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition](http://arxiv.org/abs/2511.03725v1)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight paper. Project page: https://jong980812.github.io/DANCE/</p></details> |
-| **[Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v1)** | 2025-11-05 |  |
-| **[GDS Agent for Graph Algorithmic Reasoning](http://arxiv.org/abs/2508.20637v2)** | 2025-11-05 | Technical report |
-| **[LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol](http://arxiv.org/abs/2511.03706v1)** | 2025-11-05 | <details><summary>Inter...</summary><p>International Symposium on Advanced Electrical and Communication Technologies, ISAECT 2025</p></details> |
-| **[Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Mindset in Large Language Models](http://arxiv.org/abs/2511.03699v1)** | 2025-11-05 |  |
-| **[AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and Sample-Efficient Analog Circuit Sizing](http://arxiv.org/abs/2511.03697v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This article was accepted by 2025 International Conference on Computer-Aided Design (ICCAD 2025) and was presented in Munich, October 2025</p></details> |
-| **[LLM Query Scheduling with Prefix Reuse and Latency Constraints](http://arxiv.org/abs/2502.04677v2)** | 2025-11-05 |  |
-| **[Whisper Leak: a side-channel attack on Large Language Models](http://arxiv.org/abs/2511.03675v1)** | 2025-11-05 | 14 pages, 7 figures |
-| **[Matryoshka Pilot: Learning to Drive Black-Box LLMs with LLMs](http://arxiv.org/abs/2410.20749v3)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Post Persona Alignment for Multi-Session Dialogue Generation](http://arxiv.org/abs/2506.11857v2)** | 2025-11-05 | EMNLP 2025 Findings |
-| **[HAFixAgent: History-Aware Automated Program Repair Agent](http://arxiv.org/abs/2511.01047v2)** | 2025-11-05 | 31 pages, 6 figures |
-| **[Watermarking Large Language Models in Europe: Interpreting the AI Act in Light of Technology](http://arxiv.org/abs/2511.03641v1)** | 2025-11-05 | <details><summary>17 pa...</summary><p>17 pages, 2 Tables and 2 Pictures</p></details> |
-| **[Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability](http://arxiv.org/abs/2511.03635v1)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted in AAAI CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM 2026)</p></details> |
-| **[LiveTradeBench: Seeking Real-World Alpha with Large Language Models](http://arxiv.org/abs/2511.03628v1)** | 2025-11-05 | 16 pages |
-| **[R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing](http://arxiv.org/abs/2505.21600v2)** | 2025-11-05 |  |
+| **[Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts](http://arxiv.org/abs/2511.04655v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://cambrian-mllm.github.io</p></details> |
+| **[Logit-Entropy Adaptive Stopping Heuristic for Efficient Chain-of-Thought Reasoning](http://arxiv.org/abs/2511.04654v1)** | 2025-11-06 | <details><summary>Prese...</summary><p>Presented at the 1st Workshop on Efficient Reasoning (NeurIPS 2025)</p></details> |
+| **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v2)** | 2025-11-06 |  |
+| **[Optimal Inference Schedules for Masked Diffusion Models](http://arxiv.org/abs/2511.04647v1)** | 2025-11-06 | 33 pages, 1 figure |
+| **[When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection](http://arxiv.org/abs/2511.04643v1)** | 2025-11-06 |  |
+| **[SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators](http://arxiv.org/abs/2511.03092v2)** | 2025-11-06 |  |
+| **[Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications](http://arxiv.org/abs/2509.08604v2)** | 2025-11-06 |  |
+| **[PixCLIP: Achieving Fine-grained Visual Language Understanding via Any-granularity Pixel-Text Alignment Learning](http://arxiv.org/abs/2511.04601v1)** | 2025-11-06 |  |
+| **[Question the Questions: Auditing Representation in Online Deliberative Processes](http://arxiv.org/abs/2511.04588v1)** | 2025-11-06 |  |
+| **[VISTA Score: Verification In Sequential Turn-based Assessment](http://arxiv.org/abs/2510.27052v2)** | 2025-11-06 |  |
+| **[SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding](http://arxiv.org/abs/2511.03325v2)** | 2025-11-06 |  |
+| **[ARETE: an R package for Automated REtrieval from TExt with large language models](http://arxiv.org/abs/2511.04573v1)** | 2025-11-06 |  |
+| **[Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](http://arxiv.org/abs/2511.04570v1)** | 2025-11-06 | 36 pages, 14 figures |
+| **[Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs](http://arxiv.org/abs/2506.05410v2)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages,7 figures;Accepted by NeurIPS 2025</p></details> |
+| **[LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems](http://arxiv.org/abs/2511.04541v1)** | 2025-11-06 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAGalyst: Automated Human-Aligned Agentic Evaluation for Domain-Specific RAG](http://arxiv.org/abs/2511.04502v1)** | 2025-11-06 |  |
+| **[Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards](http://arxiv.org/abs/2505.04847v2)** | 2025-11-06 | <details><summary>EMNLP...</summary><p>EMNLP Industry Track 2025</p></details> |
+| **[NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System](http://arxiv.org/abs/2508.00709v2)** | 2025-11-06 | <details><summary>Paper...</summary><p>Paper accepted in the AACL-IJCNLP 2025 conference</p></details> |
 | **[Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning](http://arxiv.org/abs/2505.13994v2)** | 2025-11-05 | 20 pages, 4 figures |
 | **[Comparing the Performance of LLMs in RAG-based Question-Answering: A Case Study in Computer Science Literature](http://arxiv.org/abs/2511.03261v1)** | 2025-11-05 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables, presented at the 5th International Conference on Artificial Intelligence in Education Technology</p></details> |
 | **[Cache Mechanism for Agent RAG Systems](http://arxiv.org/abs/2511.02919v1)** | 2025-11-04 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLMs-Agents](http://arxiv.org/abs/2510.27107v1)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by BioCAS2025</p></details> |
 | **[The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems](http://arxiv.org/abs/2502.20995v3)** | 2025-10-30 |  |
 | **[CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark](http://arxiv.org/abs/2510.26160v1)** | 2025-10-30 |  |
-| **[FARSIQA: Faithful and Advanced RAG System for Islamic Question Answering](http://arxiv.org/abs/2510.25621v1)** | 2025-10-29 | <details><summary>37 pa...</summary><p>37 pages, 5 figures, 10 tables. Keywords: Retrieval-Augmented Generation (RAG), Question Answering (QA), Islamic Knowledge Base, Faithful AI, Persian NLP, Multi-hop Reasoning, Large Language Models (LLMs)</p></details> |
-| **[Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation](http://arxiv.org/abs/2510.25518v1)** | 2025-10-29 | <details><summary>Keywo...</summary><p>Keywords: RAG Agentic AI Fintech NLP KB Domain-Specific Ontology Query Understanding</p></details> |
-| **[DIRC-RAG: Accelerating Edge RAG with Robust High-Density and High-Loading-Bandwidth Digital In-ReRAM Computation](http://arxiv.org/abs/2510.25278v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE/ACM ISLPED</p></details> |
 
