@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
-| **[Towards Explainable Fake Image Detection with Multi-Modal Large Language Models](http://arxiv.org/abs/2504.14245v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025; 14 pages including Appendix</p></details> |
-| **[SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models](http://arxiv.org/abs/2511.05459v2)** | 2025-11-10 |  |
-| **[P-ReMIS: Pragmatic Reasoning in Mental Health and a Social Implication](http://arxiv.org/abs/2507.23247v2)** | 2025-11-07 |  |
-| **[Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](http://arxiv.org/abs/2511.02043v3)** | 2025-11-07 |  |
-| **[MACO: A Multi-Agent LLM-Based Hardware/Software Co-Design Framework for CGRAs](http://arxiv.org/abs/2509.13557v5)** | 2025-11-07 |  |
-| **[Large language models as uncertainty-calibrated optimizers for experimental discovery](http://arxiv.org/abs/2504.06265v3)** | 2025-11-07 |  |
-| **[GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models](http://arxiv.org/abs/2402.03299v6)** | 2025-11-07 | 28 papges |
-| **[Steering Language Models with Weight Arithmetic](http://arxiv.org/abs/2511.05408v1)** | 2025-11-07 |  |
-| **[Large Language Models for Explainable Threat Intelligence](http://arxiv.org/abs/2511.05406v1)** | 2025-11-07 |  |
-| **[Are Humans as Brittle as Large Language Models?](http://arxiv.org/abs/2509.07869v2)** | 2025-11-07 |  |
-| **[XBreaking: Understanding how LLMs security alignment can be broken](http://arxiv.org/abs/2504.21700v3)** | 2025-11-07 |  |
-| **[PreResQ-R1: Towards Fine-Grained Rank-and-Score Reinforcement Learning for Visual Quality Assessment via Preference-Response Disentangled Policy Optimization](http://arxiv.org/abs/2511.05393v1)** | 2025-11-07 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, under review as a conference paper</p></details> |
-| **[Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v2)** | 2025-11-07 |  |
-| **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** | 2025-11-07 | 32 pages |
+| **[Symbolic and Language Agnostic Large Language Models](https://arxiv.org/pdf/2308.14199v1)** | 2023-08-29 | <details><summary>4 pag...</summary><p>4 pages - draft. arXiv admin note: substantial text overlap with arXiv:2306.00017</p></details> |
+| **[On the Thinking-Language Modeling Gap in Large Language Models](https://arxiv.org/pdf/2505.12896v1)** | 2025-05-20 | <details><summary>Chenx...</summary><p>Chenxi and Yongqiang contributed equally; project page: https://causalcoat.github.io/lot.html</p></details> |
+| **[Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732v2)** | 2021-03-30 |  |
+| **[Large Language Models are Biased Because They Are Large Language Models](https://arxiv.org/pdf/2406.13138v2)** | 2025-03-17 | <details><summary>To ap...</summary><p>To appear in Computational Linguistics. Significantly revised since the prior arXiv version. This preprint has 22 pages</p></details> |
+| **[Large Language Models are not Models of Natural Language: they are Corpus Models](https://arxiv.org/pdf/2112.07055v2)** | 2022-06-16 |  |
+| **[Multilevel Large Language Models for Everyone](https://arxiv.org/pdf/2307.13221v1)** | 2023-07-26 |  |
+| **[Large Language Models for Mathematicians](https://arxiv.org/pdf/2312.04556v2)** | 2024-04-03 |  |
+| **[Turning large language models into cognitive models](https://arxiv.org/pdf/2306.03917v1)** | 2023-06-08 |  |
+| **[MaLLaM -- Malaysia Large Language Model](https://arxiv.org/pdf/2401.14680v2)** | 2024-01-30 |  |
+| **[Dynamic Large Language Models on Blockchains](https://arxiv.org/pdf/2307.10549v1)** | 2023-07-21 |  |
+| **[How Good are Commercial Large Language Models on African Languages?](https://arxiv.org/pdf/2305.06530v1)** | 2023-05-12 | <details><summary>Prese...</summary><p>Presented at the AfricanNLP Workshop at ICLR 2023</p></details> |
+| **[Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223v2)** | 2025-06-17 |  |
+| **[A Survey of Large Language Models for European Languages](https://arxiv.org/pdf/2408.15040v2)** | 2024-08-29 |  |
+| **[BELL: Benchmarking the Explainability of Large Language Models](https://arxiv.org/pdf/2504.18572v1)** | 2025-04-29 |  |
+| **[Traces of Memorisation in Large Language Models for Code](https://arxiv.org/pdf/2312.11658v2)** | 2024-01-17 | <details><summary>ICSE ...</summary><p>ICSE 2024 Research Track</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems](http://arxiv.org/abs/2509.09360v2)** | 2025-11-07 | <details><summary>Ident...</summary><p>Identity-Aware AI workshop at 28th European Conference on Artificial Intelligence, October 25, 2025, Bologna, Italy</p></details> |
-| **[Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs](http://arxiv.org/abs/2510.15418v2)** | 2025-11-07 |  |
-| **[DMA: Online RAG Alignment with Human Feedback](http://arxiv.org/abs/2511.04880v1)** | 2025-11-06 |  |
-| **[TOBUGraph: Knowledge Graph-Based Retrieval for Enhanced LLM Performance Beyond RAG](http://arxiv.org/abs/2412.05447v3)** | 2025-11-06 | <details><summary>Proce...</summary><p>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track</p></details> |
-| **[RAGalyst: Automated Human-Aligned Agentic Evaluation for Domain-Specific RAG](http://arxiv.org/abs/2511.04502v1)** | 2025-11-06 |  |
-| **[Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards](http://arxiv.org/abs/2505.04847v2)** | 2025-11-06 | <details><summary>EMNLP...</summary><p>EMNLP Industry Track 2025</p></details> |
-| **[NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System](http://arxiv.org/abs/2508.00709v2)** | 2025-11-06 | <details><summary>Paper...</summary><p>Paper accepted in the AACL-IJCNLP 2025 conference</p></details> |
-| **[Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning](http://arxiv.org/abs/2505.13994v2)** | 2025-11-05 | 20 pages, 4 figures |
-| **[Comparing the Performance of LLMs in RAG-based Question-Answering: A Case Study in Computer Science Literature](http://arxiv.org/abs/2511.03261v1)** | 2025-11-05 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables, presented at the 5th International Conference on Artificial Intelligence in Education Technology</p></details> |
-| **[Cache Mechanism for Agent RAG Systems](http://arxiv.org/abs/2511.02919v1)** | 2025-11-04 |  |
-| **[ARPaCCino: An Agentic-RAG for Policy as Code Compliance](http://arxiv.org/abs/2507.10584v2)** | 2025-11-04 |  |
-| **[Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking](http://arxiv.org/abs/2505.23495v4)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
-| **[A Graph-based RAG for Energy Efficiency Question Answering](http://arxiv.org/abs/2511.01643v1)** | 2025-11-03 |  |
-| **["Don't Teach Minerva": Guiding LLMs Through Complex Syntax for Faithful Latin Translation with RAG](http://arxiv.org/abs/2511.01454v1)** | 2025-11-03 |  |
-| **[Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems](http://arxiv.org/abs/2511.01268v1)** | 2025-11-03 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 10 tables. To appear in the Proceedings of the 2025 Annual Computer Security Applications Conference (ACSAC)</p></details> |
+| **[Reward-RAG: Enhancing RAG with Reward Driven Supervision](https://arxiv.org/pdf/2410.03780v1)** | 2024-10-08 |  |
+| **[DoTA-RAG: Dynamic of Thought Aggregation RAG](https://arxiv.org/pdf/2506.12571v1)** | 2025-06-17 | <details><summary>SIGIR...</summary><p>SIGIR LiveRAG 2025 (oral presentation)</p></details> |
+| **[RAGGED: Towards Informed Design of Scalable and Stable RAG Systems](https://arxiv.org/pdf/2403.09040v3)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/neulab/ragged</p></details> |
+| **[Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/pdf/2407.21059v1)** | 2024-08-01 |  |
+| **[RAG-Stack: Co-Optimizing RAG Quality and Performance From the Vector Database Perspective](https://arxiv.org/pdf/2510.20296v1)** | 2025-10-24 |  |
+| **[PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510v1)** | 2024-12-20 |  |
+| **[RAG-Anything: All-in-One RAG Framework](https://arxiv.org/pdf/2510.12323v1)** | 2025-10-15 |  |
+| **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563v1)** | 2025-03-19 | NAACL 2025 |
+| **[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration](https://arxiv.org/pdf/2508.13828v1)** | 2025-08-20 |  |
+| **[Stop-RAG: Value-Based Retrieval Control for Iterative RAG](https://arxiv.org/pdf/2510.14337v1)** | 2025-10-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 MTI-LLM Workshop</p></details> |
+| **[KARE-RAG: Knowledge-Aware Refinement and Enhancement for RAG](https://arxiv.org/pdf/2506.02503v1)** | 2025-06-04 |  |
+| **[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/pdf/2507.09477v2)** | 2025-07-17 | submitted to ARR May |
+| **[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/pdf/2410.13085v2)** | 2025-03-04 | ICLR 2025 |
+| **[KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs](https://arxiv.org/pdf/2506.09542v2)** | 2025-10-21 |  |
+| **[FIT-RAG: Black-Box RAG with Factual Information and Token Reduction](https://arxiv.org/pdf/2403.14374v1)** | 2024-03-22 |  |
 
