@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,12 +33,12 @@ labels: documentation
 | **[RAG-Stack: Co-Optimizing RAG Quality and Performance From the Vector Database Perspective](https://arxiv.org/pdf/2510.20296v1)** | 2025-10-24 |  |
 | **[PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510v1)** | 2024-12-20 |  |
 | **[RAG-Anything: All-in-One RAG Framework](https://arxiv.org/pdf/2510.12323v1)** | 2025-10-15 |  |
-| **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563v1)** | 2025-03-19 | NAACL 2025 |
 | **[Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration](https://arxiv.org/pdf/2508.13828v1)** | 2025-08-20 |  |
+| **[MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563v1)** | 2025-03-19 | NAACL 2025 |
 | **[Stop-RAG: Value-Based Retrieval Control for Iterative RAG](https://arxiv.org/pdf/2510.14337v1)** | 2025-10-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 MTI-LLM Workshop</p></details> |
 | **[KARE-RAG: Knowledge-Aware Refinement and Enhancement for RAG](https://arxiv.org/pdf/2506.02503v1)** | 2025-06-04 |  |
 | **[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/pdf/2507.09477v2)** | 2025-07-17 | submitted to ARR May |
-| **[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/pdf/2410.13085v2)** | 2025-03-04 | ICLR 2025 |
 | **[KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs](https://arxiv.org/pdf/2506.09542v2)** | 2025-10-21 |  |
+| **[MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/pdf/2410.13085v2)** | 2025-03-04 | ICLR 2025 |
 | **[FIT-RAG: Black-Box RAG with Factual Information and Token Reduction](https://arxiv.org/pdf/2403.14374v1)** | 2024-03-22 |  |
 
