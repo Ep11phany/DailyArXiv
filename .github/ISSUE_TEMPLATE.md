@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ARC Is a Vision Problem!](https://arxiv.org/abs/2511.14761v1)** | 2025-11-18 | <details><summary>Techn...</summary><p>Technical Report. Project webpage: https://github.com/lillian039/VARC</p></details> |
-| **[UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning](https://arxiv.org/abs/2511.14760v1)** | 2025-11-18 |  |
-| **[Vision Large Language Models Are Good Noise Handlers in Engagement Analysis](https://arxiv.org/abs/2511.14749v1)** | 2025-11-18 |  |
-| **[OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model](https://arxiv.org/abs/2506.01196v2)** | 2025-11-18 | 13 pages |
-| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](https://arxiv.org/abs/2508.01450v2)** | 2025-11-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
-| **[LAUD: Integrating Large Language Models with Active Learning for Unlabeled Data](https://arxiv.org/abs/2511.14738v1)** | 2025-11-18 | <details><summary>7 pag...</summary><p>7 pages and one figure</p></details> |
-| **[Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees](https://arxiv.org/abs/2509.07939v2)** | 2025-11-18 |  |
-| **[When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms](https://arxiv.org/abs/2511.14722v1)** | 2025-11-18 | <details><summary>submi...</summary><p>submitted to NeurIPS 2025 workshop on Algorithmic Collective Action</p></details> |
-| **[Strategic Innovation Management in the Age of Large Language Models Market Intelligence, Adaptive R&D, and Ethical Governance](https://arxiv.org/abs/2511.14709v1)** | 2025-11-18 |  |
-| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
-| **[Automatic Fact-checking in English and Telugu](https://arxiv.org/abs/2509.26415v2)** | 2025-11-18 | <details><summary>Proce...</summary><p>Proceedings of the First Workshop on Advancing NLP for Low Resource Languages associated with RANLP 2025 Varna Bulgaria September 13 2025 pages 140-151</p></details> |
-| **[Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models](https://arxiv.org/abs/2511.14694v1)** | 2025-11-18 |  |
-| **[Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer](https://arxiv.org/abs/2511.14691v1)** | 2025-11-18 | <details><summary>21 Pa...</summary><p>21 Pages, 5 Figures, 3 Table</p></details> |
-| **[Ground Truth Generation for Multilingual Historical NLP using LLMs](https://arxiv.org/abs/2511.14688v1)** | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 1 figure</p></details> |
-| **[Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries](https://arxiv.org/abs/2511.14685v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted to the Machine Learning and the Physical Sciences Workshop at NeurIPS 2025, 11 pages, 4 figures</p></details> |
+| **[RescueLens: LLM-Powered Triage and Action on Volunteer Feedback for Food Rescue](https://arxiv.org/abs/2511.15698v1)** | 2025-11-19 | Accepted at IAAI'26 |
+| **[MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](https://arxiv.org/abs/2511.15690v1)** | 2025-11-19 | <details><summary>Code ...</summary><p>Code will be released upon acceptance</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[Fairshare Data Pricing via Data Valuation for Large Language Models](https://arxiv.org/abs/2502.00198v4)** | 2025-11-19 |  |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[VisPlay: Self-Evolving Vision-Language Models from Images](https://arxiv.org/abs/2511.15661v1)** | 2025-11-19 |  |
+| **[Knowledge-Grounded Agentic Large Language Models for Multi-Hazard Understanding from Reconnaissance Reports](https://arxiv.org/abs/2511.14010v2)** | 2025-11-19 | 17 pages, 5 figures |
+| **[Do Large Language Models (LLMs) Understand Chronology?](https://arxiv.org/abs/2511.14214v2)** | 2025-11-19 | <details><summary>Versi...</summary><p>Version 2: corrected footnote and added code repository link. Extended version of our work presented at the AAAI-26 AI4TS Workshop (poster) and AAAI-26 Student Abstract Program (oral)</p></details> |
+| **[The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification](https://arxiv.org/abs/2511.15622v1)** | 2025-11-19 |  |
+| **[When to Think and When to Look: Uncertainty-Guided Lookback](https://arxiv.org/abs/2511.15613v1)** | 2025-11-19 |  |
+| **[Agent-SAMA: State-Aware Mobile Assistant](https://arxiv.org/abs/2505.23596v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI-26 (Main Technical Track)</p></details> |
+| **[Privacy Preserving In-Context-Learning Framework for Large Language Models](https://arxiv.org/abs/2509.13625v4)** | 2025-11-19 | <details><summary>Git r...</summary><p>Git repo: https://github.com/bhusalb/privacy-preserving-icl</p></details> |
+| **[AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in the 5th IEEE Big Data Workshop on Multimodal AI (MMAI 2025), Dec 8-11, Macau, China, 2025 (Preprint Copy)</p></details> |
+| **[HSKBenchmark: Modeling and Benchmarking Chinese Second Language Acquisition in Large Language Models through Curriculum Tuning](https://arxiv.org/abs/2511.15574v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by AAAI-2026</p></details> |
+| **[Two-Faced Social Agents: Context Collapse in Role-Conditioned Large Language Models](https://arxiv.org/abs/2511.15573v1)** | 2025-11-19 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
