@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](https://arxiv.org/abs/2511.17487v1)** | 2025-11-21 | <details><summary>Websi...</summary><p>Website at https://web.stanford.edu/~markendo/projects/downscaling_intelligence</p></details> |
-| **[Counterfactual World Models via Digital Twin-conditioned Video Diffusion](https://arxiv.org/abs/2511.17481v1)** | 2025-11-21 |  |
-| **[Fine-Grained Reward Optimization for Machine Translation using Error Severity Mappings](https://arxiv.org/abs/2411.05986v3)** | 2025-11-21 |  |
-| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
-| **[PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM](https://arxiv.org/abs/2511.17467v1)** | 2025-11-21 |  |
-| **[Do LLMs produce texts with "human-like" lexical diversity?](https://arxiv.org/abs/2508.00086v2)** | 2025-11-21 |  |
-| **[MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models](https://arxiv.org/abs/2511.17448v1)** | 2025-11-21 | 10 pages |
-| **[CATCODER: Repository-Level Code Generation with Relevant Code and Type Context](https://arxiv.org/abs/2406.03283v2)** | 2025-11-21 | <details><summary>Revis...</summary><p>Revised and extended version; To be published in ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://arxiv.org/abs/2511.17441v1)** | 2025-11-21 |  |
-| **[SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation](https://arxiv.org/abs/2511.17432v1)** | 2025-11-21 | <details><summary>23 pa...</summary><p>23 pages, 6 tables, 9 figures</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v2)** | 2025-11-21 |  |
-| **[SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](https://arxiv.org/abs/2511.17411v1)** | 2025-11-21 |  |
-| **[That's not natural: The Impact of Off-Policy Training Data on Probe Performance](https://arxiv.org/abs/2511.17408v1)** | 2025-11-21 | <details><summary>10 pa...</summary><p>10 pages, EurIPS 2025 Workshop on Private AI Governance</p></details> |
-| **[Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models](https://arxiv.org/abs/2511.11910v2)** | 2025-11-21 |  |
-| **[IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/abs/2511.17384v1)** | 2025-11-21 |  |
+| **[Cost-Aware Contrastive Routing for LLMs](https://arxiv.org/abs/2508.12491v3)** | 2025-11-24 |  |
+| **[Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660v2)** | 2025-11-24 | <details><summary>40 pa...</summary><p>40 pages, 4 tables, 6 figures</p></details> |
+| **[Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution](https://arxiv.org/abs/2511.19430v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral). The code is available at \url{https://github.com/H-EmbodVis/GRANT}</p></details> |
+| **[Prompt Less, Smile More: MTP with Semantic Engineering in Lieu of Prompt Engineering](https://arxiv.org/abs/2511.19427v1)** | 2025-11-24 |  |
+| **[Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design](https://arxiv.org/abs/2511.19423v1)** | 2025-11-24 | 10 pages, 4 figures |
+| **[SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v1)** | 2025-11-24 |  |
+| **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/abs/2511.19417v1)** | 2025-11-24 |  |
+| **[Learning Robust Social Strategies with Large Language Models](https://arxiv.org/abs/2511.19405v1)** | 2025-11-24 |  |
+| **[Information Extraction From Fiscal Documents Using LLMs](https://arxiv.org/abs/2511.10659v2)** | 2025-11-24 | <details><summary>6 pag...</summary><p>6 pages. Presented at the AI for Financial Inclusion, Risk Modeling and Resilience in Emerging Markets workshop at ACM ICAIF 2025 Singapore</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework](https://arxiv.org/abs/2510.03463v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to MAS-GAIN Workshop at ASE 2025</p></details> |
+| **[LLM-Driven Stationarity-Aware Expert Demonstrations for Multi-Agent Reinforcement Learning in Mobile Systems](https://arxiv.org/abs/2511.19368v1)** | 2025-11-24 | 15 pages, 9 figures |
+| **[Leveraging LLMs for reward function design in reinforcement learning control tasks](https://arxiv.org/abs/2511.19355v1)** | 2025-11-24 |  |
+| **[Scalable Parameter-Light Spectral Method for Clustering Short Text Embeddings with a Cohesion-Based Evaluation Metric](https://arxiv.org/abs/2511.19350v1)** | 2025-11-24 |  |
+| **[Revisiting Feedback Models for HyDE](https://arxiv.org/abs/2511.19349v1)** | 2025-11-24 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567v2)** | 2025-11-24 | <details><summary>The p...</summary><p>The paper has been accepted by AAAI 2026</p></details> |
+| **[Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning](https://arxiv.org/abs/2505.17086v3)** | 2025-11-24 |  |
+| **[Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Camera-ready version</p></details> |
+| **[Principled Context Engineering for RAG: Statistical Guarantees via Conformal Prediction](https://arxiv.org/abs/2511.17908v1)** | 2025-11-22 | Preprint |
 | **[RAG-BioQA Retrieval-Augmented Generation for Long-Form Biomedical Question Answering](https://arxiv.org/abs/2510.01612v2)** | 2025-11-20 | <details><summary>Need ...</summary><p>Need to work on the methodology more</p></details> |
 | **[Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation](https://arxiv.org/abs/2511.16807v1)** | 2025-11-20 |  |
 | **[Operon: Incremental Construction of Ragged Data via Named Dimensions](https://arxiv.org/abs/2511.16080v1)** | 2025-11-20 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
 | **[REIC: RAG-Enhanced Intent Classification at Scale](https://arxiv.org/abs/2506.00210v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 (Industry Track)</p></details> |
 | **[A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students](https://arxiv.org/abs/2509.11947v2)** | 2025-11-17 | 9 pages |
-| **[RAG-R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](https://arxiv.org/abs/2507.02962v5)** | 2025-11-17 |  |
-| **[Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation](https://arxiv.org/abs/2511.13201v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 main conference</p></details> |
-| **[RAGPulse: An Open-Source RAG Workload Trace to Optimize RAG Serving Systems](https://arxiv.org/abs/2511.12979v1)** | 2025-11-17 |  |
-| **[You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105v2)** | 2025-11-17 | <details><summary>This ...</summary><p>This work has been accepted to AAAI'26</p></details> |
 
