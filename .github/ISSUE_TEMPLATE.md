@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 26, 2025
+title: Latest 15 Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](https://arxiv.org/abs/2511.20648v1)** | 2025-11-25 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nvlabs.github.io/LocateAnything3D/</p></details> |
-| **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639v1)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project: https://github.com/Gen-Verse/LatentMAS</p></details> |
-| **[Reinforcing Action Policies by Prophesying](https://arxiv.org/abs/2511.20633v1)** | 2025-11-25 | <details><summary>https...</summary><p>https://LogosRoboticsGroup.github.io/ProphRL</p></details> |
-| **[Fighting AI with AI: Leveraging Foundation Models for Assuring AI-Enabled Safety-Critical Systems](https://arxiv.org/abs/2511.20627v1)** | 2025-11-25 |  |
-| **[ROOT: Robust Orthogonalized Optimizer for Neural Network Training](https://arxiv.org/abs/2511.20626v1)** | 2025-11-25 |  |
-| **[Copyright Detection in Large Language Models: An Ethical Approach to Generative AI Development](https://arxiv.org/abs/2511.20623v1)** | 2025-11-25 | 4 pages, 3 figures |
-| **[Multi-modal Generative AI: Multi-modal LLMs, Diffusions, and the Unification](https://arxiv.org/abs/2409.14993v3)** | 2025-11-25 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 3 tables</p></details> |
-| **[Corporate Earnings Calls and Analyst Beliefs](https://arxiv.org/abs/2511.15214v2)** | 2025-11-25 |  |
-| **[Can Vibe Coding Beat Graduate CS Students? An LLM vs. Human Coding Tournament on Market-driven Strategic Planning](https://arxiv.org/abs/2511.20613v1)** | 2025-11-25 |  |
-| **[Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)](https://arxiv.org/abs/2504.03151v2)** | 2025-11-25 |  |
-| **[On Evaluating LLM Alignment by Evaluating LLMs as Judges](https://arxiv.org/abs/2511.20604v1)** | 2025-11-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera Ready</p></details> |
-| **[Towards Multimodal Graph Large Language Model](https://arxiv.org/abs/2506.09738v2)** | 2025-11-25 | 4 figures, 2 tables |
-| **[Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration](https://arxiv.org/abs/2511.20555v1)** | 2025-11-25 |  |
-| **[FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning Models on Automatically Verifiable Textual and Visual Questions](https://arxiv.org/abs/2509.17177v3)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project homepage: https://flageval-baai.github.io/LRM-Eval/ This work will also be presented at NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models (FoRLM); update with trials on Gemini 3 Pro</p></details> |
-| **[From Words to Wisdom: Discourse Annotation and Baseline Models for Student Dialogue Understanding](https://arxiv.org/abs/2511.20547v1)** | 2025-11-25 |  |
+| **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](https://arxiv.org/abs/2511.21692v1)** | 2025-11-26 |  |
+| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
+| **[Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686v1)** | 2025-11-26 |  |
+| **[AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following](https://arxiv.org/abs/2511.10507v2)** | 2025-11-26 |  |
+| **[DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving](https://arxiv.org/abs/2511.21669v1)** | 2025-11-26 |  |
+| **[Escaping the Verifier: Learning to Reason via Demonstrations](https://arxiv.org/abs/2511.21667v1)** | 2025-11-26 |  |
+| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
+| **[Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO](https://arxiv.org/abs/2511.21638v1)** | 2025-11-26 | 12 pages, 2 figures |
+| **[The Impossibility of Inverse Permutation Learning in Transformer Models](https://arxiv.org/abs/2509.24125v2)** | 2025-11-26 |  |
+| **[The author is dead, but what if they never lived? A reception experiment on Czech AI- and human-authored poetry](https://arxiv.org/abs/2511.21629v1)** | 2025-11-26 |  |
+| **[TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs](https://arxiv.org/abs/2511.21624v1)** | 2025-11-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
+| **[Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining](https://arxiv.org/abs/2511.21613v1)** | 2025-11-26 |  |
+| **[Auxiliary Metrics Help Decoding Skill Neurons in the Wild](https://arxiv.org/abs/2511.21610v1)** | 2025-11-26 | <details><summary>7 pag...</summary><p>7 pages, 7 figures. Includes additional appendix</p></details> |
+| **[Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding](https://arxiv.org/abs/2511.01695v3)** | 2025-11-26 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
 | **[Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education](https://arxiv.org/abs/2412.14191v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by the 2025 IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
 | **[Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567v2)** | 2025-11-24 | <details><summary>The p...</summary><p>The paper has been accepted by AAAI 2026</p></details> |
 | **[Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning](https://arxiv.org/abs/2505.17086v3)** | 2025-11-24 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[LiveRAG: A diverse Q&A dataset with varying difficulty level for RAG evaluation](https://arxiv.org/abs/2511.14531v1)** | 2025-11-18 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables</p></details> |
 | **[Tell Me: An LLM-powered Mental Well-being Assistant with RAG, Synthetic Dialogue Generation, and Agentic Planning](https://arxiv.org/abs/2511.14445v1)** | 2025-11-18 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 1 Table. Submitted to the Computation and Language (cs.CL) category. Uses the ACL-style template. Code and demo will be released at: https://github.com/trystine/Tell_Me_Mental_Wellbeing_System</p></details> |
 | **[WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web](https://arxiv.org/abs/2511.14182v1)** | 2025-11-18 |  |
-| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
 
