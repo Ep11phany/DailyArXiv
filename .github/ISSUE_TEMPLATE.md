@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v1)** | 2025-12-01 | 10 pages, 5 figures |
-| **[The Art of Scaling Test-Time Compute for Large Language Models](https://arxiv.org/abs/2512.02008v1)** | 2025-12-01 |  |
-| **[AlignSAE: Concept-Aligned Sparse Autoencoders](https://arxiv.org/abs/2512.02004v1)** | 2025-12-01 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 5 tables</p></details> |
-| **[LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation](https://arxiv.org/abs/2512.02002v1)** | 2025-12-01 | 8 pages, 2 figures |
-| **[LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess](https://arxiv.org/abs/2512.01992v1)** | 2025-12-01 |  |
-| **[PAI-Bench: A Comprehensive Benchmark For Physical AI](https://arxiv.org/abs/2512.01989v1)** | 2025-12-01 |  |
-| **[The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason](https://arxiv.org/abs/2506.12286v4)** | 2025-12-01 |  |
-| **[Low-Rank Prehab: Preparing Neural Networks for SVD Compression](https://arxiv.org/abs/2512.01980v1)** | 2025-12-01 |  |
-| **[Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback](https://arxiv.org/abs/2512.01979v1)** | 2025-12-01 |  |
-| **[Structure is Supervision: Multiview Masked Autoencoders for Radiology](https://arxiv.org/abs/2511.22294v2)** | 2025-12-01 |  |
-| **[Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967v3)** | 2025-12-01 | <details><summary>Best ...</summary><p>Best Paper, Accepted at CVPR Workshop Anti-UAV 2025. 16 pages</p></details> |
-| **[SpikingBrain: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276v3)** | 2025-12-01 |  |
-| **[Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness](https://arxiv.org/abs/2510.06790v2)** | 2025-12-01 | 21 pages |
-| **[Outcome-based Reinforcement Learning to Predict the Future](https://arxiv.org/abs/2505.17989v4)** | 2025-12-01 |  |
-| **[Learned-Rule-Augmented Large Language Model Evaluators](https://arxiv.org/abs/2512.01958v1)** | 2025-12-01 |  |
+| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
+| **[SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069v1)** | 2025-12-03 |  |
+| **[Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study](https://arxiv.org/abs/2512.04031v1)** | 2025-12-03 | 10 pages, 5 figures |
+| **[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](https://arxiv.org/abs/2512.04013v1)** | 2025-12-03 |  |
+| **[Young children's anthropomorphism of an AI chatbot: Brain activation and the role of parent co-presence](https://arxiv.org/abs/2512.02179v2)** | 2025-12-03 | I updated the title |
+| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v2)** | 2025-12-03 | 10 pages, 5 figures |
+| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
+| **[Adapting Large Language Models to Low-Resource Tibetan: A Two-Stage Continual and Supervised Fine-Tuning Study](https://arxiv.org/abs/2512.03976v1)** | 2025-12-03 |  |
+| **[Sponsored Questions and How to Auction Them](https://arxiv.org/abs/2512.03975v1)** | 2025-12-03 |  |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
+| **[Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol](https://arxiv.org/abs/2512.03955v1)** | 2025-12-03 | <details><summary>This ...</summary><p>This work has been submitted to IFAC for possible publication</p></details> |
+| **[Is Lying Only Sinful in Islam? Exploring Religious Bias in Multilingual Large Language Models Across Major Religions](https://arxiv.org/abs/2512.03943v1)** | 2025-12-03 | 18 pages, 7 figures |
+| **[OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference](https://arxiv.org/abs/2512.03927v1)** | 2025-12-03 |  |
+| **[SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235v2)** | 2025-12-03 |  |
+| **[Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents](https://arxiv.org/abs/2504.03111v3)** | 2025-12-03 | <details><summary>Netwo...</summary><p>Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://arxiv.org/abs/2505.10792v3)** | 2025-12-03 |  |
+| **[Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254v2)** | 2025-12-03 |  |
 | **[HalluGraph: Auditable Hallucination Detection for Legal RAG Systems via Knowledge Graph Alignment](https://arxiv.org/abs/2512.01659v1)** | 2025-12-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, under review</p></details> |
 | **[EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations](https://arxiv.org/abs/2512.01335v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
 | **[TempPerturb-Eval: On the Joint Effects of Internal Temperature and External Perturbations in RAG Robustness](https://arxiv.org/abs/2512.01183v1)** | 2025-12-01 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing](https://arxiv.org/abs/2511.22584v1)** | 2025-11-27 |  |
 | **[More Documents, Same Length: Isolating the Challenge of Multiple Documents in RAG](https://arxiv.org/abs/2503.04388v3)** | 2025-11-27 | Preprint |
 | **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
-| **[Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education](https://arxiv.org/abs/2412.14191v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by the 2025 IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
-| **[Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving](https://arxiv.org/abs/2503.06567v2)** | 2025-11-24 | <details><summary>The p...</summary><p>The paper has been accepted by AAAI 2026</p></details> |
 
