@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069v1)** | 2025-12-03 |  |
-| **[Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study](https://arxiv.org/abs/2512.04031v1)** | 2025-12-03 | 10 pages, 5 figures |
-| **[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](https://arxiv.org/abs/2512.04013v1)** | 2025-12-03 |  |
-| **[Young children's anthropomorphism of an AI chatbot: Brain activation and the role of parent co-presence](https://arxiv.org/abs/2512.02179v2)** | 2025-12-03 | I updated the title |
-| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v2)** | 2025-12-03 | 10 pages, 5 figures |
-| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
-| **[Adapting Large Language Models to Low-Resource Tibetan: A Two-Stage Continual and Supervised Fine-Tuning Study](https://arxiv.org/abs/2512.03976v1)** | 2025-12-03 |  |
-| **[Sponsored Questions and How to Auction Them](https://arxiv.org/abs/2512.03975v1)** | 2025-12-03 |  |
-| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
-| **[Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol](https://arxiv.org/abs/2512.03955v1)** | 2025-12-03 | <details><summary>This ...</summary><p>This work has been submitted to IFAC for possible publication</p></details> |
-| **[Is Lying Only Sinful in Islam? Exploring Religious Bias in Multilingual Large Language Models Across Major Religions](https://arxiv.org/abs/2512.03943v1)** | 2025-12-03 | 18 pages, 7 figures |
-| **[OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference](https://arxiv.org/abs/2512.03927v1)** | 2025-12-03 |  |
-| **[SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235v2)** | 2025-12-03 |  |
-| **[Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents](https://arxiv.org/abs/2504.03111v3)** | 2025-12-03 | <details><summary>Netwo...</summary><p>Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
+| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
+| **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v1)** | 2025-12-04 |  |
+| **[Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](https://arxiv.org/abs/2512.05105v1)** | 2025-12-04 |  |
+| **[Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark](https://arxiv.org/abs/2512.05091v1)** | 2025-12-04 | <details><summary>Techn...</summary><p>Technical Report; Project Page: https://harboryuan.github.io/visual-reasoning-tracer</p></details> |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
+| **[Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://arxiv.org/abs/2512.05033v1)** | 2025-12-04 | 22 pages |
+| **[TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering](https://arxiv.org/abs/2506.00331v2)** | 2025-12-04 |  |
+| **[Strategic Self-Improvement for Competitive Agents in AI Labour Markets](https://arxiv.org/abs/2512.04988v1)** | 2025-12-04 |  |
+| **[Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987v1)** | 2025-12-04 |  |
+| **[SO-Bench: A Structural Output Evaluation of Multimodal LLMs](https://arxiv.org/abs/2511.21750v2)** | 2025-12-04 | <details><summary>v2 pr...</summary><p>v2 preprint. Fixed some typos, add a discussion about limitation, provide pseudo-codes for eval</p></details> |
+| **[Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models](https://arxiv.org/abs/2512.04981v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://fairpro-t2i.github.io</p></details> |
+| **[Massively Multilingual Adaptation of Large Language Models Using Bilingual Translation Data](https://arxiv.org/abs/2506.00469v2)** | 2025-12-04 | <details><summary>EMMA-...</summary><p>EMMA-500 Gen 2; refer to Gen 1 in arXiv:2409.17892</p></details> |
+| **[QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](https://arxiv.org/abs/2506.08123v5)** | 2025-12-04 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2025, pages 20619-20642, Suzhou, China</p></details> |
+| **[EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](https://arxiv.org/abs/2409.17892v3)** | 2025-12-04 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking](https://arxiv.org/abs/2512.05012v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work was presented as a poster at the Applied Social Media Lab during the 2025 Synthesizer & Open Showcase at the Berkman Klein Center for Internet & Society at Harvard University</p></details> |
 | **[Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://arxiv.org/abs/2505.10792v3)** | 2025-12-03 |  |
 | **[Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254v2)** | 2025-12-03 |  |
 | **[HalluGraph: Auditable Hallucination Detection for Legal RAG Systems via Knowledge Graph Alignment](https://arxiv.org/abs/2512.01659v1)** | 2025-12-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, under review</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms](https://arxiv.org/abs/2511.22858v1)** | 2025-11-28 | <details><summary>This ...</summary><p>This is a preprint version of a paper reviewed and accepted at BREV-RAG 2025: Beyond Relevance-based EValuation of RAG Systems, a SIGIR-AP 2025 workshop</p></details> |
 | **[Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing](https://arxiv.org/abs/2511.22584v1)** | 2025-11-27 |  |
 | **[More Documents, Same Length: Isolating the Challenge of Multiple Documents in RAG](https://arxiv.org/abs/2503.04388v3)** | 2025-11-27 | Preprint |
-| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
 
