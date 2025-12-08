@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
-| **[STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107v1)** | 2025-12-04 |  |
-| **[Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](https://arxiv.org/abs/2512.05105v1)** | 2025-12-04 |  |
-| **[Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark](https://arxiv.org/abs/2512.05091v1)** | 2025-12-04 | <details><summary>Techn...</summary><p>Technical Report; Project Page: https://harboryuan.github.io/visual-reasoning-tracer</p></details> |
-| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
-| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://arxiv.org/abs/2512.05033v1)** | 2025-12-04 | 22 pages |
-| **[TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering](https://arxiv.org/abs/2506.00331v2)** | 2025-12-04 |  |
-| **[Strategic Self-Improvement for Competitive Agents in AI Labour Markets](https://arxiv.org/abs/2512.04988v1)** | 2025-12-04 |  |
-| **[Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987v1)** | 2025-12-04 |  |
-| **[SO-Bench: A Structural Output Evaluation of Multimodal LLMs](https://arxiv.org/abs/2511.21750v2)** | 2025-12-04 | <details><summary>v2 pr...</summary><p>v2 preprint. Fixed some typos, add a discussion about limitation, provide pseudo-codes for eval</p></details> |
-| **[Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models](https://arxiv.org/abs/2512.04981v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://fairpro-t2i.github.io</p></details> |
-| **[Massively Multilingual Adaptation of Large Language Models Using Bilingual Translation Data](https://arxiv.org/abs/2506.00469v2)** | 2025-12-04 | <details><summary>EMMA-...</summary><p>EMMA-500 Gen 2; refer to Gen 1 in arXiv:2409.17892</p></details> |
-| **[QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](https://arxiv.org/abs/2506.08123v5)** | 2025-12-04 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2025, pages 20619-20642, Suzhou, China</p></details> |
-| **[EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](https://arxiv.org/abs/2409.17892v3)** | 2025-12-04 |  |
+| **[Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](https://arxiv.org/abs/2512.05967v1)** | 2025-12-05 |  |
+| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
+| **[MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution](https://arxiv.org/abs/2512.05958v1)** | 2025-12-05 |  |
+| **[iMotion-LLM: Instruction-Conditioned Trajectory Generation](https://arxiv.org/abs/2406.06211v3)** | 2025-12-05 |  |
+| **[SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code](https://arxiv.org/abs/2512.05954v1)** | 2025-12-05 |  |
+| **[Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951v1)** | 2025-12-05 |  |
+| **[TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.05943v1)** | 2025-12-05 |  |
+| **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
+| **[Analysing Moral Bias in Finetuned LLMs through Mechanistic Interpretability](https://arxiv.org/abs/2510.12229v2)** | 2025-12-05 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[LLM Harms: A Taxonomy and Discussion](https://arxiv.org/abs/2512.05929v1)** | 2025-12-05 |  |
+| **[KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity](https://arxiv.org/abs/2512.05916v1)** | 2025-12-05 |  |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
+| **[From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation](https://arxiv.org/abs/2512.05907v1)** | 2025-12-05 |  |
+| **[Reinforce-Ada: An Adaptive Sampling Framework under Non-linear RL Objectives](https://arxiv.org/abs/2510.04996v3)** | 2025-12-05 | 27 pages, 10 figures |
+| **[Uncovering Grounding IDs: How External Cues Shape Multimodal Binding](https://arxiv.org/abs/2509.24072v3)** | 2025-12-05 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2026</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
+| **[Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework](https://arxiv.org/abs/2512.05863v1)** | 2025-12-05 |  |
+| **[A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems](https://arxiv.org/abs/2512.05411v1)** | 2025-12-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
 | **[Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking](https://arxiv.org/abs/2512.05012v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work was presented as a poster at the Applied Social Media Lab during the 2025 Synthesizer & Open Showcase at the Berkman Klein Center for Internet & Society at Harvard University</p></details> |
 | **[Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://arxiv.org/abs/2505.10792v3)** | 2025-12-03 |  |
 | **[Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254v2)** | 2025-12-03 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Look as You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning](https://arxiv.org/abs/2511.12003v2)** | 2025-11-29 | Poster of AAAI'2026 |
 | **[SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot](https://arxiv.org/abs/2511.23300v1)** | 2025-11-28 |  |
 | **[MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)](https://arxiv.org/abs/2511.23281v1)** | 2025-11-28 |  |
-| **[RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms](https://arxiv.org/abs/2511.22858v1)** | 2025-11-28 | <details><summary>This ...</summary><p>This is a preprint version of a paper reviewed and accepted at BREV-RAG 2025: Beyond Relevance-based EValuation of RAG Systems, a SIGIR-AP 2025 workshop</p></details> |
-| **[Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing](https://arxiv.org/abs/2511.22584v1)** | 2025-11-27 |  |
-| **[More Documents, Same Length: Isolating the Challenge of Multiple Documents in RAG](https://arxiv.org/abs/2503.04388v3)** | 2025-11-27 | Preprint |
 
