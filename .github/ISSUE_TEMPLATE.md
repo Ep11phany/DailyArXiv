@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 11, 2025
+title: Latest 15 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
-| **[SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments](https://arxiv.org/abs/2512.09897v1)** | 2025-12-10 |  |
-| **[PolyLingua: Margin-based Inter-class Transformer for Robust Cross-domain Language Detection](https://arxiv.org/abs/2512.08143v2)** | 2025-12-10 |  |
-| **[TRepLiNa: Layer-wise CKA+REPINA Alignment Improves Low-Resource Machine Translation in Aya-23 8B](https://arxiv.org/abs/2510.06249v5)** | 2025-12-10 | <details><summary>It is...</summary><p>It is work in progress</p></details> |
-| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v2)** | 2025-12-10 |  |
-| **[Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs](https://arxiv.org/abs/2512.09874v1)** | 2025-12-10 |  |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI](https://arxiv.org/abs/2512.09867v1)** | 2025-12-10 | <details><summary>Datas...</summary><p>Dataset and Code: https://github.com/fengli-wu/MedForget</p></details> |
-| **[CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency](https://arxiv.org/abs/2512.00417v4)** | 2025-12-10 |  |
-| **[UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://arxiv.org/abs/2512.09864v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://seed-uniugp.github.io/</p></details> |
-| **[Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement](https://arxiv.org/abs/2512.09854v1)** | 2025-12-10 |  |
-| **[SAFT: Structure-Aware Fine-Tuning of LLMs for AMR-to-Text Generation](https://arxiv.org/abs/2507.13381v2)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at the KDD2025 Workshop on Structured Knowledge for LLMs</p></details> |
-| **[ChronusOmni: Improving Time Awareness of Omni Large Language Models](https://arxiv.org/abs/2512.09841v1)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/YJCX330/Chronus/</p></details> |
-| **[LLMs in Interpreting Legal Documents](https://arxiv.org/abs/2512.09830v1)** | 2025-12-10 |  |
-| **[RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning](https://arxiv.org/abs/2512.09829v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in the IEEE DATE 2026 conference</p></details> |
+| **[Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving](https://arxiv.org/abs/2512.10947v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://jiawei-yang.github.io/Flex/</p></details> |
+| **[FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos](https://arxiv.org/abs/2512.10927v1)** | 2025-12-11 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Wolfv0/FoundationMotion/tree/main</p></details> |
+| **[PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving](https://arxiv.org/abs/2504.20101v4)** | 2025-12-11 |  |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v1)** | 2025-12-11 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables</p></details> |
+| **[Multi-Granular Node Pruning for Circuit Discovery](https://arxiv.org/abs/2512.10903v1)** | 2025-12-11 |  |
+| **[LLMs Can Assist with Proposal Selection at Large User Facilities](https://arxiv.org/abs/2512.10895v1)** | 2025-12-11 | 9 pages, 8figures |
+| **[AI Through the Human Lens: Investigating Cognitive Theories in Machine Psychology](https://arxiv.org/abs/2506.18156v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted to IJCNLP-AACL 2025 Student Research Workshop</p></details> |
+| **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
+| **[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v1)** | 2025-12-11 |  |
+| **[Achieving Trustworthy Real-Time Decision Support Systems with Low-Latency Interpretable AI Models](https://arxiv.org/abs/2506.20018v2)** | 2025-12-11 |  |
+| **[Visualization Generation with Large Language Models: An Evaluation](https://arxiv.org/abs/2401.11255v2)** | 2025-12-11 |  |
+| **[LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification](https://arxiv.org/abs/2512.10793v1)** | 2025-12-11 |  |
+| **[Reframing Human-Robot Interaction Through Extended Reality: Unlocking Safer, Smarter, and More Empathic Interactions with Virtual Robots and Foundation Models](https://arxiv.org/abs/2512.02569v2)** | 2025-12-11 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
+| **[SyGra: A Unified Graph-Based Framework for Scalable Generation, Quality Tagging, and Management of Synthetic Data](https://arxiv.org/abs/2508.15432v3)** | 2025-12-11 |  |
+| **[The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality](https://arxiv.org/abs/2512.10791v1)** | 2025-12-11 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Replace, Don't Expand: Mitigating Context Dilution in Multi-Hop RAG via Fixed-Budget Evidence Assembly](https://arxiv.org/abs/2512.10787v1)** | 2025-12-11 | 24 pages, 2 figures |
+| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents](https://arxiv.org/abs/2504.02800v3)** | 2025-12-09 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. This is an extension of ICDEW 2025</p></details> |
 | **[RAG-IT: Retrieval-Augmented Instruction Tuning for Automated Financial Analysis -- A Case Study for the Semiconductor Sector](https://arxiv.org/abs/2412.08179v3)** | 2025-12-09 | <details><summary>We up...</summary><p>We updated title, abstract and added more details in experiment section. We also updated the list of authors</p></details> |
 | **[Improving LLM Reliability with RAG in Religious Question-Answering: MufassirQAS](https://arxiv.org/abs/2401.15378v6)** | 2025-12-09 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition](https://arxiv.org/abs/2512.08984v1)** | 2025-12-06 |  |
 | **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
 | **[Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring](https://arxiv.org/abs/2512.06060v1)** | 2025-12-05 |  |
-| **[Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework](https://arxiv.org/abs/2512.05863v1)** | 2025-12-05 |  |
-| **[A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems](https://arxiv.org/abs/2512.05411v1)** | 2025-12-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables</p></details> |
 
