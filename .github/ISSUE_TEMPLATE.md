@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
-| **[UpBench: A Dynamically Evolving Real-World Labor-Market Agentic Benchmark Framework Built for Human-Centric AI](https://arxiv.org/abs/2511.12306v2)** | 2025-12-12 |  |
-| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
-| **[Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks](https://arxiv.org/abs/2512.11718v1)** | 2025-12-12 |  |
-| **[Text2Graph: Combining Lightweight LLMs and GNNs for Efficient Text Classification in Label-Scarce Scenarios](https://arxiv.org/abs/2512.10061v2)** | 2025-12-12 |  |
-| **[Uncertainty Distillation: Teaching Language Models to Express Semantic Confidence](https://arxiv.org/abs/2503.14749v3)** | 2025-12-12 |  |
-| **[Integrating Ontologies with Large Language Models for Enhanced Control Systems in Chemical Engineering](https://arxiv.org/abs/2510.26898v2)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs](https://arxiv.org/abs/2512.11689v1)** | 2025-12-12 | <details><summary>Suppl...</summary><p>Supplementary material in https://github.com/mavivi95/resilience_humans_vs_LLM/blob/main/Supplementary_File.pdf</p></details> |
-| **[MedRule-KG: A Knowledge-Graph--Steered Scaffold for Reliable Mathematical and Biomedical Reasoning](https://arxiv.org/abs/2511.12963v2)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[MedRule-KG: A Knowledge-Graph--Steered Scaffold for Mathematical Reasoning with a Lightweight Verifier](https://arxiv.org/abs/2510.16309v3)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
-| **[From Verification Burden to Trusted Collaboration: Design Goals for LLM-Assisted Literature Reviews](https://arxiv.org/abs/2512.11661v1)** | 2025-12-12 |  |
-| **[Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](https://arxiv.org/abs/2512.11620v1)** | 2025-12-12 |  |
-| **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v1)** | 2025-12-12 | 34 pages, 19 figures |
+| **[A Scientific Reasoning Model for Organic Synthesis Procedure Generation](https://arxiv.org/abs/2512.13668v1)** | 2025-12-15 |  |
+| **[Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance](https://arxiv.org/abs/2512.13658v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Learning Analytics & Knowledge (LAK 2026)</p></details> |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Large-Language Memorization During the Classification of United States Supreme Court Cases](https://arxiv.org/abs/2512.13654v1)** | 2025-12-15 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, Appendix of Prompts</p></details> |
+| **[MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning](https://arxiv.org/abs/2512.13636v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables; Project Page: https://xiaomi-mlab.github.io/MindDrive/</p></details> |
+| **[Temporal Tokenization Strategies for Event Sequence Modeling with Large Language Models](https://arxiv.org/abs/2512.13618v1)** | 2025-12-15 |  |
+| **[Textual Gradients are a Flawed Metaphor for Automatic Prompt Optimization](https://arxiv.org/abs/2512.13598v1)** | 2025-12-15 |  |
+| **[SoK: Can Fully Homomorphic Encryption Support General AI Computation? A Functional and Cost Analysis](https://arxiv.org/abs/2504.11604v2)** | 2025-12-15 | <details><summary>26th ...</summary><p>26th Privacy Enhancing Technologies Symposium (PETS 2026)</p></details> |
+| **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v3)** | 2025-12-15 |  |
+| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
+| **[From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005v2)** | 2025-12-15 | Under review |
+| **[MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573v1)** | 2025-12-15 | Acceped by AAAI 2026 |
+| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](https://arxiv.org/abs/2507.21983v2)** | 2025-12-15 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
+| **[DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403v2)** | 2025-12-15 |  |
+| **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Demo)</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](https://arxiv.org/abs/2508.16994v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
 | **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v1)** | 2025-12-12 | 34 pages, 19 figures |
 | **[Replace, Don't Expand: Mitigating Context Dilution in Multi-Hop RAG via Fixed-Budget Evidence Assembly](https://arxiv.org/abs/2512.10787v1)** | 2025-12-11 | 24 pages, 2 figures |
 | **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations](https://arxiv.org/abs/2512.07015v1)** | 2025-12-07 |  |
 | **[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586v2)** | 2025-12-07 |  |
 | **[RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition](https://arxiv.org/abs/2512.08984v1)** | 2025-12-06 |  |
-| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
 
