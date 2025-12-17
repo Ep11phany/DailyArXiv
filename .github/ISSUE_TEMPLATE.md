@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Scientific Reasoning Model for Organic Synthesis Procedure Generation](https://arxiv.org/abs/2512.13668v1)** | 2025-12-15 |  |
-| **[Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance](https://arxiv.org/abs/2512.13658v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted for publication at the 16th International Conference on Learning Analytics & Knowledge (LAK 2026)</p></details> |
-| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
-| **[Large-Language Memorization During the Classification of United States Supreme Court Cases](https://arxiv.org/abs/2512.13654v1)** | 2025-12-15 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, Appendix of Prompts</p></details> |
-| **[MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning](https://arxiv.org/abs/2512.13636v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables; Project Page: https://xiaomi-mlab.github.io/MindDrive/</p></details> |
-| **[Temporal Tokenization Strategies for Event Sequence Modeling with Large Language Models](https://arxiv.org/abs/2512.13618v1)** | 2025-12-15 |  |
-| **[Textual Gradients are a Flawed Metaphor for Automatic Prompt Optimization](https://arxiv.org/abs/2512.13598v1)** | 2025-12-15 |  |
-| **[SoK: Can Fully Homomorphic Encryption Support General AI Computation? A Functional and Cost Analysis](https://arxiv.org/abs/2504.11604v2)** | 2025-12-15 | <details><summary>26th ...</summary><p>26th Privacy Enhancing Technologies Symposium (PETS 2026)</p></details> |
-| **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v3)** | 2025-12-15 |  |
-| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
-| **[From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005v2)** | 2025-12-15 | Under review |
-| **[MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573v1)** | 2025-12-15 | Acceped by AAAI 2026 |
-| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](https://arxiv.org/abs/2507.21983v2)** | 2025-12-15 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
-| **[DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403v2)** | 2025-12-15 |  |
-| **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Demo)</p></details> |
+| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
+| **[Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://arxiv.org/abs/2512.14681v1)** | 2025-12-16 |  |
+| **[Temporal Tokenization Strategies for Event Sequence Modeling with Large Language Models](https://arxiv.org/abs/2512.13618v2)** | 2025-12-16 |  |
+| **[EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models](https://arxiv.org/abs/2512.14666v1)** | 2025-12-16 | 15 pages |
+| **[Latent Self-Consistency for Reliable Majority-Set Selection in Short- and Long-Answer Reasoning](https://arxiv.org/abs/2508.18395v2)** | 2025-12-16 |  |
+| **[Beyond Text-to-SQL: Autonomous Research-Driven Database Exploration with DAR](https://arxiv.org/abs/2512.14622v1)** | 2025-12-16 |  |
+| **[PerProb: Indirectly Evaluating Memorization in Large Language Models](https://arxiv.org/abs/2512.14600v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at APSEC 2025</p></details> |
+| **[LLM-driven Knowledge Enhancement for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2512.14594v1)** | 2025-12-16 |  |
+| **[Text Embedded Swin-UMamba for DeepLesion Segmentation](https://arxiv.org/abs/2508.06453v2)** | 2025-12-16 |  |
+| **[Listening Between the Lines: Decoding Podcast Narratives with Language Modeling](https://arxiv.org/abs/2511.05310v2)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 5 Tables. Under review</p></details> |
+| **[Single-Agent Scaling Fails Multi-Agent Intelligence: Towards Foundation Models with Native Multi-Agent Intelligence](https://arxiv.org/abs/2512.08743v3)** | 2025-12-16 |  |
+| **[Pairwise Comparison for Bias Identification and Quantification](https://arxiv.org/abs/2512.14565v1)** | 2025-12-16 |  |
+| **[Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis](https://arxiv.org/abs/2512.14561v1)** | 2025-12-16 | <details><summary>This ...</summary><p>This manuscript is under review as a book chapter</p></details> |
+| **[VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models](https://arxiv.org/abs/2512.14554v1)** | 2025-12-16 |  |
+| **[VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse](https://arxiv.org/abs/2512.14531v1)** | 2025-12-16 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation](https://arxiv.org/abs/2511.13201v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 main conference</p></details> |
+| **[Mixture-of-RAG: Integrating Text and Tables with Large Language Models](https://arxiv.org/abs/2504.09554v3)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted to SIGKDD 2026</p></details> |
+| **[Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting](https://arxiv.org/abs/2409.12524v2)** | 2025-12-16 | <details><summary>37 pa...</summary><p>37 pages, accepted and published in Dialogue & Discourse 16(2) (2025)</p></details> |
+| **[Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems](https://arxiv.org/abs/2512.13771v1)** | 2025-12-15 |  |
 | **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](https://arxiv.org/abs/2508.16994v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
 | **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v1)** | 2025-12-12 | 34 pages, 19 figures |
 | **[Replace, Don't Expand: Mitigating Context Dilution in Multi-Hop RAG via Fixed-Budget Evidence Assembly](https://arxiv.org/abs/2512.10787v1)** | 2025-12-11 | 24 pages, 2 figures |
@@ -37,8 +41,4 @@ labels: documentation
 | **[PoultryTalk: A Multi-modal Retrieval-Augmented Generation (RAG) System for Intelligent Poultry Management and Decision Support](https://arxiv.org/abs/2512.08995v1)** | 2025-12-08 |  |
 | **[SPAD: Seven-Source Token Probability Attribution with Syntactic Aggregation for Detecting Hallucinations in RAG](https://arxiv.org/abs/2512.07515v1)** | 2025-12-08 |  |
 | **[MUST-RAG: MUSical Text Question Answering with Retrieval Augmented Generation](https://arxiv.org/abs/2507.23334v2)** | 2025-12-08 | <details><summary>This ...</summary><p>This is an earlier version of the paper - ArtistMus: A Globally Diverse, Artist-Centric Benchmark for Retrieval-Augmented Music Question Answering. The latest version is available at: (arXiv:2512.05430)</p></details> |
-| **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069v3)** | 2025-12-08 |  |
-| **[FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations](https://arxiv.org/abs/2512.07015v1)** | 2025-12-07 |  |
-| **[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586v2)** | 2025-12-07 |  |
-| **[RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition](https://arxiv.org/abs/2512.08984v1)** | 2025-12-06 |  |
 
