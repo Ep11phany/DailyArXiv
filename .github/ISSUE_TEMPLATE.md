@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
-| **[GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](https://arxiv.org/abs/2512.19682v1)** | 2025-12-22 | <details><summary>Our c...</summary><p>Our codes are available at https://github.com/Gen-Verse/GenEnv</p></details> |
-| **[LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?](https://arxiv.org/abs/2510.09595v2)** | 2025-12-22 |  |
-| **[Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)](https://arxiv.org/abs/2512.19675v1)** | 2025-12-22 |  |
-| **[Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v1)** | 2025-12-22 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/BuPO</p></details> |
-| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
-| **[Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting](https://arxiv.org/abs/2512.19651v1)** | 2025-12-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
-| **[Empowering LLMs with Structural Role Inference for Zero-Shot Graph Learning](https://arxiv.org/abs/2511.00898v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication](https://arxiv.org/abs/2510.10611v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems](https://arxiv.org/abs/2510.10585v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs](https://arxiv.org/abs/2510.12085v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search](https://arxiv.org/abs/2510.10581v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[G2rammar: Bilingual Grammar Modeling for Enhanced Text-attributed Graph Learning](https://arxiv.org/abs/2511.00911v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[Exploring the features used for summary evaluation by Human and GPT](https://arxiv.org/abs/2512.19620v1)** | 2025-12-22 |  |
-| **[MapTrace: Scalable Data Generation for Route Tracing on Maps](https://arxiv.org/abs/2512.19609v1)** | 2025-12-22 |  |
+| **[Making Large Language Models Efficient Dense Retrievers](https://arxiv.org/abs/2512.20612v1)** | 2025-12-23 |  |
+| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
+| **[Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent](https://arxiv.org/abs/2512.20586v1)** | 2025-12-23 |  |
+| **[Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](https://arxiv.org/abs/2512.20578v1)** | 2025-12-23 |  |
+| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
+| **[Similarity Field Theory: A Mathematical Framework for Intelligence](https://arxiv.org/abs/2509.18218v4)** | 2025-12-23 |  |
+| **[LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions](https://arxiv.org/abs/2512.20550v1)** | 2025-12-23 |  |
+| **[Benchmarking LLMs for Predictive Applications in the Intensive Care Units](https://arxiv.org/abs/2512.20520v1)** | 2025-12-23 |  |
+| **[Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](https://arxiv.org/abs/2507.05495v2)** | 2025-12-23 |  |
+| **[Coherence in the brain unfolds across separable temporal regimes](https://arxiv.org/abs/2512.20481v1)** | 2025-12-23 |  |
+| **[Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register](https://arxiv.org/abs/2512.20458v1)** | 2025-12-23 |  |
+| **[Stochastic activations](https://arxiv.org/abs/2509.22358v2)** | 2025-12-23 |  |
+| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
+| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v3)** | 2025-12-23 |  |
+| **[ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected](https://arxiv.org/abs/2512.20405v1)** | 2025-12-23 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)** | 2025-12-23 |  |
+| **[Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in CODS 2025</p></details> |
 | **[QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134v1)** | 2025-12-22 |  |
 | **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
 | **[Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents](https://arxiv.org/abs/2504.02800v4)** | 2025-12-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. This is an extension of ICDEW 2025</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems](https://arxiv.org/abs/2512.13771v1)** | 2025-12-15 |  |
 | **[GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](https://arxiv.org/abs/2508.16994v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 findings</p></details> |
 | **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v1)** | 2025-12-12 | 34 pages, 19 figures |
-| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[RAG-IT: Retrieval-Augmented Instruction Tuning for Automated Financial Analysis -- A Case Study for the Semiconductor Sector](https://arxiv.org/abs/2412.08179v3)** | 2025-12-09 | <details><summary>We up...</summary><p>We updated title, abstract and added more details in experiment section. We also updated the list of authors</p></details> |
 
