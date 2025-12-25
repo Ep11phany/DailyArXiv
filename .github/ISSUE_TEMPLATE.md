@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Making Large Language Models Efficient Dense Retrievers](https://arxiv.org/abs/2512.20612v1)** | 2025-12-23 |  |
-| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
-| **[Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent](https://arxiv.org/abs/2512.20586v1)** | 2025-12-23 |  |
-| **[Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](https://arxiv.org/abs/2512.20578v1)** | 2025-12-23 |  |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
-| **[Similarity Field Theory: A Mathematical Framework for Intelligence](https://arxiv.org/abs/2509.18218v4)** | 2025-12-23 |  |
-| **[LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions](https://arxiv.org/abs/2512.20550v1)** | 2025-12-23 |  |
-| **[Benchmarking LLMs for Predictive Applications in the Intensive Care Units](https://arxiv.org/abs/2512.20520v1)** | 2025-12-23 |  |
-| **[Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](https://arxiv.org/abs/2507.05495v2)** | 2025-12-23 |  |
-| **[Coherence in the brain unfolds across separable temporal regimes](https://arxiv.org/abs/2512.20481v1)** | 2025-12-23 |  |
-| **[Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register](https://arxiv.org/abs/2512.20458v1)** | 2025-12-23 |  |
-| **[Stochastic activations](https://arxiv.org/abs/2509.22358v2)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[Scaling Laws for Energy Efficiency of Local LLMs](https://arxiv.org/abs/2512.16531v3)** | 2025-12-23 |  |
-| **[ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected](https://arxiv.org/abs/2512.20405v1)** | 2025-12-23 |  |
+| **[C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling](https://arxiv.org/abs/2512.21332v1)** | 2025-12-24 |  |
+| **[Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks](https://arxiv.org/abs/2512.21316v1)** | 2025-12-24 |  |
+| **[A Plan Reuse Mechanism for LLM-Driven Agent](https://arxiv.org/abs/2512.21309v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is an English version of A Plan Reuse Mechanism for LLM-Driven Agent published in 2024 in the Journal of Computer Research and Development</p></details> |
+| **[When F1 Fails: Granularity-Aware Evaluation for Dialogue Topic Segmentation](https://arxiv.org/abs/2512.17083v2)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 4 figures. Evaluation and methodology study on dialogue topic segmentation</p></details> |
+| **[Quadrupped-Legged Robot Movement Plan Generation using Large Language Model](https://arxiv.org/abs/2512.21293v1)** | 2025-12-24 |  |
+| **[ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling](https://arxiv.org/abs/2512.21257v1)** | 2025-12-24 |  |
+| **[LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation](https://arxiv.org/abs/2512.21243v1)** | 2025-12-24 |  |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[Rethinking Memory in LLM based Agents: Representations, Operations, and Emerging Topics](https://arxiv.org/abs/2505.00675v3)** | 2025-12-24 |  |
+| **[MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models](https://arxiv.org/abs/2512.21231v1)** | 2025-12-24 |  |
+| **[Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs](https://arxiv.org/abs/2512.16378v2)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project available at https://github.com/sarapapi/hearing2translate</p></details> |
+| **[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://arxiv.org/abs/2510.16416v3)** | 2025-12-24 |  |
+| **[Bootstrapping LLMs via Preference-Based Policy Optimization](https://arxiv.org/abs/2511.12867v2)** | 2025-12-24 |  |
+| **[VCB Bench: An Evaluation Benchmark for Audio-Grounded Large Language Model Conversational Agents](https://arxiv.org/abs/2510.11098v2)** | 2025-12-24 | 20 pages, 5 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)** | 2025-12-23 |  |
-| **[Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted in CODS 2025</p></details> |
+| **[Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted in CODS 2025</p></details> |
+| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v2)** | 2025-12-24 |  |
 | **[QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134v1)** | 2025-12-22 |  |
 | **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
 | **[Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents](https://arxiv.org/abs/2504.02800v4)** | 2025-12-20 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. This is an extension of ICDEW 2025</p></details> |
