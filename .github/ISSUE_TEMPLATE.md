@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMs, You Can Evaluate It! Design of Multi-perspective Report Evaluation for Security Operation Centers](https://arxiv.org/abs/2601.03013v2)** | 2026-01-16 |  |
-| **[Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them](https://arxiv.org/abs/2510.06534v3)** | 2026-01-16 |  |
-| **[Health Facility Location in Ethiopia: Leveraging LLMs to Integrate Expert Knowledge into Algorithmic Planning](https://arxiv.org/abs/2601.11479v1)** | 2026-01-16 |  |
-| **[Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity](https://arxiv.org/abs/2512.10882v3)** | 2026-01-16 |  |
-| **[Human-AI Alignment of Multimodal Large Language Models with Speech-Language Pathologists in Parent-Child Interactions](https://arxiv.org/abs/2506.05879v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This is an earlier version of the work released in May 2025. The version accepted at CHI 2026 is available as a separate preprint at arXiv:2511.04366</p></details> |
-| **[Probabilistic Mission Design for Neuro-Symbolic Unmanned Aircraft Systems](https://arxiv.org/abs/2501.01439v2)** | 2026-01-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2406.03454</p></details> |
-| **[Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation](https://arxiv.org/abs/2601.11443v1)** | 2026-01-16 |  |
-| **[Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/abs/2601.11441v1)** | 2026-01-16 | ICASSP 2026 |
-| **[From Noise to Signal to Selbstzweck: Reframing Human Label Variation in the Era of Post-training in NLP](https://arxiv.org/abs/2510.12817v2)** | 2026-01-16 |  |
-| **[The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432v1)** | 2026-01-16 |  |
-| **[DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization](https://arxiv.org/abs/2505.16995v2)** | 2026-01-16 |  |
-| **[Relational Linearity is a Predictor of Hallucinations](https://arxiv.org/abs/2601.11429v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
-| **[Do Sparse Autoencoders Identify Reasoning Features in Language Models?](https://arxiv.org/abs/2601.05679v3)** | 2026-01-16 |  |
-| **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
-| **[Generate-Then-Validate: A Novel Question Generation Approach Using Small Language Models](https://arxiv.org/abs/2512.10110v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted as a full research paper for the 16th International Conference on Learning Analytics and Knowledge (LAK'26)</p></details> |
+| **[AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development](https://arxiv.org/abs/2601.13597v1)** | 2026-01-20 |  |
+| **[Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions](https://arxiv.org/abs/2601.13590v1)** | 2026-01-20 |  |
+| **[TREX: Tokenizer Regression for Optimal Data Mixture](https://arxiv.org/abs/2601.13588v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to EACL 2026. Long Paper. (19 languages studied: Chinese, Greek, Japanese, etc.)</p></details> |
+| **[SCRIPTMIND: Crime Script Inference and Cognitive Evaluation for LLM-based Social Engineering Scam Detection System](https://arxiv.org/abs/2601.13581v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to the EACL 2026 Industry Track</p></details> |
+| **[EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions](https://arxiv.org/abs/2505.23473v3)** | 2026-01-20 | NeurIPS 2025 |
+| **[Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867v2)** | 2026-01-20 | <details><summary>Datas...</summary><p>Dataset and Code: https://github.com/fengli-wu/MedForget</p></details> |
+| **[Leveraging ChatGPT and Other NLP Methods for Identifying Risk and Protective Behaviors in MSM: Social Media and Dating apps Text Analysis](https://arxiv.org/abs/2601.13558v1)** | 2026-01-20 |  |
+| **[LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI](https://arxiv.org/abs/2601.13556v1)** | 2026-01-20 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 6 tables</p></details> |
+| **[TruthTensor: Evaluating LLMs Human Imitation through Prediction Market Drift and Holistic Reasoning](https://arxiv.org/abs/2601.13545v1)** | 2026-01-20 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 2 tables</p></details> |
+| **[Human or LLM as Standardized Patients? A Comparative Study for Medical Education](https://arxiv.org/abs/2511.14783v2)** | 2026-01-20 | <details><summary>24 pa...</summary><p>24 pages, 13 figures, 10 table</p></details> |
+| **[When Wording Steers the Evaluation: Framing Bias in LLM judges](https://arxiv.org/abs/2601.13537v1)** | 2026-01-20 | 4 pages |
+| **[ELO: Efficient Layer-Specific Optimization for Continual Pretraining of Multilingual LLMs](https://arxiv.org/abs/2601.03648v2)** | 2026-01-20 | <details><summary>12 pa...</summary><p>12 pages, Accepted to EACL 2026 (Industrial Track)</p></details> |
+| **[Thinking Longer, Not Always Smarter: Evaluating LLM Capabilities in Hierarchical Legal Reasoning](https://arxiv.org/abs/2510.08710v2)** | 2026-01-20 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, Proceedings of the 2026 Symposium on Computer Science and Law (CSLAW '26)</p></details> |
+| **[DomainCQA: Crafting Knowledge-Intensive QA from Domain-Specific Charts](https://arxiv.org/abs/2503.19498v6)** | 2026-01-20 | 83 pages, 59 figures |
+| **[CatMaster: An Agentic Autonomous System for Computational Heterogeneous Catalysis Research](https://arxiv.org/abs/2601.13508v1)** | 2026-01-20 | 25 pages |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136v2)** | 2026-01-20 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge: Third Prize in the Single-Source Augmentation Task</p></details> |
+| **[RAG: A Random-Forest-Based Generative Design Framework for Uncertainty-Aware Design of Metamaterials with Complex Functional Response Requirements](https://arxiv.org/abs/2601.13233v1)** | 2026-01-19 |  |
+| **[Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?](https://arxiv.org/abs/2601.13227v1)** | 2026-01-19 |  |
+| **[VectorLiteRAG: Latency-Aware and Fine-Grained Resource Partitioning for Efficient RAG](https://arxiv.org/abs/2504.08930v3)** | 2026-01-19 |  |
+| **[RAGExplorer: A Visual Analytics System for the Comparative Diagnosis of RAG Systems](https://arxiv.org/abs/2601.12991v1)** | 2026-01-19 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Accepted to IEEE TVCG (PacificVis 2026)</p></details> |
+| **[From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.12904v1)** | 2026-01-19 |  |
+| **[Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/abs/2601.12658v1)** | 2026-01-19 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 2 figures; presented at IEEE CogMI 2025</p></details> |
+| **[Principled Context Engineering for RAG: Statistical Guarantees via Conformal Prediction](https://arxiv.org/abs/2511.17908v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026</p></details> |
+| **[Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](https://arxiv.org/abs/2505.16014v4)** | 2026-01-18 |  |
+| **[Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG](https://arxiv.org/abs/2508.02296v2)** | 2026-01-18 |  |
+| **[Effective and Unsupervised Social Event Detection and Evolution via RAG and Structural Entropy](https://arxiv.org/abs/2601.12035v1)** | 2026-01-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted for The Web Conference (WWW) 2026</p></details> |
+| **[Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](https://arxiv.org/abs/2502.16101v5)** | 2026-01-17 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
 | **[FACTUM: Mechanistic Detection of Citation Hallucination in Long-Form RAG](https://arxiv.org/abs/2601.05866v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026. 13 pages, 2 figures</p></details> |
 | **[Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking](https://arxiv.org/abs/2601.11273v1)** | 2026-01-16 |  |
-| **[SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.11199v1)** | 2026-01-16 |  |
-| **[NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems](https://arxiv.org/abs/2601.11004v1)** | 2026-01-16 |  |
-| **[Less LLM, More Documents: Searching for Improved RAG](https://arxiv.org/abs/2510.02657v3)** | 2026-01-16 | <details><summary>Proce...</summary><p>Proceeding Version of ECIR 2026</p></details> |
-| **[Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG](https://arxiv.org/abs/2601.10923v1)** | 2026-01-16 |  |
-| **[Topo-RAG: Topology-aware retrieval for hybrid text-table documents](https://arxiv.org/abs/2601.10215v1)** | 2026-01-15 |  |
-| **[Disco-RAG: Discourse-Aware Retrieval-Augmented Generation](https://arxiv.org/abs/2601.04377v3)** | 2026-01-15 |  |
-| **[RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10168v1)** | 2026-01-15 | 9 pages, 6 figures |
-| **[Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG](https://arxiv.org/abs/2601.09982v1)** | 2026-01-15 |  |
-| **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v2)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Software Engineering in Practice track at the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[KPoEM: A Human-Annotated Dataset for Emotion Classification and RAG-Based Poetry Generation in Korean Modern Poetry](https://arxiv.org/abs/2509.03932v2)** | 2026-01-14 | <details><summary>43 pa...</summary><p>43 pages, 22 tables, 3 figures, Digital Humanities and Social Sciences Korea Conference, James Joo-Jin Kim Center for Korean Studies, University of Pennsylvania, Philadelphia, USA</p></details> |
-| **[OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG](https://arxiv.org/abs/2601.09028v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by ACM WWW 2026</p></details> |
 
