@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development](https://arxiv.org/abs/2601.13597v1)** | 2026-01-20 |  |
-| **[Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions](https://arxiv.org/abs/2601.13590v1)** | 2026-01-20 |  |
-| **[TREX: Tokenizer Regression for Optimal Data Mixture](https://arxiv.org/abs/2601.13588v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to EACL 2026. Long Paper. (19 languages studied: Chinese, Greek, Japanese, etc.)</p></details> |
-| **[SCRIPTMIND: Crime Script Inference and Cognitive Evaluation for LLM-based Social Engineering Scam Detection System](https://arxiv.org/abs/2601.13581v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to the EACL 2026 Industry Track</p></details> |
-| **[EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions](https://arxiv.org/abs/2505.23473v3)** | 2026-01-20 | NeurIPS 2025 |
-| **[Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867v2)** | 2026-01-20 | <details><summary>Datas...</summary><p>Dataset and Code: https://github.com/fengli-wu/MedForget</p></details> |
-| **[Leveraging ChatGPT and Other NLP Methods for Identifying Risk and Protective Behaviors in MSM: Social Media and Dating apps Text Analysis](https://arxiv.org/abs/2601.13558v1)** | 2026-01-20 |  |
-| **[LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI](https://arxiv.org/abs/2601.13556v1)** | 2026-01-20 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 6 tables</p></details> |
-| **[TruthTensor: Evaluating LLMs Human Imitation through Prediction Market Drift and Holistic Reasoning](https://arxiv.org/abs/2601.13545v1)** | 2026-01-20 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 2 tables</p></details> |
-| **[Human or LLM as Standardized Patients? A Comparative Study for Medical Education](https://arxiv.org/abs/2511.14783v2)** | 2026-01-20 | <details><summary>24 pa...</summary><p>24 pages, 13 figures, 10 table</p></details> |
-| **[When Wording Steers the Evaluation: Framing Bias in LLM judges](https://arxiv.org/abs/2601.13537v1)** | 2026-01-20 | 4 pages |
-| **[ELO: Efficient Layer-Specific Optimization for Continual Pretraining of Multilingual LLMs](https://arxiv.org/abs/2601.03648v2)** | 2026-01-20 | <details><summary>12 pa...</summary><p>12 pages, Accepted to EACL 2026 (Industrial Track)</p></details> |
-| **[Thinking Longer, Not Always Smarter: Evaluating LLM Capabilities in Hierarchical Legal Reasoning](https://arxiv.org/abs/2510.08710v2)** | 2026-01-20 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, Proceedings of the 2026 Symposium on Computer Science and Law (CSLAW '26)</p></details> |
-| **[DomainCQA: Crafting Knowledge-Intensive QA from Domain-Specific Charts](https://arxiv.org/abs/2503.19498v6)** | 2026-01-20 | 83 pages, 59 figures |
-| **[CatMaster: An Agentic Autonomous System for Computational Heterogeneous Catalysis Research](https://arxiv.org/abs/2601.13508v1)** | 2026-01-20 | 25 pages |
+| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
+| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
+| **[MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1)** | 2026-01-21 |  |
+| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
+| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
+| **[Evaluation of Large Language Models in Legal Applications: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2601.15267v1)** | 2026-01-21 |  |
+| **[The Effect of Scripts and Formats on LLM Numeracy](https://arxiv.org/abs/2601.15251v1)** | 2026-01-21 |  |
+| **[QKVQA: Question-Focused Filtering for Knowledge-based VQA](https://arxiv.org/abs/2601.13856v2)** | 2026-01-21 |  |
+| **[Metadata Conditioned Large Language Models for Localization](https://arxiv.org/abs/2601.15236v1)** | 2026-01-21 | under review |
+| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v2)** | 2026-01-21 |  |
+| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[From Construction to Injection: Edit-Based Fingerprints for Large Language Models](https://arxiv.org/abs/2509.03122v3)** | 2026-01-21 | preprint |
+| **[SPECTRE: Conditional System Prompt Poisoning to Hijack LLMs](https://arxiv.org/abs/2505.16888v3)** | 2026-01-21 |  |
+| **[Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface](https://arxiv.org/abs/2601.15209v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication in ACM CHI 2026</p></details> |
+| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Should I Cite? A RAG Benchmark for Academic Citation Prediction](https://arxiv.org/abs/2601.14949v1)** | 2026-01-21 |  |
+| **[Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG](https://arxiv.org/abs/2601.10923v2)** | 2026-01-20 | WWW 2026 |
 | **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136v2)** | 2026-01-20 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge: Third Prize in the Single-Source Augmentation Task</p></details> |
 | **[RAG: A Random-Forest-Based Generative Design Framework for Uncertainty-Aware Design of Metamaterials with Complex Functional Response Requirements](https://arxiv.org/abs/2601.13233v1)** | 2026-01-19 |  |
 | **[Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?](https://arxiv.org/abs/2601.13227v1)** | 2026-01-19 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Effective and Unsupervised Social Event Detection and Evolution via RAG and Structural Entropy](https://arxiv.org/abs/2601.12035v1)** | 2026-01-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted for The Web Conference (WWW) 2026</p></details> |
 | **[Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](https://arxiv.org/abs/2502.16101v5)** | 2026-01-17 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
-| **[FACTUM: Mechanistic Detection of Citation Hallucination in Long-Form RAG](https://arxiv.org/abs/2601.05866v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026. 13 pages, 2 figures</p></details> |
-| **[Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking](https://arxiv.org/abs/2601.11273v1)** | 2026-01-16 |  |
 
