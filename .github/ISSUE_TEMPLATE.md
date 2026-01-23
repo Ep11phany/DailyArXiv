@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
-| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
-| **[MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1)** | 2026-01-21 |  |
-| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
-| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
-| **[Evaluation of Large Language Models in Legal Applications: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2601.15267v1)** | 2026-01-21 |  |
-| **[The Effect of Scripts and Formats on LLM Numeracy](https://arxiv.org/abs/2601.15251v1)** | 2026-01-21 |  |
-| **[QKVQA: Question-Focused Filtering for Knowledge-based VQA](https://arxiv.org/abs/2601.13856v2)** | 2026-01-21 |  |
-| **[Metadata Conditioned Large Language Models for Localization](https://arxiv.org/abs/2601.15236v1)** | 2026-01-21 | under review |
-| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v2)** | 2026-01-21 |  |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[From Construction to Injection: Edit-Based Fingerprints for Large Language Models](https://arxiv.org/abs/2509.03122v3)** | 2026-01-21 | preprint |
-| **[SPECTRE: Conditional System Prompt Poisoning to Hijack LLMs](https://arxiv.org/abs/2505.16888v3)** | 2026-01-21 |  |
-| **[Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface](https://arxiv.org/abs/2601.15209v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication in ACM CHI 2026</p></details> |
-| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
+| **[Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing](https://arxiv.org/abs/2601.16200v1)** | 2026-01-22 | Under review |
+| **[PAL*M: Property Attestation for Large Generative Models](https://arxiv.org/abs/2601.16199v1)** | 2026-01-22 |  |
+| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v3)** | 2026-01-22 | 10 pages, 4 figures |
+| **[Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages](https://arxiv.org/abs/2401.18034v3)** | 2026-01-22 |  |
+| **[Is this chart lying to me? Automating the detection of misleading visualizations](https://arxiv.org/abs/2508.21675v2)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint under review. Code and data available at: https://github.com/UKPLab/arxiv2025-misviz</p></details> |
+| **[Structured Hints for Sample-Efficient Lean Theorem Proving](https://arxiv.org/abs/2601.16172v1)** | 2026-01-22 | 9 pages, 1 figure |
+| **[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406v4)** | 2026-01-22 | <details><summary>19 pa...</summary><p>19 pages, 6 fiigures, 16 tables</p></details> |
+| **[LLMs Homogenize Values in Constructive Arguments on Value-Laden Topics](https://arxiv.org/abs/2509.10637v2)** | 2026-01-22 |  |
+| **[Low-altitude Multi-UAV-assisted Data Collection and Semantic Forwarding for Post-Disaster Relief](https://arxiv.org/abs/2601.16146v1)** | 2026-01-22 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, journal</p></details> |
+| **[Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data](https://arxiv.org/abs/2503.10883v2)** | 2026-01-22 |  |
+| **[LLM Prompt Evaluation for Educational Applications](https://arxiv.org/abs/2601.16134v1)** | 2026-01-22 |  |
+| **[ViSymRe: Vision-guided Multimodal Symbolic Regression](https://arxiv.org/abs/2412.11139v3)** | 2026-01-22 |  |
+| **[Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/abs/2601.16127v1)** | 2026-01-22 |  |
+| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v3)** | 2026-01-22 |  |
+| **[Adapter Fusion for Multilingual Text2Cypher with Linear and Learned Gating](https://arxiv.org/abs/2601.16097v1)** | 2026-01-22 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Submitted to ACL</p></details> |
+| **[Chunking, Retrieval, and Re-ranking: An Empirical Evaluation of RAG Architectures for Policy Document Question Answering](https://arxiv.org/abs/2601.15457v1)** | 2026-01-21 |  |
+| **[Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs](https://arxiv.org/abs/2601.15429v1)** | 2026-01-21 |  |
 | **[What Should I Cite? A RAG Benchmark for Academic Citation Prediction](https://arxiv.org/abs/2601.14949v1)** | 2026-01-21 |  |
 | **[Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG](https://arxiv.org/abs/2601.10923v2)** | 2026-01-20 | WWW 2026 |
 | **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136v2)** | 2026-01-20 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge: Third Prize in the Single-Source Augmentation Task</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Principled Context Engineering for RAG: Statistical Guarantees via Conformal Prediction](https://arxiv.org/abs/2511.17908v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026</p></details> |
 | **[Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](https://arxiv.org/abs/2505.16014v4)** | 2026-01-18 |  |
 | **[Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG](https://arxiv.org/abs/2508.02296v2)** | 2026-01-18 |  |
-| **[Effective and Unsupervised Social Event Detection and Evolution via RAG and Structural Entropy](https://arxiv.org/abs/2601.12035v1)** | 2026-01-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted for The Web Conference (WWW) 2026</p></details> |
-| **[Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](https://arxiv.org/abs/2502.16101v5)** | 2026-01-17 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
 
