@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing](https://arxiv.org/abs/2601.16200v1)** | 2026-01-22 | Under review |
-| **[PAL*M: Property Attestation for Large Generative Models](https://arxiv.org/abs/2601.16199v1)** | 2026-01-22 |  |
-| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v3)** | 2026-01-22 | 10 pages, 4 figures |
-| **[Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages](https://arxiv.org/abs/2401.18034v3)** | 2026-01-22 |  |
-| **[Is this chart lying to me? Automating the detection of misleading visualizations](https://arxiv.org/abs/2508.21675v2)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint under review. Code and data available at: https://github.com/UKPLab/arxiv2025-misviz</p></details> |
-| **[Structured Hints for Sample-Efficient Lean Theorem Proving](https://arxiv.org/abs/2601.16172v1)** | 2026-01-22 | 9 pages, 1 figure |
-| **[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406v4)** | 2026-01-22 | <details><summary>19 pa...</summary><p>19 pages, 6 fiigures, 16 tables</p></details> |
-| **[LLMs Homogenize Values in Constructive Arguments on Value-Laden Topics](https://arxiv.org/abs/2509.10637v2)** | 2026-01-22 |  |
-| **[Low-altitude Multi-UAV-assisted Data Collection and Semantic Forwarding for Post-Disaster Relief](https://arxiv.org/abs/2601.16146v1)** | 2026-01-22 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, journal</p></details> |
-| **[Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data](https://arxiv.org/abs/2503.10883v2)** | 2026-01-22 |  |
-| **[LLM Prompt Evaluation for Educational Applications](https://arxiv.org/abs/2601.16134v1)** | 2026-01-22 |  |
-| **[ViSymRe: Vision-guided Multimodal Symbolic Regression](https://arxiv.org/abs/2412.11139v3)** | 2026-01-22 |  |
-| **[Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/abs/2601.16127v1)** | 2026-01-22 |  |
-| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v3)** | 2026-01-22 |  |
-| **[Adapter Fusion for Multilingual Text2Cypher with Linear and Learned Gating](https://arxiv.org/abs/2601.16097v1)** | 2026-01-22 |  |
+| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
+| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
+| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
+| **[On Fine-Grained I/O Complexity of Attention Backward Passes](https://arxiv.org/abs/2410.09397v2)** | 2026-01-23 |  |
+| **[Empowering Medical Equipment Sustainability in Low-Resource Settings: An AI-Powered Diagnostic and Support Platform for Biomedical Technicians](https://arxiv.org/abs/2601.16967v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at the MIRASOL Workshop at MICCAI 2025. To appear in Lecture Notes in Computer Science (LNCS)</p></details> |
+| **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](https://arxiv.org/abs/2601.16964v1)** | 2026-01-23 | 16 pages |
+| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
+| **[Evaluating the Effect of Retrieval Augmentation on Social Biases](https://arxiv.org/abs/2502.17611v3)** | 2026-01-23 | EACL26 main |
+| **[Strategies for Span Labeling with Large Language Models](https://arxiv.org/abs/2601.16946v1)** | 2026-01-23 |  |
+| **[Efficient semantic uncertainty quantification in language models via diversity-steered sampling](https://arxiv.org/abs/2510.21310v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages (+7 appendix), 7 figures. Accepted at NeurIPS 2025</p></details> |
+| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
+| **[CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement](https://arxiv.org/abs/2503.17279v4)** | 2026-01-23 | Accepted to EACL2026 |
+| **[GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints](https://arxiv.org/abs/2601.16905v1)** | 2026-01-23 |  |
+| **[Programming over Thinking: Efficient and Robust Multi-Constraint Planning](https://arxiv.org/abs/2601.09097v2)** | 2026-01-23 | <details><summary>8 pag...</summary><p>8 pages of main text, 2 pages of references and and limitations, 37 pages of appendices</p></details> |
+| **[SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation](https://arxiv.org/abs/2508.00570v2)** | 2026-01-23 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
