@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
-| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
-| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
-| **[On Fine-Grained I/O Complexity of Attention Backward Passes](https://arxiv.org/abs/2410.09397v2)** | 2026-01-23 |  |
-| **[Empowering Medical Equipment Sustainability in Low-Resource Settings: An AI-Powered Diagnostic and Support Platform for Biomedical Technicians](https://arxiv.org/abs/2601.16967v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at the MIRASOL Workshop at MICCAI 2025. To appear in Lecture Notes in Computer Science (LNCS)</p></details> |
-| **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](https://arxiv.org/abs/2601.16964v1)** | 2026-01-23 | 16 pages |
-| **[DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](https://arxiv.org/abs/2601.16956v1)** | 2026-01-23 |  |
-| **[Evaluating the Effect of Retrieval Augmentation on Social Biases](https://arxiv.org/abs/2502.17611v3)** | 2026-01-23 | EACL26 main |
-| **[Strategies for Span Labeling with Large Language Models](https://arxiv.org/abs/2601.16946v1)** | 2026-01-23 |  |
-| **[Efficient semantic uncertainty quantification in language models via diversity-steered sampling](https://arxiv.org/abs/2510.21310v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages (+7 appendix), 7 figures. Accepted at NeurIPS 2025</p></details> |
-| **[AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports](https://arxiv.org/abs/2601.15297v2)** | 2026-01-23 |  |
-| **[CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement](https://arxiv.org/abs/2503.17279v4)** | 2026-01-23 | Accepted to EACL2026 |
-| **[GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints](https://arxiv.org/abs/2601.16905v1)** | 2026-01-23 |  |
-| **[Programming over Thinking: Efficient and Robust Multi-Constraint Planning](https://arxiv.org/abs/2601.09097v2)** | 2026-01-23 | <details><summary>8 pag...</summary><p>8 pages of main text, 2 pages of references and and limitations, 37 pages of appendices</p></details> |
-| **[SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation](https://arxiv.org/abs/2508.00570v2)** | 2026-01-23 |  |
+| **[ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](https://arxiv.org/abs/2601.18796v1)** | 2026-01-26 |  |
+| **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1)** | 2026-01-26 |  |
+| **[Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System](https://arxiv.org/abs/2601.18785v1)** | 2026-01-26 | <details><summary>Exten...</summary><p>Extended abstract presented at the 2025 Wordplay Workshop at EMNLP</p></details> |
+| **[POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration](https://arxiv.org/abs/2601.18779v1)** | 2026-01-26 |  |
+| **[PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation](https://arxiv.org/abs/2601.18777v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 - Innovative Applications of AI (IAAI-26)</p></details> |
+| **[Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771v1)** | 2026-01-26 | <details><summary>Dep-S...</summary><p>Dep-Search 1st version</p></details> |
+| **[Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery](https://arxiv.org/abs/2601.18765v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submit to IEEE for potential publication</p></details> |
+| **[Beyond Preferences: Learning Alignment Principles Grounded in Human Reasons and Values](https://arxiv.org/abs/2601.18760v1)** | 2026-01-26 |  |
+| **[$α^3$-SecBench: A Large-Scale Evaluation Suite of Security, Resilience, and Trust for LLM-based UAV Agents over 6G Networks](https://arxiv.org/abs/2601.18754v1)** | 2026-01-26 |  |
+| **[HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs](https://arxiv.org/abs/2601.18753v1)** | 2026-01-26 | <details><summary>Have ...</summary><p>Have been accepted by ICLR'26</p></details> |
+| **[Next Token Knowledge Tracing: Exploiting Pretrained LLM Representations to Decode Student Behaviour](https://arxiv.org/abs/2511.02599v2)** | 2026-01-26 |  |
+| **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734v1)** | 2026-01-26 | 13 pages |
+| **[Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge](https://arxiv.org/abs/2601.18733v1)** | 2026-01-26 | <details><summary>MARS ...</summary><p>MARS Challenge @ NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI. Challenge page: https://mars-eai.github.io/MARS-Challenge-Webpage/</p></details> |
+| **[One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://arxiv.org/abs/2601.18731v1)** | 2026-01-26 |  |
+| **[Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale](https://arxiv.org/abs/2601.18730v1)** | 2026-01-26 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG](https://arxiv.org/abs/2601.18579v1)** | 2026-01-26 | under review |
+| **[Orchestrating Specialized Agents for Trustworthy Enterprise RAG](https://arxiv.org/abs/2601.18267v1)** | 2026-01-26 |  |
+| **[What Should I Cite? A RAG Benchmark for Academic Citation Prediction](https://arxiv.org/abs/2601.14949v2)** | 2026-01-26 |  |
+| **[Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/abs/2601.12658v2)** | 2026-01-25 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 2 figures; presented at IEEE CogMI 2025</p></details> |
+| **[Less is More for RAG: Information Gain Pruning for Generator-Aligned Reranking and Evidence Selection](https://arxiv.org/abs/2601.17532v1)** | 2026-01-24 | 26 pages, 10 figures |
+| **[RAG-GFM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
+| **[OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG](https://arxiv.org/abs/2601.09028v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by ACM WWW 2026</p></details> |
+| **[DF-RAG: Query-Aware Diversity for Retrieval-Augmented Generation](https://arxiv.org/abs/2601.17212v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to Findings of EACL 2026</p></details> |
 | **[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Submitted to ACL</p></details> |
 | **[Chunking, Retrieval, and Re-ranking: An Empirical Evaluation of RAG Architectures for Policy Document Question Answering](https://arxiv.org/abs/2601.15457v1)** | 2026-01-21 |  |
 | **[Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs](https://arxiv.org/abs/2601.15429v1)** | 2026-01-21 |  |
-| **[What Should I Cite? A RAG Benchmark for Academic Citation Prediction](https://arxiv.org/abs/2601.14949v1)** | 2026-01-21 |  |
 | **[Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG](https://arxiv.org/abs/2601.10923v2)** | 2026-01-20 | WWW 2026 |
 | **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://arxiv.org/abs/2507.20136v2)** | 2026-01-20 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge: Third Prize in the Single-Source Augmentation Task</p></details> |
 | **[RAG: A Random-Forest-Based Generative Design Framework for Uncertainty-Aware Design of Metamaterials with Complex Functional Response Requirements](https://arxiv.org/abs/2601.13233v1)** | 2026-01-19 |  |
 | **[Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?](https://arxiv.org/abs/2601.13227v1)** | 2026-01-19 |  |
-| **[VectorLiteRAG: Latency-Aware and Fine-Grained Resource Partitioning for Efficient RAG](https://arxiv.org/abs/2504.08930v3)** | 2026-01-19 |  |
-| **[RAGExplorer: A Visual Analytics System for the Comparative Diagnosis of RAG Systems](https://arxiv.org/abs/2601.12991v1)** | 2026-01-19 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Accepted to IEEE TVCG (PacificVis 2026)</p></details> |
-| **[From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.12904v1)** | 2026-01-19 |  |
-| **[Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/abs/2601.12658v1)** | 2026-01-19 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 2 figures; presented at IEEE CogMI 2025</p></details> |
-| **[Principled Context Engineering for RAG: Statistical Guarantees via Conformal Prediction](https://arxiv.org/abs/2511.17908v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at ECIR 2026</p></details> |
-| **[Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](https://arxiv.org/abs/2505.16014v4)** | 2026-01-18 |  |
-| **[Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG](https://arxiv.org/abs/2508.02296v2)** | 2026-01-18 |  |
 
