@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
-| **[DCP-Bench-Open: Evaluating LLMs for Constraint Modelling of Discrete Combinatorial Problems](https://arxiv.org/abs/2506.06052v3)** | 2026-01-28 | <details><summary>This ...</summary><p>This version is currently submitted and it is under review. For CP-Bench (the paper accepted at ECAI25), please refer to the previous version of this entry (v2)</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models](https://arxiv.org/abs/2601.20856v1)** | 2026-01-28 |  |
-| **[HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](https://arxiv.org/abs/2506.07972v2)** | 2026-01-28 | Accepted to ICLR'26 |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[Reward Models Inherit Value Biases from Pretraining](https://arxiv.org/abs/2601.20838v1)** | 2026-01-28 |  |
-| **[Multimodal Conversation Structure Understanding](https://arxiv.org/abs/2505.17536v3)** | 2026-01-28 | <details><summary>accep...</summary><p>accepted to EACL 2026 main conference; 22 pages, 9 figures, 10 tables</p></details> |
-| **[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://arxiv.org/abs/2601.20833v1)** | 2026-01-28 | 11 pages, 3 figures |
-| **[MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents](https://arxiv.org/abs/2601.20831v1)** | 2026-01-28 |  |
-| **[Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning](https://arxiv.org/abs/2601.20829v1)** | 2026-01-28 | 16 pages |
-| **[In-Context Bias Propagation in LLM-Based Tabular Data Generation](https://arxiv.org/abs/2506.09630v2)** | 2026-01-28 |  |
-| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
-| **[AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics](https://arxiv.org/abs/2511.09785v2)** | 2026-01-28 |  |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[DynaWeb: Model-Based Reinforcement Learning of Web Agents](https://arxiv.org/abs/2601.22149v1)** | 2026-01-29 |  |
+| **[FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale](https://arxiv.org/abs/2601.22146v1)** | 2026-01-29 |  |
+| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
+| **[Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers](https://arxiv.org/abs/2601.22139v1)** | 2026-01-29 | <details><summary>The m...</summary><p>The manuscript is under review</p></details> |
+| **[Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference](https://arxiv.org/abs/2601.22132v1)** | 2026-01-29 |  |
+| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
+| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
+| **[The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR](https://arxiv.org/abs/2601.22128v1)** | 2026-01-29 |  |
+| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
+| **[Evaluating Text Creativity across Diverse Domains: A Dataset and Large Language Model Evaluator](https://arxiv.org/abs/2505.19236v2)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[ECO: Quantized Training without Full-Precision Master Weights](https://arxiv.org/abs/2601.22101v1)** | 2026-01-29 |  |
+| **[NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment](https://arxiv.org/abs/2506.09277v4)** | 2026-01-29 |  |
+| **[VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning](https://arxiv.org/abs/2601.22069v1)** | 2026-01-29 | <details><summary>Code:...</summary><p>Code: https://github.com/w-yibo/VTC-R1</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](https://arxiv.org/abs/2601.21916v1)** | 2026-01-29 |  |
+| **[RAG-E: Quantifying Retriever-Generator Alignment and Failure Modes](https://arxiv.org/abs/2601.21803v1)** | 2026-01-29 |  |
+| **[Towards Transparent RAG: Fostering Evidence Traceability in LLM Generation via Reinforcement Learning](https://arxiv.org/abs/2505.13258v3)** | 2026-01-29 |  |
+| **[EHR-RAG: Bridging Long-Horizon Structured Electronic Health Records and Large Language Models via Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2601.21340v1)** | 2026-01-29 |  |
+| **[User-Centric Phishing Detection: A RAG and LLM-Based Approach](https://arxiv.org/abs/2601.21261v1)** | 2026-01-29 |  |
 | **[RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering](https://arxiv.org/abs/2601.19225v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at The Web Conference (WWW) 2026</p></details> |
 | **[Look in the Middle: Structural Anchor Pruning for Scalable Visual RAG Indexing](https://arxiv.org/abs/2601.20107v1)** | 2026-01-27 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 11 tables</p></details> |
 | **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v4)** | 2026-01-27 | <details><summary>Wrong...</summary><p>Wrong numbers are reported for main results</p></details> |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Orchestrating Specialized Agents for Trustworthy Enterprise RAG](https://arxiv.org/abs/2601.18267v1)** | 2026-01-26 |  |
 | **[What Should I Cite? A RAG Benchmark for Academic Citation Prediction](https://arxiv.org/abs/2601.14949v2)** | 2026-01-26 |  |
 | **[Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/abs/2601.12658v2)** | 2026-01-25 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 2 figures; presented at IEEE CogMI 2025</p></details> |
-| **[Less is More for RAG: Information Gain Pruning for Generator-Aligned Reranking and Evidence Selection](https://arxiv.org/abs/2601.17532v1)** | 2026-01-24 | 26 pages, 10 figures |
-| **[RAG-GFM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
-| **[OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG](https://arxiv.org/abs/2601.09028v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by ACM WWW 2026</p></details> |
-| **[DF-RAG: Query-Aware Diversity for Retrieval-Augmented Generation](https://arxiv.org/abs/2601.17212v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to Findings of EACL 2026</p></details> |
-| **[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Submitted to ACL</p></details> |
 
