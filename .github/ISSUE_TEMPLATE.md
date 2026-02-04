@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
-| **[Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1)** | 2026-02-02 |  |
-| **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemSkill</p></details> |
-| **[Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](https://arxiv.org/abs/2602.02470v1)** | 2026-02-02 |  |
-| **[Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts](https://arxiv.org/abs/2602.02468v1)** | 2026-02-02 |  |
-| **[Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models](https://arxiv.org/abs/2602.02467v1)** | 2026-02-02 |  |
-| **[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465v1)** | 2026-02-02 | 9 pages, 8 figures |
-| **[Abstract Activation Spaces for Content-Invariant Reasoning in Large Language Models](https://arxiv.org/abs/2602.02462v1)** | 2026-02-02 |  |
-| **[MetaCLASS: Metacognitive Coaching for Learning with Adaptive Self-regulation Support](https://arxiv.org/abs/2602.02457v1)** | 2026-02-02 |  |
-| **[Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning](https://arxiv.org/abs/2602.02456v1)** | 2026-02-02 | ICRA 2026, 8 pages |
-| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
-| **[Thinking with Comics: Enhancing Multimodal Reasoning through Structured Visual Storytelling](https://arxiv.org/abs/2602.02453v1)** | 2026-02-02 | Working paper |
-| **[Large Language Models for Mental Health: A Multilingual Evaluation](https://arxiv.org/abs/2602.02440v1)** | 2026-02-02 |  |
-| **[Embedding Perturbation may Better Reflect the Uncertainty in LLM Reasoning](https://arxiv.org/abs/2602.02427v1)** | 2026-02-02 |  |
+| **[Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL](https://arxiv.org/abs/2602.03839v1)** | 2026-02-03 | 32 pages, 14 figures |
+| **[Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v1)** | 2026-02-03 |  |
+| **[Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning](https://arxiv.org/abs/2602.03815v1)** | 2026-02-03 |  |
+| **[Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://arxiv.org/abs/2602.03814v1)** | 2026-02-03 |  |
+| **[Antidistillation Fingerprinting](https://arxiv.org/abs/2602.03812v1)** | 2026-02-03 | 26 pages, 11 figures |
+| **[Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation](https://arxiv.org/abs/2602.03806v1)** | 2026-02-03 |  |
+| **[Mil-SCORE: Benchmarking Long-Context Geospatial Reasoning and Planning in Large Language Models](https://arxiv.org/abs/2601.21826v2)** | 2026-02-03 |  |
+| **[Context Compression via Explicit Information Transmission](https://arxiv.org/abs/2602.03784v1)** | 2026-02-03 |  |
+| **[Efficient Estimation of Kernel Surrogate Models for Task Attribution](https://arxiv.org/abs/2602.03783v1)** | 2026-02-03 | <details><summary>27 pa...</summary><p>27 pages. To appear in ICLR 2026</p></details> |
+| **[QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization](https://arxiv.org/abs/2602.03782v1)** | 2026-02-03 | ICLR2026 |
+| **[A Scene Graph Backed Approach to Open Set Semantic Mapping](https://arxiv.org/abs/2602.03781v1)** | 2026-02-03 |  |
+| **[An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents](https://arxiv.org/abs/2602.03775v1)** | 2026-02-03 |  |
+| **[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773v1)** | 2026-02-03 | preprint |
+| **[UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining](https://arxiv.org/abs/2602.03772v1)** | 2026-02-03 |  |
+| **[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552v6)** | 2026-02-03 | 15 pages, 8 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Fine-Tuning for History-Aware Dense Retriever in RAG](https://arxiv.org/abs/2602.03645v1)** | 2026-02-03 | <details><summary>On go...</summary><p>On going work. Codes are released at https://github.com/zyc140345/HARR</p></details> |
+| **[A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://arxiv.org/abs/2602.03442v1)** | 2026-02-03 | 18 pages, 8 figures |
+| **[LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](https://arxiv.org/abs/2509.21875v3)** | 2026-02-03 | ICLR 2026 |
 | **[dziribot: rag based intelligent conversational agent for algerian arabic dialect](https://arxiv.org/abs/2602.02270v1)** | 2026-02-02 |  |
 | **[Towards AI Evaluation in Domain-Specific RAG Systems: The AgriHubi Case Study](https://arxiv.org/abs/2602.02208v1)** | 2026-02-02 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, submitted to MIPRO 2026</p></details> |
 | **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007v1)** | 2026-02-02 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v2)** | 2026-01-30 | 31 pages, 22 figures |
 | **[JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](https://arxiv.org/abs/2601.21916v1)** | 2026-01-29 |  |
 | **[RAG-E: Quantifying Retriever-Generator Alignment and Failure Modes](https://arxiv.org/abs/2601.21803v1)** | 2026-01-29 |  |
-| **[Towards Transparent RAG: Fostering Evidence Traceability in LLM Generation via Reinforcement Learning](https://arxiv.org/abs/2505.13258v3)** | 2026-01-29 |  |
-| **[EHR-RAG: Bridging Long-Horizon Structured Electronic Health Records and Large Language Models via Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2601.21340v1)** | 2026-01-29 |  |
-| **[User-Centric Phishing Detection: A RAG and LLM-Based Approach](https://arxiv.org/abs/2601.21261v1)** | 2026-01-29 |  |
 
