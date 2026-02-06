@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,33 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reinforced Attention Learning](https://arxiv.org/abs/2602.04884v1)** | 2026-02-04 |  |
-| **[Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879v1)** | 2026-02-04 |  |
-| **[Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](https://arxiv.org/abs/2602.04870v1)** | 2026-02-04 |  |
-| **[Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://arxiv.org/abs/2602.04863v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code available at https://github.com/ishaqadenali/logit-linear-selection</p></details> |
-| **[CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation](https://arxiv.org/abs/2602.04856v1)** | 2026-02-04 | 28 pages, 35 figures |
-| **[Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"](https://arxiv.org/abs/2602.04853v1)** | 2026-02-04 |  |
-| **[Grammatical Error Correction for Low-Resource Languages: The Case of Zarma](https://arxiv.org/abs/2410.15539v3)** | 2026-02-04 |  |
-| **[Horizon-LM: A RAM-Centric Architecture for LLM Training](https://arxiv.org/abs/2602.04816v1)** | 2026-02-04 |  |
-| **[Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents](https://arxiv.org/abs/2602.04813v1)** | 2026-02-04 |  |
-| **[Dynamic Pyramid Network for Efficient Multimodal Large Language Model](https://arxiv.org/abs/2503.20322v3)** | 2026-02-04 |  |
-| **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[Patterns for a New Generation: AI and Agents](https://arxiv.org/abs/2506.09696v3)** | 2026-02-04 | <details><summary>10 pa...</summary><p>10 pages with 4 page appendix; to appear in Proceedings of Pattern Languages of Programs 2025</p></details> |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Mugi: Value Level Parallelism For Efficient LLMs](https://arxiv.org/abs/2601.10823v2)** | 2026-02-04 | <details><summary>2026 ...</summary><p>2026 International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
-| **[Team, Then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation](https://arxiv.org/abs/2602.04785v1)** | 2026-02-04 |  |
+| **[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/abs/2602.06041v1)** | 2026-02-05 |  |
+| **[DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching](https://arxiv.org/abs/2602.06039v1)** | 2026-02-05 |  |
+| **[SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs](https://arxiv.org/abs/2602.06040v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/SwimBird</p></details> |
+| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v1)** | 2026-02-05 |  |
+| **[DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036v1)** | 2026-02-05 |  |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
+| **[PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030v1)** | 2026-02-05 |  |
+| **[Language Models and Logic Programs for Trustworthy Tax Reasoning](https://arxiv.org/abs/2508.21051v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
+| **[Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering](https://arxiv.org/abs/2602.06022v1)** | 2026-02-05 |  |
+| **[A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](https://arxiv.org/abs/2602.06015v1)** | 2026-02-05 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 5 tables</p></details> |
+| **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://arxiv.org/abs/2602.06008v1)** | 2026-02-05 |  |
+| **[VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation](https://arxiv.org/abs/2602.05998v1)** | 2026-02-05 |  |
+| **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v2)** | 2026-02-05 |  |
+| **[DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs](https://arxiv.org/abs/2602.05992v1)** | 2026-02-05 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](https://arxiv.org/abs/2601.19827v2)** | 2026-02-05 | 27 pages, 15 figures |
+| **[Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Exploration](https://arxiv.org/abs/2602.05708v1)** | 2026-02-05 |  |
+| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v2)** | 2026-02-05 |  |
+| **[Traceable Cross-Source RAG for Chinese Tibetan Medicine Question Answering](https://arxiv.org/abs/2602.05195v1)** | 2026-02-05 |  |
+| **[RAG without Forgetting: Continual Query-Infused Key Memory](https://arxiv.org/abs/2602.05152v1)** | 2026-02-05 | 24 pages, 12 figures |
+| **[HugRAG: Hierarchical Causal Knowledge Graph Design for RAG](https://arxiv.org/abs/2602.05143v1)** | 2026-02-04 |  |
 | **[SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation](https://arxiv.org/abs/2602.04712v1)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submitted to 2026 IEEE Radar Conference</p></details> |
-| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v1)** | 2026-02-04 |  |
+| **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
 | **[Reinforcement Fine-Tuning for History-Aware Dense Retriever in RAG](https://arxiv.org/abs/2602.03645v1)** | 2026-02-03 | <details><summary>On go...</summary><p>On going work. Codes are released at https://github.com/zyc140345/HARR</p></details> |
 | **[A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://arxiv.org/abs/2602.03442v1)** | 2026-02-03 | 18 pages, 8 figures |
 | **[LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](https://arxiv.org/abs/2509.21875v3)** | 2026-02-03 | ICLR 2026 |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Towards AI Evaluation in Domain-Specific RAG Systems: The AgriHubi Case Study](https://arxiv.org/abs/2602.02208v1)** | 2026-02-02 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, submitted to MIPRO 2026</p></details> |
 | **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007v1)** | 2026-02-02 |  |
 | **[CFT-RAG: An Entity Tree Based Retrieval Augmented Generation Algorithm With Cuckoo Filter](https://arxiv.org/abs/2501.15098v3)** | 2026-02-02 |  |
-| **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](https://arxiv.org/abs/2508.15746v2)** | 2026-02-01 |  |
-| **[RAG-GNN: Integrating Retrieved Knowledge with Graph Neural Networks for Precision Medicine](https://arxiv.org/abs/2602.00586v1)** | 2026-01-31 |  |
-| **[When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](https://arxiv.org/abs/2602.00344v1)** | 2026-01-30 | 18 pages, 10 figures |
-| **[RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing](https://arxiv.org/abs/2602.00296v1)** | 2026-01-30 |  |
-| **[DIVERGE: Diversity-Enhanced RAG for Open-Ended Information Seeking](https://arxiv.org/abs/2602.00238v1)** | 2026-01-30 |  |
-| **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v2)** | 2026-01-30 | 31 pages, 22 figures |
 
