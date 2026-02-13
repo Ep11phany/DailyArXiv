@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1)** | 2026-02-11 |  |
-| **[AlignTune: Modular Toolkit for Post-Training Alignment of Large Language Models](https://arxiv.org/abs/2602.09621v2)** | 2026-02-11 | <details><summary>Libra...</summary><p>Library opensource and available at https://github.com/Lexsi-Labs/aligntune</p></details> |
-| **[Weight Decay Improves Language Model Plasticity](https://arxiv.org/abs/2602.11137v1)** | 2026-02-11 |  |
-| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
-| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v2)** | 2026-02-11 | 41 pages |
-| **[PALM: Path-aware LLM-based Test Generation with Comprehension](https://arxiv.org/abs/2506.19287v2)** | 2026-02-11 | 11 pages, v2 |
-| **[Can Large Language Models Make Everyone Happy?](https://arxiv.org/abs/2602.11091v1)** | 2026-02-11 |  |
-| **[DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning](https://arxiv.org/abs/2602.11089v1)** | 2026-02-11 |  |
-| **[Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise](https://arxiv.org/abs/2602.11088v1)** | 2026-02-11 |  |
-| **[Cross-Attention Speculative Decoding](https://arxiv.org/abs/2505.24544v4)** | 2026-02-11 |  |
-| **[SteuerLLM: Local specialized large language model for German tax law analysis](https://arxiv.org/abs/2602.11081v1)** | 2026-02-11 |  |
-| **[Polymer-Agent: Large Language Model Agent for Polymer Design](https://arxiv.org/abs/2601.16376v2)** | 2026-02-11 |  |
-| **[Retrieval- and Argumentation-Enhanced Multi-Agent LLMs for Judgmental Forecasting (Extended Version with Supplementary Material)](https://arxiv.org/abs/2510.24303v3)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 3 figures, Accepted to AAMAS 2026</p></details> |
-| **[Aligning Dialogue Agents with Global Feedback via Large Language Model Multimodal Reward Decomposition](https://arxiv.org/abs/2505.15922v2)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
-| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
+| **[AttentionRetriever: Attention Layers are Secretly Long Document Retrievers](https://arxiv.org/abs/2602.12278v1)** | 2026-02-12 |  |
+| **[T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1)** | 2026-02-12 |  |
+| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
+| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
+| **[Do language models accommodate their users? A study of linguistic convergence](https://arxiv.org/abs/2508.03276v2)** | 2026-02-12 | EACL 2026 |
+| **[Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting](https://arxiv.org/abs/2602.12256v1)** | 2026-02-12 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, accepted to ICPC 2026 (34th International Conference on Program Comprehension)</p></details> |
+| **[EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph](https://arxiv.org/abs/2511.05849v2)** | 2026-02-12 | <details><summary>Camer...</summary><p>Camera-ready version accepted for ICLR 2026</p></details> |
+| **[Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks](https://arxiv.org/abs/2602.12244v1)** | 2026-02-12 |  |
+| **[Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](https://arxiv.org/abs/2602.12235v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Student Research Workshop. 14 pages, 6 tables, 1 figure</p></details> |
+| **[When Scaffolding Breaks: Investigating Student Interaction with LLM-Based Writing Support in Real-Time K-12 EFL Classrooms](https://arxiv.org/abs/2512.05506v2)** | 2026-02-12 | Under Review |
+| **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v1)** | 2026-02-12 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich, supported by the DIZH Innovation Program: 2nd Founder-Call. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
+| **[PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery](https://arxiv.org/abs/2502.12594v3)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](https://arxiv.org/abs/2509.22075v3)** | 2026-02-12 |  |
+| **[LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://arxiv.org/abs/2410.14182v4)** | 2026-02-12 | <details><summary>Publi...</summary><p>Published at Nature Machine Intelligence</p></details> |
+| **[Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](https://arxiv.org/abs/2602.12196v1)** | 2026-02-12 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AMAQA: A Metadata-based QA Dataset for RAG Systems](https://arxiv.org/abs/2505.13557v2)** | 2026-02-12 |  |
 | **[Campaign-2-PT-RAG: LLM-Guided Semantic Product Type Attribution for Scalable Campaign Ranking](https://arxiv.org/abs/2602.10577v1)** | 2026-02-11 |  |
 | **[A Multimodal Manufacturing Safety Chatbot: Knowledge Base Design, Benchmark Development, and Evaluation of Multiple RAG Approaches](https://arxiv.org/abs/2511.11847v2)** | 2026-02-10 | 25 pages, 5 figures |
 | **[Retrieval Pivot Attacks in Hybrid RAG: Measuring and Mitigating Amplified Leakage from Vector Seeds to Graph Expansion](https://arxiv.org/abs/2602.08668v2)** | 2026-02-10 | 18 pages, 5 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Progressive Searching for Retrieval in RAG](https://arxiv.org/abs/2602.07297v1)** | 2026-02-07 |  |
 | **[Leveraging Spreading Activation for Improved Document Retrieval in Knowledge-Graph-Based RAG Systems](https://arxiv.org/abs/2512.15922v2)** | 2026-02-06 | 20 pages, 5 figures |
 | **[Confundo: Learning to Generate Robust Poison for Practical RAG Systems](https://arxiv.org/abs/2602.06616v1)** | 2026-02-06 |  |
-| **[Subgraph Reconstruction Attacks on Graph RAG Deployments with Practical Defenses](https://arxiv.org/abs/2602.06495v1)** | 2026-02-06 |  |
 
