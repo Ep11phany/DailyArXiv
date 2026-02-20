@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Operationalising the Superficial Alignment Hypothesis via Task Complexity](https://arxiv.org/abs/2602.15829v1)** | 2026-02-17 |  |
-| **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
-| **[VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819v1)** | 2026-02-17 |  |
-| **[Decision Quality Evaluation Framework at Pinterest](https://arxiv.org/abs/2602.15809v1)** | 2026-02-17 |  |
-| **[Should You Use Your Large Language Model to Explore or Exploit?](https://arxiv.org/abs/2502.00225v3)** | 2026-02-17 |  |
-| **[Large Language Models and Impossible Language Acquisition: "False Promise" or an Overturn of our Current Perspective towards AI](https://arxiv.org/abs/2602.08437v4)** | 2026-02-17 |  |
-| **[Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings](https://arxiv.org/abs/2602.15791v1)** | 2026-02-17 | <details><summary>42nd ...</summary><p>42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)</p></details> |
-| **[This human study did not involve human subjects: Validating LLM simulations as behavioral evidence](https://arxiv.org/abs/2602.15785v1)** | 2026-02-17 |  |
-| **[Neural Scaling Laws for Boosted Jet Tagging](https://arxiv.org/abs/2602.15781v1)** | 2026-02-17 | 9 pages, 6 figures |
-| **[ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1)** | 2026-02-17 |  |
-| **[Mutation-Guided Unit Test Generation with a Large Language Model](https://arxiv.org/abs/2506.02954v6)** | 2026-02-17 |  |
-| **[A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings](https://arxiv.org/abs/2602.15761v1)** | 2026-02-17 |  |
-| **[ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models](https://arxiv.org/abs/2602.15758v1)** | 2026-02-17 | <details><summary>16 pa...</summary><p>16 pages, 13 figures including Supplementary Material</p></details> |
-| **[Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac](https://arxiv.org/abs/2602.15753v1)** | 2026-02-17 |  |
-| **[LogiPart: Local Large Language Models for Data Exploration at Scale with Logical Partitioning](https://arxiv.org/abs/2509.22211v3)** | 2026-02-17 | <details><summary>This ...</summary><p>This version introduces a major architectural shift to Local LLMs and NLI-based assignment, scaling the framework to O(1) generative complexity. Formerly titled 'Question-Driven Analysis and Synthesis'</p></details> |
+| **[What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1)** | 2026-02-19 |  |
+| **[Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](https://arxiv.org/abs/2602.17616v1)** | 2026-02-19 |  |
+| **[ReplaceMe: Network Simplification via Depth Pruning and Transformer Block Linearization](https://arxiv.org/abs/2505.02819v4)** | 2026-02-19 | <details><summary>This ...</summary><p>This work was accepted and presented at NeurIPS 2025. Code is available at https://github.com/mts-ai/replaceme Reviews at OpenReview: https://openreview.net/forum?id=zEj1FSYCRn NeurIPS 2025 Proceedings: https://openreview.net/pdf?id=zEj1FSYCRn</p></details> |
+| **[Towards Anytime-Valid Statistical Watermarking](https://arxiv.org/abs/2602.17608v1)** | 2026-02-19 |  |
+| **[CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](https://arxiv.org/abs/2509.22075v4)** | 2026-02-19 |  |
+| **[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[BEADs: Bias Evaluation Across Domains](https://arxiv.org/abs/2406.04220v6)** | 2026-02-19 | under review |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
+| **[GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking](https://arxiv.org/abs/2602.17555v1)** | 2026-02-19 | Under review |
+| **[A Theoretical Framework for Modular Learning of Robust Generative Models](https://arxiv.org/abs/2602.17554v1)** | 2026-02-19 |  |
+| **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v1)** | 2026-02-19 |  |
+| **[Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems](https://arxiv.org/abs/2602.17542v1)** | 2026-02-19 |  |
+| **[Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation](https://arxiv.org/abs/2602.17529v1)** | 2026-02-19 |  |
+| **[When Models Ignore Definitions: Measuring Semantic Override Hallucinations in LLM Reasoning](https://arxiv.org/abs/2602.17520v1)** | 2026-02-19 |  |
+| **[Defining and Evaluating Physical Safety for Large Language Models](https://arxiv.org/abs/2411.02317v2)** | 2026-02-19 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Campaign-2-PT-RAG: LLM-Guided Semantic Product Type Attribution for Scalable Campaign Ranking](https://arxiv.org/abs/2602.10577v2)** | 2026-02-18 | <details><summary>fix t...</summary><p>fix typo and author names</p></details> |
 | **[Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation](https://arxiv.org/abs/2602.15650v1)** | 2026-02-17 |  |
 | **[Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces](https://arxiv.org/abs/2511.07587v2)** | 2026-02-16 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral, code available at: https://github.com/roychowdhuryresearch/gsw-memory</p></details> |
 | **[AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking](https://arxiv.org/abs/2602.15190v1)** | 2026-02-16 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval](https://arxiv.org/abs/2602.12971v1)** | 2026-02-13 |  |
 | **[Visual RAG Toolkit: Scaling Multi-Vector Visual Retrieval with Training-Free Pooling and Multi-Stage Search](https://arxiv.org/abs/2602.12510v1)** | 2026-02-13 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Submitted to SIGIR 2026 Demonstrations Track. Project website: https://github.com/Ara-Yeroyan/visual-rag-toolkit</p></details> |
 | **[AMAQA: A Metadata-based QA Dataset for RAG Systems](https://arxiv.org/abs/2505.13557v2)** | 2026-02-12 |  |
-| **[Campaign-2-PT-RAG: LLM-Guided Semantic Product Type Attribution for Scalable Campaign Ranking](https://arxiv.org/abs/2602.10577v1)** | 2026-02-11 |  |
 
