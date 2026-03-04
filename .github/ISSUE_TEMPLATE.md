@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Symbol-Equivariant Recurrent Reasoning Models](https://arxiv.org/abs/2603.02193v1)** | 2026-03-02 |  |
-| **[Multi-Head Low-Rank Attention](https://arxiv.org/abs/2603.02188v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Wikipedia in the Era of LLMs: Evolution and Risks](https://arxiv.org/abs/2503.02879v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by TMLR: https://openreview.net/forum?id=ahVmnYkVLt</p></details> |
-| **[How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks](https://arxiv.org/abs/2603.02156v1)** | 2026-03-02 |  |
-| **[Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)](https://arxiv.org/abs/2603.02150v1)** | 2026-03-02 | <details><summary>Sent ...</summary><p>Sent for review at the main conference of the International Conference of Document Analysis and Recognition (ICDAR) 2026</p></details> |
-| **[LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](https://arxiv.org/abs/2603.02146v1)** | 2026-03-02 | ICLR 2026 |
-| **[LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations](https://arxiv.org/abs/2603.02128v1)** | 2026-03-02 |  |
-| **[Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning](https://arxiv.org/abs/2603.02119v1)** | 2026-03-02 |  |
-| **[SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling](https://arxiv.org/abs/2506.15498v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral)</p></details> |
-| **[FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving](https://arxiv.org/abs/2602.22593v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper is accepted by the 40th ACM International Conference on Supercomputing (ICS 2026)</p></details> |
-| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
-| **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
-| **[HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs](https://arxiv.org/abs/2601.18753v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by The Fourteenth International Conference on Learning Representations (ICLR'26)</p></details> |
-| **[ClinConsensus: A Consensus-Based Benchmark for Evaluating Chinese Medical LLMs across Difficulty Levels](https://arxiv.org/abs/2603.02097v1)** | 2026-03-02 | 8 pages, 6 figures, |
-| **[Adam Converges Without Any Modification On Update Rules](https://arxiv.org/abs/2603.02092v1)** | 2026-03-02 | 66 pages |
+| **[MIBURI: Towards Expressive Interactive Gesture Synthesis](https://arxiv.org/abs/2603.03282v1)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://vcai.mpi-inf.mpg.de/projects/MIBURI/</p></details> |
+| **[Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews](https://arxiv.org/abs/2403.07183v3)** | 2026-03-03 | <details><summary>46 pa...</summary><p>46 pages, 31 figures, ICML '24</p></details> |
+| **[AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework](https://arxiv.org/abs/2603.03233v1)** | 2026-03-03 |  |
+| **[Classroom Final Exam: An Instructor-Tested Reasoning Benchmark](https://arxiv.org/abs/2602.19517v2)** | 2026-03-03 |  |
+| **[NutriBench: A Dataset for Evaluating Large Language Models on Nutrition Estimation from Meal Descriptions](https://arxiv.org/abs/2407.12843v6)** | 2026-03-03 | ICLR 2025 |
+| **[Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?](https://arxiv.org/abs/2603.03202v1)** | 2026-03-03 | <details><summary>Under...</summary><p>Under review in ICML 2026</p></details> |
+| **[ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/abs/2603.03198v1)** | 2026-03-03 | <details><summary>Code:...</summary><p>Code: https://github.com/ACE-BRAIN-Team/ACE-Brain-0 Hugging Face: https://huggingface.co/ACE-Brain/ACE-Brain-0-8B</p></details> |
+| **[MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](https://arxiv.org/abs/2603.03192v1)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://mod-dpo.github.io/</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[Echoing: Identity Failures when LLM Agents Talk to Each Other](https://arxiv.org/abs/2511.09710v3)** | 2026-03-03 | <details><summary>Publi...</summary><p>Published at ICLR workshop. Related blog post: https://www.salesforce.com/blog/agent-to-agent-interaction/</p></details> |
+| **[$\texttt{SEM-CTRL}$: Semantically Controlled Decoding](https://arxiv.org/abs/2503.01804v3)** | 2026-03-03 |  |
+| **[Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification](https://arxiv.org/abs/2603.03175v1)** | 2026-03-03 | <details><summary>Publi...</summary><p>Published at the DVCon U.S. 2026</p></details> |
+| **[Can LLMs Discern the Traits Influencing Your Preferences? Evaluating Personality-Driven Preference Alignment in LLMs](https://arxiv.org/abs/2602.07181v2)** | 2026-03-03 |  |
+| **[A Multi-Turn Framework for Evaluating AI Misuse in Fraud and Cybercrime Scenarios](https://arxiv.org/abs/2602.21831v2)** | 2026-03-03 |  |
+| **[From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?](https://arxiv.org/abs/2603.03148v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
