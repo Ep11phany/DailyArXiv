@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
-| **[Composition-Grounded Data Synthesis for Visual Reasoning](https://arxiv.org/abs/2510.15040v2)** | 2026-03-04 | <details><summary>ICLR2...</summary><p>ICLR2026 camera-ready version. Project page: https://cogsynthesis.github.io</p></details> |
-| **[Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization](https://arxiv.org/abs/2603.04378v1)** | 2026-03-04 |  |
-| **[Detecting AI-Generated Essays in Writing Assessment: Responsible Use and Generalizability Across LLMs](https://arxiv.org/abs/2603.02353v2)** | 2026-03-04 | 21 pages, 2 figures |
-| **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371v3)** | 2026-03-04 |  |
-| **[CareMedEval dataset: Evaluating Critical Appraisal and Reasoning in the Biomedical Field](https://arxiv.org/abs/2511.03441v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at LREC 2026. To access the dataset, see https://github.com/bonzid/CareMedEval</p></details> |
-| **[Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905v3)** | 2026-03-04 | 12 pages, 9 figures |
-| **[Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe](https://arxiv.org/abs/2603.04346v1)** | 2026-03-04 |  |
-| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
-| **[Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](https://arxiv.org/abs/2603.04337v1)** | 2026-03-04 | Accepted by CVPR2026 |
-| **[Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/abs/2502.01534v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529v2)** | 2026-03-04 | 11 pages, 5 figures |
-| **[World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings](https://arxiv.org/abs/2603.04317v1)** | 2026-03-04 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
-| **[GraphMERT: Efficient and Scalable Distillation of Reliable Knowledge Graphs from Unstructured Data](https://arxiv.org/abs/2510.09580v2)** | 2026-03-04 | <details><summary>Camer...</summary><p>Camera-ready version. Published in Transactions on Machine Learning Research (TMLR), 2026. Reviewed on OpenReview: https://openreview.net/forum?id=tnXSdDhvqc</p></details> |
-| **[Theory Discovery in Social Networks: Automating ERGM Specification with Large Language Models](https://arxiv.org/abs/2603.04306v1)** | 2026-03-04 |  |
+| **[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](https://arxiv.org/abs/2603.05500v1)** | 2026-03-05 | <details><summary>Techn...</summary><p>Technical report v1 (14 pages, 7 figures, project page: https://spherelab.ai/poetx/)</p></details> |
+| **[Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation](https://arxiv.org/abs/2603.05494v1)** | 2026-03-05 |  |
+| **[NL2GDS: LLM-aided interface for Open Source Chip Design](https://arxiv.org/abs/2603.05489v1)** | 2026-03-05 | 10 pages, 6 figures |
+| **[Observing and Controlling Features in Vision-Language-Action Models](https://arxiv.org/abs/2603.05487v1)** | 2026-03-05 |  |
+| **[Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval](https://arxiv.org/abs/2603.05471v1)** | 2026-03-05 | Preprint |
+| **[FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451v1)** | 2026-03-05 |  |
+| **[Distributed Partial Information Puzzles: Examining Common Ground Construction Under Epistemic Asymmetry](https://arxiv.org/abs/2603.05450v1)** | 2026-03-05 | 10 pages, 4 figures |
+| **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734v2)** | 2026-03-05 | <details><summary>code ...</summary><p>code is release here: https://github.com/siyan-zhao/OPSD</p></details> |
+| **[Agentic Very Long Video Understanding](https://arxiv.org/abs/2601.18157v2)** | 2026-03-05 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 8 tables</p></details> |
+| **[LLEMA: Evolutionary Search with LLMs for Multi-Objective Materials Discovery](https://arxiv.org/abs/2510.22503v2)** | 2026-03-05 | ICLR 2026 |
+| **[OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2506.02015v3)** | 2026-03-05 | 11 pages, 6 figures |
+| **[An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs](https://arxiv.org/abs/2603.05400v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at LREC 2026, 15 pages, 11 Tables</p></details> |
+| **[OPPO: Accelerating PPO-based RLHF via Pipeline Overlap](https://arxiv.org/abs/2509.25762v2)** | 2026-03-05 |  |
+| **[Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models](https://arxiv.org/abs/2512.07419v2)** | 2026-03-05 |  |
+| **[Progressive Residual Warmup for Language Model Pretraining](https://arxiv.org/abs/2603.05369v1)** | 2026-03-05 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting RAG Advertisements Across Advertising Styles](https://arxiv.org/abs/2603.04925v1)** | 2026-03-05 |  |
 | **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371v3)** | 2026-03-04 |  |
 | **[Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://arxiv.org/abs/2603.04238v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop I Can't Believe It's Not Better: Where Large Language Models Need to Improve</p></details> |
 | **[UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project Page: https://github.com/QianfengY/UniRain</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[SOSecure: Safer Code Generation with RAG and StackOverflow Discussions](https://arxiv.org/abs/2503.13654v2)** | 2026-03-02 |  |
 | **[RAG-RUSS: A Retrieval-Augmented Robotic Ultrasound for Autonomous Carotid Examination](https://arxiv.org/abs/2603.01153v1)** | 2026-03-01 | Accepted by ICRA |
 | **[Tiny-Critic RAG: Empowering Agentic Fallback with Parameter-Efficient Small Language Models](https://arxiv.org/abs/2603.00846v1)** | 2026-03-01 |  |
-| **[Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment](https://arxiv.org/abs/2506.10030v2)** | 2026-02-28 |  |
 
