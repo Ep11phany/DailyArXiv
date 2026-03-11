@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
-| **[Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments](https://arxiv.org/abs/2603.03339v2)** | 2026-03-09 | <details><summary>16 pa...</summary><p>16 pages, 2 table, 10 figures</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Do Schwartz Higher-Order Values Help Sentence-Level Human Value Detection? A Study of Hierarchical Gating and Calibration](https://arxiv.org/abs/2602.00913v2)** | 2026-03-09 | <details><summary>Code:...</summary><p>Code: https://github.com/VictorMYeste/human-value-detection, models: https://huggingface.co/papers/2602.00913, 27 pages, 4 figures</p></details> |
-| **[HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases](https://arxiv.org/abs/2505.15701v2)** | 2026-03-09 |  |
-| **[Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control](https://arxiv.org/abs/2412.18582v2)** | 2026-03-09 |  |
-| **[Task-Oriented Robot-Human Handovers on Legged Manipulators](https://arxiv.org/abs/2602.05760v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted to 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI) 2026</p></details> |
-| **[UNBOX: Unveiling Black-box visual models with Natural-language](https://arxiv.org/abs/2603.08639v1)** | 2026-03-09 | Under review at IJCV |
-| **[Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations](https://arxiv.org/abs/2603.08592v1)** | 2026-03-09 |  |
-| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
-| **[RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561v1)** | 2026-03-09 | 45 pages |
-| **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v1)** | 2026-03-09 |  |
-| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
-| **[AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models](https://arxiv.org/abs/2603.08519v1)** | 2026-03-09 |  |
+| **[Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People](https://arxiv.org/abs/2603.09964v1)** | 2026-03-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3 tables, Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26), April 13-17, 2026, Barcelona, Spain. ACM</p></details> |
+| **[Think Before You Lie: How Reasoning Improves Honesty](https://arxiv.org/abs/2603.09957v1)** | 2026-03-10 |  |
+| **[Towards a Neural Debugger for Python](https://arxiv.org/abs/2603.09951v1)** | 2026-03-10 | 22 pages |
+| **[GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics](https://arxiv.org/abs/2503.21735v4)** | 2026-03-10 |  |
+| **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
+| **[MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers](https://arxiv.org/abs/2504.08999v3)** | 2026-03-10 | 42 pages, 28 figures |
+| **[Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](https://arxiv.org/abs/2603.09938v1)** | 2026-03-10 |  |
+| **[WikiCLIP: An Efficient Contrastive Baseline for Open-domain Visual Entity Recognition](https://arxiv.org/abs/2603.09921v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR26, codes and weights are publicly available</p></details> |
+| **[Asset-Centric Metric-Semantic Maps of Indoor Environments](https://arxiv.org/abs/2510.10778v2)** | 2026-03-10 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 3 tables</p></details> |
+| **[Generative AI and LLMs in Industry: A text-mining Analysis and Critical Evaluation of Guidelines and Policy Statements Across Fourteen Industrial Sectors](https://arxiv.org/abs/2501.00957v4)** | 2026-03-10 |  |
+| **[MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning](https://arxiv.org/abs/2603.09892v1)** | 2026-03-10 |  |
+| **[Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts](https://arxiv.org/abs/2603.09890v1)** | 2026-03-10 |  |
+| **[Benchmarking Political Persuasion Risks Across Frontier Large Language Models](https://arxiv.org/abs/2603.09884v1)** | 2026-03-10 |  |
+| **[Do What I Say: A Spoken Prompt Dataset for Instruction-Following](https://arxiv.org/abs/2603.09881v1)** | 2026-03-10 |  |
+| **[InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing](https://arxiv.org/abs/2603.09877v1)** | 2026-03-10 | <details><summary>techn...</summary><p>technical report, 61 pages, https://github.com/OpenGVLab/InternVL-U</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Overview of the TREC 2025 Retrieval Augmented Generation (RAG) Track](https://arxiv.org/abs/2603.09891v1)** | 2026-03-10 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 13 tables</p></details> |
+| **[Evaluation of LLMs in retrieving food and nutritional context for RAG systems](https://arxiv.org/abs/2603.09704v1)** | 2026-03-10 | <details><summary>This ...</summary><p>This is the preprint for our conference paper for IEEE International Conference on Big Data</p></details> |
+| **[EmbC-Test: How to Speed Up Embedded Software Testing Using LLMs and RAG](https://arxiv.org/abs/2603.09497v1)** | 2026-03-10 |  |
+| **[AI Act Evaluation Benchmark: An Open, Transparent, and Reproducible Evaluation Dataset for NLP and RAG Systems](https://arxiv.org/abs/2603.09435v1)** | 2026-03-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 4 tables, 2 equations</p></details> |
+| **[TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/abs/2603.09341v1)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 7 tables, 5 figures</p></details> |
+| **[Explainable Innovation Engine: Dual-Tree Agent-RAG with Methods-as-Nodes and Verifiable Write-Back](https://arxiv.org/abs/2603.09192v1)** | 2026-03-10 | <details><summary>15pag...</summary><p>15pages, 4figures, code available on Github</p></details> |
+| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v1)** | 2026-03-09 | 11 pages |
 | **[SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation](https://arxiv.org/abs/2603.08329v1)** | 2026-03-09 | 12 pages |
 | **[Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion](https://arxiv.org/abs/2602.15895v2)** | 2026-03-09 |  |
 | **[Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking](https://arxiv.org/abs/2601.11273v2)** | 2026-03-09 |  |
@@ -34,11 +41,4 @@ labels: documentation
 | **[Retrieval Pivot Attacks in Hybrid RAG: Measuring and Mitigating Amplified Leakage from Vector Seeds to Graph Expansion](https://arxiv.org/abs/2602.08668v3)** | 2026-03-08 | 18 pages, 5 figures |
 | **[SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions](https://arxiv.org/abs/2603.07379v1)** | 2026-03-07 |  |
 | **[Position: LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation for Fairness](https://arxiv.org/abs/2603.07368v1)** | 2026-03-07 | 24 pages, 3 figures |
-| **[Hit-RAG: Learning to Reason with Long Contexts via Preference Alignment](https://arxiv.org/abs/2603.07023v1)** | 2026-03-07 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 6 tables</p></details> |
-| **[Agri-Query: A Case Study on RAG vs. Long-Context LLMs for Cross-Lingual Technical Question Answering](https://arxiv.org/abs/2508.18093v2)** | 2026-03-06 |  |
-| **[RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828v3)** | 2026-03-06 | 14 pages, 6 figures |
-| **[Detecting RAG Advertisements Across Advertising Styles](https://arxiv.org/abs/2603.04925v1)** | 2026-03-05 |  |
-| **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371v3)** | 2026-03-04 |  |
-| **[Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://arxiv.org/abs/2603.04238v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop I Can't Believe It's Not Better: Where Large Language Models Need to Improve</p></details> |
-| **[UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project Page: https://github.com/QianfengY/UniRain</p></details> |
 
