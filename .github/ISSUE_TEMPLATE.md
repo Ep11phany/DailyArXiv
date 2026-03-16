@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning](https://arxiv.org/abs/2603.12266v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/MM-CondChain</p></details> |
-| **[Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/abs/2603.12262v1)** | 2026-03-12 |  |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://arxiv.org/abs/2603.12252v1)** | 2026-03-12 | 23 pages, 18 figures |
-| **[Language Model Teams as Distributed Systems](https://arxiv.org/abs/2603.12229v1)** | 2026-03-12 |  |
-| **[Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration](https://arxiv.org/abs/2603.12226v1)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code and dataset provided at https://github.com/pkargupta/idea_catalyst</p></details> |
-| **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models](https://arxiv.org/abs/2603.12208v1)** | 2026-03-12 |  |
-| **[CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks](https://arxiv.org/abs/2603.12206v1)** | 2026-03-12 | 22 pages, 6 figures |
-| **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
-| **[LLMTrack: Semantic Multi-Object Tracking with Multi-modal Large Language Models](https://arxiv.org/abs/2601.06550v2)** | 2026-03-12 |  |
-| **[Long-Context Encoder Models for Polish Language Understanding](https://arxiv.org/abs/2603.12191v1)** | 2026-03-12 |  |
-| **[LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning](https://arxiv.org/abs/2603.12166v1)** | 2026-03-12 |  |
-| **[Seq vs Seq: An Open Suite of Paired Encoders and Decoders](https://arxiv.org/abs/2507.11412v2)** | 2026-03-12 | Accepted to ICLR'26 |
-| **[Beyond the Black Box: A Survey on the Theory and Mechanism of Large Language Models](https://arxiv.org/abs/2601.02907v2)** | 2026-03-12 |  |
+| **[A Generative Model of Conspicuous Consumption and Status Signaling](https://arxiv.org/abs/2603.13220v1)** | 2026-03-13 | 29 pages, 13 figures |
+| **[Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion](https://arxiv.org/abs/2602.08917v2)** | 2026-03-13 | <details><summary>Prepr...</summary><p>Preprint. This paper is under consideration at Pattern Recognition Letters</p></details> |
+| **[MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models](https://arxiv.org/abs/2603.13213v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted to the Research Track of the Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
+| **[Neuron-Aware Data Selection In Instruction Tuning For Large Language Models](https://arxiv.org/abs/2603.13201v1)** | 2026-03-13 |  |
+| **[Superficial Safety Alignment Hypothesis](https://arxiv.org/abs/2410.10862v3)** | 2026-03-13 | ICLR 2026 |
+| **[Large language models show fragile cognitive reasoning about human emotions](https://arxiv.org/abs/2508.05880v2)** | 2026-03-13 | <details><summary>Under...</summary><p>Under Review, a version was presented at WiML Workshop @ NeurIPS 2025</p></details> |
+| **[From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Research](https://arxiv.org/abs/2603.13191v1)** | 2026-03-13 |  |
+| **[LLM Constitutional Multi-Agent Governance](https://arxiv.org/abs/2603.13189v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted for publication in 20th International Conference on Agents and Multi-Agent Systems: Technologies and Applications (AMSTA 2026), to appear in Springer Nature proceedings (KES Smart Innovation Systems and Technologies). The final authenticated version will be available online at Springer</p></details> |
+| **[Semantic Invariance in Agentic AI](https://arxiv.org/abs/2603.13173v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted for publication in 20th International Conference on Agents and Multi-Agent Systems: Technologies and Applications (AMSTA 2026), to appear in Springer Nature proceedings (KES Smart Innovation Systems and Technologies). The final authenticated version will be available online at Springer</p></details> |
+| **[PILOT: Command-line Interface Fuzzing via Path-Guided, Iterative Large Language Model Prompting](https://arxiv.org/abs/2511.20555v2)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at the 47th IEEE Symposium on Security and Privacy (IEEE S&P 2026)</p></details> |
+| **[ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation](https://arxiv.org/abs/2603.13154v1)** | 2026-03-13 | <details><summary>To be...</summary><p>To be published in the AAAI 2026 proceedings</p></details> |
+| **[Instructing Large Language Models for Low-Resource Languages: A Systematic Study for Basque](https://arxiv.org/abs/2506.07597v3)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main Conference</p></details> |
+| **[Developing the PsyCogMetrics AI Lab to Evaluate Large Language Models and Advance Cognitive Science -- A Three-Cycle Action Design Science Study](https://arxiv.org/abs/2603.13126v1)** | 2026-03-13 | <details><summary>10 pa...</summary><p>10 pages. Prepared: April 2025; submitted: June 15, 2025; accepted: August 2025. In: Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS 2026), January 2026</p></details> |
+| **[LLMs Can Infer Political Alignment from Online Conversations](https://arxiv.org/abs/2603.11253v2)** | 2026-03-13 | <details><summary>56 pa...</summary><p>56 pages; 4 figures in the main text and 18 supplementary figures, 11 supplementary tables</p></details> |
+| **[AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems](https://arxiv.org/abs/2603.13110v1)** | 2026-03-13 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Test-Time Strategies for More Efficient and Accurate Agentic RAG](https://arxiv.org/abs/2603.12396v1)** | 2026-03-12 |  |
 | **[CARROT: A Learned Cost-Constrained Retrieval Optimization System for RAG](https://arxiv.org/abs/2411.00744v2)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted to ICDE 2026. Updated title (previously "CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation")</p></details> |
 | **[Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254v3)** | 2026-03-12 |  |
 | **[QChunker: Learning Question-Aware Text Chunking for Domain RAG via Multi-Agent Debate](https://arxiv.org/abs/2603.11650v1)** | 2026-03-12 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation](https://arxiv.org/abs/2603.08329v1)** | 2026-03-09 | 12 pages |
 | **[Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion](https://arxiv.org/abs/2602.15895v2)** | 2026-03-09 |  |
 | **[Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking](https://arxiv.org/abs/2601.11273v2)** | 2026-03-09 |  |
-| **[LongAudio-RAG: Event-Grounded Question Answering over Multi-Hour Long Audio](https://arxiv.org/abs/2602.14612v3)** | 2026-03-09 |  |
 
