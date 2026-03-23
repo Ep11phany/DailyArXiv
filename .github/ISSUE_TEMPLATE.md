@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 20, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
-| **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](https://arxiv.org/abs/2603.19225v1)** | 2026-03-19 | <details><summary>8 pag...</summary><p>8 pages main text, 22 pages total (including references and appendix). 5 figures, 14 tables. Preprint under review. Code and data will be made available upon publication</p></details> |
-| **[Online Learning and Equilibrium Computation with Ranking Feedback](https://arxiv.org/abs/2603.19221v1)** | 2026-03-19 |  |
-| **[LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs](https://arxiv.org/abs/2603.19217v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://kd-tao.github.io/LVOmniBench/</p></details> |
-| **[Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](https://arxiv.org/abs/2603.19209v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://lab-spell.github.io/vlm-ssm-vision-encoders/ ; Code: https://github.com/raykuo18/vlm-ssm-vision-encoders</p></details> |
-| **[Enhancing Lexicon-Based Text Embeddings with Large Language Models](https://arxiv.org/abs/2501.09749v2)** | 2026-03-19 | ACL 2025 |
-| **[How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project website: https://kehanlu.github.io/AKB</p></details> |
-| **[iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905v3)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Box Maze: A Process-Control Architecture for Reliable LLM Reasoning](https://arxiv.org/abs/2603.19182v1)** | 2026-03-19 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 0 figures. Conceptual architecture with preliminary simulation-based validation</p></details> |
-| **[Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs](https://arxiv.org/abs/2603.03415v2)** | 2026-03-19 |  |
-| **[DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment](https://arxiv.org/abs/2507.02768v2)** | 2026-03-19 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing (TASLP). Model and code available at: https://github.com/kehanlu/DeSTA2.5-Audio</p></details> |
-| **[ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access](https://arxiv.org/abs/2512.08193v2)** | 2026-03-19 |  |
-| **[Evaluating Counterfactual Strategic Reasoning in Large Language Models](https://arxiv.org/abs/2603.19167v1)** | 2026-03-19 |  |
-| **[PlainQAFact: Retrieval-augmented Factual Consistency Evaluation Metric for Biomedical Plain Language Summarization](https://arxiv.org/abs/2503.08890v4)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by Journal of Biomedical Informatics</p></details> |
-| **[PPI is the Difference Estimator: Recognizing the Survey Sampling Roots of Prediction-Powered Inference](https://arxiv.org/abs/2603.19160v1)** | 2026-03-19 |  |
+| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
+| **[IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning](https://arxiv.org/abs/2603.20182v1)** | 2026-03-20 |  |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v3)** | 2026-03-20 |  |
+| **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](https://arxiv.org/abs/2603.20179v1)** | 2026-03-20 |  |
+| **[Learning Dynamic Belief Graphs for Theory-of-mind Reasoning](https://arxiv.org/abs/2603.20170v1)** | 2026-03-20 |  |
+| **[Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models](https://arxiv.org/abs/2603.20161v1)** | 2026-03-20 | EACL 2026 |
+| **[Patch Validation in Automated Vulnerability Repair](https://arxiv.org/abs/2603.06858v2)** | 2026-03-20 |  |
+| **[Reasoning Gets Harder for LLMs Inside A Dialogue](https://arxiv.org/abs/2603.20133v1)** | 2026-03-20 | Preprint |
+| **[Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents](https://arxiv.org/abs/2603.20132v1)** | 2026-03-20 |  |
+| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](https://arxiv.org/abs/2504.09775v5)** | 2026-03-20 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
+| **[Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models](https://arxiv.org/abs/2603.20122v1)** | 2026-03-20 |  |
+| **[Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens](https://arxiv.org/abs/2406.10985v2)** | 2026-03-20 |  |
+| **[Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax](https://arxiv.org/abs/2603.20114v1)** | 2026-03-20 | 15 pages |
+| **[Pitfalls in Evaluating Interpretability Agents](https://arxiv.org/abs/2603.20101v1)** | 2026-03-20 |  |
+| **[Beyond Accuracy: Towards a Robust Evaluation Methodology for AI Systems for Language Education](https://arxiv.org/abs/2603.20088v1)** | 2026-03-20 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempPerturb-Eval: On the Joint Effects of Internal Temperature and External Perturbations in RAG Robustness](https://arxiv.org/abs/2512.01183v2)** | 2026-03-20 | <details><summary>LREC ...</summary><p>LREC 2026, Palma, Mallorca (Spain), 11-16 May 2026</p></details> |
+| **[NAACL: Noise-AwAre Verbal Confidence Calibration for Robust LLMs in RAG Systems](https://arxiv.org/abs/2601.11004v2)** | 2026-03-20 |  |
 | **[RAGXplain: From Explainable Evaluation to Actionable Guidance of RAG Pipelines](https://arxiv.org/abs/2505.13538v2)** | 2026-03-18 |  |
 | **[SF-RAG: Structure-Fidelity Retrieval-Augmented Generation for Academic Question Answering](https://arxiv.org/abs/2602.13647v2)** | 2026-03-18 |  |
 | **[PACE-RAG: Patient-Aware Contextual and Evidence-based Policy RAG for Clinical Drug Recommendation](https://arxiv.org/abs/2603.17356v1)** | 2026-03-18 | 26 pages, 15 figures |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Test-Time Strategies for More Efficient and Accurate Agentic RAG](https://arxiv.org/abs/2603.12396v1)** | 2026-03-12 |  |
 | **[CARROT: A Learned Cost-Constrained Retrieval Optimization System for RAG](https://arxiv.org/abs/2411.00744v2)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted to ICDE 2026. Updated title (previously "CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation")</p></details> |
 | **[Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254v3)** | 2026-03-12 |  |
-| **[QChunker: Learning Question-Aware Text Chunking for Domain RAG via Multi-Agent Debate](https://arxiv.org/abs/2603.11650v1)** | 2026-03-12 |  |
-| **[Hybrid Intent-Aware Personalization with Machine Learning and RAG-Enabled Large Language Models for Financial Services Marketing](https://arxiv.org/abs/2603.14173v1)** | 2026-03-11 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 3 tables. Applied ML systems paper. The contribution is architectural rather than algorithmic</p></details> |
 
