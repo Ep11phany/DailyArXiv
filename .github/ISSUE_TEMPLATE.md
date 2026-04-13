@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation](https://arxiv.org/abs/2604.08540v1)** | 2026-04-09 |  |
-| **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v1)** | 2026-04-09 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
-| **[Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models](https://arxiv.org/abs/2604.08527v1)** | 2026-04-09 |  |
-| **[Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](https://arxiv.org/abs/2604.08525v1)** | 2026-04-09 |  |
-| **[What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](https://arxiv.org/abs/2604.08524v1)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages + appendix, 7 figures</p></details> |
-| **[Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts](https://arxiv.org/abs/2604.08519v1)** | 2026-04-09 |  |
-| **[What do Language Models Learn and When? The Implicit Curriculum Hypothesis](https://arxiv.org/abs/2604.08510v1)** | 2026-04-09 |  |
-| **[Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery](https://arxiv.org/abs/2604.08491v1)** | 2026-04-09 |  |
-| **[AI generates well-liked but templatic empathic responses](https://arxiv.org/abs/2604.08479v1)** | 2026-04-09 |  |
-| **[SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions](https://arxiv.org/abs/2604.08477v1)** | 2026-04-09 | 23 Pages, 4 figures |
-| **[LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://arxiv.org/abs/2604.08475v1)** | 2026-04-09 |  |
-| **[ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation](https://arxiv.org/abs/2601.02535v2)** | 2026-04-09 | ACL 2026 Main |
-| **[From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis](https://arxiv.org/abs/2604.08465v1)** | 2026-04-09 | 9 pages, 1 figure |
-| **[Less Approximates More: Harmonizing Performance and Confidence Faithfulness via Hybrid Post-Training for High-Stakes Tasks](https://arxiv.org/abs/2604.08454v1)** | 2026-04-09 |  |
-| **[Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models](https://arxiv.org/abs/2503.13551v5)** | 2026-04-09 |  |
+| **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v1)** | 2026-04-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xjtupanda/Tango</p></details> |
+| **[Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](https://arxiv.org/abs/2604.09544v1)** | 2026-04-10 |  |
+| **[LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation](https://arxiv.org/abs/2510.23636v3)** | 2026-04-10 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) for possible publication</p></details> |
+| **[VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](https://arxiv.org/abs/2604.09531v1)** | 2026-04-10 | <details><summary>Proje...</summary><p>Project Page: https://zlab-princeton.github.io/VisionFoundry/</p></details> |
+| **[When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation](https://arxiv.org/abs/2604.09515v1)** | 2026-04-10 |  |
+| **[Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation](https://arxiv.org/abs/2604.09514v1)** | 2026-04-10 |  |
+| **[Integrated electro-optic attention nonlinearities for transformers](https://arxiv.org/abs/2604.09512v1)** | 2026-04-10 |  |
+| **[Neurons Speak in Ranges: Breaking Free from Discrete Neuronal Attribution](https://arxiv.org/abs/2502.06809v3)** | 2026-04-10 |  |
+| **[Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games](https://arxiv.org/abs/2604.09502v1)** | 2026-04-10 |  |
+| **[BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation](https://arxiv.org/abs/2604.09497v1)** | 2026-04-10 |  |
+| **[SSPO: Subsentence-level Policy Optimization](https://arxiv.org/abs/2511.04256v2)** | 2026-04-10 |  |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents](https://arxiv.org/abs/2604.09492v1)** | 2026-04-10 |  |
+| **[Across the Levels of Analysis: Explaining Predictive Processing in Humans Requires More Than Machine-Estimated Probabilities](https://arxiv.org/abs/2604.09466v1)** | 2026-04-10 | <details><summary>9 pag...</summary><p>9 pages, Behavioral & Brain Sciences Commentary on Futrell & Mahowald (forthcoming)</p></details> |
+| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](https://arxiv.org/abs/2508.06869v4)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings, 10 pages</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval](https://arxiv.org/abs/2604.09541v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by DASFAA 2026</p></details> |
+| **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](https://arxiv.org/abs/2604.09493v1)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at AIS 2026</p></details> |
+| **[Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG](https://arxiv.org/abs/2604.09174v1)** | 2026-04-10 |  |
 | **[Rag Performance Prediction for Question Answering](https://arxiv.org/abs/2604.07985v1)** | 2026-04-09 | <details><summary>12 pa...</summary><p>12 pages. 2 figures. 1 table</p></details> |
 | **[Detecting RAG Advertisements Across Advertising Styles](https://arxiv.org/abs/2603.04925v2)** | 2026-04-09 |  |
 | **[Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction](https://arxiv.org/abs/2604.07964v1)** | 2026-04-09 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](https://arxiv.org/abs/2604.04372v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Camera-ready version</p></details> |
 | **[GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering](https://arxiv.org/abs/2604.04359v1)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in the Proceedings of KG-LLM @ LREC 2026</p></details> |
 | **[MisEdu-RAG: A Misconception-Aware Dual-Hypergraph RAG for Novice Math Teachers](https://arxiv.org/abs/2604.04036v1)** | 2026-04-05 |  |
-| **[CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation](https://arxiv.org/abs/2604.03926v1)** | 2026-04-05 | <details><summary>Full ...</summary><p>Full version of the paper accepted as a short paper at the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
-| **[RAGShield: Detecting Numerical Claim Manipulation in Government RAG Systems](https://arxiv.org/abs/2604.00387v2)** | 2026-04-04 | <details><summary>12 pa...</summary><p>12 pages, 15 tables, 1 figure, 2 algorithms</p></details> |
-| **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v1)** | 2026-04-04 |  |
 
