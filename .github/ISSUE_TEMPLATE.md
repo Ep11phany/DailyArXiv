@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
-| **[DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies](https://arxiv.org/abs/2503.14324v3)** | 2026-04-20 |  |
-| **[Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering](https://arxiv.org/abs/2604.18567v1)** | 2026-04-20 | Under Review |
-| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
-| **[Dual Alignment Between Language Model Layers and Human Sentence Processing](https://arxiv.org/abs/2604.18563v1)** | 2026-04-20 | ACL 2026 main |
-| **[FUSE: Ensembling Verifiers with Zero Labeled Data](https://arxiv.org/abs/2604.18547v1)** | 2026-04-20 |  |
-| **[Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization](https://arxiv.org/abs/2511.14846v2)** | 2026-04-20 |  |
-| **[ConMeZO: Adaptive Descent-Direction Sampling for Gradient-Free Finetuning of Large Language Models](https://arxiv.org/abs/2511.02757v2)** | 2026-04-20 |  |
-| **[OGER: A Robust Offline-Guided Exploration Reward for Hybrid Reinforcement Learning](https://arxiv.org/abs/2604.18530v1)** | 2026-04-20 |  |
-| **[Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 6 figures, 10 tables. Project page: https://trace-reasoning.github.io</p></details> |
-| **[An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545v2)** | 2026-04-20 | 14 pages, 11 figures |
-| **[Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction](https://arxiv.org/abs/2603.24562v2)** | 2026-04-20 |  |
-| **[MaLoRA: Gated Modality LoRA for Key-Space Alignment in Multimodal LLM Fine-Tuning](https://arxiv.org/abs/2510.26721v2)** | 2026-04-20 |  |
-| **[MT-OSC: Path for LLMs that Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2604.08782v2)** | 2026-04-20 |  |
-| **[MedRedFlag: Investigating how LLMs Redirect Misconceptions in Real-World Health Communication](https://arxiv.org/abs/2601.09853v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views](https://arxiv.org/abs/2604.19716v1)** | 2026-04-21 | Accepted to ACL 2026 |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080v2)** | 2026-04-21 |  |
+| **[QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models](https://arxiv.org/abs/2601.00679v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at the Design, Automation and Test in Europe Conference (DATE) 2025 on April 20th-22nd, 2026 in Verona, Italy</p></details> |
+| **[Epistemic orientation in parliamentary discourse is associated with deliberative democracy](https://arxiv.org/abs/2604.19699v1)** | 2026-04-21 |  |
+| **[Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks](https://arxiv.org/abs/2604.19697v1)** | 2026-04-21 |  |
+| **[Co-Constructing Alignment: A Participatory Approach to Situate AI Values](https://arxiv.org/abs/2601.15895v2)** | 2026-04-21 |  |
+| **[A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://arxiv.org/abs/2604.19689v1)** | 2026-04-21 |  |
+| **[Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language](https://arxiv.org/abs/2604.19667v1)** | 2026-04-21 | Work in progress |
+| **[Pause or Fabricate? Training Language Models for Grounded Reasoning](https://arxiv.org/abs/2604.19656v1)** | 2026-04-21 | <details><summary>Code:...</summary><p>Code:https://github.com/ZJU-REAL/GRIL</p></details> |
+| **[JumpLoRA: Sparse Adapters for Continual Learning in Large Language Models](https://arxiv.org/abs/2604.16171v2)** | 2026-04-21 |  |
+| **[SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models](https://arxiv.org/abs/2604.19638v1)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work accepted at ACL 2026 Findings</p></details> |
+| **[Time Series Augmented Generation for Financial Applications](https://arxiv.org/abs/2604.19633v1)** | 2026-04-21 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
+| **[Can AI-Generated Persuasion Be Detected? Persuaficial Benchmark and AI vs. Human Linguistic Differences](https://arxiv.org/abs/2601.04925v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18509v1)** | 2026-04-20 | 19 pages |
+| **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v1)** | 2026-04-21 | 6 pages, 7 figures |
+| **[MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18509v2)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings, 19 pages</p></details> |
+| **[Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.02993v4)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
+| **[Resolving the Robustness-Precision Trade-off in Financial RAG through Hybrid Document-Routed Retrieval](https://arxiv.org/abs/2603.26815v2)** | 2026-04-21 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 9 tables. Submitted to Intelligent Systems with Applications</p></details> |
 | **[Evaluating Multi-Hop Reasoning in RAG Systems: A Comparison of LLM-Based Retriever Evaluation Strategies](https://arxiv.org/abs/2604.18234v1)** | 2026-04-20 | <details><summary>15 Pa...</summary><p>15 Pages, Accepted for publication at the SynIRgy Workshop, ECIR 2026 (48th European Conference on Information Retrieval)</p></details> |
 | **[Is Agentic RAG worth it? An experimental comparison of RAG approaches](https://arxiv.org/abs/2601.07711v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
 | **[Domain-oriented RAG Assessment (DoRA): Synthetic Benchmarking for RAG-based Question Answering on Defense Documents](https://arxiv.org/abs/2604.17943v1)** | 2026-04-20 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v6)** | 2026-04-19 |  |
 | **[AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning](https://arxiv.org/abs/2604.17337v1)** | 2026-04-19 |  |
 | **[Personalizing Student-Agent Interactions Using Log-Contextualized Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2505.17238v3)** | 2026-04-18 | <details><summary>Peer ...</summary><p>Peer reviewed; appeared in the International Conference on Artificial Intelligence in Education (AIED25) Workshop on Epistemics and Decision-Making in AI-Supported Education</p></details> |
-| **[Disco-RAG: Discourse-Aware Retrieval-Augmented Generation](https://arxiv.org/abs/2601.04377v5)** | 2026-04-17 | <details><summary>ACL 2...</summary><p>ACL 2026 Main & Long Conference Paper</p></details> |
-| **[A Case Study on the Impact of Anonymization Along the RAG Pipeline](https://arxiv.org/abs/2604.15958v1)** | 2026-04-17 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 6 tables. Accepted to IWSPA 2026</p></details> |
-| **[CHOP: Chunkwise Context-Preserving Framework for RAG on Multi Documents](https://arxiv.org/abs/2604.15802v1)** | 2026-04-17 |  |
 
