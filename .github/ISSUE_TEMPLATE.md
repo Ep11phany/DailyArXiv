@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling](https://arxiv.org/abs/2604.20819v1)** | 2026-04-22 |  |
-| **[WISCA: A Lightweight Model Transition Method to Improve LLM Training via Weight Scaling](https://arxiv.org/abs/2508.16676v2)** | 2026-04-22 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
-| **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/abs/2604.20796v1)** | 2026-04-22 | <details><summary>LLaDA...</summary><p>LLaDA2.0-Uni Technical Report</p></details> |
-| **[Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems](https://arxiv.org/abs/2604.20795v1)** | 2026-04-22 | <details><summary>Artif...</summary><p>Artificial Intelligence; Knowledge Representation and Reasoning; Information Retrieval; Machine Learning</p></details> |
-| **[Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs](https://arxiv.org/abs/2604.20791v1)** | 2026-04-22 |  |
-| **[RelianceScope: An Analytical Framework for Examining Students' Reliance on Generative AI Chatbots in Problem Solving](https://arxiv.org/abs/2602.16251v2)** | 2026-04-22 |  |
-| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
-| **[V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755v1)** | 2026-04-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 4 tables</p></details> |
-| **[Colorful Talks with Graphs: Human-Interpretable Graph Encodings for Large Language Models](https://arxiv.org/abs/2602.10386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026 22 pages, 18 tables, 5 figures</p></details> |
-| **[Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation](https://arxiv.org/abs/2604.20749v1)** | 2026-04-22 | Accpeted by ACL 2026 |
-| **[RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering](https://arxiv.org/abs/2604.20738v1)** | 2026-04-22 | <details><summary>Publi...</summary><p>Published in LREC 2026</p></details> |
-| **[Explainable Iterative Data Visualisation Refinement via an LLM Agent](https://arxiv.org/abs/2604.15319v2)** | 2026-04-22 |  |
-| **[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730v1)** | 2026-04-22 |  |
-| **[COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling](https://arxiv.org/abs/2604.20720v1)** | 2026-04-22 |  |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](https://arxiv.org/abs/2604.21928v1)** | 2026-04-23 |  |
+| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Crystal: Characterizing Relative Impact of Scholarly Publications](https://arxiv.org/abs/2603.26791v2)** | 2026-04-23 |  |
+| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
+| **[From Stochasticity to Signal: A Bayesian Latent State Model for Reliable Measurement with LLMs](https://arxiv.org/abs/2510.23874v4)** | 2026-04-23 |  |
+| **[EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21890v1)** | 2026-04-23 |  |
+| **[TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](https://arxiv.org/abs/2604.21889v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Industry Track</p></details> |
+| **[A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21885v1)** | 2026-04-23 |  |
+| **[Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms](https://arxiv.org/abs/2604.21882v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
+| **[DMAP: A Distribution Map for Text](https://arxiv.org/abs/2602.11871v2)** | 2026-04-23 | ICLR 2026 |
+| **[Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions](https://arxiv.org/abs/2604.21871v1)** | 2026-04-23 | ACL-Findings 2026 |
+| **[FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism](https://arxiv.org/abs/2604.21864v1)** | 2026-04-23 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper. Due to the arXiv 1920 characters limit the Abstract here is shortened. Refer to the full paper for the entire Abstract</p></details> |
+| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v2)** | 2026-04-23 | 7 pages, 7 figures |
+| **[How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization](https://arxiv.org/abs/2602.19208v2)** | 2026-04-23 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Defense Orchestration for RAG: A Sentinel-Strategist Architecture against Multi-Vector Attacks](https://arxiv.org/abs/2604.20932v1)** | 2026-04-22 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 9 tables. Manuscript prepared for submission to ACM CCS</p></details> |
 | **[HaS: Accelerating RAG through Homology-Aware Speculative Retrieval](https://arxiv.org/abs/2604.20452v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 | **[RAG-KT: Cross-platform Explainable Knowledge Tracing with Multi-view Fusion Retrieval Generation](https://arxiv.org/abs/2604.10960v2)** | 2026-04-22 |  |
 | **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v1)** | 2026-04-21 | 6 pages, 7 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[R3A: Reinforced Reasoning for Relevance Assessment for RAG in User-Generated Content Platforms](https://arxiv.org/abs/2508.02506v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL Industry 2026</p></details> |
 | **[Semantic Entanglement in Vector-Based Retrieval: A Formal Framework and Context-Conditioned Disentanglement Pipeline for Agentic RAG Systems](https://arxiv.org/abs/2604.17677v1)** | 2026-04-20 | <details><summary>34 pa...</summary><p>34 pages, 5 Figures, 1 table</p></details> |
 | **[Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation](https://arxiv.org/abs/2507.21934v2)** | 2026-04-19 | ACL 2026 (main) |
-| **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v6)** | 2026-04-19 |  |
 
