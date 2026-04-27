@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](https://arxiv.org/abs/2604.21928v1)** | 2026-04-23 |  |
-| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
-| **[Crystal: Characterizing Relative Impact of Scholarly Publications](https://arxiv.org/abs/2603.26791v2)** | 2026-04-23 |  |
-| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
-| **[From Stochasticity to Signal: A Bayesian Latent State Model for Reliable Measurement with LLMs](https://arxiv.org/abs/2510.23874v4)** | 2026-04-23 |  |
-| **[EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21890v1)** | 2026-04-23 |  |
-| **[TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](https://arxiv.org/abs/2604.21889v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Industry Track</p></details> |
-| **[A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21885v1)** | 2026-04-23 |  |
-| **[Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms](https://arxiv.org/abs/2604.21882v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[DMAP: A Distribution Map for Text](https://arxiv.org/abs/2602.11871v2)** | 2026-04-23 | ICLR 2026 |
-| **[Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions](https://arxiv.org/abs/2604.21871v1)** | 2026-04-23 | ACL-Findings 2026 |
-| **[FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism](https://arxiv.org/abs/2604.21864v1)** | 2026-04-23 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper. Due to the arXiv 1920 characters limit the Abstract here is shortened. Refer to the full paper for the entire Abstract</p></details> |
-| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v2)** | 2026-04-23 | 7 pages, 7 figures |
-| **[How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization](https://arxiv.org/abs/2602.19208v2)** | 2026-04-23 |  |
+| **[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](https://arxiv.org/abs/2604.22749v1)** | 2026-04-24 | <details><summary>FAccT...</summary><p>FAccT '26, June 25-28, 2026, Montreal, QC, Canada</p></details> |
+| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
+| **[Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM](https://arxiv.org/abs/2604.18655v2)** | 2026-04-24 | Accepted at ACL 2026 |
+| **[The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology](https://arxiv.org/abs/2505.20435v3)** | 2026-04-24 |  |
+| **[SAGE: Selective Attention-Guided Extraction for Token-Efficient Document Indexing](https://arxiv.org/abs/2604.15583v2)** | 2026-04-24 | 12 pages, 10 figures |
+| **[Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines](https://arxiv.org/abs/2604.22661v1)** | 2026-04-24 |  |
+| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
+| **[Learning from Natural Language Feedback for Personalized Question Answering](https://arxiv.org/abs/2508.10695v2)** | 2026-04-24 |  |
+| **[Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models](https://arxiv.org/abs/2510.11586v2)** | 2026-04-24 |  |
+| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v2)** | 2026-04-24 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
+| **[From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750v2)** | 2026-04-24 |  |
+| **[Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?](https://arxiv.org/abs/2508.03963v4)** | 2026-04-24 | camera_ready |
+| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[Vibe coding for clinicians: democratising bespoke software development for digital health innovation](https://arxiv.org/abs/2604.22604v1)** | 2026-04-24 |  |
+| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines](https://arxiv.org/abs/2604.22661v1)** | 2026-04-24 |  |
+| **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/abs/2508.06165v4)** | 2026-04-24 |  |
+| **[RAG-Reflect: Agentic Retrieval-Augmented Generation with Reflections for Comment-Driven Code Maintenance on Stack Overflow](https://arxiv.org/abs/2604.22217v1)** | 2026-04-24 | <details><summary>27 pa...</summary><p>27 pages, submitted to the TOSEM</p></details> |
+| **[An End-to-End Ukrainian RAG for Local Deployment. Optimized Hybrid Search and Lightweight Generation](https://arxiv.org/abs/2604.22095v1)** | 2026-04-23 | To appear at UNLP'26 |
 | **[Adaptive Defense Orchestration for RAG: A Sentinel-Strategist Architecture against Multi-Vector Attacks](https://arxiv.org/abs/2604.20932v1)** | 2026-04-22 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 9 tables. Manuscript prepared for submission to ACM CCS</p></details> |
 | **[HaS: Accelerating RAG through Homology-Aware Speculative Retrieval](https://arxiv.org/abs/2604.20452v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 | **[RAG-KT: Cross-platform Explainable Knowledge Tracing with Multi-view Fusion Retrieval Generation](https://arxiv.org/abs/2604.10960v2)** | 2026-04-22 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Is Agentic RAG worth it? An experimental comparison of RAG approaches](https://arxiv.org/abs/2601.07711v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
 | **[Domain-oriented RAG Assessment (DoRA): Synthetic Benchmarking for RAG-based Question Answering on Defense Documents](https://arxiv.org/abs/2604.17943v1)** | 2026-04-20 |  |
 | **[Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG](https://arxiv.org/abs/2604.06097v2)** | 2026-04-20 | <details><summary>ACL'2...</summary><p>ACL'26: 13 pages, 4 figures, 4 tables</p></details> |
-| **[TeleEmbedBench: A Multi-Corpus Embedding Benchmark for RAG in Telecommunications](https://arxiv.org/abs/2604.17778v1)** | 2026-04-20 |  |
-| **[R3A: Reinforced Reasoning for Relevance Assessment for RAG in User-Generated Content Platforms](https://arxiv.org/abs/2508.02506v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL Industry 2026</p></details> |
-| **[Semantic Entanglement in Vector-Based Retrieval: A Formal Framework and Context-Conditioned Disentanglement Pipeline for Agentic RAG Systems](https://arxiv.org/abs/2604.17677v1)** | 2026-04-20 | <details><summary>34 pa...</summary><p>34 pages, 5 Figures, 1 table</p></details> |
-| **[Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation](https://arxiv.org/abs/2507.21934v2)** | 2026-04-19 | ACL 2026 (main) |
 
