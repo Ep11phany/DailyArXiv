@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](https://arxiv.org/abs/2604.22749v1)** | 2026-04-24 | <details><summary>FAccT...</summary><p>FAccT '26, June 25-28, 2026, Montreal, QC, Canada</p></details> |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM](https://arxiv.org/abs/2604.18655v2)** | 2026-04-24 | Accepted at ACL 2026 |
-| **[The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology](https://arxiv.org/abs/2505.20435v3)** | 2026-04-24 |  |
-| **[SAGE: Selective Attention-Guided Extraction for Token-Efficient Document Indexing](https://arxiv.org/abs/2604.15583v2)** | 2026-04-24 | 12 pages, 10 figures |
-| **[Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines](https://arxiv.org/abs/2604.22661v1)** | 2026-04-24 |  |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Learning from Natural Language Feedback for Personalized Question Answering](https://arxiv.org/abs/2508.10695v2)** | 2026-04-24 |  |
-| **[Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models](https://arxiv.org/abs/2510.11586v2)** | 2026-04-24 |  |
-| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v2)** | 2026-04-24 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
-| **[From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750v2)** | 2026-04-24 |  |
-| **[Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?](https://arxiv.org/abs/2508.03963v4)** | 2026-04-24 | camera_ready |
-| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
-| **[Vibe coding for clinicians: democratising bespoke software development for digital health innovation](https://arxiv.org/abs/2604.22604v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
+| **[One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness](https://arxiv.org/abs/2604.13006v2)** | 2026-04-27 |  |
+| **[Scheduling Your LLM Reinforcement Learning with Reasoning Trees](https://arxiv.org/abs/2510.24832v2)** | 2026-04-27 |  |
+| **[SQLyzr: A Comprehensive Benchmark and Evaluation Platform for Text-to-SQL](https://arxiv.org/abs/2604.21214v2)** | 2026-04-27 |  |
+| **[OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation](https://arxiv.org/abs/2506.05606v6)** | 2026-04-27 | ACL 2026 main |
+| **[Always Tell Me The Odds: Fine-grained Conditional Probability Estimation](https://arxiv.org/abs/2505.01595v2)** | 2026-04-27 |  |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era](https://arxiv.org/abs/2602.23452v2)** | 2026-04-27 | <details><summary>After...</summary><p>After internal review, we found systematic errors in the benchmark and reference verification pipeline that affect core results and conclusions. As these issues are fundamental and cannot be addressed by revision or replacement, we request withdrawal to avoid potential misuse</p></details> |
+| **[Patching LLM Like Software: A Lightweight Method for Improving Safety Policy in Large Language Models](https://arxiv.org/abs/2511.08484v2)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Green Shielding: A User-Centric Approach Towards Trustworthy AI](https://arxiv.org/abs/2604.24700v1)** | 2026-04-27 |  |
+| **[The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models](https://arxiv.org/abs/2604.24698v1)** | 2026-04-27 |  |
+| **[Contextual Linear Activation Steering of Language Models](https://arxiv.org/abs/2604.24693v1)** | 2026-04-27 |  |
+| **[Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination](https://arxiv.org/abs/2604.24690v1)** | 2026-04-27 | Accepted at ACL 2026 |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation](https://arxiv.org/abs/2604.24665v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to The 15th edition of the Workshop on Cognitive Modeling and Computational Linguistics, co-located with the Language Resources and Evaluation Conference</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v1)** | 2026-04-27 |  |
+| **[mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA](https://arxiv.org/abs/2508.05318v2)** | 2026-04-27 | <details><summary>In Pr...</summary><p>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26), July 20-24, 2026, Melbourne, VIC, Australia</p></details> |
+| **[In-depth Analysis of Graph-based RAG in a Unified Framework](https://arxiv.org/abs/2503.04338v2)** | 2026-04-27 |  |
+| **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](https://arxiv.org/abs/2508.20324v4)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main</p></details> |
+| **[INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval](https://arxiv.org/abs/2602.12971v2)** | 2026-04-27 |  |
+| **[S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA](https://arxiv.org/abs/2604.23783v1)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
+| **[ComplianceNLP: Knowledge-Graph-Augmented RAG for Multi-Framework Regulatory Gap Detection](https://arxiv.org/abs/2604.23585v1)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Industry Track. 19 pages, 15 tables, 1 figure</p></details> |
+| **[CyberCane: Neuro-Symbolic RAG for Privacy-Preserving Phishing Detection with Formal Ontology Reasoning](https://arxiv.org/abs/2604.23563v1)** | 2026-04-26 |  |
+| **[ragR: Retrieval-Augmented Generation and RAG Assessment in R](https://arxiv.org/abs/2604.23515v1)** | 2026-04-26 | <details><summary>Prepr...</summary><p>Preprint. Code available at the GitHub repository listed in the paper</p></details> |
 | **[Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines](https://arxiv.org/abs/2604.22661v1)** | 2026-04-24 |  |
 | **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/abs/2508.06165v4)** | 2026-04-24 |  |
 | **[RAG-Reflect: Agentic Retrieval-Augmented Generation with Reflections for Comment-Driven Code Maintenance on Stack Overflow](https://arxiv.org/abs/2604.22217v1)** | 2026-04-24 | <details><summary>27 pa...</summary><p>27 pages, submitted to the TOSEM</p></details> |
 | **[An End-to-End Ukrainian RAG for Local Deployment. Optimized Hybrid Search and Lightweight Generation](https://arxiv.org/abs/2604.22095v1)** | 2026-04-23 | To appear at UNLP'26 |
 | **[Adaptive Defense Orchestration for RAG: A Sentinel-Strategist Architecture against Multi-Vector Attacks](https://arxiv.org/abs/2604.20932v1)** | 2026-04-22 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 9 tables. Manuscript prepared for submission to ACM CCS</p></details> |
 | **[HaS: Accelerating RAG through Homology-Aware Speculative Retrieval](https://arxiv.org/abs/2604.20452v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
-| **[RAG-KT: Cross-platform Explainable Knowledge Tracing with Multi-view Fusion Retrieval Generation](https://arxiv.org/abs/2604.10960v2)** | 2026-04-22 |  |
-| **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v1)** | 2026-04-21 | 6 pages, 7 figures |
-| **[MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18509v2)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings, 19 pages</p></details> |
-| **[Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.02993v4)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[Resolving the Robustness-Precision Trade-off in Financial RAG through Hybrid Document-Routed Retrieval](https://arxiv.org/abs/2603.26815v2)** | 2026-04-21 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 9 tables. Submitted to Intelligent Systems with Applications</p></details> |
-| **[Evaluating Multi-Hop Reasoning in RAG Systems: A Comparison of LLM-Based Retriever Evaluation Strategies](https://arxiv.org/abs/2604.18234v1)** | 2026-04-20 | <details><summary>15 Pa...</summary><p>15 Pages, Accepted for publication at the SynIRgy Workshop, ECIR 2026 (48th European Conference on Information Retrieval)</p></details> |
-| **[Is Agentic RAG worth it? An experimental comparison of RAG approaches](https://arxiv.org/abs/2601.07711v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
-| **[Domain-oriented RAG Assessment (DoRA): Synthetic Benchmarking for RAG-based Question Answering on Defense Documents](https://arxiv.org/abs/2604.17943v1)** | 2026-04-20 |  |
-| **[Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG](https://arxiv.org/abs/2604.06097v2)** | 2026-04-20 | <details><summary>ACL'2...</summary><p>ACL'26: 13 pages, 4 figures, 4 tables</p></details> |
 
