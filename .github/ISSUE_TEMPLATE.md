@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](https://arxiv.org/abs/2606.02578v1)** | 2026-06-01 | ICML 2026 |
-| **[ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02576v1)** | 2026-06-01 |  |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[AdaCodec: A Predictive Visual Code for Video MLLMs](https://arxiv.org/abs/2606.02569v1)** | 2026-06-01 | 23 pages |
-| **[Probing Minimalist Phase Structure in LLMs: What Universal Dependencies Cannot Represent](https://arxiv.org/abs/2605.26431v2)** | 2026-06-01 |  |
-| **[From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](https://arxiv.org/abs/2606.02559v1)** | 2026-06-01 |  |
-| **[Pluralistic Leaderboards](https://arxiv.org/abs/2606.02547v1)** | 2026-06-01 |  |
-| **[Transferable Self-Harm Surveillance from Emergency Department Triage Notes Using an Evidence-Augmented Machine Learning Approach](https://arxiv.org/abs/2606.02545v1)** | 2026-06-01 |  |
-| **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v1)** | 2026-06-01 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
-| **[SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530v1)** | 2026-06-01 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 14 tables. Submitted to EMNLP 2026</p></details> |
-| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
-| **[Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events](https://arxiv.org/abs/2606.02522v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 11 tables</p></details> |
-| **[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](https://arxiv.org/abs/2511.05650v2)** | 2026-06-01 | <details><summary>ICML ...</summary><p>ICML 2026. (47 pages, 22 figures)</p></details> |
-| **[What Do LLMs Know About Alzheimer's Disease? Multi-loss Fine-Tuning and Probing for AD Detection](https://arxiv.org/abs/2602.11177v2)** | 2026-06-01 |  |
-| **[When Rating Scales Fall Short: LLM-Assisted Discovery of ADHD Signals in Turkish Teacher Narratives](https://arxiv.org/abs/2606.02509v1)** | 2026-06-01 | <details><summary>15 pa...</summary><p>15 pages. Accepted to CLPsych 2026. Camera-ready author version. The final version will appear in the ACL Anthology</p></details> |
+| **[How reliable are LLMs when it comes to playing dice?](https://arxiv.org/abs/2606.07515v1)** | 2026-06-05 |  |
+| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
+| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
+| **[LLM-Guided Search for Deletion-Correcting Codes](https://arxiv.org/abs/2504.00613v2)** | 2026-06-05 |  |
+| **[Watch, Remember, Reason: Human-View Video Understanding with MLLMs](https://arxiv.org/abs/2606.07433v1)** | 2026-06-05 |  |
+| **[The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs](https://arxiv.org/abs/2606.07422v1)** | 2026-06-05 |  |
+| **[Lost in Migration: Exposing Android Framework Vulnerabilities in Parallel Java-Kotlin Implementations](https://arxiv.org/abs/2606.07420v1)** | 2026-06-05 | 14 pages |
+| **[A Comprehensive Anatomy of Human and DeepSeek-R1 LLM Mathematical Reasoning](https://arxiv.org/abs/2606.07410v1)** | 2026-06-05 |  |
+| **[Mining Useful General Data for Low-Resource Domain Adaptation](https://arxiv.org/abs/2511.07380v2)** | 2026-06-05 | 39 pages |
+| **[Online Pandora's Box for Contextual LLM Cascading](https://arxiv.org/abs/2606.07392v1)** | 2026-06-05 |  |
+| **[Self-evolving LLM agents with in-distribution Optimization](https://arxiv.org/abs/2606.07367v1)** | 2026-06-05 | ICML 2026 |
+| **[Ask Safely: Privacy-Aware LLM Query Generation for Knowledge Graphs](https://arxiv.org/abs/2512.04852v2)** | 2026-06-05 |  |
+| **[LLM-Guided Evolution for Medical Decision Pipelines](https://arxiv.org/abs/2606.07342v1)** | 2026-06-05 |  |
+| **[Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems](https://arxiv.org/abs/2606.05711v2)** | 2026-06-05 |  |
+| **[Empirical Evaluation of Large Language Models for Migration of Code Fragments to Post-Quantum Cryptography](https://arxiv.org/abs/2606.07341v1)** | 2026-06-05 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation](https://arxiv.org/abs/2606.02553v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 4 tables</p></details> |
-| **[TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v1)** | 2026-06-01 |  |
-| **[Self-Conditioned Positional HNSW for Overlap-Aware Retrieval in Chunked-Document RAG Systems: Method and Industrial Evidence-Quality Audit](https://arxiv.org/abs/2606.01542v1)** | 2026-06-01 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables</p></details> |
-| **[Beyond Topical Similarity: Contrastive Evidence Retrieval with Interpretable Attention Alignment in RAG](https://arxiv.org/abs/2606.01482v1)** | 2026-05-31 |  |
-| **[Auditing Privacy in Multi-Tenant RAG under Account Collusion](https://arxiv.org/abs/2605.19847v2)** | 2026-05-31 |  |
-| **[UniD$^3$: A Knowledge Graph-Enhanced RAG Framework for Drug-Disease Discovery and Reasoning](https://arxiv.org/abs/2606.01394v1)** | 2026-05-31 |  |
-| **[Efficient RAG with Intent-Aware Retrieval and Semantics-Preserving Chunking](https://arxiv.org/abs/2606.01240v1)** | 2026-05-31 |  |
-| **[Diagnosing LLM Arbitration Behavior over Pre-evidence Epistemic States in RAG-based Fact-Checking](https://arxiv.org/abs/2606.01120v1)** | 2026-05-31 |  |
-| **[ExpWeaver: LLM Agents Learn from Experience via Latent RAG](https://arxiv.org/abs/2606.01041v1)** | 2026-05-31 |  |
-| **[Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment](https://arxiv.org/abs/2605.24312v2)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2026</p></details> |
-| **[OCC-RAG: Optimal Cognitive Core for Faithful Question Answering](https://arxiv.org/abs/2606.00683v1)** | 2026-05-30 |  |
-| **[Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG](https://arxiv.org/abs/2606.00432v1)** | 2026-05-29 |  |
-| **[Evaluating Factual Density in Multi-Source RAG: A Study in Medical AI Accuracy](https://arxiv.org/abs/2605.31506v1)** | 2026-05-29 | <details><summary>15 pa...</summary><p>15 pages, 7 tables. Preliminary findings; Experiment 3 identified as future work</p></details> |
-| **[When Is Next-Token Prediction Useful? Marginalization, Ergodicity, Mixture Identifiability, Local Sufficiency, RAG, Tools, and Programming](https://arxiv.org/abs/2605.23278v2)** | 2026-05-29 |  |
-| **[Learning Whom to Trust: Market-Feedback Adaptive Retrieval for Frozen LLMs in Event-Driven Financial RAG](https://arxiv.org/abs/2605.31201v1)** | 2026-05-29 |  |
+| **[HKVM-RAG: Key-Value-Separated Hypergraph Evidence Organization for Multi-Hop RAG](https://arxiv.org/abs/2606.07218v1)** | 2026-06-05 | <details><summary>Submi...</summary><p>Submitted to ICDE 2027. 13 pages, 3 figures</p></details> |
+| **[SEEK: Steering LLM Reasoning for RAG via Internal Reasoning Sketches](https://arxiv.org/abs/2601.09402v2)** | 2026-06-05 |  |
+| **[Diagnosing LLM Arbitration Behavior over Pre-evidence Epistemic States in RAG-based Fact-Checking](https://arxiv.org/abs/2606.01120v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to ACL-2026 Findings (voluntarily withdraw)</p></details> |
+| **[TA-RAG: Tone-Aware Retrieval-Augmented Generation for Peer-Support Health Communication](https://arxiv.org/abs/2606.06794v1)** | 2026-06-05 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, CIKM 2026 submission manuscript</p></details> |
+| **[MHA-RAG: Improving Efficiency, Accuracy, and Consistency by Encoding Exemplars as Soft Prompts](https://arxiv.org/abs/2510.05363v2)** | 2026-06-04 | 17 pages, 5 figures |
+| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](https://arxiv.org/abs/2509.20324v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the 5th ICDM Workshop in November 2025</p></details> |
+| **[IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval](https://arxiv.org/abs/2606.06044v1)** | 2026-06-04 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 13 tables. Code available at https://github.com/xiaoAugenstern/LogicalRAG_TemporalQA</p></details> |
+| **[QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving](https://arxiv.org/abs/2606.05875v1)** | 2026-06-04 |  |
+| **[SentinelRAG: Synthetic Sentinel Knowledge for RAG Database Copyright Protection](https://arxiv.org/abs/2606.05787v1)** | 2026-06-04 |  |
+| **[MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2606.05693v1)** | 2026-06-04 |  |
+| **[Agent-Orchestrated Adaptive RAG: A Comparative Study on Structured and Multi-Hop Retrieval](https://arxiv.org/abs/2606.05658v1)** | 2026-06-04 |  |
+| **[Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models](https://arxiv.org/abs/2606.04739v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at AI&CCPS 2026 workshop, co-located with the 21st International Conference on Availability, Reliability and Security (ARES 2026). This is the authors' preprint version</p></details> |
+| **[Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation](https://arxiv.org/abs/2606.04435v1)** | 2026-06-03 |  |
+| **[When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG](https://arxiv.org/abs/2606.04127v1)** | 2026-06-02 | <details><summary>9 Pag...</summary><p>9 Pages, accepted to BioNLP Workshop at ACL 2026</p></details> |
+| **[The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit](https://arxiv.org/abs/2501.02173v2)** | 2026-06-02 |  |
 
