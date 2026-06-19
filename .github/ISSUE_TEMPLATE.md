@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://arxiv.org/abs/2606.19338v1)** | 2026-06-17 |  |
-| **[Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336v1)** | 2026-06-17 |  |
-| **[Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation](https://arxiv.org/abs/2606.19315v1)** | 2026-06-17 |  |
-| **[Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](https://arxiv.org/abs/2606.19308v1)** | 2026-06-17 | 18 pages, 8 figures |
-| **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v2)** | 2026-06-17 |  |
-| **[ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](https://arxiv.org/abs/2505.23851v3)** | 2026-06-17 | <details><summary>Publi...</summary><p>Published in ICML2026: https://icml.cc/virtual/2026/poster/63549 Code repository: https://github.com/RamanujanMachine/ASyMOB Complete benchmark dataset: https://huggingface.co/datasets/Shalyt/ASyMOB-Algebraic_Symbolic_Mathematical_Operations_Benchmark</p></details> |
-| **[The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](https://arxiv.org/abs/2606.18192v2)** | 2026-06-17 | <details><summary>Prepr...</summary><p>Preprint. Includes appendix, tables, and figures</p></details> |
-| **[Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](https://arxiv.org/abs/2606.19266v1)** | 2026-06-17 |  |
-| **[Structured Inference with Large Language Gibbs](https://arxiv.org/abs/2606.19264v1)** | 2026-06-17 | <details><summary>Code:...</summary><p>Code: https://github.com/hyeok9855/large-language-gibbs</p></details> |
-| **[X+Slides: Benchmarking Audience-Conditioned Slide Generation](https://arxiv.org/abs/2606.19256v1)** | 2026-06-17 |  |
-| **[CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts](https://arxiv.org/abs/2606.19235v1)** | 2026-06-17 |  |
-| **[Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation](https://arxiv.org/abs/2603.10827v2)** | 2026-06-17 | <details><summary>3 Tab...</summary><p>3 Tables, 1 Figure, Published in Interspeech 2026</p></details> |
-| **[Language Models as Interfaces, Not Oracles: A Hybrid LLM-ML System for Pediatric Appendicitis](https://arxiv.org/abs/2606.19183v1)** | 2026-06-17 |  |
-| **[Enhancing CVRP Solver through LLM-driven Automatic Heuristic Design](https://arxiv.org/abs/2602.23092v2)** | 2026-06-17 |  |
-| **[Dango: A Strictly L1-Only Large Language Model for Studying Second Language Acquisition](https://arxiv.org/abs/2606.19170v1)** | 2026-06-17 | <details><summary>8 pag...</summary><p>8 pages main text, 20 pages total including references and appendices</p></details> |
+| **[The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://arxiv.org/abs/2603.16941v2)** | 2026-06-18 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table, Accepted to Interspeech 2026</p></details> |
+| **[StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](https://arxiv.org/abs/2606.20527v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the non-archival workshops AI4Good and Culture x AI at ICML 2026</p></details> |
+| **[HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining](https://arxiv.org/abs/2606.20521v1)** | 2026-06-18 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/HumanNet/</p></details> |
+| **[Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](https://arxiv.org/abs/2606.20517v1)** | 2026-06-18 | ICLR 2026 |
+| **[Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems](https://arxiv.org/abs/2606.20493v1)** | 2026-06-18 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 tables</p></details> |
+| **[A Survey of On-Policy Distillation for Large Language Models](https://arxiv.org/abs/2604.00626v4)** | 2026-06-18 | Ongoing Work |
+| **[Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](https://arxiv.org/abs/2606.20482v1)** | 2026-06-18 |  |
+| **[VideoSketcher: Sequential Sketch Generation Using Video Model Priors](https://arxiv.org/abs/2602.15819v2)** | 2026-06-18 |  |
+| **[Statistical Foundations of LLM-based A/B Testing: A Surrogacy Framework for Human Causal Inference](https://arxiv.org/abs/2606.17165v2)** | 2026-06-18 |  |
+| **[Multi-View Decompilation for LLM-Based Malware Classification](https://arxiv.org/abs/2606.20436v1)** | 2026-06-18 |  |
+| **[LLM agent safety, multi-turn red-teaming, jailbreak benchmarks, adversarial robustness, safety-critical systems](https://arxiv.org/abs/2606.20408v1)** | 2026-06-18 |  |
+| **[Agentic AutoResearch forSpace Autonomy: An Auditable, LLM-Driven Research Agent for Aerospace Control Problems](https://arxiv.org/abs/2606.20394v1)** | 2026-06-18 |  |
+| **[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://arxiv.org/abs/2606.05833v2)** | 2026-06-18 |  |
+| **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
+| **[OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](https://arxiv.org/abs/2606.19149v2)** | 2026-06-18 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges](https://arxiv.org/abs/2606.20369v1)** | 2026-06-18 |  |
+| **[AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models](https://arxiv.org/abs/2606.20041v1)** | 2026-06-18 |  |
+| **[CacheWeaver: Cache-Aware Evidence Ordering for Efficient Grounded RAG Inference](https://arxiv.org/abs/2606.19667v1)** | 2026-06-18 |  |
+| **[A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots](https://arxiv.org/abs/2606.19660v1)** | 2026-06-17 | <details><summary>Submi...</summary><p>Submitted in ICCK Transactions on Information Security and Cryptography</p></details> |
+| **[Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](https://arxiv.org/abs/2606.19602v1)** | 2026-06-17 |  |
+| **[Fail-RAG : A Retrieval Augmented Generation Informed Framework for Robot Failure Identification](https://arxiv.org/abs/2606.19598v1)** | 2026-06-17 |  |
 | **[Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG](https://arxiv.org/abs/2602.06495v2)** | 2026-06-17 |  |
 | **[SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG](https://arxiv.org/abs/2606.18381v1)** | 2026-06-16 |  |
 | **[PACE-RAG: Patient-Aware Contextual and Evidence-Constrained RAG for Clinical Drug Recommendation](https://arxiv.org/abs/2603.17356v2)** | 2026-06-16 | 32 pages, 18 figures |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](https://arxiv.org/abs/2603.14709v2)** | 2026-06-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026</p></details> |
 | **[MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA](https://arxiv.org/abs/2606.15906v1)** | 2026-06-14 |  |
 | **[MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2606.05693v2)** | 2026-06-14 |  |
-| **[When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](https://arxiv.org/abs/2602.00344v2)** | 2026-06-14 | 19 pages, 13 figures |
-| **[SPI: Query-Depth-Adaptive Indexing for Streaming RAG in Vector Databases](https://arxiv.org/abs/2511.16681v3)** | 2026-06-14 |  |
-| **[TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v2)** | 2026-06-13 |  |
-| **[CONCORD: Asynchronous Sparse Aggregation for Device-Cloud RAG under Document Isolation](https://arxiv.org/abs/2606.15179v1)** | 2026-06-13 | <details><summary>to be...</summary><p>to be published in IEEE ICWS 2026</p></details> |
-| **[HeRo: Adaptive Orchestration of Agentic RAG on Heterogeneous Mobile SoC](https://arxiv.org/abs/2603.01661v2)** | 2026-06-13 | <details><summary>Will ...</summary><p>Will appear in DAC'2026, Camera Ready</p></details> |
-| **[A RAG-Enhanced Bi-Level Cognitive Orchestration Framework for LEO Satellite Networks](https://arxiv.org/abs/2606.15076v1)** | 2026-06-13 |  |
 
