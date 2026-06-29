@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Autoregressive Boltzmann Generators](https://arxiv.org/abs/2606.27361v1)** | 2026-06-25 | <details><summary>ICML ...</summary><p>ICML 2026 (Spotlight)</p></details> |
-| **[When are likely answers right? On Sequence Probability and Correctness in LLMs](https://arxiv.org/abs/2606.27359v1)** | 2026-06-25 | <details><summary>38 pa...</summary><p>38 pages, including 10 pages of main text and 28 pages of appendix, preprint</p></details> |
-| **[Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings](https://arxiv.org/abs/2602.18364v3)** | 2026-06-25 | 38+4 pages, 1 figure |
-| **[Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline](https://arxiv.org/abs/2606.27347v1)** | 2026-06-25 | 34 pages, 17 figures |
-| **[Language-Based Digital Twins for Elderly Cognitive Assistance](https://arxiv.org/abs/2606.27334v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted and published in the Proceedings of the ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA 2026). The final published version is available through the ACM Digital Library</p></details> |
-| **[LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank](https://arxiv.org/abs/2606.27316v1)** | 2026-06-25 |  |
-| **[Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings](https://arxiv.org/abs/2606.27287v1)** | 2026-06-25 |  |
-| **[How Surprising Is Historical Italian to Language Models? Tokenization Tax, Comprehension Tax, and a Simple Mitigation](https://arxiv.org/abs/2606.27275v1)** | 2026-06-25 | <details><summary>The 2...</summary><p>The 22nd Conference on Information and Research Science Connecting to Digital and Library Science</p></details> |
-| **[CORTEX: A Structured Reasoning Benchmark for Trustworthy 3D Chest CT MLLMs](https://arxiv.org/abs/2606.27264v1)** | 2026-06-25 |  |
-| **[RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations](https://arxiv.org/abs/2606.27247v1)** | 2026-06-25 |  |
-| **[Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195v2)** | 2026-06-25 | Preprint |
-| **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v2)** | 2026-06-25 | <details><summary>19 pa...</summary><p>19 pages including appendix</p></details> |
-| **[TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](https://arxiv.org/abs/2606.27161v1)** | 2026-06-25 | 27 pages, 18 figures |
-| **[OI-Bench: An Option Injection Benchmark for Evaluating LLM Susceptibility to Directive Interference](https://arxiv.org/abs/2601.13300v2)** | 2026-06-25 |  |
-| **[An LLM-Native Psychometric Instrument Does Not Predict LLM Behavior: Evidence Across 25 Models](https://arxiv.org/abs/2606.09843v2)** | 2026-06-25 |  |
+| **[When are LLMs Sufficient Policy Optimizers for Sequential RL Tasks?](https://arxiv.org/abs/2605.30719v2)** | 2026-06-26 |  |
+| **[An Approach to Enriching Surgical Video Datasets for Fine-Grained Spatial-Temporal Understanding of Vision-Language Models](https://arxiv.org/abs/2604.00784v2)** | 2026-06-26 |  |
+| **[RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning](https://arxiv.org/abs/2606.28266v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Push Puppet Networks: Structured Bayesian Pruning Algorithm for Language Model Compression](https://arxiv.org/abs/2606.28251v1)** | 2026-06-26 |  |
+| **[HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech](https://arxiv.org/abs/2606.28249v1)** | 2026-06-26 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 3 tables; Preprint</p></details> |
+| **[Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding](https://arxiv.org/abs/2603.10863v2)** | 2026-06-26 |  |
+| **[Workshop Paper: An empirical study to understand how students use ChatGPT for writing essays and how it affects their ownership](https://arxiv.org/abs/2405.13890v4)** | 2026-06-26 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted and accepted to ACM CHI Workshop In2Writing in 2024, Please see full paper at CHI 2026</p></details> |
+| **[An Empirical Study to Understand How Students Use ChatGPT for Writing Essays](https://arxiv.org/abs/2501.10551v5)** | 2026-06-26 | <details><summary>35 pa...</summary><p>35 pages, 16 figures, 6 tables, Submitted to ACM CHI 2026</p></details> |
+| **[Can LLM-based Financial Investing Strategies Outperform the Market in Long Run?](https://arxiv.org/abs/2505.07078v6)** | 2026-06-26 | <details><summary>KDD 2...</summary><p>KDD 2026, Datasets & Benchmarks Track (Oral) Corrected the FinAgent results and added FinAgent (GPT-4o-mini) in Table 2; conclusions unchanged</p></details> |
+| **[GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems](https://arxiv.org/abs/2606.28187v1)** | 2026-06-26 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted by SIGDIAL 2026 Long Papers</p></details> |
+| **[LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](https://arxiv.org/abs/2606.28182v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs](https://arxiv.org/abs/2510.00705v3)** | 2026-06-26 |  |
+| **[LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](https://arxiv.org/abs/2508.12232v5)** | 2026-06-26 | <details><summary>Proce...</summary><p>Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), Montreal, Canada, July 2026</p></details> |
+| **[Psychometric Comparability of LLM-Based Digital Twins](https://arxiv.org/abs/2601.14264v2)** | 2026-06-26 | <details><summary>Also ...</summary><p>Also available as a preprint on OSF Preprints https://osf.io/preprints/psyarxiv/965yg_v2</p></details> |
+| **[MedGuards: Multi-Agent System for Reliable Medical Error Detection and Correction](https://arxiv.org/abs/2606.25651v2)** | 2026-06-26 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](https://arxiv.org/abs/2509.19376v2)** | 2026-06-26 |  |
 | **[MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG](https://arxiv.org/abs/2606.26793v1)** | 2026-06-25 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at the 2026 International Joint Conference on Neural Networks (IJCNN 2026), IEEE WCCI 2026; presented as an oral talk. Code and ART-SafeBench benchmark: https://github.com/FujitsuResearch/mirror</p></details> |
 | **[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586v3)** | 2026-06-25 |  |
 | **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Only Ask What You Don't Know: Grounded Delta Planning for Efficient Multi-step RAG](https://arxiv.org/abs/2606.22681v1)** | 2026-06-21 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[RAVEN: Agentic RAG for Automated Vulnerability Repair](https://arxiv.org/abs/2606.22647v1)** | 2026-06-21 | <details><summary>17 Pa...</summary><p>17 Pages, 4 figures. Under review</p></details> |
 | **[Skill-RAG: Failure-State-Aware Retrieval Augmentation via Hidden-State Probing and Skill Routing](https://arxiv.org/abs/2604.15771v3)** | 2026-06-21 |  |
-| **[Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment](https://arxiv.org/abs/2605.24312v3)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2026</p></details> |
 
