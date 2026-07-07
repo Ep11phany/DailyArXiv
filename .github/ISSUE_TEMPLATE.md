@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 06, 2026
+title: Latest 15 Papers - July 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512v1)** | 2026-07-02 |  |
-| **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](https://arxiv.org/abs/2607.02509v1)** | 2026-07-02 |  |
-| **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](https://arxiv.org/abs/2607.02502v1)** | 2026-07-02 |  |
-| **[From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Physics](https://arxiv.org/abs/2603.13191v2)** | 2026-07-02 | <details><summary>v2: c...</summary><p>v2: camera-ready version, accepted at the ICML 2026 Workshop on AI for Physics (AI4Physics@ICML 2026). 20 pages, 6 figures</p></details> |
-| **[RedCoder: Automated Multi-Turn Red Teaming for Code LLMs](https://arxiv.org/abs/2507.22063v2)** | 2026-07-02 | ACL 2026 |
-| **[EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$](https://arxiv.org/abs/2607.02479v1)** | 2026-07-02 | Preprint |
-| **[Will Scaling Improve Social Simulation with LLMs?](https://arxiv.org/abs/2607.02464v1)** | 2026-07-02 |  |
-| **[Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232v2)** | 2026-07-02 |  |
-| **[Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460v1)** | 2026-07-02 |  |
-| **[When Do LLM Personas Support Visualization Design? A Cross-Model Study of Color Assignment and Chart Choice](https://arxiv.org/abs/2607.02455v1)** | 2026-07-02 | 5 pages, 3 figures |
-| **[AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition](https://arxiv.org/abs/2607.02448v1)** | 2026-07-02 |  |
-| **[BLAgent: Agentic RAG for File-Level Bug Localization](https://arxiv.org/abs/2605.17965v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach](https://arxiv.org/abs/2607.02432v1)** | 2026-07-02 |  |
-| **[The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing](https://arxiv.org/abs/2607.02416v1)** | 2026-07-02 |  |
-| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](https://arxiv.org/abs/2510.20692v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ISSRE 2026. Major revision and retitling of arXiv:2510.20692v1. Refocuses the paper on reliable neurosymbolic access-control policy analysis; updates the PolicySummarizer method, multi-cloud evaluation, and user-study results. 13 pages, 6 figures</p></details> |
+| **[Selective Disclosure Watermarking for Large Language Models](https://arxiv.org/abs/2607.05353v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space](https://arxiv.org/abs/2512.08029v3)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework](https://arxiv.org/abs/2601.06550v3)** | 2026-07-06 |  |
+| **[Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](https://arxiv.org/abs/2607.00448v2)** | 2026-07-06 |  |
+| **[Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://arxiv.org/abs/2511.06148v4)** | 2026-07-06 | ICML 2026 Oral |
+| **[How Much is Left? LLMs Linearly Encode Their Remaining Output Length](https://arxiv.org/abs/2607.05316v1)** | 2026-07-06 | 21 pages, 9 figures |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](https://arxiv.org/abs/2509.03463v3)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted in the Empirical Software Engineering (EMSE) Journal (2026)</p></details> |
+| **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v2)** | 2026-07-06 | Work in Progress |
+| **[Data Driven Optimization of GPU efficiency for Distributed LLM-Adapter Serving](https://arxiv.org/abs/2602.24044v2)** | 2026-07-06 | <details><summary>updat...</summary><p>update of the journal paper contents after major revision</p></details> |
+| **[PSearch: Search-based Patch Generation in the Era of LLM-based Automated Program Repair](https://arxiv.org/abs/2507.01827v5)** | 2026-07-06 | accepted to ASE 2026 |
+| **[ChatImage: Navigating Long-Form LLM Answers through Interactive Images](https://arxiv.org/abs/2607.05290v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project:https://wencanjiang.github.io/ChatImage</p></details> |
+| **[Algorithmic Shortlisting in Participatory Budgeting](https://arxiv.org/abs/2508.06577v3)** | 2026-07-06 |  |
+| **[Gypscie: A Cross-Platform AI Artifact Management System](https://arxiv.org/abs/2604.10311v2)** | 2026-07-06 | 39 pages, 13 figures |
+| **[Curated retrieval versus open web search in public AI information services: a coverage-trust trade-off](https://arxiv.org/abs/2607.05217v1)** | 2026-07-06 |  |
+| **[ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development](https://arxiv.org/abs/2606.12057v3)** | 2026-07-06 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIRAGE: Defending Long-Form RAG Against Misinformation Pollution](https://arxiv.org/abs/2607.05069v1)** | 2026-07-06 | <details><summary>ACL-s...</summary><p>ACL-style preprint. 19 pages, 5 figures, 16 tables</p></details> |
+| **[Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379v1)** | 2026-07-05 | 9 pages, 5 figures |
+| **[Candidate-Constrained Retrieval-Augmented Generation for LongEval-RAG: System Design and Empirical Analysis](https://arxiv.org/abs/2607.04008v1)** | 2026-07-04 | <details><summary>Publi...</summary><p>Published in CEUR Workshop Proceedings 2026</p></details> |
+| **[Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG](https://arxiv.org/abs/2607.03929v1)** | 2026-07-04 |  |
+| **[Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI](https://arxiv.org/abs/2607.03880v1)** | 2026-07-04 | <details><summary>Publi...</summary><p>Published in eCom@SIGIR 2024</p></details> |
+| **[Improving Access to Historical Archives with Real-time RAG-based Systems](https://arxiv.org/abs/2607.03440v1)** | 2026-07-03 |  |
+| **[Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG](https://arxiv.org/abs/2607.02966v1)** | 2026-07-03 | <details><summary>42 pa...</summary><p>42 pages, 19 figures, 16 tables</p></details> |
+| **[Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG](https://arxiv.org/abs/2508.02296v3)** | 2026-07-02 |  |
 | **[BLAgent: Agentic RAG for File-Level Bug Localization](https://arxiv.org/abs/2605.17965v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG](https://arxiv.org/abs/2602.19127v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
 | **[When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems](https://arxiv.org/abs/2607.00508v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by SIGMOD 2027</p></details> |
@@ -33,12 +41,4 @@ labels: documentation
 | **[The Illusion of Agentic Complexity in README.md Generation: Evaluating Single-Agent vs. Multi-Agent RAG Systems](https://arxiv.org/abs/2606.30524v2)** | 2026-07-01 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
 | **[Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering](https://arxiv.org/abs/2607.00972v1)** | 2026-07-01 | <details><summary>Submi...</summary><p>Submitted for 7th International Conference on Maintenance and Intelligent Asset Management (ICMIAM 2026)</p></details> |
 | **[What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG and When Submodular Evidence Packing Improves It](https://arxiv.org/abs/2607.00725v1)** | 2026-07-01 | 12 pages, 5 figures |
-| **[Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping](https://arxiv.org/abs/2606.31200v1)** | 2026-06-30 | <details><summary>8 pag...</summary><p>8 pages,5 figures,5 tables</p></details> |
-| **[One Retrieval to Cover Them All: Co-occurrence-Aware Knowledge Base Reorganization for Session-Level RAG](https://arxiv.org/abs/2606.31156v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to the Towards Knowledgeable Foundation Models (KnowFM) Workshop at ACL 2026</p></details> |
-| **[CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations](https://arxiv.org/abs/2606.31033v1)** | 2026-06-30 |  |
-| **[Regime-Aware Peer Specialization for Robust RAG under Heterogeneous Knowledge Conflicts](https://arxiv.org/abs/2606.30518v1)** | 2026-06-29 | Working in Progress |
-| **[Metadata, Structure, or Strategy? A Decomposition of RAG Context Enrichment](https://arxiv.org/abs/2606.29645v1)** | 2026-06-28 |  |
-| **[Diagnosing and Repairing Factual Errors in RAG under Budget Constraints](https://arxiv.org/abs/2606.29377v1)** | 2026-06-28 |  |
-| **[Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning](https://arxiv.org/abs/2606.29280v1)** | 2026-06-28 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, no figures. Preprint intended for submission to EDM 2027 / LAK 2027. Includes a reproducibility package: trained ONNX Decision Transformer, generic training script, OULAD evaluation scripts, and per-arm results CSVs</p></details> |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 12 tables</p></details> |
 
