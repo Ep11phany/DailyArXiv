@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Page: https://uniclawbench.github.io | GitHub Repo: https://github.com/HKU-MMLab/UniClawBench</p></details> |
-| **[OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing](https://arxiv.org/abs/2606.15920v2)** | 2026-07-09 |  |
-| **[AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding](https://arxiv.org/abs/2607.08745v1)** | 2026-07-09 | <details><summary>CVPR ...</summary><p>CVPR Autopilot Workshop</p></details> |
-| **[Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows](https://arxiv.org/abs/2607.08740v1)** | 2026-07-09 | 39 pages, 18 figures |
-| **[The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](https://arxiv.org/abs/2607.08734v1)** | 2026-07-09 |  |
-| **[Compiling Large Multi-Modal Requirement Documents into Runnable Software Systems: From an Agentic Test-Driven Perspective](https://arxiv.org/abs/2602.13723v5)** | 2026-07-09 |  |
-| **[How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://arxiv.org/abs/2607.08698v1)** | 2026-07-09 | <details><summary>This ...</summary><p>This paper has been accepted in ICMI 2026 and will be presented in October</p></details> |
-| **[Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models](https://arxiv.org/abs/2607.08665v1)** | 2026-07-09 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Code: github.com/luka-krixvon/resample-or-reroute-experiment. Companion analysis: arXiv:2607.03436</p></details> |
-| **[WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662v1)** | 2026-07-09 | Work in progress |
-| **[UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing](https://arxiv.org/abs/2607.08646v1)** | 2026-07-09 |  |
-| **[BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression](https://arxiv.org/abs/2607.08643v1)** | 2026-07-09 |  |
-| **[IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation](https://arxiv.org/abs/2509.26076v2)** | 2026-07-09 | <details><summary>v2: b...</summary><p>v2: benchmark expanded from 39 to 77 problems; evaluation extended to 14 models including GPT-5.4, Gemini 3.1 Pro, and Claude Opus 4.6; new analyses (IRT-based score aggregation, inter-rater reliability, tool/token usage, non-agentic ablation); contributor author list updated</p></details> |
-| **[The complexities of patient-centred conversational artificial intelligence](https://arxiv.org/abs/2607.08625v1)** | 2026-07-09 | <details><summary>36 pa...</summary><p>36 pages (main text), 129 pages (supplementary materials)</p></details> |
-| **[Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos](https://arxiv.org/abs/2512.01803v3)** | 2026-07-09 |  |
-| **[Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance](https://arxiv.org/abs/2607.08602v1)** | 2026-07-09 |  |
+| **[Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1)** | 2026-07-10 |  |
+| **[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](https://arxiv.org/abs/2607.09653v1)** | 2026-07-10 |  |
+| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
+| **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](https://arxiv.org/abs/2607.09641v1)** | 2026-07-10 | <details><summary>BRACI...</summary><p>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</p></details> |
+| **[Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models](https://arxiv.org/abs/2607.08665v2)** | 2026-07-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. v2: corrected Phi-4 cost (14.7B) and re-ran all replays; conclusions unchanged. Code: github.com/luka-krixvon/resample-or-reroute-experiment</p></details> |
+| **[LLM for EDA in Front-End Design: Challenges and Opportunities](https://arxiv.org/abs/2607.09616v1)** | 2026-07-10 | <details><summary>Invit...</summary><p>Invited paper at the ACM/IEEE DAC 2026 Special Research Session, 5 pages, 9 figures</p></details> |
+| **[RELISH: LLM REgression with a Latent Iterative State Head](https://arxiv.org/abs/2604.01206v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted to the Third Conference on Language Modeling (COLM 2026)</p></details> |
+| **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://arxiv.org/abs/2607.09600v1)** | 2026-07-10 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 4 figures</p></details> |
+| **[HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs](https://arxiv.org/abs/2604.20140v2)** | 2026-07-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables. Includes ablation study across Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct on 5 math reasoning benchmarks (GSM8K, MATH500, Minerva, AIME24, Gaokao2023). GPT-4.1 used for structured evaluation of reasoning quality</p></details> |
+| **[Diagnosing Long-Video Quantitative Reasoning in Multimodal LLMs via Enumeration and Counting](https://arxiv.org/abs/2603.29943v2)** | 2026-07-10 | <details><summary>The f...</summary><p>The first two authors are equally contributed. The data and code are publicly available at: https://github.com/matsuolab/EC-Bench</p></details> |
+| **[Contrastive Weak-to-strong Generalization](https://arxiv.org/abs/2510.07884v2)** | 2026-07-10 |  |
+| **[Balancing Usefulness and Naturalness: An LLM-based Curation Pipeline for Code Review Comments](https://arxiv.org/abs/2607.09524v1)** | 2026-07-10 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2502.03425</p></details> |
+| **[Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510v1)** | 2026-07-10 | 12 pages, 6 figures |
+| **[What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility](https://arxiv.org/abs/2607.09503v1)** | 2026-07-10 |  |
+| **[All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models](https://arxiv.org/abs/2607.09502v1)** | 2026-07-10 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs](https://arxiv.org/abs/2607.09121v1)** | 2026-07-10 |  |
+| **[AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs](https://arxiv.org/abs/2607.09092v1)** | 2026-07-10 |  |
 | **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v1)** | 2026-07-09 |  |
 | **[Rag Classification of Tagore Songs using Symbolic Music Notation and Novel Weighted Distance Measures](https://arxiv.org/abs/2607.07241v2)** | 2026-07-09 |  |
 | **[Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG](https://arxiv.org/abs/2607.02966v2)** | 2026-07-09 | <details><summary>42 pa...</summary><p>42 pages, 19 figures, 16 tables</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG](https://arxiv.org/abs/2607.03929v1)** | 2026-07-04 |  |
 | **[Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI](https://arxiv.org/abs/2607.03880v1)** | 2026-07-04 | <details><summary>Publi...</summary><p>Published in eCom@SIGIR 2024</p></details> |
 | **[Improving Access to Historical Archives with Real-time RAG-based Systems](https://arxiv.org/abs/2607.03440v1)** | 2026-07-03 |  |
-| **[Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG](https://arxiv.org/abs/2607.05438v1)** | 2026-07-03 |  |
-| **[Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG](https://arxiv.org/abs/2508.02296v3)** | 2026-07-02 |  |
 
