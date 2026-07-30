@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM4OSC: Profile-Bound Natural Language Control with Deterministic Validation for Open Sound Control](https://arxiv.org/abs/2607.26024v1)** | 2026-07-28 |  |
-| **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
-| **[Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](https://arxiv.org/abs/2607.24515v2)** | 2026-07-28 |  |
-| **[Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](https://arxiv.org/abs/2607.26015v1)** | 2026-07-28 |  |
-| **[RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models](https://arxiv.org/abs/2607.25996v1)** | 2026-07-28 | <details><summary>Publi...</summary><p>Published in FSE'2026</p></details> |
-| **[Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?](https://arxiv.org/abs/2607.25995v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the Workshop on the Use of Large Language Models for Cybersecurity (LLMSec), co-located with ESORICS 2026</p></details> |
-| **[Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing](https://arxiv.org/abs/2607.25993v1)** | 2026-07-28 |  |
-| **[Is ChatGPT as reliable as individual reviewers assessing the quality of published journal articles from PDFs or titles and abstracts?](https://arxiv.org/abs/2607.25965v1)** | 2026-07-28 |  |
-| **[Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition](https://arxiv.org/abs/2607.25961v1)** | 2026-07-28 | <details><summary>14 Pa...</summary><p>14 Pages, 1 Figure, Ambivalence/Hesitancy (AH) Video Recognition Challenge, ECCV 2026</p></details> |
-| **[Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](https://arxiv.org/abs/2607.25956v1)** | 2026-07-28 |  |
-| **[A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](https://arxiv.org/abs/2607.25947v1)** | 2026-07-28 |  |
-| **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249v11)** | 2026-07-28 | 29 pages, 6 figures |
-| **[Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases](https://arxiv.org/abs/2607.25933v1)** | 2026-07-28 |  |
-| **[Localizing Persona Representations in LLMs](https://arxiv.org/abs/2505.24539v4)** | 2026-07-28 | <details><summary>Corre...</summary><p>Corrected small naming inconsistencies for Level 0, 1, and 2 analysis</p></details> |
-| **[Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models](https://arxiv.org/abs/2607.25907v1)** | 2026-07-28 |  |
+| **[TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/abs/2607.27205v1)** | 2026-07-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/H-EmbodVis/TurboVLA</p></details> |
+| **[GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation](https://arxiv.org/abs/2607.27182v1)** | 2026-07-29 |  |
+| **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
+| **[OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155v1)** | 2026-07-29 |  |
+| **[RWGBench: Evaluating Scholarly Positioning in Related Work Generation](https://arxiv.org/abs/2606.24894v4)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, code and data available at https://github.com/BFTree/RWGBench</p></details> |
+| **[Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications](https://arxiv.org/abs/2607.27145v1)** | 2026-07-29 | 14 pages |
+| **[Linguistic Monoculture in LLM-Assisted Language Use](https://arxiv.org/abs/2607.27134v1)** | 2026-07-29 |  |
+| **[Will Scaling Improve Social Simulation with LLMs?](https://arxiv.org/abs/2607.02464v2)** | 2026-07-29 |  |
+| **[Towards an Automated Test of LLM Security Knowledge](https://arxiv.org/abs/2607.18496v3)** | 2026-07-29 | <details><summary>v3: f...</summary><p>v3: fixed typos in abstract metadata; no changes to the paper</p></details> |
+| **[AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](https://arxiv.org/abs/2607.27130v1)** | 2026-07-29 | 21 pages, 5 figures |
+| **[Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113v1)** | 2026-07-29 |  |
+| **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](https://arxiv.org/abs/2607.27109v1)** | 2026-07-29 |  |
+| **[Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](https://arxiv.org/abs/2607.15715v2)** | 2026-07-29 |  |
+| **[Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction](https://arxiv.org/abs/2607.25718v2)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 3 tables</p></details> |
+| **[Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment](https://arxiv.org/abs/2607.27100v1)** | 2026-07-29 | <details><summary>Yuxua...</summary><p>Yuxuan Cai and Yequan Hu contributed equally to this work</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VITAL-RAG: Invariance Race for Context Allocation in Coding Agents](https://arxiv.org/abs/2607.26937v1)** | 2026-07-29 | 8 pages, 2 figures |
+| **[When Knowledge Changes: Metamorphic Testing of RAG Systems with Mutations](https://arxiv.org/abs/2607.26843v1)** | 2026-07-29 | ASE 2026 |
+| **[RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](https://arxiv.org/abs/2607.26631v1)** | 2026-07-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Mobile Computing. Extended version of the IEEE PerCom 2026 paper "RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition." (https://doi.org/10.1109/PerCom67906.2026.11524560)</p></details> |
+| **[Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms](https://arxiv.org/abs/2607.26497v1)** | 2026-07-29 |  |
+| **[CMT-RAG: Complementary Memory Traces for Multi-turn Multi-hop RAG](https://arxiv.org/abs/2607.26470v1)** | 2026-07-29 |  |
 | **[Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on a Math Textbook](https://arxiv.org/abs/2509.16780v3)** | 2026-07-28 | 6 pages, 1 figure |
 | **[Beyond Factual Accuracy: Evaluating Global Reasoning Integrity in RAG Systems with LogicScore](https://arxiv.org/abs/2601.15050v5)** | 2026-07-28 |  |
 | **[ScalableRAG: High-Quality RAG at Zero Ingestion Cost](https://arxiv.org/abs/2607.25135v1)** | 2026-07-27 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG](https://arxiv.org/abs/2607.22319v1)** | 2026-07-24 | <details><summary>To Ap...</summary><p>To Appear in the IEEE Data Engineering Bulletin</p></details> |
 | **[SURE-RAG: Sufficiency and Uncertainty-Aware Evidence Verification for Selective Retrieval-Augmented Generation](https://arxiv.org/abs/2605.03534v2)** | 2026-07-24 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 8 tables. Submitted to IEEE PRAI 2026</p></details> |
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v1)** | 2026-07-24 |  |
-| **[GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG](https://arxiv.org/abs/2607.21324v1)** | 2026-07-23 | 8 pages |
-| **[IteraSim RAG: A Multi-Stage Retrieval-Augmented Agentic Back-End for OpenFOAM-Based Computational Fluid Dynamics](https://arxiv.org/abs/2607.20346v1)** | 2026-07-22 | <details><summary>40 pa...</summary><p>40 pages, 7 figures, 5 tables. Submitted to Computer Physics Communications</p></details> |
-| **[PAGE-RAG: Evidence-Grounded Adaptive Graph Retrieval for Long-Document Question Answering](https://arxiv.org/abs/2607.19301v1)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, and 3 tables. The source code is publicly available at https://github.com/CXY0112/PAGE-RAG</p></details> |
-| **[M-RAG: Semantic Key-Value Indexing for Retrieval-Augmented Generation](https://arxiv.org/abs/2603.26667v2)** | 2026-07-21 |  |
-| **[TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering](https://arxiv.org/abs/2607.18917v1)** | 2026-07-21 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 9 tables</p></details> |
 
