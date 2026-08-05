@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,32 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599v1)** | 2026-08-03 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 3 tables</p></details> |
-| **[GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning](https://arxiv.org/abs/2608.02585v1)** | 2026-08-03 |  |
-| **[ACEM: A Cost Estimation Model for Agentic Software Engineering](https://arxiv.org/abs/2608.02582v1)** | 2026-08-03 | 27 pages |
-| **[Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language](https://arxiv.org/abs/2605.15607v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs](https://arxiv.org/abs/2608.02520v1)** | 2026-08-03 | <details><summary>27 pa...</summary><p>27 pages, 10 figures. Both authors contributed equally</p></details> |
-| **[Hierarchical Pre-Training of Vision Encoders with Large Language Model](https://arxiv.org/abs/2604.00086v2)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, accepted to Computer Vision and Pattern Recognition Conference (CVPR) Workshops 2026. 5th MMFM Workshop: What is Next in Multimodal Foundation Models?</p></details> |
-| **[Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?](https://arxiv.org/abs/2606.15412v2)** | 2026-08-03 |  |
-| **[When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](https://arxiv.org/abs/2605.00817v4)** | 2026-08-03 | <details><summary>24 pa...</summary><p>24 pages, 19 figures, 4 Tables</p></details> |
-| **[Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient Fine-Tuning of LLMs](https://arxiv.org/abs/2511.00382v2)** | 2026-08-03 | <details><summary>Revis...</summary><p>Revised version with expanded experiments, robustness analyses, and appendices</p></details> |
-| **[Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks](https://arxiv.org/abs/2608.02442v1)** | 2026-08-03 | working in progress |
-| **[Mitigating Visual Hallucinations in Multimodal Systems through Retrieval-Augmented Reliability-Aware Inference](https://arxiv.org/abs/2606.15782v2)** | 2026-08-03 | 29 pages, 9 figures |
-| **[Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning](https://arxiv.org/abs/2608.02422v1)** | 2026-08-03 | <details><summary>31st ...</summary><p>31st European Symposium on Research in Computer Security (ESORICS) 2026</p></details> |
-| **[WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant](https://arxiv.org/abs/2608.02420v1)** | 2026-08-03 | <details><summary>This ...</summary><p>This is the accepted version of a paper accepted for presentation at the 2026 IEEE Frontiers in Education Conference (FIE). The final version will be available via IEEE Xplore at: https://ieeexplore.ieee.org/Xplore/home.jsp</p></details> |
-| **[EdgeCoInfer: Hierarchical Collaborative Inference for On-Device Multimodal Large Models](https://arxiv.org/abs/2607.17143v2)** | 2026-08-03 |  |
-| **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639v4)** | 2026-08-03 | <details><summary>ICML2...</summary><p>ICML2026 Spotlight, Project: https://github.com/Gen-Verse/LatentMAS</p></details> |
+| **[ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](https://arxiv.org/abs/2608.04010v1)** | 2026-08-04 | 14 pages, 4 figures |
+| **[SocietyBench: Forecasting Counterfactual Social-World Evolution](https://arxiv.org/abs/2608.04009v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://co-minder.github.io/SocietyBench</p></details> |
+| **[WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](https://arxiv.org/abs/2608.04008v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://co-minder.github.io/worldcup2026</p></details> |
+| **[Do VLMs Align Better with Humans than LLMs during Natural Reading?](https://arxiv.org/abs/2605.28818v2)** | 2026-08-04 | 16 pages, 5 figures |
+| **[Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models](https://arxiv.org/abs/2608.04002v1)** | 2026-08-04 | <details><summary>Under...</summary><p>Under review. 12 pages, 13 figures</p></details> |
+| **[Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001v1)** | 2026-08-04 |  |
+| **[Speculative Decoding and the Curse of Multilinguality](https://arxiv.org/abs/2605.30580v2)** | 2026-08-04 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, submitted to ACL ARR August 2026</p></details> |
+| **[LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics](https://arxiv.org/abs/2603.24929v2)** | 2026-08-04 |  |
+| **[Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](https://arxiv.org/abs/2608.03983v1)** | 2026-08-04 | 9 pages, 3 figures |
+| **[ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](https://arxiv.org/abs/2608.03972v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/bibisbar/ReflectRL</p></details> |
+| **[CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](https://arxiv.org/abs/2606.05799v2)** | 2026-08-04 |  |
+| **[HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification](https://arxiv.org/abs/2608.03966v1)** | 2026-08-04 |  |
+| **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
+| **[Interpretable Adaptive Sampling for LLM Test-Time Scaling](https://arxiv.org/abs/2608.03961v1)** | 2026-08-04 |  |
+| **[ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](https://arxiv.org/abs/2601.16217v2)** | 2026-08-04 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 8 tables. Substantially revised version</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG](https://arxiv.org/abs/2608.03860v1)** | 2026-08-04 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Short paper</p></details> |
+| **[Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG](https://arxiv.org/abs/2608.02011v2)** | 2026-08-04 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Code: https://github.com/Noverse0/before-reasoning-fails</p></details> |
+| **[RAG-Stack: Co-Optimizing RAG Serving Performance and Quality](https://arxiv.org/abs/2608.03487v1)** | 2026-08-04 |  |
+| **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459v2)** | 2026-08-04 | <details><summary>Haozh...</summary><p>Haozhou Xu and Dongxia Wu are co-first authors</p></details> |
 | **[MEGRAG: Multi-Granular Evidence Graphs for Answer-Aware Multi-Hop RAG](https://arxiv.org/abs/2608.02195v1)** | 2026-08-03 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[Before Reasoning Fails: Pre-Evidence Procedural Failures in Agentic RAG](https://arxiv.org/abs/2608.02011v1)** | 2026-08-03 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Code: https://github.com/Noverse0/before-reasoning-fails</p></details> |
 | **[DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering](https://arxiv.org/abs/2608.01565v1)** | 2026-08-03 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 16 tables</p></details> |
+| **[DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial](https://arxiv.org/abs/2608.02678v1)** | 2026-08-02 | Submit to ACSAC 2026 |
 | **[RH-RAG: Trustworthy Long-Form Generation for Privacy-Constrained Settings](https://arxiv.org/abs/2608.01311v1)** | 2026-08-02 | <details><summary>accep...</summary><p>accepted in KDD 2026 SeT-LLM Workshop</p></details> |
 | **[RaG-Tree: Combining R-Tree and HNSW for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search](https://arxiv.org/abs/2608.01255v1)** | 2026-08-02 | 13 pages |
 | **[From Cloud to Crowd: Democratizing LLM Service with Decentralized Edge Collaboration for RAG](https://arxiv.org/abs/2608.00922v1)** | 2026-08-02 | 15 pages |
@@ -37,8 +41,4 @@ labels: documentation
 | **[RAG Strategies for Natural Language-Based SQL Query and REST API Call Generation](https://arxiv.org/abs/2602.07086v2)** | 2026-08-01 | <details><summary>prepr...</summary><p>preprint of conference submission</p></details> |
 | **[When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](https://arxiv.org/abs/2601.19827v5)** | 2026-07-31 | <details><summary>51 pa...</summary><p>51 pages, 29 figures, Published in Transactions on Machine Learning Research (05/2026). OpenReview: https://openreview.net/forum?id=pa5TnBdyDP</p></details> |
 | **[When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG](https://arxiv.org/abs/2603.03919v2)** | 2026-07-31 | <details><summary>Expan...</summary><p>Expanded the scale of the experimental evaluation</p></details> |
-| **[Reproducing LightMem: Naive RAG Is Just as Good for Memory Management](https://arxiv.org/abs/2607.29104v1)** | 2026-07-31 | <details><summary>Code:...</summary><p>Code: https://github.com/ielab/Reproducing-LightMem</p></details> |
-| **[GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG](https://arxiv.org/abs/2607.29019v1)** | 2026-07-31 | 10 pages |
-| **[CMT-RAG: Complementary Memory Traces for Multi-turn Multi-hop RAG](https://arxiv.org/abs/2607.26470v2)** | 2026-07-31 |  |
-| **[GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28397v1)** | 2026-07-30 | 10 pages, 19 figures |
 
