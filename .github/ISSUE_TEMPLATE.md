@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](https://arxiv.org/abs/2608.04010v1)** | 2026-08-04 | 14 pages, 4 figures |
-| **[SocietyBench: Forecasting Counterfactual Social-World Evolution](https://arxiv.org/abs/2608.04009v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://co-minder.github.io/SocietyBench</p></details> |
-| **[WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](https://arxiv.org/abs/2608.04008v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://co-minder.github.io/worldcup2026</p></details> |
-| **[Do VLMs Align Better with Humans than LLMs during Natural Reading?](https://arxiv.org/abs/2605.28818v2)** | 2026-08-04 | 16 pages, 5 figures |
-| **[Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models](https://arxiv.org/abs/2608.04002v1)** | 2026-08-04 | <details><summary>Under...</summary><p>Under review. 12 pages, 13 figures</p></details> |
-| **[Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001v1)** | 2026-08-04 |  |
-| **[Speculative Decoding and the Curse of Multilinguality](https://arxiv.org/abs/2605.30580v2)** | 2026-08-04 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, submitted to ACL ARR August 2026</p></details> |
-| **[LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics](https://arxiv.org/abs/2603.24929v2)** | 2026-08-04 |  |
-| **[Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](https://arxiv.org/abs/2608.03983v1)** | 2026-08-04 | 9 pages, 3 figures |
-| **[ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](https://arxiv.org/abs/2608.03972v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/bibisbar/ReflectRL</p></details> |
-| **[CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](https://arxiv.org/abs/2606.05799v2)** | 2026-08-04 |  |
-| **[HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification](https://arxiv.org/abs/2608.03966v1)** | 2026-08-04 |  |
-| **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
-| **[Interpretable Adaptive Sampling for LLM Test-Time Scaling](https://arxiv.org/abs/2608.03961v1)** | 2026-08-04 |  |
-| **[ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](https://arxiv.org/abs/2601.16217v2)** | 2026-08-04 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 8 tables. Substantially revised version</p></details> |
+| **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/abs/2608.05137v1)** | 2026-08-05 |  |
+| **[OPD-V: Visual On-Policy Self-Distillation with Modality Balance](https://arxiv.org/abs/2608.05131v1)** | 2026-08-05 |  |
+| **[Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models](https://arxiv.org/abs/2601.03079v5)** | 2026-08-05 |  |
+| **[Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](https://arxiv.org/abs/2608.05126v1)** | 2026-08-05 | ACM Multimedia 2026 |
+| **[Chained Recursive Language Models for Multi-Iteration Reasoning](https://arxiv.org/abs/2608.05124v1)** | 2026-08-05 |  |
+| **[DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery](https://arxiv.org/abs/2608.05120v1)** | 2026-08-05 |  |
+| **[Optimizing What Policies Learn From: Recoverability-aware Rollout Intervention Learning](https://arxiv.org/abs/2608.05080v1)** | 2026-08-05 |  |
+| **[DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing](https://arxiv.org/abs/2607.28750v2)** | 2026-08-05 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 pages</p></details> |
+| **[Hardware Design and Security in the Era of Chiplets and LLMs](https://arxiv.org/abs/2608.05063v1)** | 2026-08-05 |  |
+| **[The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations](https://arxiv.org/abs/2608.05050v1)** | 2026-08-05 |  |
+| **[Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](https://arxiv.org/abs/2602.05547v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning](https://arxiv.org/abs/2608.05045v1)** | 2026-08-05 |  |
+| **[Private Direct Preference Optimization for LLM Alignment](https://arxiv.org/abs/2608.05040v1)** | 2026-08-05 | <details><summary>accep...</summary><p>accepted for publication at CCS 2026, extended version</p></details> |
+| **[Can Post-Training Transform LLMs into Causal Reasoners?](https://arxiv.org/abs/2602.06337v2)** | 2026-08-05 |  |
+| **[From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking](https://arxiv.org/abs/2608.05030v1)** | 2026-08-05 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 5 tables. Interim chronological benchmark on the first 150 matches of the 2025-26 English Premier League</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PURPOSE: Poisoning Conflict Resolution in RAG via Proxy-Fact-Grounded Updates](https://arxiv.org/abs/2608.04756v1)** | 2026-08-05 |  |
+| **[Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework](https://arxiv.org/abs/2608.04366v1)** | 2026-08-05 |  |
 | **[SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG](https://arxiv.org/abs/2608.03860v1)** | 2026-08-04 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Short paper</p></details> |
 | **[Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG](https://arxiv.org/abs/2608.02011v2)** | 2026-08-04 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Code: https://github.com/Noverse0/before-reasoning-fails</p></details> |
 | **[RAG-Stack: Co-Optimizing RAG Serving Performance and Quality](https://arxiv.org/abs/2608.03487v1)** | 2026-08-04 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v2)** | 2026-08-01 | 6 pages, 7 figures |
 | **[Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/abs/2603.28488v3)** | 2026-08-01 | <details><summary>Under...</summary><p>Under review, 29 pages, 7 figures, 17 tables</p></details> |
 | **[RAG Strategies for Natural Language-Based SQL Query and REST API Call Generation](https://arxiv.org/abs/2602.07086v2)** | 2026-08-01 | <details><summary>prepr...</summary><p>preprint of conference submission</p></details> |
-| **[When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](https://arxiv.org/abs/2601.19827v5)** | 2026-07-31 | <details><summary>51 pa...</summary><p>51 pages, 29 figures, Published in Transactions on Machine Learning Research (05/2026). OpenReview: https://openreview.net/forum?id=pa5TnBdyDP</p></details> |
-| **[When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG](https://arxiv.org/abs/2603.03919v2)** | 2026-07-31 | <details><summary>Expan...</summary><p>Expanded the scale of the experimental evaluation</p></details> |
 
