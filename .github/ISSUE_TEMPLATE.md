@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/abs/2608.05137v1)** | 2026-08-05 |  |
-| **[OPD-V: Visual On-Policy Self-Distillation with Modality Balance](https://arxiv.org/abs/2608.05131v1)** | 2026-08-05 |  |
-| **[Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models](https://arxiv.org/abs/2601.03079v5)** | 2026-08-05 |  |
-| **[Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](https://arxiv.org/abs/2608.05126v1)** | 2026-08-05 | ACM Multimedia 2026 |
-| **[Chained Recursive Language Models for Multi-Iteration Reasoning](https://arxiv.org/abs/2608.05124v1)** | 2026-08-05 |  |
-| **[DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery](https://arxiv.org/abs/2608.05120v1)** | 2026-08-05 |  |
-| **[Optimizing What Policies Learn From: Recoverability-aware Rollout Intervention Learning](https://arxiv.org/abs/2608.05080v1)** | 2026-08-05 |  |
-| **[DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing](https://arxiv.org/abs/2607.28750v2)** | 2026-08-05 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 pages</p></details> |
-| **[Hardware Design and Security in the Era of Chiplets and LLMs](https://arxiv.org/abs/2608.05063v1)** | 2026-08-05 |  |
-| **[The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations](https://arxiv.org/abs/2608.05050v1)** | 2026-08-05 |  |
-| **[Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](https://arxiv.org/abs/2602.05547v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning](https://arxiv.org/abs/2608.05045v1)** | 2026-08-05 |  |
-| **[Private Direct Preference Optimization for LLM Alignment](https://arxiv.org/abs/2608.05040v1)** | 2026-08-05 | <details><summary>accep...</summary><p>accepted for publication at CCS 2026, extended version</p></details> |
-| **[Can Post-Training Transform LLMs into Causal Reasoners?](https://arxiv.org/abs/2602.06337v2)** | 2026-08-05 |  |
-| **[From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking](https://arxiv.org/abs/2608.05030v1)** | 2026-08-05 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 5 tables. Interim chronological benchmark on the first 150 matches of the 2025-26 English Premier League</p></details> |
+| **[Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](https://arxiv.org/abs/2608.06366v1)** | 2026-08-06 |  |
+| **[RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer](https://arxiv.org/abs/2608.06347v1)** | 2026-08-06 | <details><summary>16 pa...</summary><p>16 pages. Under review</p></details> |
+| **[Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents](https://arxiv.org/abs/2608.06312v1)** | 2026-08-06 |  |
+| **[AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](https://arxiv.org/abs/2607.28617v2)** | 2026-08-06 |  |
+| **[On-Policy Self-Distillation without Any Supervision](https://arxiv.org/abs/2608.06296v1)** | 2026-08-06 |  |
+| **[QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction](https://arxiv.org/abs/2608.06294v1)** | 2026-08-06 | Submitted for review |
+| **[NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering](https://arxiv.org/abs/2608.06292v1)** | 2026-08-06 |  |
+| **[Clinician input steers AI toward accurate and harmful recommendations](https://arxiv.org/abs/2603.14158v2)** | 2026-08-06 |  |
+| **[Automatic Translation of Unstructured Requirements into Linear Temporal Logic through Large Language Models](https://arxiv.org/abs/2608.06287v1)** | 2026-08-06 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[Explanations of Large Language Models Explain Language Representations in the Brain](https://arxiv.org/abs/2502.14671v4)** | 2026-08-06 |  |
+| **[MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction](https://arxiv.org/abs/2608.06253v1)** | 2026-08-06 | <details><summary>60 pa...</summary><p>60 pages, 3 figures, 16 tables; includes Supplementary Information</p></details> |
+| **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
+| **[DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](https://arxiv.org/abs/2608.06243v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables. Code at https://github.com/DBtxy/DASH-OPSD</p></details> |
+| **[d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](https://arxiv.org/abs/2601.07568v3)** | 2026-08-06 | ICML 2026 |
+| **[When Drafts Evolve: Speculative Decoding Meets Online Learning](https://arxiv.org/abs/2603.12617v2)** | 2026-08-06 | ICML 2026 |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering](https://arxiv.org/abs/2608.06292v1)** | 2026-08-06 |  |
+| **[TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223v1)** | 2026-08-06 |  |
+| **[Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](https://arxiv.org/abs/2608.05571v1)** | 2026-08-06 |  |
 | **[PURPOSE: Poisoning Conflict Resolution in RAG via Proxy-Fact-Grounded Updates](https://arxiv.org/abs/2608.04756v1)** | 2026-08-05 |  |
 | **[Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework](https://arxiv.org/abs/2608.04366v1)** | 2026-08-05 |  |
 | **[SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG](https://arxiv.org/abs/2608.03860v1)** | 2026-08-04 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Short paper</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[RH-RAG: Trustworthy Long-Form Generation for Privacy-Constrained Settings](https://arxiv.org/abs/2608.01311v1)** | 2026-08-02 | <details><summary>accep...</summary><p>accepted in KDD 2026 SeT-LLM Workshop</p></details> |
 | **[RaG-Tree: Combining R-Tree and HNSW for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search](https://arxiv.org/abs/2608.01255v1)** | 2026-08-02 | 13 pages |
 | **[From Cloud to Crowd: Democratizing LLM Service with Decentralized Edge Collaboration for RAG](https://arxiv.org/abs/2608.00922v1)** | 2026-08-02 | 15 pages |
-| **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v2)** | 2026-08-01 | 6 pages, 7 figures |
-| **[Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/abs/2603.28488v3)** | 2026-08-01 | <details><summary>Under...</summary><p>Under review, 29 pages, 7 figures, 17 tables</p></details> |
-| **[RAG Strategies for Natural Language-Based SQL Query and REST API Call Generation](https://arxiv.org/abs/2602.07086v2)** | 2026-08-01 | <details><summary>prepr...</summary><p>preprint of conference submission</p></details> |
 
