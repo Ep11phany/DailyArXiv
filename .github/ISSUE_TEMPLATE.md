@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](https://arxiv.org/abs/2608.13538v1)** | 2026-08-13 |  |
-| **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v3)** | 2026-08-13 | <details><summary>Versi...</summary><p>Version 3. Working paper. Bilingual twin paper: English version first, German original below (100 pages total). Single shared bibliography</p></details> |
-| **[Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows](https://arxiv.org/abs/2505.04997v3)** | 2026-08-13 | <details><summary>34 pa...</summary><p>34 pages, 9 figures, 9 tables</p></details> |
-| **[DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data](https://arxiv.org/abs/2608.13517v1)** | 2026-08-13 | <details><summary>Techn...</summary><p>Technical Report, 20 Pages, 1 Model, Hierarchical Reasoning Model</p></details> |
-| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
-| **[AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models](https://arxiv.org/abs/2608.13472v1)** | 2026-08-13 |  |
-| **[Exploring Instruction Data Quality for Explainable Image Quality Assessment](https://arxiv.org/abs/2510.03880v2)** | 2026-08-13 |  |
-| **[MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification](https://arxiv.org/abs/2608.13463v1)** | 2026-08-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 7 tables</p></details> |
-| **[CAPRI: Contract-Aware Proof Repair for Isabelle](https://arxiv.org/abs/2608.13459v1)** | 2026-08-13 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 7 tables. Submitted to SBMF 2026. Reproducibility artefact available on Zenodo</p></details> |
-| **[LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](https://arxiv.org/abs/2608.13450v1)** | 2026-08-13 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
-| **[Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ](https://arxiv.org/abs/2608.13441v1)** | 2026-08-13 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, work in progress</p></details> |
-| **[The Hidden Evolution of Disguised Visual Context inside the VLM](https://arxiv.org/abs/2606.20077v2)** | 2026-08-13 |  |
-| **[RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level](https://arxiv.org/abs/2608.13428v1)** | 2026-08-13 | <details><summary>Under...</summary><p>Under review at journal</p></details> |
-| **[TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability](https://arxiv.org/abs/2608.09538v2)** | 2026-08-13 |  |
-| **[Unmasking Conversational Bias in AI Multiagent Systems](https://arxiv.org/abs/2501.14844v3)** | 2026-08-13 |  |
+| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
+| **[Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking](https://arxiv.org/abs/2608.14533v1)** | 2026-08-14 |  |
+| **[Handover of In-Context Learning State Across Session Boundaries](https://arxiv.org/abs/2608.14528v1)** | 2026-08-14 |  |
+| **[Validating LLM-Modernized Scientific Software Through Differential Fault Injection](https://arxiv.org/abs/2608.14527v1)** | 2026-08-14 |  |
+| **[CVT-Bench: Probing Spatial-State Integrity through Counterfactual Viewpoint Transformations](https://arxiv.org/abs/2603.21114v2)** | 2026-08-14 | <details><summary>Refra...</summary><p>Reframed CVT-Bench around spatial-state integrity, added real-world benchmark derived from 3dSGG, context controls and other minor changes. 21 pages, 10 figures, 15 tables. Project page: https://shanmukha-here.github.io/CVT-Bench</p></details> |
+| **[Improving Generalization Robustness of Multimodal RLVR](https://arxiv.org/abs/2608.08802v2)** | 2026-08-14 | 32 pages, 5 figures |
+| **[SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning](https://arxiv.org/abs/2608.14452v1)** | 2026-08-14 |  |
+| **[NEURON: A Neuro-symbolic System for Grounded Clinical Explainability](https://arxiv.org/abs/2605.01189v3)** | 2026-08-14 |  |
+| **[STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X](https://arxiv.org/abs/2608.14418v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at RAID 2026 (29th International Symposium on Research in Attacks, Intrusions and Defenses)</p></details> |
+| **[Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice](https://arxiv.org/abs/2608.14399v1)** | 2026-08-14 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 10 tables</p></details> |
+| **[LLMs Don't Pay for the Jump](https://arxiv.org/abs/2608.14397v1)** | 2026-08-14 | 14 pages |
+| **[Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons](https://arxiv.org/abs/2608.14392v1)** | 2026-08-14 |  |
+| **[INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT](https://arxiv.org/abs/2512.14732v3)** | 2026-08-14 | <details><summary>Spotl...</summary><p>Spotlight presentation at the 9th International Conference on Medical Imaging with Deep Learning (MIDL) 2026 Additional code and implementation details available at https://idan-tankel.github.io/InformCT_ProjectPage/</p></details> |
+| **[A Survey of Large Models in Sports](https://arxiv.org/abs/2608.14377v1)** | 2026-08-14 | <details><summary>36 pa...</summary><p>36 pages, 4 figures, 6 tables. Accepted to Findings of ACL 2026</p></details> |
+| **[CoRun: Padding is Simple and Efficient for Deterministic LLM Inference](https://arxiv.org/abs/2608.14376v1)** | 2026-08-14 | 13 pages, 14 figures |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Much Do Legal RAG Systems Still Hallucinate?](https://arxiv.org/abs/2608.14210v1)** | 2026-08-14 |  |
+| **[Fine-grained Claim-level RAG Benchmark for Law](https://arxiv.org/abs/2605.21071v4)** | 2026-08-14 |  |
+| **[HAM-RAG: Hierarchy-Aware Multimodal RAG for Structure-Faithful Interleaved Generation](https://arxiv.org/abs/2608.14032v1)** | 2026-08-14 |  |
+| **[How retriever redundancy and diversity impact RAG effectiveness](https://arxiv.org/abs/2608.13956v1)** | 2026-08-14 |  |
 | **[Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings](https://arxiv.org/abs/2608.13410v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted at ISWC 2026 In-Use Track. Please cite the ISWC version</p></details> |
 | **[When Should Multi-Round RAG Stop? Structured Stopping Judgments and Retrieval Reduction in Search-R1](https://arxiv.org/abs/2608.13237v1)** | 2026-08-13 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Code: https://github.com/luobostorm/search-r1-s2g-stopping</p></details> |
 | **[Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs](https://arxiv.org/abs/2608.12675v1)** | 2026-08-13 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems Journal</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Temporal Misgrounding in Legal RAG: A Versioned-Corpus Benchmark for French Tax Law](https://arxiv.org/abs/2608.09393v1)** | 2026-08-10 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 4 tables. Accepted at the ICML 2026 Workshop on AI for Law (AI4Law), Seoul. Code and data: https://github.com/rosecymbler/fiscal-fr-bench</p></details> |
 | **[RAG-Audio: Retrieval-Augmented Generation for Faithful Brain-to-Audio Reconstruction](https://arxiv.org/abs/2608.09331v1)** | 2026-08-10 |  |
 | **[AkasicDB: Demonstrating Omni RAG with a Unified Vector-Graph-Relational DBMS](https://arxiv.org/abs/2608.09214v1)** | 2026-08-10 | <details><summary>SIGMO...</summary><p>SIGMOD 2026 demonstration</p></details> |
-| **[What Would Fix This RAG Failure? Auditing Counterfactual Response with Paired Evidence Interventions](https://arxiv.org/abs/2608.08944v1)** | 2026-08-09 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 6 tables</p></details> |
-| **[Theory-Guided Deception Detection: A RAG-Based Artificial Intelligence Exploration](https://arxiv.org/abs/2608.08881v1)** | 2026-08-09 |  |
-| **[Forgotten History or Test-of-Time? Retrospect and Prospect on RAG from an IR Perspective](https://arxiv.org/abs/2608.08445v1)** | 2026-08-09 |  |
-| **[OpRAG: A Resource-Deterministic Runtime for GPU-Backed Multi-Stage RAG Workflows](https://arxiv.org/abs/2608.08340v1)** | 2026-08-08 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 5 Tables</p></details> |
 
