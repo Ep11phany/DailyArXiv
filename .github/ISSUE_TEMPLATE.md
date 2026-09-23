@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Observing and Controlling Features in Vision-Language-Action Models](https://arxiv.org/abs/2603.05487v2)** | 2026-09-21 |  |
-| **[Feedback Coding Enables Inference-Time Covert Agentic Communication](https://arxiv.org/abs/2609.24994v1)** | 2026-09-21 |  |
-| **[LoRA-generating hypernetworks for efficient on-device LLM generative personalization](https://arxiv.org/abs/2609.24979v1)** | 2026-09-21 | 19 pages, 4 figures |
-| **[Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance](https://arxiv.org/abs/2605.01699v4)** | 2026-09-21 |  |
-| **[Do Large Language Models Favor Recent Content? A Study on Recency Bias in LLM-Based Reranking](https://arxiv.org/abs/2509.11353v2)** | 2026-09-21 |  |
-| **[SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models](https://arxiv.org/abs/2609.24894v1)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project Page: https://cyberiada.github.io/SLICEChat/ Code: https://github.com/ali-kerem/SLICEChat</p></details> |
-| **[The Role of Dataset Linguistic Structure in the Cultural Awareness of Large Language Models](https://arxiv.org/abs/2602.01161v2)** | 2026-09-21 |  |
-| **[Are LLMs Good Financial User Simulators? Multi-view Investor Logic Alignment (MILA)](https://arxiv.org/abs/2609.15727v2)** | 2026-09-21 | <details><summary>The c...</summary><p>The complete version will be open and the paper is under review in AAAI</p></details> |
-| **[Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](https://arxiv.org/abs/2609.24881v1)** | 2026-09-21 |  |
-| **[What Is The Political Content in LLMs' Pre- and Post-Training Data?](https://arxiv.org/abs/2509.22367v3)** | 2026-09-21 | <details><summary>9 pag...</summary><p>9 pages, under review</p></details> |
-| **[ReLay: Personalized LLM-Generated Plain-Language Summaries for Better Understanding, but at What Cost?](https://arxiv.org/abs/2605.00468v2)** | 2026-09-21 |  |
-| **[Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection](https://arxiv.org/abs/2609.24855v1)** | 2026-09-21 |  |
-| **[GRUET: Quantifying Uncertainty of Agentic Reasoning-and-Acting Processes](https://arxiv.org/abs/2609.24831v1)** | 2026-09-21 |  |
-| **[Large Language Models for Low-Resource Languages: A Conceptual Framework for an Electronic Explanatory Dictionary of the Tajik Language](https://arxiv.org/abs/2608.04186v3)** | 2026-09-21 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 1 table. Preprint</p></details> |
-| **[Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262v4)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted in ICML 2026</p></details> |
+| **[Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](https://arxiv.org/abs/2609.26796v1)** | 2026-09-22 | <details><summary>Code ...</summary><p>Code available at: https://github.com/VILA-Lab/Flash-dLLM</p></details> |
+| **[Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](https://arxiv.org/abs/2609.24881v2)** | 2026-09-22 |  |
+| **[SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services](https://arxiv.org/abs/2609.26763v1)** | 2026-09-22 | 17 pages, 12 figures |
+| **[Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](https://arxiv.org/abs/2609.26760v1)** | 2026-09-22 | 16 pages, 6 figures |
+| **[EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations](https://arxiv.org/abs/2609.26751v1)** | 2026-09-22 | <details><summary>Equiv...</summary><p>EquivSVA is a 9-page paper by FNU Aditi introducing a formally verified dataset of 120 behavior families, 480 RTL implementations, 914 gold properties, and 360 mutants across 12 categories, featuring 2 figures, 5 tables, and a case study evaluating Qwen2.5-Coder-7B-Instruct</p></details> |
+| **[Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen](https://arxiv.org/abs/2609.26749v1)** | 2026-09-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 11 tables. Code and data: https://github.com/OmNepal/llm-vulnrepair-metrics</p></details> |
+| **[VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean](https://arxiv.org/abs/2602.18307v2)** | 2026-09-22 | COLM 2026 |
+| **[Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows](https://arxiv.org/abs/2609.26725v1)** | 2026-09-22 |  |
+| **[VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification](https://arxiv.org/abs/2607.20474v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted and published at ICML 2026. Code available at https://github.com/suabar/VeriSimple</p></details> |
+| **[Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning](https://arxiv.org/abs/2609.26704v1)** | 2026-09-22 |  |
+| **[Risk-Conditioned Fine-Tuning of Large Language Models](https://arxiv.org/abs/2609.08064v2)** | 2026-09-22 | EMNLP 2026 Main |
+| **[From Alignment to Access Control: A Framework for GenAI Policy Enforcement](https://arxiv.org/abs/2609.26682v1)** | 2026-09-22 |  |
+| **[Decoding the Legalese: A Scalable and Quantitative Framework for Analyzing Corporate Privacy Policies](https://arxiv.org/abs/2609.26680v1)** | 2026-09-22 |  |
+| **[ReasonLab: A Controlled and Auditable Evaluation of Prompting Techniques for Multiple-Choice QA](https://arxiv.org/abs/2607.14109v2)** | 2026-09-22 |  |
+| **[When Users Don't Ask: Benchmarking Context-Driven Memory Retrieval in Conversational Agents](https://arxiv.org/abs/2609.03467v2)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines](https://arxiv.org/abs/2609.24122v1)** | 2026-09-21 |  |
+| **[Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines](https://arxiv.org/abs/2609.24122v2)** | 2026-09-22 |  |
+| **[RAG-NAROK: Retrieval-Aware Knowledge Corpus Poisoning in RAG with Source-specific Refutation](https://arxiv.org/abs/2609.25469v1)** | 2026-09-21 |  |
 | **[PRISM-RAG: Multimodal Hypergraph Retrieval-Augmented Generation for Tobacco Product and Legislative Policy Reasoning](https://arxiv.org/abs/2609.23769v1)** | 2026-09-20 |  |
 | **[Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning](https://arxiv.org/abs/2505.13994v3)** | 2026-09-20 | 18 pages, 4 figures |
 | **[Reasoning Reduces the Influence of Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v3)** | 2026-09-19 | 7 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research](https://arxiv.org/abs/2609.16519v2)** | 2026-09-16 | 14 pages, 1 figure |
 | **[Exploring LLMs and RAG for Plausible and Explainable Material Prediction of Vehicle Components](https://arxiv.org/abs/2609.18437v1)** | 2026-09-16 |  |
 | **[One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG](https://arxiv.org/abs/2609.17709v1)** | 2026-09-15 |  |
-| **[RECTIFY: An Interactive Workbench for Post-Evaluation RAG Diagnosis, Repair, and Verification](https://arxiv.org/abs/2609.16764v1)** | 2026-09-15 |  |
 
