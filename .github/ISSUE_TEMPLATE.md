@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[User Model Extraction via Belief Self-Distillation](https://arxiv.org/abs/2609.31603v1)** | 2026-09-25 |  |
-| **[New LoRA Skills Should Read but Never Write](https://arxiv.org/abs/2609.31600v1)** | 2026-09-25 |  |
-| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
-| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v2)** | 2026-09-25 |  |
-| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
-| **[SLMFix: Leveraging Small Language Models for Domain Specific Language Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v2)** | 2026-09-25 |  |
-| **[FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation](https://arxiv.org/abs/2609.31552v1)** | 2026-09-25 |  |
-| **[EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models](https://arxiv.org/abs/2609.31551v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 7 tables. Accepted to PACT 2026</p></details> |
-| **[Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment](https://arxiv.org/abs/2609.31524v1)** | 2026-09-25 |  |
-| **[Evaluating Cultural Awareness of LLMs for Haitian Creole](https://arxiv.org/abs/2609.31506v1)** | 2026-09-25 |  |
-| **[Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](https://arxiv.org/abs/2609.31505v1)** | 2026-09-25 | 14 pages, 13 figures |
-| **[Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction](https://arxiv.org/abs/2605.05134v2)** | 2026-09-25 |  |
-| **[Game Arena: Strategic LLM Evaluation in Competitive Environments](https://arxiv.org/abs/2609.31473v1)** | 2026-09-25 | <details><summary>31 pa...</summary><p>31 pages, 15 figures. Technical report. Project page: https://www.kaggle.com/game-arena</p></details> |
-| **[Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency](https://arxiv.org/abs/2609.31460v1)** | 2026-09-25 |  |
-| **[Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](https://arxiv.org/abs/2609.31458v1)** | 2026-09-25 | <details><summary>63 pa...</summary><p>63 pages, 2 figures. Accepted at NeurIPS 2026</p></details> |
+| **[TokenCast: Forecasting Token Consumption During LLM Agent Execution](https://arxiv.org/abs/2609.35760v1)** | 2026-09-28 |  |
+| **[Robust Active Learning for Few-Shot Example Selection in Text-to-SQL](https://arxiv.org/abs/2606.10125v2)** | 2026-09-28 | <details><summary>42 pa...</summary><p>42 pages, 7 figures. Major revision</p></details> |
+| **[Large Language Models are Shannon Lossy Compressors Not Solomonoff Induction Estimators: Self-improvement and Singularity Are Not Near Without Symbolic Model Synthesis](https://arxiv.org/abs/2601.05280v6)** | 2026-09-28 | <details><summary>48 pa...</summary><p>48 pages. Adding experimental results</p></details> |
+| **[Reinforcing Agentic Creativity in Scientific Ideation with Night Science](https://arxiv.org/abs/2609.35706v1)** | 2026-09-28 | <details><summary>Code:...</summary><p>Code: https://github.com/microsoft/ai_night_scientist Website: https://pkargupta.github.io/night_scientist.html</p></details> |
+| **[MeqMuon: Matrix-Equilibrating Muon for LLM Pretraining](https://arxiv.org/abs/2609.35701v1)** | 2026-09-28 |  |
+| **[Distillation Defenses Easily Break After Reinforcement Learning](https://arxiv.org/abs/2609.35699v1)** | 2026-09-28 |  |
+| **[No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](https://arxiv.org/abs/2503.05061v4)** | 2026-09-28 |  |
+| **[Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models](https://arxiv.org/abs/2609.35695v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](https://arxiv.org/abs/2609.35673v1)** | 2026-09-28 |  |
+| **[A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://arxiv.org/abs/2608.29596v2)** | 2026-09-28 |  |
+| **[Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context](https://arxiv.org/abs/2609.35663v1)** | 2026-09-28 |  |
+| **[Not All Thinking is Created Equal: Latent Reasoning Discovers a Recurrent Search Algorithm for Depth Generalization](https://arxiv.org/abs/2609.35643v1)** | 2026-09-28 |  |
+| **[Cartridges++: KV Cache Compression without Off-Context Derailment](https://arxiv.org/abs/2609.35621v1)** | 2026-09-28 |  |
+| **[Behavioral Foundation Models for Quality Diversity](https://arxiv.org/abs/2609.35615v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[TCSAlgBench: Benchmarking Automated Proving for Research-Level Theoretical Computer Science](https://arxiv.org/abs/2609.35606v1)** | 2026-09-28 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](https://arxiv.org/abs/2609.30943v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[DanLing NestedTensor: Composable Multi-Ragged Tensors for Deep Learning](https://arxiv.org/abs/2609.30379v1)** | 2026-09-24 |  |
-| **[Asymmetric Dynamic Routing: Balancing Reasoning Depth and Computational Efficiency in Hypergraph RAG](https://arxiv.org/abs/2609.29282v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 1 figures. Preprint</p></details> |
-| **[Towards Expert Financial QA via Self-Improving RAG](https://arxiv.org/abs/2608.26706v2)** | 2026-09-23 | <details><summary>17 pa...</summary><p>17 pages, 2 figures. Accepted at the ICLR 2026 Workshop on Advances in Financial AI</p></details> |
-| **[Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG](https://arxiv.org/abs/2609.27406v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main</p></details> |
-| **[WARP: Wasserstein-Aligned RAG for Population Opinions](https://arxiv.org/abs/2608.22859v2)** | 2026-09-22 | Pre-print |
-| **[UR$^2$: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/abs/2508.06165v6)** | 2026-09-22 |  |
-| **[Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines](https://arxiv.org/abs/2609.24122v2)** | 2026-09-22 |  |
-| **[RAG-NAROK: Retrieval-Aware Knowledge Corpus Poisoning in RAG with Source-specific Refutation](https://arxiv.org/abs/2609.25469v1)** | 2026-09-21 |  |
-| **[PRISM-RAG: Multimodal Hypergraph Retrieval-Augmented Generation for Tobacco Product and Legislative Policy Reasoning](https://arxiv.org/abs/2609.23769v1)** | 2026-09-20 |  |
-| **[Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning](https://arxiv.org/abs/2505.13994v3)** | 2026-09-20 | 18 pages, 4 figures |
-| **[Reasoning Reduces the Influence of Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v3)** | 2026-09-19 | 7 pages |
-| **[Bridging Static and Agentic RAG for Taiwanese Historical Question Answering](https://arxiv.org/abs/2609.23056v1)** | 2026-09-19 |  |
-| **[Attributable Post-Rationalization in RAG Citations: A Controlled Reproduction and an RLVR Comparison](https://arxiv.org/abs/2609.23053v1)** | 2026-09-19 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, code available at: https://github.com/mehedikhan72/RAG-Post-Rationalization-RLVR-Comparison</p></details> |
-| **[Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education](https://arxiv.org/abs/2609.21600v1)** | 2026-09-18 |  |
+| **[Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems](https://arxiv.org/abs/2609.08887v2)** | 2026-09-28 |  |
+| **[Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis](https://arxiv.org/abs/2606.10381v2)** | 2026-09-28 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, and 6 tables</p></details> |
+| **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
+| **[Benchmarking Bengali Dialectal Bias: A Multi-Stage Framework Integrating RAG-Based Translation and Human-Augmented RLAIF](https://arxiv.org/abs/2603.21359v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to the 2026 Main Conference on Empirical Methods in Natural Language Processing (EMNLP)</p></details> |
+| **[NOVA: NOise-aware Verbal Confidence CAlibration for Robust Large Language Models in RAG Systems](https://arxiv.org/abs/2601.11004v4)** | 2026-09-28 |  |
+| **[Compression Beyond the Uncompressed: A Two-Stage Training Recipe for Soft Context Compression in RAG](https://arxiv.org/abs/2609.05152v2)** | 2026-09-28 | Under Review |
+| **[RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints](https://arxiv.org/abs/2609.34179v1)** | 2026-09-28 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 7 tables. Preprint v0.1.1-rc1. Code and artifacts: https://github.com/RAGWarrant/ragwarrant-governance</p></details> |
+| **[Semantically Similar, Yet Not Answerable: Diagnosing the Semantic-Answerability Gap in Table RAG](https://arxiv.org/abs/2607.17742v2)** | 2026-09-28 |  |
+| **[STITCH-RAG: Spatio-Temporal Influence Tracing over Topic Hypergraphs for Multi-Hop Retrieval-Augmented Generation](https://arxiv.org/abs/2609.34127v1)** | 2026-09-28 |  |
+| **[Mitigating Hallucination in Large Language Models: A Capability-Oriented Survey on RAG, Reasoning, and Agentic Systems](https://arxiv.org/abs/2510.24476v2)** | 2026-09-27 | <details><summary>35 pa...</summary><p>35 pages, 7 figures, 3 tables</p></details> |
+| **[Only Ask What You Don't Know: Grounded Delta Planning for Efficient Multi-step RAG](https://arxiv.org/abs/2606.22681v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted by COLM 2026</p></details> |
+| **[Byzantine-Robust Federated RAG via Aligned Calibration and Fixed-Membership Conformal Prediction](https://arxiv.org/abs/2609.33037v1)** | 2026-09-27 |  |
+| **[In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Post-Retrieval Context Tampering](https://arxiv.org/abs/2609.09243v2)** | 2026-09-26 | <details><summary>4 fig...</summary><p>4 figures. Preprint also available on Zenodo: https://doi.org/10.5281/zenodo.22980485</p></details> |
+| **[AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](https://arxiv.org/abs/2609.32472v1)** | 2026-09-26 | <details><summary>Proje...</summary><p>Project Page: https://adatutorank.github.io/</p></details> |
+| **[AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research](https://arxiv.org/abs/2609.16519v3)** | 2026-09-26 | 14 pages, 1 figure |
 
