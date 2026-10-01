@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177v1)** | 2026-09-29 | <details><summary>NeurI...</summary><p>NeurIPS 2026; Project Page: https://cvlab-kaist.github.io/Imagine3D-LLM</p></details> |
-| **[Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE](https://arxiv.org/abs/2609.38140v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted as a Spotlight paper at NeurIPS 2026. Project page: https://yuci-gpt.github.io/SplitMoE/</p></details> |
-| **[Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution](https://arxiv.org/abs/2609.38108v1)** | 2026-09-29 | 51 pages, 8 figures |
-| **[Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling](https://arxiv.org/abs/2609.38104v1)** | 2026-09-29 |  |
-| **[Effective Dense Retrieval using Only In-Context Examples](https://arxiv.org/abs/2609.38099v1)** | 2026-09-29 |  |
-| **[Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs](https://arxiv.org/abs/2609.38070v1)** | 2026-09-29 | <details><summary>25 pa...</summary><p>25 pages, 16 figures, 8 tables. Under peer review</p></details> |
-| **[OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit](https://arxiv.org/abs/2609.31631v2)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work in progress, revisions ongoing</p></details> |
-| **[Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://arxiv.org/abs/2601.08777v2)** | 2026-09-29 | <details><summary>A pre...</summary><p>A preliminary version of the paper is accepted to ICML 2026. This version adds new results for the multi-output opponents setting and self-play dynamics with last-iterate convergence</p></details> |
-| **[Benevolent Bias in Multi-Turn Human-Agent Dialogue](https://arxiv.org/abs/2608.29206v2)** | 2026-09-29 |  |
-| **[Signatures of semantic search in the activations of large language models](https://arxiv.org/abs/2609.35599v2)** | 2026-09-29 |  |
-| **[Gender bias across LLMs is common and highly heterogenous](https://arxiv.org/abs/2609.38036v1)** | 2026-09-29 |  |
-| **[Dr. OPD: Learning What to Follow for Optimal On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2609.38025v1)** | 2026-09-29 |  |
-| **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 16 pages, 3 figures, 7 tables. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
-| **[Diagnosing and Improving Probabilistic Reasoning in Large Language Models](https://arxiv.org/abs/2609.38005v1)** | 2026-09-29 |  |
-| **[BrainNet Studio: A Unified Toolkit for Brain Network Construction, Intelligent Analysis, and Visualization](https://arxiv.org/abs/2609.37956v1)** | 2026-09-29 |  |
+| **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](https://arxiv.org/abs/2609.40361v1)** | 2026-09-30 |  |
+| **[Semifactual Credit-Augmented Policy Optimization](https://arxiv.org/abs/2609.40360v1)** | 2026-09-30 |  |
+| **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://arxiv.org/abs/2609.40340v1)** | 2026-09-30 | <details><summary>Proje...</summary><p>Project page: https://open-galapagos.github.io/evoduet_project_page/</p></details> |
+| **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](https://arxiv.org/abs/2609.40335v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at the 8th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2026). 12 pages (10 pages of main content), 1 figure, 13 tables</p></details> |
+| **[StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://arxiv.org/abs/2609.28470v2)** | 2026-09-30 | <details><summary>47 pa...</summary><p>47 pages, including references and appendices. Data: https://huggingface.co/datasets/handshake-ai-research/studentbench Code: https://github.com/Handshake-AI-Research/studentbench</p></details> |
+| **[How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://arxiv.org/abs/2609.40303v1)** | 2026-09-30 |  |
+| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v3)** | 2026-09-30 | <details><summary>37 pa...</summary><p>37 pages, 13 figures; updated main text and SI</p></details> |
+| **[Listening to the Wise Few: Query-Key Alignment Unlocks Latent Correct Answers in Large Language Models](https://arxiv.org/abs/2410.02343v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2026</p></details> |
+| **[Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling](https://arxiv.org/abs/2609.40258v1)** | 2026-09-30 | <details><summary>38 pa...</summary><p>38 pages (15 pages main text + appendix), 12 figures, 10 tables</p></details> |
+| **[Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling](https://arxiv.org/abs/2609.40247v1)** | 2026-09-30 | 17 pages |
+| **[Decision-Oriented Recommendation Reranking: An Empirical Study of Jev](https://arxiv.org/abs/2609.40241v1)** | 2026-09-30 |  |
+| **[MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment](https://arxiv.org/abs/2609.37574v2)** | 2026-09-30 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 1 figure. Preprint</p></details> |
+| **[Towards a Belief-Based World Model for LLM Agents](https://arxiv.org/abs/2609.00455v2)** | 2026-09-30 | pre-print |
+| **[Don't Repeat Yourself: Self-Supervised Fine-Tuning for Coverage](https://arxiv.org/abs/2609.31688v2)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, including references and appendices. v2: corrected appendix ablation, figure and formatting fixes</p></details> |
+| **[Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions](https://arxiv.org/abs/2609.40124v1)** | 2026-09-30 | Under Review |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BELIEFRAG: Making Adaptive RAG State-Aware under Evolving Evidence](https://arxiv.org/abs/2609.39139v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 10 tables</p></details> |
+| **[RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage](https://arxiv.org/abs/2609.39075v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 8 tables. Accepted at the 2026 IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026)</p></details> |
+| **[Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering](https://arxiv.org/abs/2609.38473v1)** | 2026-09-29 | <details><summary>on Se...</summary><p>on September 21st submitted for consideration to the Elsevier Data and Information Management (DIM) journal (DIM-D-26-00430)</p></details> |
 | **[TAEC: Trajectory-Aware Evidence Coordination for Multi-Step Visual RAG](https://arxiv.org/abs/2609.37349v1)** | 2026-09-29 |  |
 | **[UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG](https://arxiv.org/abs/2603.28773v2)** | 2026-09-29 |  |
 | **[Certified Adaptive Refresh: Anytime-Valid Monitoring for Federated Conformal RAG](https://arxiv.org/abs/2605.29139v2)** | 2026-09-29 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis](https://arxiv.org/abs/2606.10381v2)** | 2026-09-28 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, and 6 tables</p></details> |
 | **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
 | **[Benchmarking Bengali Dialectal Bias: A Multi-Stage Framework Integrating RAG-Based Translation and Human-Augmented RLAIF](https://arxiv.org/abs/2603.21359v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to the 2026 Main Conference on Empirical Methods in Natural Language Processing (EMNLP)</p></details> |
-| **[NOVA: NOise-aware Verbal Confidence CAlibration for Robust Large Language Models in RAG Systems](https://arxiv.org/abs/2601.11004v4)** | 2026-09-28 |  |
-| **[Compression Beyond the Uncompressed: A Two-Stage Training Recipe for Soft Context Compression in RAG](https://arxiv.org/abs/2609.05152v2)** | 2026-09-28 | Under Review |
-| **[RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints](https://arxiv.org/abs/2609.34179v1)** | 2026-09-28 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 7 tables. Preprint v0.1.1-rc1. Code and artifacts: https://github.com/RAGWarrant/ragwarrant-governance</p></details> |
 
