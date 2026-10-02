@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](https://arxiv.org/abs/2609.40361v1)** | 2026-09-30 |  |
-| **[Semifactual Credit-Augmented Policy Optimization](https://arxiv.org/abs/2609.40360v1)** | 2026-09-30 |  |
-| **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://arxiv.org/abs/2609.40340v1)** | 2026-09-30 | <details><summary>Proje...</summary><p>Project page: https://open-galapagos.github.io/evoduet_project_page/</p></details> |
-| **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](https://arxiv.org/abs/2609.40335v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at the 8th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2026). 12 pages (10 pages of main content), 1 figure, 13 tables</p></details> |
-| **[StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://arxiv.org/abs/2609.28470v2)** | 2026-09-30 | <details><summary>47 pa...</summary><p>47 pages, including references and appendices. Data: https://huggingface.co/datasets/handshake-ai-research/studentbench Code: https://github.com/Handshake-AI-Research/studentbench</p></details> |
-| **[How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://arxiv.org/abs/2609.40303v1)** | 2026-09-30 |  |
-| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v3)** | 2026-09-30 | <details><summary>37 pa...</summary><p>37 pages, 13 figures; updated main text and SI</p></details> |
-| **[Listening to the Wise Few: Query-Key Alignment Unlocks Latent Correct Answers in Large Language Models](https://arxiv.org/abs/2410.02343v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2026</p></details> |
-| **[Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling](https://arxiv.org/abs/2609.40258v1)** | 2026-09-30 | <details><summary>38 pa...</summary><p>38 pages (15 pages main text + appendix), 12 figures, 10 tables</p></details> |
-| **[Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling](https://arxiv.org/abs/2609.40247v1)** | 2026-09-30 | 17 pages |
-| **[Decision-Oriented Recommendation Reranking: An Empirical Study of Jev](https://arxiv.org/abs/2609.40241v1)** | 2026-09-30 |  |
-| **[MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment](https://arxiv.org/abs/2609.37574v2)** | 2026-09-30 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 1 figure. Preprint</p></details> |
-| **[Towards a Belief-Based World Model for LLM Agents](https://arxiv.org/abs/2609.00455v2)** | 2026-09-30 | pre-print |
-| **[Don't Repeat Yourself: Self-Supervised Fine-Tuning for Coverage](https://arxiv.org/abs/2609.31688v2)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, including references and appendices. v2: corrected appendix ablation, figure and formatting fixes</p></details> |
-| **[Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions](https://arxiv.org/abs/2609.40124v1)** | 2026-09-30 | Under Review |
+| **[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](https://arxiv.org/abs/2610.02199v1)** | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 10 tables. Code available at https://github.com/Jichao2357/TACO_optimizer</p></details> |
+| **[InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196v1)** | 2026-10-01 | <details><summary>Proje...</summary><p>Project page: https://sirui-xu.github.io/InterEvolve</p></details> |
+| **[The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2610.02191v1)** | 2026-10-01 | 27 pages |
+| **[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181v1)** | 2026-10-01 |  |
+| **[From Knowledge Access to Source Learning: Developing Source-Specific Competence](https://arxiv.org/abs/2610.02150v1)** | 2026-10-01 | <details><summary>Websi...</summary><p>Website: https://sourcelearn.github.io/ Code: https://github.com/luchengfu6/SourceLearn</p></details> |
+| **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v4)** | 2026-10-01 |  |
+| **[Scalable Delphi: Large Language Models for Structured Risk Estimation](https://arxiv.org/abs/2602.08889v2)** | 2026-10-01 |  |
+| **[Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes](https://arxiv.org/abs/2610.02117v1)** | 2026-10-01 |  |
+| **[UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models](https://arxiv.org/abs/2502.13141v2)** | 2026-10-01 | <details><summary>25 Pa...</summary><p>25 Pages, 13 Figures, 11 Tables. Accepted to Findings of AACL-IJCNLP 2026. Keywords: Attack Defending, Security, Prompt Injection, Backdoor Attacks, Adversarial Attacks, Prompt Trigger Attacks</p></details> |
+| **[Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)](https://arxiv.org/abs/2610.02092v1)** | 2026-10-01 |  |
+| **[InterviewSim: A Scalable Framework for Interview-Grounded Personality Simulation](https://arxiv.org/abs/2602.20294v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
+| **[Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval](https://arxiv.org/abs/2610.02070v1)** | 2026-10-01 |  |
+| **[External Observers May See More Clearly: Cross-Model Span-Level Hallucination Detection in Large Language Models via Hidden State Probing](https://arxiv.org/abs/2610.02066v1)** | 2026-10-01 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 9 tables</p></details> |
+| **[HydroJEV: A one-second, training-free screen for cyber-attack and fault attribution in water distribution networks](https://arxiv.org/abs/2610.02048v1)** | 2026-10-01 | 41 pages, 19 figures |
+| **[Form and Void: Entangled Composition through an Autonomous AI Agent](https://arxiv.org/abs/2610.02045v1)** | 2026-10-01 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning](https://arxiv.org/abs/2610.01936v1)** | 2026-10-01 | <details><summary>publi...</summary><p>published in Artificial intelligence reviews</p></details> |
+| **[A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering](https://arxiv.org/abs/2610.01767v1)** | 2026-10-01 |  |
+| **[CANOPY: Adaptive-Granularity Evidence Compression for Multimodal RAG](https://arxiv.org/abs/2610.00923v1)** | 2026-10-01 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, project page: https://canopy-project-page.github.io</p></details> |
+| **[When Detection Does Not Guarantee Resistance: Reasoning and Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v4)** | 2026-09-30 | 7 pages |
 | **[BELIEFRAG: Making Adaptive RAG State-Aware under Evolving Evidence](https://arxiv.org/abs/2609.39139v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 10 tables</p></details> |
 | **[RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage](https://arxiv.org/abs/2609.39075v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 8 tables. Accepted at the 2026 IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026)</p></details> |
 | **[Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering](https://arxiv.org/abs/2609.38473v1)** | 2026-09-29 | <details><summary>on Se...</summary><p>on September 21st submitted for consideration to the Elsevier Data and Information Management (DIM) journal (DIM-D-26-00430)</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
 | **[AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](https://arxiv.org/abs/2609.32472v2)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project Page: https://adatutorank.github.io/</p></details> |
 | **[Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction](https://arxiv.org/abs/2608.25466v2)** | 2026-09-28 | <details><summary>I ina...</summary><p>I inadvertently uploaded an incorrect version of the manuscript. I would like to withdraw the current submission so that I can prepare and submit the correct version. I apologize for the inconvenience. Thank you for your understanding</p></details> |
-| **[Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems](https://arxiv.org/abs/2609.08887v2)** | 2026-09-28 |  |
-| **[Agentic Hybrid RAG for Evidence-Grounded Muon Collider Analysis](https://arxiv.org/abs/2606.10381v2)** | 2026-09-28 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, and 6 tables</p></details> |
-| **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
-| **[Benchmarking Bengali Dialectal Bias: A Multi-Stage Framework Integrating RAG-Based Translation and Human-Augmented RLAIF](https://arxiv.org/abs/2603.21359v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to the 2026 Main Conference on Empirical Methods in Natural Language Processing (EMNLP)</p></details> |
 
