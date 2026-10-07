@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify](https://arxiv.org/abs/2610.06848v1)** | 2026-10-05 |  |
-| **[Learning to Read the Contextual Tokens in Diffusion Transformers](https://arxiv.org/abs/2610.06844v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://omer11a.github.io/learning_to_read/</p></details> |
-| **[User Misconceptions of LLM-Based Conversational Programming Assistants](https://arxiv.org/abs/2510.25662v3)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extends a paper presented at the ICSE 2026 Journal Ahead Workshop (JAWs)</p></details> |
-| **[Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification](https://arxiv.org/abs/2610.06790v1)** | 2026-10-05 | <details><summary>40th ...</summary><p>40th NeurIPS'26 Workshop AI for Chip Design</p></details> |
-| **[BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents](https://arxiv.org/abs/2610.06748v1)** | 2026-10-05 | <details><summary>38 pa...</summary><p>38 pages, 4 figures. Code: https://github.com/ziyan-wang98/BazaarBench; data: https://huggingface.co/BazaarBench</p></details> |
-| **[Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://arxiv.org/abs/2606.22673v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'2026</p></details> |
-| **[Improving Diversity in LLM Short Story Generation](https://arxiv.org/abs/2610.06729v1)** | 2026-10-05 |  |
-| **[Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs](https://arxiv.org/abs/2610.06703v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 5 tables. Accepted at SENTIRE 2026 (ICDM 2026 Workshops)</p></details> |
-| **[MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks](https://arxiv.org/abs/2610.06695v1)** | 2026-10-05 |  |
-| **[OVAL: Output-Aware Local Page Bases for KV Cache Retrieval](https://arxiv.org/abs/2610.06686v1)** | 2026-10-05 |  |
-| **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
-| **[Reward Stealing Attack on Large Language Models](https://arxiv.org/abs/2610.06670v1)** | 2026-10-05 | 19 pages |
-| **[What Matters for Latent Reasoning with Flow Matching](https://arxiv.org/abs/2610.06666v1)** | 2026-10-05 |  |
-| **[The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle](https://arxiv.org/abs/2603.28643v2)** | 2026-10-05 | <details><summary>47 pa...</summary><p>47 pages, 9 Figures, 2 tables</p></details> |
-| **[LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches](https://arxiv.org/abs/2610.06647v1)** | 2026-10-05 | 16 pages, 6 figures |
+| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
+| **[Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](https://arxiv.org/abs/2610.08775v1)** | 2026-10-06 |  |
+| **[Reinforcement Learning over Predictive Distributions for LLM Regression](https://arxiv.org/abs/2605.20740v2)** | 2026-10-06 | 27 pages, 7 figures |
+| **[The Missing Minimal Pair: Stereotype Evaluation in LLMs](https://arxiv.org/abs/2610.08747v1)** | 2026-10-06 |  |
+| **[BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors](https://arxiv.org/abs/2610.08739v1)** | 2026-10-06 |  |
+| **[Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows](https://arxiv.org/abs/2604.20658v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[Cross-Lingual Activation Steering for Multilingual Language Models](https://arxiv.org/abs/2601.16390v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to INLG 2026</p></details> |
+| **[Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue](https://arxiv.org/abs/2610.08703v1)** | 2026-10-06 | <details><summary>Submi...</summary><p>Submitted to LAK27 as a short paper. Currently under review</p></details> |
+| **[Improving Diversity in LLM Short Story Generation](https://arxiv.org/abs/2610.06729v2)** | 2026-10-06 |  |
+| **[PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment](https://arxiv.org/abs/2610.08698v1)** | 2026-10-06 |  |
+| **[ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences](https://arxiv.org/abs/2610.08691v1)** | 2026-10-06 | 28 pages |
+| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v1)** | 2026-10-06 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
+| **[LeanSide: A Formally Verified Co-Reasoning System for Natural-language Proofs](https://arxiv.org/abs/2610.00760v2)** | 2026-10-06 | 16 pages, 13 figures |
+| **[When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction](https://arxiv.org/abs/2605.12922v2)** | 2026-10-06 |  |
+| **[Towards In-Parameter Memory Augmentation for Large Language Models](https://arxiv.org/abs/2610.08630v1)** | 2026-10-06 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EC-RAG: Event Chain Retrieval-Augmented Generation for Long Video Understanding](https://arxiv.org/abs/2610.08674v1)** | 2026-10-06 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 7 tables, including supplementary material</p></details> |
+| **[RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems](https://arxiv.org/abs/2610.08571v1)** | 2026-10-06 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 8 tables</p></details> |
+| **[Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents](https://arxiv.org/abs/2610.08452v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the Second Workshop for REsearch on Agent Language Models (REALM) at EMNLP 2026 and at the Machine Learning for Systems Workshop at NeurIPS 2026. 9 pages plus references and appendix (16 pages total), 4 figures, 6 tables. Code: https://github.com/Agentic-Systems-Lab/Agentic-AutoRAG</p></details> |
+| **[Tool-calling retrieval versus vector RAG for a small Greek--English knowledge base: accuracy and robustness to how users type Greek](https://arxiv.org/abs/2610.08205v1)** | 2026-10-06 | 13 pages; 2 figures; |
+| **[DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search](https://arxiv.org/abs/2507.07426v4)** | 2026-10-06 |  |
+| **[Rethinking Knowledge Retrieval for Generation: A Survey on RAG Architectures and Applications](https://arxiv.org/abs/2610.01936v2)** | 2026-10-06 |  |
+| **[Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family](https://arxiv.org/abs/2504.18225v2)** | 2026-10-05 |  |
 | **[Bounded Provisional Visibility: Controlling Poisoning Exposure in Continuously Ingested RAG Vector Stores](https://arxiv.org/abs/2610.05826v1)** | 2026-10-05 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 1 table. Accepted at IEEE CBDCom 2026. Author accepted manuscript. Reproducibility artifact: https://doi.org/10.5281/zenodo.23152010</p></details> |
 | **[Post-Generation Verification Dominates Retrieval Optimization: A 2^4 Factorial Ablation of RAG Pipeline Features](https://arxiv.org/abs/2609.35774v2)** | 2026-10-04 | 12 pages, 11 figures |
 | **[Agentic RAG Evaluation: Budget Allocation Across Questions, Trajectories, and Reads](https://arxiv.org/abs/2610.05034v1)** | 2026-10-04 |  |
@@ -34,11 +41,4 @@ labels: documentation
 | **[Single-Round Vector RAG vs an LLM-Compiled Wiki: A Preregistered Comparison on a Small Multi-Domain Research Corpus](https://arxiv.org/abs/2605.18490v3)** | 2026-10-02 | <details><summary>v3 co...</summary><p>v3 corrects the claim-level citation analysis of v1 and v2, whose scorer saw cited RAG evidence truncated to 1,500 characters; with the error corrected and checked against two human annotators, the earlier wiki advantage in citation support does not hold. Adds the human check of the scorer, the decomposition prompt, and Appendices A to I, and narrows causal and statistical claims throughout</p></details> |
 | **[Compression Is Not Evaluation-Neutral: Fixed RAG Compression Can Distort Reader Comparisons](https://arxiv.org/abs/2606.21807v2)** | 2026-10-02 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and data: https://github.com/aimsresearchlab/ragscale</p></details> |
 | **[How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://arxiv.org/abs/2610.02542v1)** | 2026-10-01 |  |
-| **[On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor](https://arxiv.org/abs/2610.02510v1)** | 2026-10-01 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 4 tables</p></details> |
-| **[Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning](https://arxiv.org/abs/2610.01936v1)** | 2026-10-01 | <details><summary>publi...</summary><p>published in Artificial intelligence reviews</p></details> |
-| **[A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering](https://arxiv.org/abs/2610.01767v1)** | 2026-10-01 |  |
-| **[CANOPY: Adaptive-Granularity Evidence Compression for Multimodal RAG](https://arxiv.org/abs/2610.00923v1)** | 2026-10-01 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, project page: https://canopy-project-page.github.io</p></details> |
-| **[When Detection Does Not Guarantee Resistance: Reasoning and Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v4)** | 2026-09-30 | 7 pages |
-| **[BELIEFRAG: Making Adaptive RAG State-Aware under Evolving Evidence](https://arxiv.org/abs/2609.39139v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 10 tables</p></details> |
-| **[RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage](https://arxiv.org/abs/2609.39075v1)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 8 tables. Accepted at the 2026 IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026)</p></details> |
 
