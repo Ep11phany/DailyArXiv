@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
-| **[Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](https://arxiv.org/abs/2610.08775v1)** | 2026-10-06 |  |
-| **[Reinforcement Learning over Predictive Distributions for LLM Regression](https://arxiv.org/abs/2605.20740v2)** | 2026-10-06 | 27 pages, 7 figures |
-| **[The Missing Minimal Pair: Stereotype Evaluation in LLMs](https://arxiv.org/abs/2610.08747v1)** | 2026-10-06 |  |
-| **[BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors](https://arxiv.org/abs/2610.08739v1)** | 2026-10-06 |  |
-| **[Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows](https://arxiv.org/abs/2604.20658v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[Cross-Lingual Activation Steering for Multilingual Language Models](https://arxiv.org/abs/2601.16390v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to INLG 2026</p></details> |
-| **[Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue](https://arxiv.org/abs/2610.08703v1)** | 2026-10-06 | <details><summary>Submi...</summary><p>Submitted to LAK27 as a short paper. Currently under review</p></details> |
-| **[Improving Diversity in LLM Short Story Generation](https://arxiv.org/abs/2610.06729v2)** | 2026-10-06 |  |
-| **[PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment](https://arxiv.org/abs/2610.08698v1)** | 2026-10-06 |  |
-| **[ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences](https://arxiv.org/abs/2610.08691v1)** | 2026-10-06 | 28 pages |
-| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v1)** | 2026-10-06 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
-| **[LeanSide: A Formally Verified Co-Reasoning System for Natural-language Proofs](https://arxiv.org/abs/2610.00760v2)** | 2026-10-06 | 16 pages, 13 figures |
-| **[When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction](https://arxiv.org/abs/2605.12922v2)** | 2026-10-06 |  |
-| **[Towards In-Parameter Memory Augmentation for Large Language Models](https://arxiv.org/abs/2610.08630v1)** | 2026-10-06 |  |
+| **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://arxiv.org/abs/2610.10533v1)** | 2026-10-07 |  |
+| **[Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](https://arxiv.org/abs/2610.10526v1)** | 2026-10-07 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 3 tables. Project page: https://sttawm.github.io/rephrase-before-you-act</p></details> |
+| **[RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](https://arxiv.org/abs/2610.10507v1)** | 2026-10-07 | <details><summary>35 pa...</summary><p>35 pages, 2 figures, 13 tables</p></details> |
+| **[Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models](https://arxiv.org/abs/2610.10506v1)** | 2026-10-07 |  |
+| **[How Language Models Organize and Structure Moral Knowledge](https://arxiv.org/abs/2608.27402v2)** | 2026-10-07 | <details><summary>32 pa...</summary><p>32 pages, 16 figures. Code and outputs at https://github.com/deepsteer/deepsteer</p></details> |
+| **[The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search](https://arxiv.org/abs/2512.01353v4)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project website: https://everywheresafety.github.io/cka-agent/</p></details> |
+| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
+| **[PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs](https://arxiv.org/abs/2610.10455v1)** | 2026-10-07 |  |
+| **[Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models](https://arxiv.org/abs/2610.06387v2)** | 2026-10-07 |  |
+| **[Absorbing State Phase Transitions in Multi-Agent Search](https://arxiv.org/abs/2609.38327v2)** | 2026-10-07 | <details><summary>Code:...</summary><p>Code: https://github.com/wenwenzheng-gif/absorbing-state-multi-agent-search</p></details> |
+| **[VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification](https://arxiv.org/abs/2604.01569v2)** | 2026-10-07 |  |
+| **[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234v2)** | 2026-10-07 | NeurIPS 2026 |
+| **[Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds](https://arxiv.org/abs/2610.10411v1)** | 2026-10-07 |  |
+| **[A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training](https://arxiv.org/abs/2605.14605v3)** | 2026-10-07 |  |
+| **[Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models](https://arxiv.org/abs/2610.10405v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 3 tables. Code: https://github.com/Wakaranaino/token-spike-project ; Data: https://doi.org/10.5281/zenodo.21895296</p></details> |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
