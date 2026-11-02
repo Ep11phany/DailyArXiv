@@ -13,18 +13,19 @@ permissions:
 
 jobs:
   update_daily_papers:
-    runs-on: ubuntu-latest
+    # Keep the runner/Python combination stable when ubuntu-latest moves.
+    runs-on: ubuntu-24.04
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v7
       with:
-        python-version: '3.9'
+        python-version: '3.12'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: python -m pip install -r requirements.txt
 
     - name: Update papers
       run: |

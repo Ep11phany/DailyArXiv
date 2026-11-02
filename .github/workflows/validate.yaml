@@ -1,0 +1,30 @@
+name: Validate runtime
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+      - '*.py'
+      - 'requirements.txt'
+
+permissions:
+  contents: read
+
+jobs:
+  validate_runtime:
+    runs-on: ubuntu-24.04
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v7
+
+    - name: Set up Python
+      uses: actions/setup-python@v7
+      with:
+        python-version: '3.12'
+
+    - name: Check runtime compatibility without fetching or publishing papers
+      run: |
+        python -m pip install -r requirements.txt
+        python -m pip check
+        python -m compileall -q main.py utils.py
+        python -c "import utils"
