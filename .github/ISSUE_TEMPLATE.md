@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Reasoning in Continuous Space for Unified Multimodal Models](https://arxiv.org/abs/2610.42149v1)** | 2026-10-30 | <details><summary>Publi...</summary><p>Published as conference proceeding for NeurIPS 2026. Last two authors advised equally</p></details> |
-| **[Tracing the Influence of Retrieved Literature on Scientific Ideation in LLMs](https://arxiv.org/abs/2610.39060v2)** | 2026-10-30 | <details><summary>Updat...</summary><p>Updated preprint. Under review</p></details> |
-| **[Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines](https://arxiv.org/abs/2610.42121v1)** | 2026-10-30 |  |
-| **[Instruction-Tuning Open-Weight Language Models for BPMN Model Generation](https://arxiv.org/abs/2512.12063v2)** | 2026-10-30 | <details><summary>Prepr...</summary><p>Preprint. Under preparation for journal submission</p></details> |
-| **[ACCT: Asymmetric Cross-LLM Context Transfer](https://arxiv.org/abs/2610.42116v1)** | 2026-10-30 |  |
-| **[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112v1)** | 2026-10-30 | 43 pages |
-| **[From Stages to States: Unified Iterative Reasoning for MLLMs](https://arxiv.org/abs/2610.15620v2)** | 2026-10-30 | Under review |
-| **[DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](https://arxiv.org/abs/2610.37826v2)** | 2026-10-30 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables. Code: https://github.com/Dingyi-Kang/DeFT-RAG</p></details> |
-| **[Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice](https://arxiv.org/abs/2610.42039v1)** | 2026-10-30 |  |
-| **[Thinking Inertia: LLMs Keep Thinking When Told Not To](https://arxiv.org/abs/2610.11765v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Website: https://thinking-inertia.github.io GitHub: https://github.com/thinking-inertia/code</p></details> |
-| **[SkillEvoLean: Mutation-enhanced skill evolution for Lean provers](https://arxiv.org/abs/2610.01799v3)** | 2026-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn because it does not meet arXiv's research content quality standards</p></details> |
-| **[MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562v2)** | 2026-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn because it does not meet arXiv's research content quality standards</p></details> |
-| **[Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation](https://arxiv.org/abs/2610.42024v1)** | 2026-10-30 |  |
-| **[Imputation of Public Opinion Data with Large Language Models](https://arxiv.org/abs/2606.09351v2)** | 2026-10-30 |  |
-| **[TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents](https://arxiv.org/abs/2610.42004v1)** | 2026-10-30 | Accepted to DAI'26 |
+| **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](https://arxiv.org/abs/2611.03641v1)** | 2026-11-02 |  |
+| **[Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap](https://arxiv.org/abs/2611.03633v1)** | 2026-11-02 |  |
+| **[Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR](https://arxiv.org/abs/2611.03627v1)** | 2026-11-02 |  |
+| **[HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](https://arxiv.org/abs/2607.21609v2)** | 2026-11-02 |  |
+| **[Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](https://arxiv.org/abs/2611.03617v1)** | 2026-11-02 |  |
+| **[Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning](https://arxiv.org/abs/2611.03602v1)** | 2026-11-02 |  |
+| **[An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting](https://arxiv.org/abs/2610.34599v3)** | 2026-11-02 |  |
+| **[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112v2)** | 2026-11-02 | 42 pages |
+| **[VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably](https://arxiv.org/abs/2611.03575v1)** | 2026-11-02 | Preprint |
+| **[JailbreakOPT: Iterative Jailbreak Prompt Optimization with Macro-Action](https://arxiv.org/abs/2606.11425v2)** | 2026-11-02 |  |
+| **[TSNBench: Benchmarking LLM Proficiency in Time-Sensitive Networking](https://arxiv.org/abs/2605.09481v2)** | 2026-11-02 |  |
+| **[VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations](https://arxiv.org/abs/2611.03518v1)** | 2026-11-02 |  |
+| **[Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/abs/2602.21553v2)** | 2026-11-02 |  |
+| **[LODox: A Web-Based Platform for Cultural Heritage Linked Data Discovery](https://arxiv.org/abs/2611.03508v1)** | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Presented at the 4th Solid Symposium, special session "Solid Future(s) for Digital Heritage: Decentralising Access and Building Trust"</p></details> |
+| **[TableTune: Measured, Self-Correcting Draft-Length Tables for Dynamic Speculative Decoding](https://arxiv.org/abs/2610.38968v2)** | 2026-11-02 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/abs/2602.21553v2)** | 2026-11-02 |  |
+| **[IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning](https://arxiv.org/abs/2611.03431v1)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 5 tables</p></details> |
+| **[Bridging Static and Agentic RAG for Taiwanese Historical Question Answering](https://arxiv.org/abs/2609.23056v2)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted by TAAI 2026</p></details> |
+| **[RAG-TRACE: Tracing Measurement Evidence and Diagnostic Completeness in AI-Generated ECG Reports](https://arxiv.org/abs/2611.01409v1)** | 2026-11-01 | <details><summary>Code ...</summary><p>Code and study materials available at https://github.com/Elyasirankhah/RAG-TRACE</p></details> |
 | **[DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](https://arxiv.org/abs/2610.37826v2)** | 2026-10-30 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables. Code: https://github.com/Dingyi-Kang/DeFT-RAG</p></details> |
 | **[Logic Hijacking of RAG: Single-Document Poisoning via Local Optimization](https://arxiv.org/abs/2610.34829v2)** | 2026-10-30 | Updated affiliations |
 | **[Pix2Evidence: A Multimodal RAG System for Text and Visual Evidence](https://arxiv.org/abs/2610.41335v1)** | 2026-10-30 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering](https://arxiv.org/abs/2610.38366v1)** | 2026-10-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, ICDE2027 Research Track</p></details> |
 | **[When Is Additional Retrieval Worthwhile? A Cost-Aware Study of Evidence Gain and Answer Reliability in RAG](https://arxiv.org/abs/2610.37358v1)** | 2026-10-27 |  |
 | **[p-DCIM: A 28nm Probabilistic SRAM DCIM based Ising Machine for Near-Memory Context Selection in LLM-RAG Pipeline](https://arxiv.org/abs/2610.37033v1)** | 2026-10-27 |  |
-| **[RAG-CSI: Global Local Retrieval via Joint State and Dynamics Matching for CSI Prediction](https://arxiv.org/abs/2610.36881v1)** | 2026-10-27 |  |
-| **[Governed Sovereign RAG for Public Administration: Tripartite Epistemic Routing, Facet-Guided Clarification, and Deterministic Numeric Verification in Citizen Services](https://arxiv.org/abs/2610.36561v1)** | 2026-10-27 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 6 tables. Deployed in production at SEDECO/CEMERT, State of Tlaxcala, Mexico</p></details> |
-| **[QESChunker: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG](https://arxiv.org/abs/2610.36557v1)** | 2026-10-27 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 4 tables</p></details> |
-| **[ScalableRAG: High-Quality RAG with Exact Corpus Operations at Minimal Ingestion Cost](https://arxiv.org/abs/2607.25135v2)** | 2026-10-26 |  |
 
