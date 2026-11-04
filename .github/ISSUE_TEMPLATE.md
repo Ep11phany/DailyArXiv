@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](https://arxiv.org/abs/2611.03641v1)** | 2026-11-02 |  |
-| **[Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap](https://arxiv.org/abs/2611.03633v1)** | 2026-11-02 |  |
-| **[Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR](https://arxiv.org/abs/2611.03627v1)** | 2026-11-02 |  |
-| **[HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](https://arxiv.org/abs/2607.21609v2)** | 2026-11-02 |  |
-| **[Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](https://arxiv.org/abs/2611.03617v1)** | 2026-11-02 |  |
-| **[Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning](https://arxiv.org/abs/2611.03602v1)** | 2026-11-02 |  |
-| **[An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting](https://arxiv.org/abs/2610.34599v3)** | 2026-11-02 |  |
-| **[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112v2)** | 2026-11-02 | 42 pages |
-| **[VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably](https://arxiv.org/abs/2611.03575v1)** | 2026-11-02 | Preprint |
-| **[JailbreakOPT: Iterative Jailbreak Prompt Optimization with Macro-Action](https://arxiv.org/abs/2606.11425v2)** | 2026-11-02 |  |
-| **[TSNBench: Benchmarking LLM Proficiency in Time-Sensitive Networking](https://arxiv.org/abs/2605.09481v2)** | 2026-11-02 |  |
-| **[VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations](https://arxiv.org/abs/2611.03518v1)** | 2026-11-02 |  |
-| **[Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/abs/2602.21553v2)** | 2026-11-02 |  |
-| **[LODox: A Web-Based Platform for Cultural Heritage Linked Data Discovery](https://arxiv.org/abs/2611.03508v1)** | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Presented at the 4th Solid Symposium, special session "Solid Future(s) for Digital Heritage: Decentralising Access and Building Trust"</p></details> |
-| **[TableTune: Measured, Self-Correcting Draft-Length Tables for Dynamic Speculative Decoding](https://arxiv.org/abs/2610.38968v2)** | 2026-11-02 |  |
+| **[Adversarial Speculative Reasoning Improves Long Horizon Agents](https://arxiv.org/abs/2611.05345v1)** | 2026-11-03 |  |
+| **[Noisy Issues, Noisy Results: Mislabeling in Information Retrieval-based Bug Localization](https://arxiv.org/abs/2611.05314v1)** | 2026-11-03 |  |
+| **[Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference](https://arxiv.org/abs/2608.10288v2)** | 2026-11-03 | <details><summary>66 pa...</summary><p>66 pages, 1 figure, 8 tables. Revised with clarifications and improvements to content and presentation based on the published book "Power Law Graph Attention and PLDR-LLMs: Mathematical Foundations, Training Dynamics, and Predictive Inference" (2026), which incorporates this manuscript</p></details> |
+| **[Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment](https://arxiv.org/abs/2611.05287v1)** | 2026-11-03 |  |
+| **[The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation](https://arxiv.org/abs/2611.05272v1)** | 2026-11-03 | <details><summary>Prese...</summary><p>Presented at EMNLP Findings 2026</p></details> |
+| **[vLLM Hook v1: A Plug-in for Programming Model Internals on vLLM](https://arxiv.org/abs/2603.06588v2)** | 2026-11-03 |  |
+| **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v2)** | 2026-11-03 | Technical report |
+| **[Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data](https://arxiv.org/abs/2605.04029v2)** | 2026-11-03 |  |
+| **[An Alternative Trajectory for Generative AI](https://arxiv.org/abs/2603.14147v3)** | 2026-11-03 |  |
+| **[CONFIRM: Governing Scientific Reporting for Trustworthy Agentic Neuroimaging](https://arxiv.org/abs/2611.01449v2)** | 2026-11-03 |  |
+| **[Factorized MLLM Embeddings for Composed Image Retrieval](https://arxiv.org/abs/2611.05193v1)** | 2026-11-03 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/FactEmbed/, Code: https://github.com/cvlab-kaist/FactEmbed</p></details> |
+| **[What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis](https://arxiv.org/abs/2611.05181v1)** | 2026-11-03 |  |
+| **[OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes](https://arxiv.org/abs/2611.05179v1)** | 2026-11-03 |  |
+| **[AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion](https://arxiv.org/abs/2611.05171v1)** | 2026-11-03 |  |
+| **[DSL-Bench: Evaluating and Explaining LLM Code Generation Across Domain-Specific Languages](https://arxiv.org/abs/2611.05168v1)** | 2026-11-03 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reliability Stress Testing of RAG Retrieval under Query-Relevant Corpus Poisoning](https://arxiv.org/abs/2611.04264v1)** | 2026-11-03 |  |
 | **[Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/abs/2602.21553v2)** | 2026-11-02 |  |
 | **[IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning](https://arxiv.org/abs/2611.03431v1)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 5 tables</p></details> |
 | **[Bridging Static and Agentic RAG for Taiwanese Historical Question Answering](https://arxiv.org/abs/2609.23056v2)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted by TAAI 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Prevented is Not Protected: What Attack Success Rate Hides about RAG](https://arxiv.org/abs/2610.40742v1)** | 2026-10-29 |  |
 | **[TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering](https://arxiv.org/abs/2610.38366v1)** | 2026-10-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, ICDE2027 Research Track</p></details> |
 | **[When Is Additional Retrieval Worthwhile? A Cost-Aware Study of Evidence Gain and Answer Reliability in RAG](https://arxiv.org/abs/2610.37358v1)** | 2026-10-27 |  |
-| **[p-DCIM: A 28nm Probabilistic SRAM DCIM based Ising Machine for Near-Memory Context Selection in LLM-RAG Pipeline](https://arxiv.org/abs/2610.37033v1)** | 2026-10-27 |  |
 
