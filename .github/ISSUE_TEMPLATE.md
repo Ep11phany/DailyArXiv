@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2026
+title: Latest 15 Papers - November 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FaceJev: Direct Visual Decisions for Face Forgery Detection](https://arxiv.org/abs/2611.21604v1)** | 2026-11-16 |  |
-| **[When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents](https://arxiv.org/abs/2611.21577v1)** | 2026-11-16 |  |
-| **[Discovering formally verified quantum programs with AI](https://arxiv.org/abs/2611.09822v3)** | 2026-11-16 |  |
-| **[Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse](https://arxiv.org/abs/2611.21535v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted for publication in Latin American Conference on Informatics (CLEI 2026)</p></details> |
-| **[Toward LLM-Supported Automated Assessment of Critical Thinking Subskills](https://arxiv.org/abs/2510.12915v3)** | 2026-11-16 | <details><summary>Publi...</summary><p>Published in EDM 2026: Educational Data Mining Conference</p></details> |
-| **[RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems](https://arxiv.org/abs/2611.21480v1)** | 2026-11-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, 1 table. Accepted at the 2026 IEEE International Conference on Cyber Security and Resilience (IEEE CSR 2026)</p></details> |
-| **[Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments](https://arxiv.org/abs/2611.21476v1)** | 2026-11-16 |  |
-| **[Out of Sight, Into Memory: Compact Visual Latents Retain Local Evidence in Ultra-High-Resolution Remote Sensing](https://arxiv.org/abs/2611.21457v1)** | 2026-11-16 |  |
-| **[Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers](https://arxiv.org/abs/2611.21449v1)** | 2026-11-16 |  |
-| **[Learning to Reason with Predictive Gains for Generative Recommendation](https://arxiv.org/abs/2611.21441v1)** | 2026-11-16 |  |
-| **[Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs](https://arxiv.org/abs/2611.21422v1)** | 2026-11-16 |  |
-| **[Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution](https://arxiv.org/abs/2602.14869v2)** | 2026-11-16 |  |
-| **[Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models](https://arxiv.org/abs/2609.10280v2)** | 2026-11-16 | <details><summary>Prepr...</summary><p>Preprint, 19 pages in main text</p></details> |
-| **[Probing the Trajectories of Reasoning Traces in Large Language Models](https://arxiv.org/abs/2601.23163v2)** | 2026-11-16 | <details><summary>42 pa...</summary><p>42 pages, 30 figures, 5 tables, accepted at NeurIPS'26 E&D</p></details> |
-| **[Multilingual Hallucination Gaps in Large Language Models](https://arxiv.org/abs/2410.18270v2)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to PMLR, Proceedings of the Algorithmic Fairness Through the Lens of Metrics and Evaluation</p></details> |
+| **[What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution](https://arxiv.org/abs/2611.23218v1)** | 2026-11-17 | <details><summary>18 pa...</summary><p>18 pages, 13 tables. Under review at ACL Rolling Review (October 2026 cycle)</p></details> |
+| **[Toward AI epidemiology: a measurement standardization framework for prospective risk detection](https://arxiv.org/abs/2512.15783v5)** | 2026-11-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables. Published in AI & Society (2026)</p></details> |
+| **[MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study](https://arxiv.org/abs/2611.23158v1)** | 2026-11-17 | <details><summary>To Ap...</summary><p>To Appear - EACL 2027 (Findings)</p></details> |
+| **[Learning Stratified Policies for Inference-Time Objectives](https://arxiv.org/abs/2611.23154v1)** | 2026-11-17 |  |
+| **[VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs](https://arxiv.org/abs/2611.23153v1)** | 2026-11-17 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 5 tables. Code: https://github.com/step-out/VIVID</p></details> |
+| **[SiGMA: Learning under Graph-Level Heterogeneity with Gated Message-Passing and Attention](https://arxiv.org/abs/2503.00547v2)** | 2026-11-17 |  |
+| **[RSI-Prime: Training Models to Train Models](https://arxiv.org/abs/2611.23138v1)** | 2026-11-17 |  |
+| **[Dynamic Task Allocation with Dialogue](https://arxiv.org/abs/2611.23119v1)** | 2026-11-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, Accepted at Human-Robot Dialogue(HRD) Workshop at IROS 2026</p></details> |
+| **[Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI](https://arxiv.org/abs/2611.23106v1)** | 2026-11-17 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 2 tables</p></details> |
+| **[OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design](https://arxiv.org/abs/2611.14808v2)** | 2026-11-17 |  |
+| **[BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis](https://arxiv.org/abs/2611.23091v1)** | 2026-11-17 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 7 tables</p></details> |
+| **[ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents](https://arxiv.org/abs/2611.23045v1)** | 2026-11-17 |  |
+| **[LLM Misuse Safeguards Rely on Untrusted Input: A Widespread, High-Risk Vulnerability](https://arxiv.org/abs/2607.27951v2)** | 2026-11-17 | <details><summary>13 pa...</summary><p>13 pages, 4 tables. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Words Speak Louder? Exploring the Language Shortcut of LLM-Driven Incomplete Multimodal Learning](https://arxiv.org/abs/2611.20349v2)** | 2026-11-17 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 14 tables. Project page: https://peacelwh.github.io/CoVeR/</p></details> |
+| **[Structured AI ideation yields physical strategies for epithelial barrier repair](https://arxiv.org/abs/2611.22988v1)** | 2026-11-17 |  |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing](https://arxiv.org/abs/2611.22991v1)** | 2026-11-17 |  |
+| **[When Detection Does Not Guarantee Resistance: Reasoning and Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v5)** | 2026-11-17 |  |
+| **[StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching](https://arxiv.org/abs/2611.22766v1)** | 2026-11-17 |  |
+| **[Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs](https://arxiv.org/abs/2608.25986v2)** | 2026-11-17 | Preprint |
+| **[RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't](https://arxiv.org/abs/2611.22179v1)** | 2026-11-17 | <details><summary>40th ...</summary><p>40th Conference on Neural Information Processing Systems (NeurIPS 2026), Main Conference</p></details> |
+| **[Retrieving Complementary Evidence for Multi-Hop RAG with Semantic Gain Graphs](https://arxiv.org/abs/2610.15285v2)** | 2026-11-17 | <details><summary>We ha...</summary><p>We have identified several inaccuracies in the relevant discussion</p></details> |
 | **[KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference](https://arxiv.org/abs/2611.19253v1)** | 2026-11-14 |  |
 | **[jXBW: A Compressed Index Enabling Structure-Aware JSONL Retrieval for Structured RAG](https://arxiv.org/abs/2508.12536v5)** | 2026-11-14 | <details><summary>Full ...</summary><p>Full version of a short paper accepted at IEEE BigData 2026</p></details> |
 | **[RAG-FGO: Dynamic Optimization of Query-Rewriting Agents for Generative RAG](https://arxiv.org/abs/2611.17788v1)** | 2026-11-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 8 tables</p></details> |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition](https://arxiv.org/abs/2611.15538v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VTG-RAG: Long-Video Reasoning via Query-Adaptive Coarse-to-Fine Sampling and Temporal Graph Retrieval](https://arxiv.org/abs/2611.18746v1)** | 2026-11-11 |  |
 | **[Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted to the 14th International Japan-Africa Conference on Electronics, Communications and Computations (JAC-ECC 2026).6 pages, 3 figures, 6 tables</p></details> |
-| **[Adaptive Retrieval, Selective Answers: Evaluating Conformal Factuality in Agentic RAG](https://arxiv.org/abs/2610.34872v2)** | 2026-11-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 5 tables. Code: https://github.com/aimalrehman92/conformal-rag-agentic</p></details> |
-| **[ragR: Retrieval-Augmented Generation and RAG Assessment in R](https://arxiv.org/abs/2604.23515v2)** | 2026-11-10 | <details><summary>Prepr...</summary><p>Preprint. Code available at the GitHub repository listed in the paper</p></details> |
-| **[Isolation Is Not Confidentiality: Security Boundaries of Geometric Access Control in RAG](https://arxiv.org/abs/2611.14061v1)** | 2026-11-10 |  |
-| **[SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations](https://arxiv.org/abs/2611.12241v1)** | 2026-11-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, including appendices</p></details> |
-| **[ARMOR: Adaptive Curriculum Meta-Learning for Noise-Robust RAG Reasoning](https://arxiv.org/abs/2611.11771v1)** | 2026-11-09 |  |
-| **[PCG-RAG: Progressive Compositional Grounding for Retrieval-Augmented Generation in Complex Web Question Answering](https://arxiv.org/abs/2611.11113v1)** | 2026-11-08 |  |
 
