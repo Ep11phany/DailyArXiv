@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2026
+title: Latest 15 Papers - November 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution](https://arxiv.org/abs/2611.23218v1)** | 2026-11-17 | <details><summary>18 pa...</summary><p>18 pages, 13 tables. Under review at ACL Rolling Review (October 2026 cycle)</p></details> |
-| **[Toward AI epidemiology: a measurement standardization framework for prospective risk detection](https://arxiv.org/abs/2512.15783v5)** | 2026-11-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables. Published in AI & Society (2026)</p></details> |
-| **[MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study](https://arxiv.org/abs/2611.23158v1)** | 2026-11-17 | <details><summary>To Ap...</summary><p>To Appear - EACL 2027 (Findings)</p></details> |
-| **[Learning Stratified Policies for Inference-Time Objectives](https://arxiv.org/abs/2611.23154v1)** | 2026-11-17 |  |
-| **[VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs](https://arxiv.org/abs/2611.23153v1)** | 2026-11-17 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 5 tables. Code: https://github.com/step-out/VIVID</p></details> |
-| **[SiGMA: Learning under Graph-Level Heterogeneity with Gated Message-Passing and Attention](https://arxiv.org/abs/2503.00547v2)** | 2026-11-17 |  |
-| **[RSI-Prime: Training Models to Train Models](https://arxiv.org/abs/2611.23138v1)** | 2026-11-17 |  |
-| **[Dynamic Task Allocation with Dialogue](https://arxiv.org/abs/2611.23119v1)** | 2026-11-17 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, Accepted at Human-Robot Dialogue(HRD) Workshop at IROS 2026</p></details> |
-| **[Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI](https://arxiv.org/abs/2611.23106v1)** | 2026-11-17 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 2 tables</p></details> |
-| **[OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design](https://arxiv.org/abs/2611.14808v2)** | 2026-11-17 |  |
-| **[BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis](https://arxiv.org/abs/2611.23091v1)** | 2026-11-17 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 7 tables</p></details> |
-| **[ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents](https://arxiv.org/abs/2611.23045v1)** | 2026-11-17 |  |
-| **[LLM Misuse Safeguards Rely on Untrusted Input: A Widespread, High-Risk Vulnerability](https://arxiv.org/abs/2607.27951v2)** | 2026-11-17 | <details><summary>13 pa...</summary><p>13 pages, 4 tables. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[Words Speak Louder? Exploring the Language Shortcut of LLM-Driven Incomplete Multimodal Learning](https://arxiv.org/abs/2611.20349v2)** | 2026-11-17 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 14 tables. Project page: https://peacelwh.github.io/CoVeR/</p></details> |
-| **[Structured AI ideation yields physical strategies for epithelial barrier repair](https://arxiv.org/abs/2611.22988v1)** | 2026-11-17 |  |
+| **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](https://arxiv.org/abs/2611.24936v1)** | 2026-11-18 |  |
+| **[Unified Law for Visual Tasks (The Four Laws of Computer Vision)](https://arxiv.org/abs/2611.24917v1)** | 2026-11-18 | <details><summary>Previ...</summary><p>Preview version (main paper only); This work began in December 2024. Project page at https://world-snapshot.github.io/WSMs; GitHub org at https://github.com/World-Snapshot; Hugging Face org at https://huggingface.co/World-Snapshot; This is an empirical article that attempts to unify thousands of visual tasks through a single methodology. Patent pending (inventors: SF and DM)</p></details> |
+| **[Who are you? The Personal Imitation Game](https://arxiv.org/abs/2611.24888v1)** | 2026-11-18 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 5 tables</p></details> |
+| **[Ground, Iterate, Trace: Decomposing AI Research Ideation](https://arxiv.org/abs/2611.24887v1)** | 2026-11-18 | 56 pages |
+| **[Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws](https://arxiv.org/abs/2611.24877v1)** | 2026-11-18 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 6 tables. Models, prompts, replies with tool calls, and code: https://github.com/Chth1z/llm-black-box-model-audit</p></details> |
+| **[Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling](https://arxiv.org/abs/2611.24849v1)** | 2026-11-18 |  |
+| **[Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs](https://arxiv.org/abs/2611.24846v1)** | 2026-11-18 |  |
+| **[A Foundation Model to Measure and Predict Human Behaviour](https://arxiv.org/abs/2611.24830v1)** | 2026-11-18 | 48 pages, 6 figures |
+| **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935v2)** | 2026-11-18 | <details><summary>https...</summary><p>https://github.com/MultiagentBench/MARBLE</p></details> |
+| **[Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data](https://arxiv.org/abs/2611.24795v1)** | 2026-11-18 | <details><summary>Accep...</summary><p>Accepted to Machine Vision and Applications 2027</p></details> |
+| **[LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](https://arxiv.org/abs/2611.24765v1)** | 2026-11-18 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 1 table. Accepted at IEEE IECON 2026</p></details> |
+| **[A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos](https://arxiv.org/abs/2611.24762v1)** | 2026-11-18 |  |
+| **[The Nuclear Decision-Making Benchmark: Evaluating Frontier LLM Tendencies in Escalation, Proliferation, Non-Proliferation, and Arms Control Scenarios](https://arxiv.org/abs/2608.05180v3)** | 2026-11-18 | 46 pages, 7 figures |
+| **[Extracting Training Data from Diffusion Language Models via Infilling](https://arxiv.org/abs/2605.24173v2)** | 2026-11-18 | NeurIPS 2026 |
+| **[ThinkSum: Probabilistic reasoning over sets using large language models](https://arxiv.org/abs/2210.01293v3)** | 2026-11-18 | ACL 2023 |
 
 ## RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning](https://arxiv.org/abs/2611.24049v1)** | 2026-11-18 |  |
+| **[TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering](https://arxiv.org/abs/2610.38366v2)** | 2026-11-18 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, ICDE2027 Research Track</p></details> |
 | **[RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing](https://arxiv.org/abs/2611.22991v1)** | 2026-11-17 |  |
 | **[When Detection Does Not Guarantee Resistance: Reasoning and Poisoned Context in RAG](https://arxiv.org/abs/2608.17153v5)** | 2026-11-17 |  |
 | **[StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching](https://arxiv.org/abs/2611.22766v1)** | 2026-11-17 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models](https://arxiv.org/abs/2608.22228v2)** | 2026-11-12 | <details><summary>19 pa...</summary><p>19 pages. Published in AACL-IJCNLP 2026 (Main Conference). Code and data: https://github.com/andre44s/grab-rag</p></details> |
 | **[RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication](https://arxiv.org/abs/2611.16425v1)** | 2026-11-12 |  |
 | **[Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition](https://arxiv.org/abs/2611.15538v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[VTG-RAG: Long-Video Reasoning via Query-Adaptive Coarse-to-Fine Sampling and Temporal Graph Retrieval](https://arxiv.org/abs/2611.18746v1)** | 2026-11-11 |  |
-| **[Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924v1)** | 2026-11-11 | <details><summary>Accep...</summary><p>Accepted to the 14th International Japan-Africa Conference on Electronics, Communications and Computations (JAC-ECC 2026).6 pages, 3 figures, 6 tables</p></details> |
 
